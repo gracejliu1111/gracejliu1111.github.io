@@ -257,6 +257,14 @@ input:focus,textarea:focus,select:focus{border-color:var(--accent); outline:none
           font-variant-numeric:tabular-nums; min-width:34px}
 .rechint{font-family:var(--ui); font-size:11px; color:var(--ink-3)}
 
+/* ---------- delete confirmation ---------- */
+.confirm{display:flex; align-items:center; gap:9px; flex-wrap:wrap; justify-content:flex-end}
+.confirm .q{font-family:var(--ui); font-size:12.5px; color:var(--clay); font-weight:600}
+.confirm .q b{font-weight:700}
+.ventry.pending{border-color:var(--clay); background:var(--clay-soft)}
+.sec.pending{background:var(--clay-soft); border-radius:8px;
+             box-shadow:0 0 0 10px var(--clay-soft); transition:none}
+
 .toolbar{display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-bottom:14px}
 .toolbar input[type=text]{max-width:250px} .toolbar select{max-width:190px; font-size:13.5px}
 
@@ -710,6 +718,7 @@ function fillChapterSelect(sel, allLabel){
 
 /* ---------- nav ---------- */
 function go(name){
+  pendingDel=null; pendingNoteDel=null;
   var vs=document.querySelectorAll(".view");
   for(var i=0;i<vs.length;i++) vs[i].classList.toggle("on", vs[i].id==="v-"+name);
   var bs=document.querySelectorAll(".navbtn");
@@ -863,14 +872,18 @@ function renderChapterDetail(){
         '</ol><div class="tocfoot"><span id="readCount">'+readCount+'</span> of '+ns.length+' read</div></aside>'+
         '<div class="readcol" id="readCol">'+
           ns.map(function(n){
-            return '<section class="sec" id="sec-'+n.id+'" data-note="'+n.id+'">'+
+            return '<section class="sec'+(pendingNoteDel===n.id?" pending":"")+'" id="sec-'+n.id+'" data-note="'+n.id+'">'+
               '<h3>'+esc(n.title)+'</h3>'+
               (n.source ? '<div class="secmeta">'+esc(n.source)+'</div>' : '<div class="secmeta"></div>')+
               blocksHtml(n)+
               '<div class="secfoot">'+
                 '<button class="btn tiny" data-toggleread="'+n.id+'">'+(n.read?"Read ✓":"Mark as read")+'</button>'+
                 '<span style="flex:1"></span>'+
-                '<button class="btn tiny ghost" data-ndel="'+n.id+'">Delete</button>'+
+                (pendingNoteDel===n.id
+                  ? '<span class="q" style="font-family:var(--ui); font-size:12.5px; color:var(--clay); font-weight:600">Delete this section?</span>'+
+                    '<button class="btn tiny danger" data-ndelyes="'+n.id+'">Delete</button>'+
+                    '<button class="btn tiny" data-ndelno="1">Keep it</button>'
+                  : '<button class="btn tiny ghost" data-ndel="'+n.id+'">Delete</button>')+
               '</div></section>';
           }).join("")+
         '</div>'+
@@ -942,9 +955,17 @@ function renderChapterDetail(){
       });
     });
     d.querySelectorAll("[data-ndel]").forEach(function(b){
+      b.addEventListener("click",function(){ pendingNoteDel=b.dataset.ndel; renderChapterDetail(); });
+    });
+    d.querySelectorAll("[data-ndelno]").forEach(function(b){
+      b.addEventListener("click",function(){ pendingNoteDel=null; renderChapterDetail(); });
+    });
+    d.querySelectorAll("[data-ndelyes]").forEach(function(b){
       b.addEventListener("click",function(){
-        state.notes=state.notes.filter(function(n){ return n.id!==b.dataset.ndel; });
-        queueSave(); renderChapterDetail();
+        var gone=state.notes.filter(function(n){ return n.id===b.dataset.ndelyes; })[0];
+        state.notes=state.notes.filter(function(n){ return n.id!==b.dataset.ndelyes; });
+        pendingNoteDel=null; queueSave(); renderChapterDetail();
+        if(gone) banner("Deleted “"+gone.title+"”. Re-import the lesson file to bring it back.");
       });
     });
     d.querySelectorAll("[data-rev]").forEach(function(b){
@@ -1159,6 +1180,14 @@ function editChapter(c){
     queueSave(); renderChapterDetail(); refreshSelects();
   });
   $("eDel").addEventListener("click",function(){
+    var btn=$("eDel");
+    if(btn.dataset.armed!=="1"){
+      btn.dataset.armed="1";
+      btn.textContent="Really delete “"+c.title+"”?";
+      btn.classList.add("danger");
+      setTimeout(function(){ if(btn && btn.dataset.armed==="1"){ btn.dataset.armed=""; btn.textContent="Delete chapter"; } }, 6000);
+      return;
+    }
     state.vocab.forEach(function(w){ if(w.chapterId===c.id) w.chapterId=null; });
     state.notes.forEach(function(n){ if(n.chapterId===c.id) n.chapterId=null; });
     state.sessions.forEach(function(s){ if(s.chapterId===c.id) s.chapterId=null; });
@@ -1184,19 +1213,24 @@ function tierPill(w){
   return '<span class="tag">box '+(w.box||1)+'</span>';
 }
 function wordHtml(w){
-  return '<div class="ventry" data-id="'+w.id+'">'+
+  return '<div class="ventry'+(pendingDel===w.id?" pending":"")+'" data-id="'+w.id+'">'+
     '<div><div class="pt">'+esc(w.pt)+'</div>'+(w.ex?'<div class="ex">'+esc(w.ex)+'</div>':"")+'</div>'+
     '<div><div class="en">'+esc(w.en)+'</div><div class="meta">'+tierPill(w)+
       (w.lapses>1?'<span class="tag">missed '+w.lapses+'×</span>':"")+
       (w.tags||[]).map(function(t){return '<span class="tag">'+esc(t)+'</span>';}).join("")+'</div></div>'+
-    '<div class="acts">'+
-      '<button class="play'+(w.audio?"":" none")+'" data-play="'+w.id+'" aria-label="Play recording" title="'+(w.audio?"Play recording":"No recording yet")+'">'+
-        '<svg viewBox="0 0 16 16"><path d="M4 2.5v11l10-5.5z"/></svg></button>'+
-      '<button class="rec" data-rec="'+w.id+'" title="Hold to record · tap to start and tap again to stop" aria-label="Record this word"><span class="dot"></span></button>'+
-      '<span class="rectimer" data-timer="'+w.id+'"></span>'+
-      '<button class="btn tiny" data-attach="'+w.id+'">'+(w.audio?"Replace":"Upload")+'</button>'+
-      '<button class="btn tiny danger" data-del="'+w.id+'">Delete</button>'+
-    '</div></div>';
+    (pendingDel===w.id
+      ? '<div class="acts confirm"><span class="q">Delete <b>'+esc(w.pt)+'</b>'+(w.audio?' and its recording':'')+'?</span>'+
+          '<button class="btn tiny danger" data-delyes="'+w.id+'">Delete</button>'+
+          '<button class="btn tiny" data-delno="1">Keep it</button></div>'
+      : '<div class="acts">'+
+          '<button class="play'+(w.audio?"":" none")+'" data-play="'+w.id+'" aria-label="Play recording" title="'+(w.audio?"Play recording":"No recording yet")+'">'+
+            '<svg viewBox="0 0 16 16"><path d="M4 2.5v11l10-5.5z"/></svg></button>'+
+          '<button class="rec" data-rec="'+w.id+'" title="Hold to record · tap to start and tap again to stop" aria-label="Record this word"><span class="dot"></span></button>'+
+          '<span class="rectimer" data-timer="'+w.id+'"></span>'+
+          '<button class="btn tiny" data-attach="'+w.id+'">'+(w.audio?"Replace":"Upload")+'</button>'+
+          '<button class="btn tiny danger" data-del="'+w.id+'">Delete</button>'+
+        '</div>')+
+    '</div>';
 }
 function noteHtml(n){
   var long=(n.body||"").length>420;
@@ -1208,15 +1242,28 @@ function noteHtml(n){
     (long?'<button class="btn tiny ghost" data-expand="1" style="margin-top:8px">Read all</button>':"")+
   '</div>';
 }
+function refreshWordLists(){
+  renderVocab();
+  if(openChapter) renderChapterDetail();
+  if($("v-progresso") && $("v-progresso").classList.contains("on")) renderWeak();
+}
+
 function wireWordList(el){
   if(!el||el.dataset.wired) return; el.dataset.wired="1";
   bindRecorders(el);
   el.addEventListener("click",function(e){
-    var d=e.target.closest("[data-del]"), a=e.target.closest("[data-attach]"), p=e.target.closest("[data-play]");
-    if(d){
-      state.vocab=state.vocab.filter(function(w){ return w.id!==d.dataset.del; });
-      queueSave(); if(openChapter) renderChapterDetail(); renderVocab();
-    } else if(a){ attachTo=a.dataset.attach; $("audioFile").click(); }
+    var d=e.target.closest("[data-del]"), yes=e.target.closest("[data-delyes]"),
+        no=e.target.closest("[data-delno]"), a=e.target.closest("[data-attach]"),
+        p=e.target.closest("[data-play]");
+    if(d){ pendingDel=d.dataset.del; refreshWordLists(); }
+    else if(no){ pendingDel=null; refreshWordLists(); }
+    else if(yes){
+      var gone=state.vocab.filter(function(w){ return w.id===yes.dataset.delyes; })[0];
+      state.vocab=state.vocab.filter(function(w){ return w.id!==yes.dataset.delyes; });
+      pendingDel=null; queueSave(); refreshWordLists();
+      if(gone) banner("Deleted “"+gone.pt+"”. Re-import the lesson file to bring it back in place.");
+    }
+    else if(a){ attachTo=a.dataset.attach; $("audioFile").click(); }
     else if(p){ play(p.dataset.play,p); }
   });
 }
@@ -1232,6 +1279,7 @@ function wireNoteList(el){
 }
 
 /* ---------- audio ---------- */
+var pendingDel=null, pendingNoteDel=null;
 var attachTo=null, currentAudio=null;
 
 /* ---------- recording ------------------------------------------------- */
@@ -1871,17 +1919,29 @@ function merge(inc){
     }
     return null;
   }
-  var haveWord={}; state.vocab.forEach(function(w){ haveWord[fold(w.pt)]=1; });
-  if(Array.isArray(inc.vocab)) inc.vocab.forEach(function(r){
-    if(!r||!r.pt||!r.en) return;
-    if(haveWord[fold(r.pt)]){ n.skipped++; return; }
-    haveWord[fold(r.pt)]=1;
-    var w=newWord(String(r.pt),String(r.en),r.ex?String(r.ex):"",
-      Array.isArray(r.tags)?r.tags.map(String):[], resolve(r.chapterId, r.chapter));
-    if(r.box!=null) w.box=+r.box||0;
-    if(r.due) w.due=r.due;
-    state.vocab.push(w); n.vocab++;
-  });
+  // Book order is insertion order, so a word restored after a deletion must go back
+  // where it belongs — not on the end. Place it next to its neighbours from the file.
+  function liveIndexOf(pt){
+    var k=fold(pt);
+    for(var i=0;i<state.vocab.length;i++) if(fold(state.vocab[i].pt)===k) return i;
+    return -1;
+  }
+  if(Array.isArray(inc.vocab)){
+    var list=inc.vocab.filter(function(r){ return r && r.pt && r.en; });
+    list.forEach(function(r, i){
+      if(liveIndexOf(r.pt)>=0){ n.skipped++; return; }
+      var w=newWord(String(r.pt),String(r.en),r.ex?String(r.ex):"",
+        Array.isArray(r.tags)?r.tags.map(String):[], resolve(r.chapterId, r.chapter));
+      if(r.box!=null) w.box=+r.box||0;
+      if(r.due) w.due=r.due;
+      var at=-1, j, idx;
+      for(j=i-1;j>=0 && at<0;j--){ idx=liveIndexOf(list[j].pt); if(idx>=0) at=idx+1; }   // after the nearest earlier word
+      if(at<0) for(j=i+1;j<list.length && at<0;j++){ idx=liveIndexOf(list[j].pt); if(idx>=0) at=idx; } // else before the nearest later one
+      if(at<0) at=state.vocab.length;
+      state.vocab.splice(at, 0, w);
+      n.vocab++;
+    });
+  }
   var haveNote={}, noteKey={};
   state.notes.forEach(function(x){ haveNote[x.id]=1; noteKey[(x.chapterId||"")+"|"+fold(x.title)]=x; });
   if(Array.isArray(inc.notes)) inc.notes.forEach(function(r){
