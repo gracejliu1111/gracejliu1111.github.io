@@ -80,7 +80,7 @@ button,input,textarea,select{font:inherit; color:inherit}
 .dot{width:7px; height:7px; border-radius:50%; background:var(--ink-3); flex:none}
 .dot.ok{background:var(--jade)} .dot.busy{background:var(--amber)} .dot.warn{background:var(--clay)}
 
-main{padding:32px 40px 90px; max-width:1120px}
+main{padding:32px 40px 90px; max-width:1120px; margin:0 auto; width:100%}
 .view{display:none} .view.on{display:block}
 .viewhead{display:flex; align-items:flex-end; justify-content:space-between; gap:20px; margin-bottom:22px; flex-wrap:wrap}
 .viewhead h2{font-size:27px; font-weight:700; letter-spacing:-.025em}
@@ -166,6 +166,7 @@ input:focus,textarea:focus,select:focus{border-color:var(--accent); outline:none
 .chtab .n{font-size:11px; font-weight:700; opacity:.65; margin-left:6px; font-variant-numeric:tabular-nums}
 
 /* ---------- reading layout ---------- */
+#chapterDetail{max-width:900px; margin:0 auto}
 .reader{display:grid; grid-template-columns:206px minmax(0,1fr); gap:46px; align-items:start}
 .toc{position:sticky; top:22px}
 .toclabel{font-size:10.5px; letter-spacing:.13em; text-transform:uppercase; color:var(--ink-3); font-weight:700; margin-bottom:10px}
@@ -179,7 +180,7 @@ input:focus,textarea:focus,select:focus{border-color:var(--accent); outline:none
 .toc ol ol button{font-size:12px; padding-left:16px; color:var(--ink-3)}
 .tocfoot{margin-top:14px; padding-top:11px; border-top:1px solid var(--line); font-size:11.5px; color:var(--ink-3); font-family:var(--ui)}
 
-.readcol{max-width:36rem; font-family:var(--serif); font-size:17px; line-height:1.72;
+.readcol{max-width:38rem; font-family:var(--serif); font-size:17px; line-height:1.72;
          font-optical-sizing:auto}
 .sec{padding-bottom:50px; border-bottom:1px solid var(--line); margin-bottom:46px}
 .sec:last-child{border-bottom:none; margin-bottom:0}
@@ -237,7 +238,7 @@ input:focus,textarea:focus,select:focus{border-color:var(--accent); outline:none
 @media (max-width:980px){
   .reader{grid-template-columns:1fr; gap:24px}
   .toc{position:static; border-bottom:1px solid var(--line); padding-bottom:14px}
-  .readcol{max-width:none}
+  .readcol{max-width:42rem; margin:0 auto}
 }
 
 .toolbar{display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-bottom:14px}
