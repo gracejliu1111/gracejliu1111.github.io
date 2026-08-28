@@ -7,7 +7,7 @@
  },
  "chapters": [
   {
-   "id": "mtdb8the4ti2p",
+   "id": "mtdbrkhf2s2ai",
    "num": "1",
    "title": "Essential Expressions",
    "pages": "9–23",
@@ -16,8 +16,8 @@
  ],
  "vocab": [
   {
-   "id": "mtdb8thfdpiqf",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf107rn",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "oi",
    "en": "hi",
    "ex": "Oi, Gustavo. E aí?",
@@ -34,8 +34,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfoh29g",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf3rrd1",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "bom dia",
    "en": "good morning",
    "ex": "Bom dia, tudo bem?",
@@ -52,8 +52,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfxckgx",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfk7sqk",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "boa tarde",
    "en": "good afternoon",
    "ex": "",
@@ -70,8 +70,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfjbfnw",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf6ghbk",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "boa noite",
    "en": "good evening/good night",
    "ex": "Boa noite, como vai a senhora?",
@@ -88,8 +88,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfpeeu6",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfe3rkd",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Tudo bem?",
    "en": "How's it going? (infml.)",
    "ex": "",
@@ -106,8 +106,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfsjicj",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfkulcj",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Tudo bem.",
    "en": "I'm fine. (infml.)",
    "ex": "Oi, Sandra. Tudo bem.",
@@ -124,8 +124,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfc8fk0",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfggtiu",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Como vai?",
    "en": "How are you? (fml.)",
    "ex": "",
@@ -142,8 +142,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf85jhe",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf6pjlm",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Estou bem.",
    "en": "I'm fine. (fml.)",
    "ex": "",
@@ -160,8 +160,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf8hb2x",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfuphnm",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "E você?",
    "en": "And you?",
    "ex": "Tudo bem, e você?",
@@ -178,8 +178,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfirmup",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfxugdn",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "obrigado/a",
    "en": "thank you (m./f.)",
    "ex": "",
@@ -196,8 +196,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfplm1c",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfrpe2w",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "de nada",
    "en": "you're welcome",
    "ex": "— Obrigada! — De nada.",
@@ -214,8 +214,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfojz2g",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfigpzd",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "por favor",
    "en": "please",
    "ex": "",
@@ -232,8 +232,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf544s7",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhflcml3",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "até logo",
    "en": "good-bye (fml.)",
    "ex": "",
@@ -250,8 +250,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfwt2a2",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf469b1",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "tchau",
    "en": "good-bye (infml.)",
    "ex": "",
@@ -268,8 +268,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfqzkrg",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfn7600",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "sim",
    "en": "yes",
    "ex": "",
@@ -286,8 +286,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfreket",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfai9y4",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "não",
    "en": "no",
    "ex": "",
@@ -304,8 +304,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfekm22",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfe15rx",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Como vai você?",
    "en": "How are you? (infml.)",
    "ex": "",
@@ -323,8 +323,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfexyr4",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfnr4ag",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Como vai o senhor?",
    "en": "How are you? (fml./m.)",
    "ex": "",
@@ -342,8 +342,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfdvujq",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfhpxpm",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Como vai a senhora?",
    "en": "How are you? (fml./f.)",
    "ex": "",
@@ -361,8 +361,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf4bxac",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfcrpwp",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Tudo bem, e você?",
    "en": "I'm fine, and you? (infml.)",
    "ex": "",
@@ -380,8 +380,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfgbvtb",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfwz1ja",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Estou bem, e o senhor?",
    "en": "I'm fine, and you? (fml./m.)",
    "ex": "",
@@ -399,8 +399,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf46p0r",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfqy5zx",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Estou bem, e a senhora?",
    "en": "I'm fine, and you? (fml./f.)",
    "ex": "",
@@ -418,8 +418,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfwch0n",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfvoil2",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "o senhor",
    "en": "sir — formal 'you' for a man",
    "ex": "O senhor fala português, Sr. Paulo?",
@@ -436,8 +436,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfnjd4o",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfcnkgx",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "a senhora",
    "en": "ma'am — formal 'you' for a woman",
    "ex": "A senhora poderia me ajudar?",
@@ -454,8 +454,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfwk347",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf4x5tv",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "você",
    "en": "you (informal, and neutral for both genders)",
    "ex": "Você fala português, Paulo?",
@@ -472,8 +472,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfd4fhd",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf489mn",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Com licença.",
    "en": "Excuse me.",
    "ex": "",
@@ -490,8 +490,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfzv73m",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfpja31",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Desculpe.",
    "en": "I'm sorry.",
    "ex": "",
@@ -508,8 +508,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfxv3fn",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf8k9ox",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "E aí?",
    "en": "What's happening?",
    "ex": "",
@@ -526,8 +526,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfsbegu",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf6sv62",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Como você se chama?",
    "en": "What's your name? (infml.)",
    "ex": "",
@@ -544,8 +544,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf8gim4",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfbhp8s",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Como o senhor se chama?",
    "en": "What's your name? (fml./m.)",
    "ex": "",
@@ -562,8 +562,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfjpiae",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfqacyo",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Como a senhora se chama?",
    "en": "What's your name? (fml./f.)",
    "ex": "",
@@ -580,8 +580,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfsgt7o",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfiuwe1",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Eu me chamo …",
    "en": "My name is …",
    "ex": "",
@@ -598,8 +598,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf54xad",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfot8ed",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Gostaria de apresentar …",
    "en": "I'd like to introduce …",
    "ex": "",
@@ -616,8 +616,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf6nu7x",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfrc7b1",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Quero lhe apresentar …",
    "en": "I'd like to introduce … to you.",
    "ex": "",
@@ -634,8 +634,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfv7uqq",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfjhgzc",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Muito prazer.",
    "en": "It's a pleasure.",
    "ex": "",
@@ -652,8 +652,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfocjrj",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfscm0r",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "O prazer é meu.",
    "en": "The pleasure is mine.",
    "ex": "",
@@ -670,8 +670,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfy9yz1",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf5bz1w",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Você fala inglês?",
    "en": "Do you speak English? (infml.)",
    "ex": "",
@@ -688,8 +688,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfh4sit",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfwtt4a",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "O senhor fala inglês?",
    "en": "Do you speak English? (fml./m.)",
    "ex": "",
@@ -706,8 +706,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfzqtbg",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf8ourw",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "A senhora fala inglês?",
    "en": "Do you speak English? (fml./f.)",
    "ex": "",
@@ -724,8 +724,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfo75o1",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfwhi75",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Eu não falo português.",
    "en": "I don't speak Portuguese.",
    "ex": "",
@@ -742,8 +742,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfu65pz",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfiayoh",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Você poderia repetir?",
    "en": "Could you repeat?",
    "ex": "",
@@ -760,8 +760,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf53vpn",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfkcfwf",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Eu não entendi.",
    "en": "I didn't understand.",
    "ex": "",
@@ -778,8 +778,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfasst9",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfyvmor",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Tudo certo?",
    "en": "How's everything?",
    "ex": "",
@@ -796,8 +796,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfkjai8",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfn35j2",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Até mais tarde.",
    "en": "See you later.",
    "ex": "",
@@ -814,8 +814,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfujaso",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfhxqoq",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Entre, por favor.",
    "en": "Come in, please.",
    "ex": "",
@@ -832,8 +832,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfc53oc",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfmfwoe",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Muito obrigado.",
    "en": "Thank you very much. (fml./m.)",
    "ex": "",
@@ -850,8 +850,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfr7yz4",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfav06v",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Muito obrigada.",
    "en": "Thank you very much. (fml./f.)",
    "ex": "",
@@ -868,8 +868,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfm1zas",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhfkpmfj",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Não há de que.",
    "en": "Don't mention it.",
    "ex": "",
@@ -886,8 +886,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfhw8rq",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhf03xj4",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Faça o favor.",
    "en": "Please (infml.)",
    "ex": "Abra a janela, faça o favor. — Open the window, will you?",
@@ -904,8 +904,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfppc3g",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhgozk9j",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Faça-me um favor.",
    "en": "Do me a favor.",
    "ex": "",
@@ -922,8 +922,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thffydai",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg33l81",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Você pode me ajudar?",
    "en": "Can you help me?",
    "ex": "",
@@ -940,8 +940,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thflschk",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhgas3gv",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "O senhor poderia me ajudar?",
    "en": "Could you help me? (fml./m.)",
    "ex": "",
@@ -958,8 +958,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfejij5",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg3o0h7",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "A senhora poderia me ajudar?",
    "en": "Could you help me? (fml./f.)",
    "ex": "",
@@ -976,8 +976,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf32y3k",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhgrooj6",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Socorro!",
    "en": "Help! (in an emergency)",
    "ex": "",
@@ -994,8 +994,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf4ds5i",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg9hy05",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Esta é …",
    "en": "This is … (introducing someone)",
    "ex": "Esta é a Jane.",
@@ -1012,8 +1012,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf16nty",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhgxyz05",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Você é americana?",
    "en": "Are you American? (to a woman)",
    "ex": "",
@@ -1030,8 +1030,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfjnjdy",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg4t40c",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Eu sou australiana.",
    "en": "I'm Australian. (woman speaking)",
    "ex": "Não, eu sou australiana.",
@@ -1048,8 +1048,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf1ydmd",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg1qeyl",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Bem-vindo/a ao Brasil!",
    "en": "Welcome to Brazil! (m./f.)",
    "ex": "Bem-vinda ao Brasil!",
@@ -1066,8 +1066,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfh5jpa",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhgm4ww7",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Legal!",
    "en": "Cool!",
    "ex": "",
@@ -1084,8 +1084,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thflvu2z",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg6tciy",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Eu falo um pouco de português.",
    "en": "I speak a little Portuguese.",
    "ex": "",
@@ -1102,8 +1102,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfeqgs3",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhgej1aw",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Estou aprendendo português.",
    "en": "I'm learning Portuguese.",
    "ex": "",
@@ -1120,8 +1120,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thfa848f",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg3adi2",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Fale mais devagar.",
    "en": "Speak more slowly.",
    "ex": "",
@@ -1138,8 +1138,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf3c46t",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg0fw5i",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Parabéns!",
    "en": "Congratulations!",
    "ex": "",
@@ -1156,8 +1156,8 @@
    "audio": null
   },
   {
-   "id": "mtdb8thf5hus8",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg3pwfa",
+   "chapterId": "mtdbrkhf2s2ai",
    "pt": "Muito bem!",
    "en": "Very good!",
    "ex": "",
@@ -1176,52 +1176,483 @@
  ],
  "notes": [
   {
-   "id": "mtdb8thgrlo6l",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg920f3",
+   "chapterId": "mtdbrkhf2s2ai",
    "title": "Lesson goals",
-   "body": "By the end of Lesson 1 you should be able to:\n\n  • greet people at different times of the day        (unsure? p. 10)\n  • address someone formally and informally           (unsure? p. 12)\n  • introduce yourself and say your name              (unsure? p. 13)\n  • ask other people's names and how they're doing    (unsure? p. 16)\n  • put it all together in a simple conversation      (unsure? p. 19)\n\nAbbreviations used throughout the course:\n  (m.) masculine · (f.) feminine · (sg.) singular · (pl.) plural\n  (fml.) formal · (infml.) informal · (lit.) literally\n\nAudio: 1A Vocabulary Builder 1 = CD 1 track 2 · 1B Take It Further = track 3\n1C Grammar Builder 1 = track 4 · 1D Vocabulary Builder 2 = track 5\n1E Take It Further = track 6 · 1F Grammar Builder 2 = track 7\n1G Bring It All Together = track 8 · 1H Take It Further = track 9",
+   "body": "",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bem-vindos! This lesson covers the basic expressions and the handful of words and phrases you need to start speaking Portuguese at all."
+    },
+    {
+     "t": "h",
+     "text": "By the end you should be able to"
+    },
+    {
+     "t": "list",
+     "items": [
+      "greet people at different times of the day  ·  p. 10",
+      "address someone formally and informally  ·  p. 12",
+      "introduce yourself and say your name  ·  p. 13",
+      "ask other people's names and find out how they're doing  ·  p. 16",
+      "put it all together in a simple conversation  ·  p. 19"
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Abbreviations used throughout the course"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Short",
+      "Means"
+     ],
+     "rows": [
+      [
+       "(m.)",
+       "masculine"
+      ],
+      [
+       "(f.)",
+       "feminine"
+      ],
+      [
+       "(sg.)",
+       "singular"
+      ],
+      [
+       "(pl.)",
+       "plural"
+      ],
+      [
+       "(fml.)",
+       "formal"
+      ],
+      [
+       "(infml.)",
+       "informal"
+      ],
+      [
+       "(lit.)",
+       "literally"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Audio tracks — CD 1"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Section",
+      "Track"
+     ],
+     "rows": [
+      [
+       "1A Vocabulary Builder 1",
+       "2"
+      ],
+      [
+       "1B Take It Further",
+       "3"
+      ],
+      [
+       "1C Grammar Builder 1",
+       "4"
+      ],
+      [
+       "1D Vocabulary Builder 2",
+       "5"
+      ],
+      [
+       "1E Take It Further",
+       "6"
+      ],
+      [
+       "1F Grammar Builder 2",
+       "7"
+      ],
+      [
+       "1G Bring It All Together",
+       "8"
+      ],
+      [
+       "1H Take It Further",
+       "9"
+      ]
+     ]
+    }
+   ],
    "source": "p. 9",
-   "date": "2026-08-28"
+   "date": "2026-08-28",
+   "read": false
   },
   {
-   "id": "mtdb8thgask53",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhgh668m",
+   "chapterId": "mtdbrkhf2s2ai",
    "title": "Pronunciation — accents and special symbols",
-   "body": "~ til (tilde) — produces a nasal vowel\n    não (no)          like the ou in bound\n    aviões (airplanes) like the o in don't, followed by the e in get\n    mãe (mother)      like the u in thunder, followed by the e in get\n\n´ agudo (acute) — stress falls on that syllable; on e and o it also marks an open vowel\n    café (coffee)     like the e in best\n    nós (we)          like the o in off (northeastern U.S. pronunciation)\n    possível (possible) like the i in routine\n\n^ circunflexo (circumflex) — the vowel is stressed and closed\n    você (you)        like the ay in day, but clipped\n    avô (grandfather) like the o in go, but clipped\n\n` grave (grave) — distinguishes grammatical category only; no change in sound\n    a (the) / à (to the)\n\n¸ cedilha (cedilla) — on c before a, o, u to give it an s sound\n    açúcar (sugar)    sounds like the s in see\n                      (note the second c is pronounced like the k in kite)",
-   "source": "pp. 11–12 (1B Take It Further)",
-   "date": "2026-08-28"
+   "body": "",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Portuguese uses a handful of orthographic marks. Each one does a specific job — three change the sound, one changes nothing at all."
+    },
+    {
+     "t": "table",
+     "head": [
+      "Accent",
+      "What it does",
+      "Example",
+      "Sound in English"
+     ],
+     "rows": [
+      [
+       "~ til",
+       "makes the vowel nasal",
+       "não (no)",
+       "like the ou in bound"
+      ],
+      [
+       "",
+       "",
+       "aviões (airplanes)",
+       "like the o in don't, then the e in get"
+      ],
+      [
+       "",
+       "",
+       "mãe (mother)",
+       "like the u in thunder, then the e in get"
+      ],
+      [
+       "´ agudo",
+       "marks the stressed syllable; on e and o it also opens the vowel",
+       "café (coffee)",
+       "like the e in best"
+      ],
+      [
+       "",
+       "",
+       "nós (we)",
+       "like the o in off (northeastern U.S.)"
+      ],
+      [
+       "",
+       "",
+       "possível (possible)",
+       "like the i in routine"
+      ],
+      [
+       "^ circunflexo",
+       "the vowel is stressed and closed",
+       "você (you)",
+       "like the ay in day, clipped"
+      ],
+      [
+       "",
+       "",
+       "avô (grandfather)",
+       "like the o in go, clipped"
+      ],
+      [
+       "` grave",
+       "distinguishes grammar only",
+       "a (the) / à (to the)",
+       "no change in sound"
+      ],
+      [
+       "¸ cedilha",
+       "on c before a, o, u to give it an s sound",
+       "açúcar (sugar)",
+       "like the s in see"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "In açúcar, notice the second c is not softened — it sounds like the k in kite."
+    }
+   ],
+   "source": "pp. 11–12 · 1B Take It Further",
+   "date": "2026-08-28",
+   "read": false
   },
   {
-   "id": "mtdb8thgsu7vu",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg0tkbv",
+   "chapterId": "mtdbrkhf2s2ai",
    "title": "Pronunciation — M and N",
-   "body": "M and N at the end of a word, or in the middle before a consonant, nasalize the\nvowel before them and aren't really pronounced on their own.\n\n  ponte (bridge)   the n makes the o nasal, like the on in don't\n  cama (bed)       the first a is nasal like the un in bunch;\n                   the second a is NOT nasal — it sounds like the a in father\n  bom (good)       a word-final m is pronounced as an n; the om sounds like on in don't\n\nCareful: an m or n BETWEEN two vowels forms a syllable with the second vowel, so the\nfirst vowel is not nasalized. Compare — first word nasal, second not:\n\n  limpa (clean)  /  lima (lime)\n  grande (big)   /  grana (money, infml.)\n\nAt the START of a word, m and n sound like English:\n  mala (suitcase) — m as in Mary        nada (nothing) — n as in nest",
-   "source": "pp. 15–16 (1E Take It Further)",
-   "date": "2026-08-28"
+   "body": "",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "At the end of a word, or in the middle before a consonant, m and n nasalize the vowel in front of them and aren't really pronounced on their own."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "ponte (bridge)",
+       "the n makes the o nasal, like the on in don't"
+      ],
+      [
+       "cama (bed)",
+       "the first a is nasal like the un in bunch; the second is not — it's the a in father"
+      ],
+      [
+       "bom (good)",
+       "a word-final m is pronounced as an n; om sounds like on in don't"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The exception worth memorising"
+    },
+    {
+     "t": "p",
+     "text": "An m or n sitting between two vowels forms a syllable with the second one, so the first vowel is not nasalized. In each pair below the first word is nasal and the second isn't:"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "limpa (clean)",
+       "lima (lime)"
+      ],
+      [
+       "grande (big)",
+       "grana (money, infml.)"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "At the start of a word they behave like English: mala (suitcase) has the m of Mary, nada (nothing) the n of nest."
+    }
+   ],
+   "source": "pp. 15–16 · 1E Take It Further",
+   "date": "2026-08-28",
+   "read": false
   },
   {
-   "id": "mtdb8thgrm8fy",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg7wln9",
+   "chapterId": "mtdbrkhf2s2ai",
    "title": "Greetings — formal and informal",
-   "body": "GENDER ON OBRIGADO/A\nobrigado/a (thank you) has two endings because Portuguese nouns and adjectives carry\ngender. You say what YOU are: a woman says obrigada, a man says obrigado.\n\nWHO YOU'RE TALKING TO\nvocê (you) works for men and women alike and is the informal default — family, friends.\nTo be formal, swap você for o senhor (sir) or a senhora (ma'am), matching the gender of\nthe person you're addressing.\n\n  How are you?      Como vai você? (infml.) / Como vai o senhor? (fml./m.)\n                    / Como vai a senhora? (fml./f.)\n  I'm fine, and you? Tudo bem, e você? / Estou bem, e o senhor? / Estou bem, e a senhora?\n\nSENHOR / SENHORA WITH NAMES\nBefore a last name, senhor / senhora works like Mr. / Mrs.–Ms., and reads as the highest\nlevel of formality in Brazil. Written abbreviations: Sr. (Mr.), Sra. (Mrs./Ms.).\nWith a FIRST name it's also common — Senhor shortens to Seu (Seu Agenor), and Senhora\ncan become Dona (Dona Maria).\n\n  Informal:     Você fala português, Paulo?\n  Formal:       O senhor fala português, Sr. Paulo?\n  Very formal:  O senhor fala português, Sr. Smith?\n\nTWO PAIRS WORTH NOT MIXING UP\n  Você pode me ajudar? (Can you help me?) — asking a favor\n  Socorro! (Help!)                        — an emergency\n\n  Faça-me um favor. (Do me a favor.)      — asking a favor\n  Faça o favor.                           — informal softener on a request or command\n                                            e.g. Abra a janela, faça o favor.\n                                            (Open the window, will you?)",
-   "source": "pp. 12–13, 16–17 (Grammar Builders 1 & 2)",
-   "date": "2026-08-28"
+   "body": "",
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Why obrigado has two endings"
+    },
+    {
+     "t": "p",
+     "text": "Portuguese nouns and adjectives carry gender, and obrigado/a agrees with the person speaking — not the person being thanked. A woman says obrigada; a man says obrigado."
+    },
+    {
+     "t": "h",
+     "text": "Choosing how to address someone"
+    },
+    {
+     "t": "p",
+     "text": "você works for men and women alike and is the informal default — family, friends, anyone your own age. To be formal, swap você for o senhor or a senhora, matching the gender of the person you're speaking to."
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Informal",
+      "Formal (m.)",
+      "Formal (f.)"
+     ],
+     "rows": [
+      [
+       "How are you?",
+       "Como vai você?",
+       "Como vai o senhor?",
+       "Como vai a senhora?"
+      ],
+      [
+       "I'm fine, and you?",
+       "Tudo bem, e você?",
+       "Estou bem, e o senhor?",
+       "Estou bem, e a senhora?"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Senhor and senhora with names"
+    },
+    {
+     "t": "p",
+     "text": "Before a last name they work like Mr. and Mrs./Ms., and read as the highest level of formality in Brazil. Written short: Sr. and Sra. With a first name it's also common — Senhor shortens to Seu (Seu Agenor), and Senhora can become Dona (Dona Maria)."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Você fala português, Paulo?",
+       "informal"
+      ],
+      [
+       "O senhor fala português, Sr. Paulo?",
+       "formal"
+      ],
+      [
+       "O senhor fala português, Sr. Smith?",
+       "very formal"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Two pairs not to mix up"
+    },
+    {
+     "t": "callout",
+     "text": "Você pode me ajudar? asks a favour. Socorro! is for an emergency — don't reach for it when you mean the first.\n\nFaça-me um favor. asks a favour too. Faça o favor. is an informal softener on a request: Abra a janela, faça o favor. — Open the window, will you?"
+    }
+   ],
+   "source": "pp. 12–13, 16–17 · Grammar Builders 1 & 2",
+   "date": "2026-08-28",
+   "read": false
   },
   {
-   "id": "mtdb8thgd0yik",
-   "chapterId": "mtdb8the4ti2p",
+   "id": "mtdbrkhg16hp5",
+   "chapterId": "mtdbrkhf2s2ai",
    "title": "The dialogue — Sandra, Gustavo and Jane",
-   "body": "An informal three-way introduction. Sandra runs into Gustavo, greets him with\nOi and E aí?, and he answers Tudo bem. She introduces Jane with Esta é a Jane; Gustavo\nand Jane exchange Prazer. Gustavo asks Você é americana? — Jane answers Não, eu sou\naustraliana — and he welcomes her with Bem-vinda ao Brasil! Jane closes with Legal!\n\nStructures to notice:\n  • Esta é … to introduce a third person\n  • Prazer / Muito prazer as a two-way exchange on being introduced\n  • adjectives of nationality agree with the speaker: americana, australiana (f.)\n  • bem-vindo / bem-vinda agrees with the person being welcomed\n\nWork Out 2 (p. 20) rewrites this same dialogue formally, using Sra. Dias, Sr. Morais and\nSr. Smith: Como vai o senhor? / Estou bem / Quero lhe apresentar / Muito prazer /\nO prazer é meu / O senhor é americano? / Não / Bem-vindo / Muito obrigado.",
-   "source": "p. 19 (1G Bring It All Together, CD 1 track 8)",
-   "date": "2026-08-28"
+   "body": "",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "An informal three-way introduction. Sandra runs into Gustavo and opens with Oi and E aí?; he answers Tudo bem. She introduces her friend with Esta é a Jane, and Gustavo and Jane exchange Prazer. Gustavo asks Você é americana? — Jane answers Não, eu sou australiana — and he welcomes her with Bem-vinda ao Brasil! Jane closes with Legal!"
+    },
+    {
+     "t": "h",
+     "text": "Structures to notice"
+    },
+    {
+     "t": "list",
+     "items": [
+      "Esta é … introduces a third person",
+      "Prazer works as a two-way exchange — both people say it",
+      "nationality adjectives agree with the speaker: americana, australiana are the feminine forms",
+      "bem-vindo / bem-vinda agrees with the person being welcomed"
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The same conversation, formally"
+    },
+    {
+     "t": "p",
+     "text": "Work Out 2 on p. 20 rewrites it with Sra. Dias, Sr. Morais and Sr. Smith: Como vai o senhor? / Estou bem / Quero lhe apresentar / Muito prazer / O prazer é meu / O senhor é americano? / Não / Bem-vindo / Muito obrigado. Same conversation, every register lifted."
+    }
+   ],
+   "source": "p. 19 · 1G Bring It All Together, CD 1 track 8",
+   "date": "2026-08-28",
+   "read": false
   },
   {
-   "id": "mtdb8thgtmaj3",
-   "chapterId": "mtdb8the4ti2p",
-   "title": "Production practice — Drive It Home",
-   "body": "Say these out loud, then check yourself.\n\n1. Greet a friend in the morning and ask if everything is fine.\n   → Bom dia, tudo bem?\n2. Greet an elderly neighbour in the evening and ask how she is.\n   → Boa noite, como vai a senhora?\n3. Introduce Rita, a colleague, to Mr. Silva, and tell her Mr. Silva is Brazilian.\n   → Sr. Silva, quero lhe apresentar Rita. Rita, Sr. Silva é brasileiro.\n4. Introduce Antônio, a friend, to another friend, Sandra.\n   → Antônio, gostaria de lhe apresentar Sandra.\n5. Greet an elderly woman in the afternoon and ask her name.\n   → Boa tarde. Como a senhora se chama?\n6. Say thank you and good-bye to a salesman at a shop.\n   → Muito obrigado / muito obrigada. Até logo.\n7. Apologize, say you didn't understand, then ask a gentleman to repeat.\n   → Desculpe, eu não entendi. O senhor poderia repetir?\n8. Say excuse me, ask a stranger if she speaks English, then say you don't speak\n   Portuguese.\n   → Com licença, a senhora fala inglês? Eu não falo português.\n\nWORD RECALL (p. 23) — how would you answer?\n1. Obrigada. → De nada.\n2. Você é brasileiro? → Não, eu sou …\n3. Como vai? → Tudo bem.\n4. Até logo. → Até logo.\n5. Você fala português? → Sim, eu falo um pouco de português. / Sim, estou aprendendo\n   português.\n6. Gostaria de lhe apresentar a Sra. Medeiros. → Muito prazer, Sra. Medeiros.\n7. Como você se chama? → Eu me chamo …\n8. Parabéns! → Obrigado / obrigada.",
-   "source": "p. 21",
-   "date": "2026-08-28"
+   "id": "mtdbrkhg9reyd",
+   "chapterId": "mtdbrkhf2s2ai",
+   "title": "Practice — say it out loud",
+   "body": "",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Answer each one before you reveal it. There's often more than one right answer."
+    },
+    {
+     "t": "h",
+     "text": "Drive It Home — p. 21"
+    },
+    {
+     "t": "ex",
+     "items": [
+      {
+       "q": "Greet a friend in the morning and ask if everything is fine.",
+       "a": "Bom dia, tudo bem?"
+      },
+      {
+       "q": "Greet an elderly neighbour in the evening and ask how she is.",
+       "a": "Boa noite, como vai a senhora?"
+      },
+      {
+       "q": "Introduce Rita, a colleague, to Mr. Silva, and tell her Mr. Silva is Brazilian.",
+       "a": "Sr. Silva, quero lhe apresentar Rita. Rita, Sr. Silva é brasileiro."
+      },
+      {
+       "q": "Introduce Antônio, a friend, to another friend, Sandra.",
+       "a": "Antônio, gostaria de lhe apresentar Sandra."
+      },
+      {
+       "q": "Greet an elderly woman in the afternoon and ask her name.",
+       "a": "Boa tarde. Como a senhora se chama?"
+      },
+      {
+       "q": "Say thank you and good-bye to a salesman at a shop.",
+       "a": "Muito obrigado / muito obrigada. Até logo."
+      },
+      {
+       "q": "Apologize, say you didn't understand, then ask a gentleman to repeat.",
+       "a": "Desculpe, eu não entendi. O senhor poderia repetir?"
+      },
+      {
+       "q": "Say excuse me, ask a stranger if she speaks English, then say you don't speak Portuguese.",
+       "a": "Com licença, a senhora fala inglês? Eu não falo português."
+      }
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Word Recall — p. 23"
+    },
+    {
+     "t": "ex",
+     "intro": "How would you answer each of these?",
+     "items": [
+      {
+       "q": "Obrigada.",
+       "a": "De nada."
+      },
+      {
+       "q": "Você é brasileiro?",
+       "a": "Não, eu sou …"
+      },
+      {
+       "q": "Como vai?",
+       "a": "Tudo bem."
+      },
+      {
+       "q": "Até logo.",
+       "a": "Até logo."
+      },
+      {
+       "q": "Você fala português?",
+       "a": "Sim, eu falo um pouco de português. / Sim, estou aprendendo português."
+      },
+      {
+       "q": "Gostaria de lhe apresentar a Sra. Medeiros.",
+       "a": "Muito prazer, Sra. Medeiros."
+      },
+      {
+       "q": "Como você se chama?",
+       "a": "Eu me chamo …"
+      },
+      {
+       "q": "Parabéns!",
+       "a": "Obrigado / obrigada."
+      }
+     ]
+    }
+   ],
+   "source": "pp. 21, 23 · Drive It Home and Word Recall",
+   "date": "2026-08-28",
+   "read": false
   }
  ],
  "sessions": []
