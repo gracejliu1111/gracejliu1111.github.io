@@ -241,6 +241,22 @@ input:focus,textarea:focus,select:focus{border-color:var(--accent); outline:none
   .readcol{max-width:42rem; margin:0 auto}
 }
 
+/* ---------- in-app recording ---------- */
+.rec{width:32px; height:32px; border-radius:50%; border:1px solid var(--line-strong); background:var(--surface);
+     cursor:pointer; display:inline-flex; align-items:center; justify-content:center; flex:none; padding:0;
+     touch-action:none; -webkit-user-select:none; user-select:none; transition:background .12s, border-color .12s}
+.rec .dot{width:11px; height:11px; border-radius:50%; background:var(--clay); transition:all .12s}
+.rec:hover{border-color:var(--clay); background:var(--clay-soft)}
+.rec[disabled]{opacity:.4; cursor:not-allowed}
+.rec.on{background:var(--clay); border-color:var(--clay); animation:recpulse 1.1s ease-in-out infinite}
+.rec.on .dot{background:#fff; width:10px; height:10px; border-radius:2px}
+@keyframes recpulse{0%,100%{box-shadow:0 0 0 0 color-mix(in oklab, var(--clay) 45%, transparent)}
+                    50%{box-shadow:0 0 0 5px color-mix(in oklab, var(--clay) 0%, transparent)}}
+@media (prefers-reduced-motion:reduce){.rec.on{animation:none}}
+.rectimer{font-family:var(--ui); font-size:11.5px; font-weight:700; color:var(--clay);
+          font-variant-numeric:tabular-nums; min-width:34px}
+.rechint{font-family:var(--ui); font-size:11px; color:var(--ink-3)}
+
 .toolbar{display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-bottom:14px}
 .toolbar input[type=text]{max-width:250px} .toolbar select{max-width:190px; font-size:13.5px}
 
@@ -502,9 +518,11 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
         </div>
         <div class="card">
           <h3 style="font-size:15px">Backup</h3>
-          <p class="hint" style="margin-top:8px">Everything except audio clips, as one JSON file.</p>
+          <p class="hint" style="margin-top:8px">Words, notes and sessions as one JSON file. Recordings live only
+          in this browser, so use <b>Export with audio</b> to back those up too — it embeds the clips and is much larger.</p>
           <div class="row" style="margin-top:14px">
             <button class="btn" id="doExport">Export JSON</button>
+            <button class="btn" id="doExportAudio">Export with audio</button>
             <button class="btn" id="doImport">Import JSON</button>
           </div>
           <p class="hint" style="margin-top:10px">Import merges — it never wipes what's already here.</p>
@@ -1174,7 +1192,9 @@ function wordHtml(w){
     '<div class="acts">'+
       '<button class="play'+(w.audio?"":" none")+'" data-play="'+w.id+'" aria-label="Play recording" title="'+(w.audio?"Play recording":"No recording yet")+'">'+
         '<svg viewBox="0 0 16 16"><path d="M4 2.5v11l10-5.5z"/></svg></button>'+
-      '<button class="btn tiny" data-attach="'+w.id+'">'+(w.audio?"Replace":"Audio")+'</button>'+
+      '<button class="rec" data-rec="'+w.id+'" title="Hold to record · tap to start and tap again to stop" aria-label="Record this word"><span class="dot"></span></button>'+
+      '<span class="rectimer" data-timer="'+w.id+'"></span>'+
+      '<button class="btn tiny" data-attach="'+w.id+'">'+(w.audio?"Replace":"Upload")+'</button>'+
       '<button class="btn tiny danger" data-del="'+w.id+'">Delete</button>'+
     '</div></div>';
 }
@@ -1190,6 +1210,7 @@ function noteHtml(n){
 }
 function wireWordList(el){
   if(!el||el.dataset.wired) return; el.dataset.wired="1";
+  bindRecorders(el);
   el.addEventListener("click",function(e){
     var d=e.target.closest("[data-del]"), a=e.target.closest("[data-attach]"), p=e.target.closest("[data-play]");
     if(d){
@@ -1212,6 +1233,122 @@ function wireNoteList(el){
 
 /* ---------- audio ---------- */
 var attachTo=null, currentAudio=null;
+
+/* ---------- recording ------------------------------------------------- */
+var recState = {mr:null, stream:null, chunks:[], id:null, btn:null, t0:0, tick:null, latched:false, stopping:false};
+
+function recSupported(){
+  return !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia && window.MediaRecorder);
+}
+function recMime(){
+  var opts=["audio/webm;codecs=opus","audio/webm","audio/mp4","audio/ogg;codecs=opus"];
+  for(var i=0;i<opts.length;i++){
+    try{ if(MediaRecorder.isTypeSupported(opts[i])) return opts[i]; }catch(e){}
+  }
+  return "";
+}
+function extFor(mime){
+  if(mime.indexOf("webm")>=0) return "webm";
+  if(mime.indexOf("mp4")>=0)  return "m4a";
+  if(mime.indexOf("ogg")>=0)  return "ogg";
+  return "webm";
+}
+function recTimerEl(id){ return document.querySelector('[data-timer="'+id+'"]'); }
+
+function startRec(id, btn){
+  if(recState.mr || recState.stopping) return;
+  if(!recSupported()){
+    banner("This browser can't record audio. Use Upload to attach a voice memo instead.");
+    return;
+  }
+  recState.id=id; recState.btn=btn; recState.chunks=[]; recState.latched=false;
+  btn.classList.add("on");
+  var mime=recMime();
+  navigator.mediaDevices.getUserMedia({audio:true}).then(function(stream){
+    if(recState.id!==id){ stream.getTracks().forEach(function(t){t.stop();}); return; }
+    recState.stream=stream;
+    var mr = mime ? new MediaRecorder(stream,{mimeType:mime}) : new MediaRecorder(stream);
+    recState.mr=mr;
+    mr.ondataavailable=function(e){ if(e.data && e.data.size) recState.chunks.push(e.data); };
+    mr.onstop=function(){ finishRec(mr.mimeType||mime); };
+    mr.start();
+    recState.t0=Date.now();
+    recState.tick=setInterval(function(){
+      var t=recTimerEl(id);
+      if(t) t.textContent=((Date.now()-recState.t0)/1000).toFixed(1)+"s";
+    },100);
+    if(recState.pendingStop){ recState.pendingStop=false; stopRec(); }
+  }).catch(function(err){
+    btn.classList.remove("on");
+    recState.id=null; recState.btn=null;
+    var n=(err && err.name)||"";
+    if(n==="NotAllowedError")
+      banner("Microphone access was blocked. Allow it for this site, or use Upload to attach a voice memo. (Inside the Claude artifact the mic is usually unavailable — the version on your own site can record.)");
+    else if(n==="NotFoundError") banner("No microphone found on this device.");
+    else banner("Couldn't start recording: "+(n||"unknown error")+". Upload still works.");
+  });
+}
+
+function stopRec(){
+  if(!recState.mr){ recState.pendingStop=true; return; }
+  recState.stopping=true;
+  try{ recState.mr.stop(); }catch(e){ finishRec(""); }
+}
+
+function finishRec(mime){
+  var id=recState.id, btn=recState.btn, ms=Date.now()-recState.t0;
+  clearInterval(recState.tick);
+  if(recState.stream) recState.stream.getTracks().forEach(function(t){ t.stop(); });
+  var chunks=recState.chunks;
+  recState={mr:null, stream:null, chunks:[], id:null, btn:null, t0:0, tick:null, latched:false, stopping:false};
+  if(btn) btn.classList.remove("on");
+  var t=recTimerEl(id); if(t) t.textContent="";
+  if(!chunks.length){ banner("Nothing was recorded."); return; }
+  if(ms < 350){ banner("That was too short — hold the button while you speak, or tap once to start and again to stop."); return; }
+  var blob=new Blob(chunks,{type:mime||"audio/webm"});
+  var w=state.vocab.filter(function(x){ return x.id===id; })[0];
+  if(!w) return;
+  saveClip(w, blob, extFor(mime||"audio/webm"), mime||"audio/webm");
+  banner("Recorded "+(ms/1000).toFixed(1)+"s for “"+w.pt+"”.");
+}
+
+/* one path for both recorded and uploaded clips */
+function saveClip(w, blob, ext, type){
+  var key=uid(), path="audio/"+key+"."+ext;
+  w.audio={key:key, path:path, type:type};
+  idb.put(key, blob);
+  var files={}; files[path]={content:blob, contentType:type};
+  queueSave(files);
+  if(openChapter) renderChapterDetail();
+  renderVocab();
+}
+
+/* hold to record; a quick tap latches it on until the next tap */
+function bindRecorders(root){
+  if(!root) return;
+  root.addEventListener("pointerdown", function(e){
+    var b=e.target.closest("[data-rec]"); if(!b) return;
+    e.preventDefault();
+    if(recState.id===b.dataset.rec && recState.latched){ stopRec(); return; }  // tap again to stop
+    if(recState.id) return;                                                    // already recording elsewhere
+    try{ b.setPointerCapture(e.pointerId); }catch(err){}
+    startRec(b.dataset.rec, b);
+  });
+  function release(e){
+    var b=e.target.closest("[data-rec]"); if(!b) return;
+    if(recState.id!==b.dataset.rec) return;
+    if(Date.now()-recState.t0 < 400 || !recState.t0){
+      recState.latched=true;                    // quick tap → keep going until next tap
+      var t=recTimerEl(recState.id);
+      if(t) t.textContent="rec…";
+      return;
+    }
+    stopRec();
+  }
+  root.addEventListener("pointerup", release);
+  root.addEventListener("pointercancel", release);
+}
+
 $("audioFile").addEventListener("change",function(){
   var f=this.files&&this.files[0]; this.value="";
   if(!f||!attachTo) return;
@@ -1219,13 +1356,7 @@ $("audioFile").addEventListener("change",function(){
   if(!w) return;
   if(f.size>6*1024*1024){ banner("That clip is "+(f.size/1048576).toFixed(1)+" MB — please trim it under 6 MB."); return; }
   var ext=(f.name.split(".").pop()||"m4a").toLowerCase().replace(/[^a-z0-9]/g,"")||"m4a";
-  var key=uid(), path="audio/"+key+"."+ext;
-  w.audio={key:key,path:path,type:f.type||"audio/mpeg"};
-  idb.put(key,f);
-  var files={}; files[path]={content:f, contentType:f.type||"audio/mpeg"};
-  queueSave(files);
-  if(openChapter) renderChapterDetail();
-  renderVocab();
+  saveClip(w, f, ext, f.type||"audio/mpeg");
   banner("Recording attached to “"+w.pt+"”.");
 });
 function play(id,btn){
@@ -1629,8 +1760,7 @@ $("saveBook").addEventListener("click",function(){
   queueSave(); renderChapters();
   banner(state.book.title?"Book saved.":"Book name cleared.");
 });
-$("doExport").addEventListener("click",function(){
-  var json=JSON.stringify(state,null,2), name="caderno-"+today()+".json";
+function offerDownload(json, name){
   if(window.claude&&claude.use){
     claude.use("downloads").then(function(dl){
       if(!dl) return fallbackDownload(json,name);
@@ -1640,6 +1770,9 @@ $("doExport").addEventListener("click",function(){
       });
     });
   } else fallbackDownload(json,name);
+}
+$("doExport").addEventListener("click",function(){
+  offerDownload(JSON.stringify(state,null,2), "caderno-"+today()+".json");
 });
 function fallbackDownload(text,name){
   try{
@@ -1649,6 +1782,32 @@ function fallbackDownload(text,name){
     setTimeout(function(){ URL.revokeObjectURL(a.href); },4000);
   }catch(e){ banner("Couldn't start the download here."); }
 }
+$("doExportAudio").addEventListener("click",function(){
+  var withAudio=state.vocab.filter(function(w){ return w.audio && w.audio.key; });
+  if(!withAudio.length){ banner("No recordings yet — a plain Export JSON holds everything you have."); return; }
+  banner("Packing "+withAudio.length+" recording"+(withAudio.length===1?"":"s")+"…");
+  Promise.all(withAudio.map(function(w){
+    return idb.get(w.audio.key).then(function(blob){
+      if(!blob) return null;
+      return new Promise(function(res){
+        var fr=new FileReader();
+        fr.onload=function(){ res({id:w.id, type:blob.type||w.audio.type||"audio/webm",
+                                   data:String(fr.result).split(",")[1]}); };
+        fr.onerror=function(){ res(null); };
+        fr.readAsDataURL(blob);
+      });
+    });
+  })).then(function(clips){
+    var payload=JSON.parse(JSON.stringify(state));
+    var got=clips.filter(Boolean);
+    payload.audioClips=got;
+    var json=JSON.stringify(payload);
+    var mb=(json.length/1048576).toFixed(1);
+    var name="caderno-with-audio-"+today()+".json";
+    banner("Exporting "+got.length+" recordings ("+mb+" MB).");
+    offerDownload(json, name);
+  });
+});
 $("doImport").addEventListener("click",function(){ $("jsonFile").click(); });
 $("jsonFile").addEventListener("change",function(){
   var f=this.files&&this.files[0]; this.value="";
@@ -1656,14 +1815,39 @@ $("jsonFile").addEventListener("change",function(){
   f.text().then(function(txt){
     var inc; try{ inc=JSON.parse(txt); }catch(e){ banner("That file isn't valid JSON."); return; }
     var n=merge(inc);
+    var restored = (Array.isArray(inc.audioClips) && inc.audioClips.length) ? restoreClips(inc.audioClips) : 0;
     queueSave(); refreshSelects(); renderChapters(); renderVocab(); renderProgress();
     var msg="Imported "+n.chapters+" chapter"+(n.chapters===1?"":"s")+", "+n.vocab+" word"+(n.vocab===1?"":"s")+
             ", "+n.notes+" note"+(n.notes===1?"":"s")+", "+n.sessions+" session"+(n.sessions===1?"":"s")+".";
+    if(restored) msg+=" Restored "+restored+" recording"+(restored===1?"":"s")+".";
     if(n.upgraded) msg+=" Upgraded "+n.upgraded+" note"+(n.upgraded===1?"":"s")+" to the richer format.";
     if(n.skipped) msg+=" Skipped "+n.skipped+" already here.";
     banner(msg);
   });
 });
+function restoreClips(clips){
+  var byPt={}; state.vocab.forEach(function(w){ byPt[fold(w.pt)]=w; });
+  var done=0;
+  clips.forEach(function(c){
+    if(!c || !c.data) return;
+    // match on id first, then on the Portuguese, so clips survive a re-import
+    var w=state.vocab.filter(function(x){ return x.id===c.id; })[0];
+    if(!w && c.pt) w=byPt[fold(c.pt)];
+    if(!w) return;
+    try{
+      var bin=atob(c.data), arr=new Uint8Array(bin.length);
+      for(var i=0;i<bin.length;i++) arr[i]=bin.charCodeAt(i);
+      var type=c.type||"audio/webm";
+      var blob=new Blob([arr],{type:type});
+      var key=uid();
+      w.audio={key:key, path:"audio/"+key+"."+(type.indexOf("mp4")>=0?"m4a":type.indexOf("ogg")>=0?"ogg":"webm"), type:type};
+      idb.put(key, blob);
+      done++;
+    }catch(e){}
+  });
+  return done;
+}
+
 function merge(inc){
   var n={chapters:0,vocab:0,notes:0,sessions:0,skipped:0,upgraded:0};
   var byName={};
