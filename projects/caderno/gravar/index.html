@@ -1,0 +1,353 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="robots" content="noindex">
+<title>Gravar — Caderno de Português</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=Literata:opsz,wght@7..72,400;7..72,600&display=swap">
+<style>
+:root{
+  --ground:#EDEFF3; --surface:#FFFFFF; --line:#DBDFE8; --line-strong:#C2C9D7;
+  --ink:#141821; --ink-2:#4C5565; --ink-3:#788295;
+  --accent:#2a78d6; --accent-ink:#184f95; --accent-soft:#DEEAFB;
+  --clay:#B0472A; --clay-soft:#F8E6E0; --good:#1E7A4C; --good-soft:#DCF2E6;
+  --ui:"Archivo","Helvetica Neue",Arial,sans-serif;
+  --read:"Literata",Georgia,serif;
+  --radius:14px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --ground:#0E1117; --surface:#171B23; --line:#272E3B; --line-strong:#3A4252;
+  --ink:#E8ECF3; --ink-2:#A2ABBB; --ink-3:#78828F;
+  --accent:#3987e5; --accent-ink:#9ec5f4; --accent-soft:#182642;
+  --clay:#E39070; --clay-soft:#33211B; --good:#5CC08C; --good-soft:#12291E;
+}}
+:root[data-theme="dark"]{
+  --ground:#0E1117; --surface:#171B23; --line:#272E3B; --line-strong:#3A4252;
+  --ink:#E8ECF3; --ink-2:#A2ABBB; --ink-3:#78828F;
+  --accent:#3987e5; --accent-ink:#9ec5f4; --accent-soft:#182642;
+  --clay:#E39070; --clay-soft:#33211B; --good:#5CC08C; --good-soft:#12291E;
+}
+*{box-sizing:border-box}
+html,body{margin:0; padding:0}
+body{background:var(--ground); color:var(--ink); font-family:var(--ui);
+     -webkit-font-smoothing:antialiased; -webkit-tap-highlight-color:transparent}
+.wrap{max-width:640px; margin:0 auto; padding:22px 18px 40px}
+header{margin-bottom:18px}
+h1{font-size:20px; letter-spacing:-.02em; margin:0 0 5px}
+.sub{font-size:13.5px; color:var(--ink-2); line-height:1.55}
+.sub b{color:var(--ink); font-weight:600}
+.card{background:var(--surface); border:1px solid var(--line); border-radius:var(--radius);
+      padding:20px; margin-bottom:14px}
+.btn{font-family:var(--ui); font-size:14px; font-weight:600; padding:10px 16px; border-radius:9px;
+     border:1px solid var(--line-strong); background:var(--surface); color:var(--ink); cursor:pointer}
+.btn:hover{border-color:var(--accent)}
+.btn.primary{background:var(--accent); border-color:var(--accent); color:#fff}
+.btn.primary:disabled{opacity:.45; cursor:not-allowed}
+.btn.wide{width:100%; padding:13px}
+.row{display:flex; gap:10px; align-items:center; flex-wrap:wrap}
+select{font-family:var(--ui); font-size:14px; padding:9px 11px; border-radius:9px;
+       border:1px solid var(--line-strong); background:var(--surface); color:var(--ink); width:100%}
+label.f{display:flex; flex-direction:column; gap:6px; font-size:11.5px; letter-spacing:.07em;
+        text-transform:uppercase; color:var(--ink-3); font-weight:600}
+
+/* progress */
+.bar{height:7px; border-radius:99px; background:var(--line); overflow:hidden; margin:12px 0 6px}
+.bar i{display:block; height:100%; background:var(--good); width:0; transition:width .25s}
+.count{font-size:12.5px; color:var(--ink-3); font-variant-numeric:tabular-nums}
+
+/* the word being recorded */
+.booth{text-align:center; padding:26px 20px 22px}
+.word{font-family:var(--read); font-size:46px; font-weight:600; line-height:1.15; margin:0 0 6px;
+      word-break:break-word}
+.gloss{font-size:15px; color:var(--ink-2); margin-bottom:3px}
+.eg{font-size:13px; color:var(--ink-3); font-family:var(--read)}
+.mic{width:104px; height:104px; border-radius:99px; border:2px solid var(--line-strong);
+     background:var(--surface); color:var(--clay); cursor:pointer; margin:22px auto 10px; display:block;
+     display:flex; align-items:center; justify-content:center; transition:transform .1s, background .15s}
+.mic svg{width:38px; height:38px; fill:currentColor}
+.mic:active{transform:scale(.96)}
+.mic.on{background:var(--clay); border-color:var(--clay); color:#fff; animation:pulse 1.1s infinite}
+@keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(176,71,42,.45)}50%{box-shadow:0 0 0 14px rgba(176,71,42,0)}}
+.mictext{font-size:13px; color:var(--ink-3); min-height:20px; font-variant-numeric:tabular-nums}
+.done{display:inline-flex; align-items:center; gap:6px; background:var(--good-soft); color:var(--good);
+      font-size:12.5px; font-weight:700; padding:4px 11px; border-radius:99px; margin-bottom:4px}
+.navrow{display:flex; gap:10px; margin-top:18px}
+.navrow .btn{flex:1}
+
+/* list */
+.list{display:flex; flex-direction:column; margin-top:4px}
+.item{display:flex; align-items:center; gap:11px; padding:9px 4px; border-bottom:1px solid var(--line);
+      cursor:pointer; font-size:14.5px}
+.item:last-child{border-bottom:none}
+.item:hover{background:var(--accent-soft)}
+.item.cur{font-weight:700}
+.dot{width:9px; height:9px; border-radius:99px; background:var(--line-strong); flex:none}
+.dot.ok{background:var(--good)}
+.item .p{font-family:var(--read); flex:none; min-width:74px}
+.item .g{color:var(--ink-3); font-size:12.5px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.msg{background:var(--accent-soft); color:var(--accent-ink); border-radius:10px; padding:11px 14px;
+     font-size:13.5px; line-height:1.5; margin-bottom:14px; display:none}
+.msg.on{display:block}
+.msg.bad{background:var(--clay-soft); color:var(--clay)}
+.hint{font-size:12.5px; color:var(--ink-3); line-height:1.55}
+details{margin-top:6px}
+summary{font-size:13px; color:var(--accent-ink); cursor:pointer; font-weight:600}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Gravar as palavras</h1>
+  <p class="sub">Obrigado por gravar! É só falar cada palavra uma vez, em velocidade normal.
+     No final, clique em <b>Baixar as gravações</b> e mande o arquivo para a Grace.
+     <span class="hint">(Nada é enviado automaticamente — o arquivo fica no seu computador.)</span></p>
+</header>
+
+<div class="msg" id="msg"></div>
+
+<div class="card" id="pickCard">
+  <label class="f">Lista<select id="pick"></select></label>
+  <div class="bar"><i id="bar"></i></div>
+  <div class="count"><span id="count">0</span> de <span id="total">0</span> gravadas</div>
+</div>
+
+<div class="card booth" id="booth">
+  <div id="doneTag" style="display:none"><span class="done">✓ gravada</span></div>
+  <div class="word" id="word">…</div>
+  <div class="gloss" id="gloss"></div>
+  <div class="eg" id="eg"></div>
+  <button class="mic" id="mic" aria-label="Gravar">
+    <svg viewBox="0 0 24 24"><path d="M12 15a3 3 0 0 0 3-3V6a3 3 0 0 0-6 0v6a3 3 0 0 0 3 3z"/><path d="M18 12a6 6 0 0 1-12 0H4a8 8 0 0 0 7 7.9V22h2v-2.1A8 8 0 0 0 20 12h-2z"/></svg>
+  </button>
+  <div class="mictext" id="mictext">Segure para gravar</div>
+  <div class="navrow">
+    <button class="btn" id="prev">← Anterior</button>
+    <button class="btn" id="playBtn">Ouvir</button>
+    <button class="btn" id="next">Próxima →</button>
+  </div>
+</div>
+
+<div class="card">
+  <button class="btn primary wide" id="dl" disabled>Baixar as gravações</button>
+  <p class="hint" style="margin-top:11px">Pode fechar a página e voltar depois — as gravações ficam
+     salvas neste navegador até você baixar.</p>
+</div>
+
+<div class="card">
+  <details>
+    <summary>Ver a lista toda</summary>
+    <div class="list" id="list"></div>
+  </details>
+</div>
+
+</div>
+<script>
+"use strict";
+var $=function(id){ return document.getElementById(id); };
+var esc=function(s){ return String(s==null?"":s).replace(/[&<>"']/g,function(c){
+  return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]; }); };
+function say(t, bad){ var m=$("msg"); m.textContent=t; m.className="msg on"+(bad?" bad":""); }
+function hush(){ $("msg").className="msg"; }
+
+/* ---------- the words to record, taken from the app's own data ---------- */
+var GROUPS=[], group=null, i=0, clips={};   // clips[pt] = {blob, mime, ext}
+
+function chapterMap(chs){ var m={}; (chs||[]).forEach(function(c){ m[c.id]=c.title; }); return m; }
+
+function collect(packs){
+  var seen={}, byChapter={};
+  packs.forEach(function(pk){
+    if(!pk) return;
+    var names=chapterMap(pk.chapters);
+    (pk.vocab||[]).forEach(function(w){
+      if(!w||!w.pt) return;
+      var k=w.pt.toLowerCase();
+      if(seen[k]) return;
+      seen[k]=1;
+      var ch=names[w.chapterId]||"Outras palavras";
+      (byChapter[ch]=byChapter[ch]||[]).push({pt:w.pt, en:w.en||"", ex:w.ex||""});
+    });
+  });
+  return Object.keys(byChapter).map(function(name){
+    return {name:name, words:byChapter[name]};
+  });
+}
+
+Promise.all([
+  fetch("../data/content.json?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.json():null;}).catch(function(){return null;}),
+  fetch("../data/state.json?t="+Date.now(),{cache:"no-store"}).then(function(r){return r.ok?r.json():null;}).catch(function(){return null;})
+]).then(function(packs){
+  GROUPS=collect(packs);
+  if(!GROUPS.length){ say("Não consegui carregar a lista de palavras. Avise a Grace.", true); return; }
+  var sel=$("pick");
+  sel.innerHTML=GROUPS.map(function(g,gi){
+    return '<option value="'+gi+'">'+esc(g.name)+' — '+g.words.length+' palavras</option>';
+  }).join("");
+  sel.addEventListener("change",function(){ setGroup(+sel.value); });
+  return openStore().then(loadSaved).then(function(){ setGroup(0); });
+});
+
+function setGroup(gi){ group=GROUPS[gi]; i=0; draw(); }
+
+/* ---------- keep clips in IndexedDB so a closed tab is not a disaster ---------- */
+var db=null;
+function openStore(){
+  return new Promise(function(res){
+    try{
+      var r=indexedDB.open("caderno-gravar",1);
+      r.onupgradeneeded=function(){ r.result.createObjectStore("clips"); };
+      r.onsuccess=function(){ db=r.result; res(); };
+      r.onerror=function(){ res(); };
+    }catch(e){ res(); }
+  });
+}
+function put(k,v){ if(!db) return; try{ db.transaction("clips","readwrite").objectStore("clips").put(v,k); }catch(e){} }
+function loadSaved(){
+  return new Promise(function(res){
+    if(!db) return res();
+    try{
+      var st=db.transaction("clips","readonly").objectStore("clips"), rq=st.openCursor();
+      rq.onsuccess=function(){
+        var c=rq.result;
+        if(!c) return res();
+        clips[c.key]=c.value; c.continue();
+      };
+      rq.onerror=function(){ res(); };
+    }catch(e){ res(); }
+  });
+}
+
+/* ---------- drawing ---------- */
+function cur(){ return group && group.words[i]; }
+function draw(){
+  var w=cur(); if(!w) return;
+  $("word").textContent=w.pt;
+  $("gloss").textContent=w.en;
+  $("eg").textContent=w.ex||"";
+  $("doneTag").style.display = clips[w.pt] ? "" : "none";
+  $("playBtn").disabled = !clips[w.pt];
+  var done=group.words.filter(function(x){ return clips[x.pt]; }).length;
+  $("count").textContent=done; $("total").textContent=group.words.length;
+  $("bar").style.width=(group.words.length? done/group.words.length*100 : 0)+"%";
+  $("dl").disabled = !Object.keys(clips).length;
+  $("dl").textContent = "Baixar as gravações"+(Object.keys(clips).length?" ("+Object.keys(clips).length+")":"");
+  $("list").innerHTML=group.words.map(function(x,xi){
+    return '<div class="item'+(xi===i?" cur":"")+'" data-i="'+xi+'">'+
+      '<span class="dot'+(clips[x.pt]?" ok":"")+'"></span>'+
+      '<span class="p">'+esc(x.pt)+'</span>'+
+      '<span class="g">'+esc(x.en)+'</span></div>';
+  }).join("");
+  Array.prototype.forEach.call($("list").querySelectorAll(".item"),function(el){
+    el.addEventListener("click",function(){ i=+el.dataset.i; draw(); });
+  });
+}
+$("prev").addEventListener("click",function(){ if(i>0){ i--; draw(); } });
+$("next").addEventListener("click",function(){ if(i<group.words.length-1){ i++; draw(); } });
+$("playBtn").addEventListener("click",function(){
+  var c=clips[cur().pt]; if(!c) return;
+  var u=URL.createObjectURL(c.blob), a=new Audio(u);
+  a.addEventListener("ended",function(){ URL.revokeObjectURL(u); });
+  a.play();
+});
+
+/* ---------- recording ---------- */
+function recMime(){
+  var o=["audio/webm;codecs=opus","audio/webm","audio/mp4","audio/ogg;codecs=opus"];
+  for(var k=0;k<o.length;k++){ try{ if(MediaRecorder.isTypeSupported(o[k])) return o[k]; }catch(e){} }
+  return "";
+}
+function extFor(m){ return m.indexOf("webm")>=0?"webm":m.indexOf("mp4")>=0?"m4a":m.indexOf("ogg")>=0?"ogg":"webm"; }
+
+var stream=null, rec=null, chunks=[], t0=0, tick=null, latched=false;
+function ensureMic(){
+  if(stream) return Promise.resolve(stream);
+  if(!navigator.mediaDevices||!navigator.mediaDevices.getUserMedia||!window.MediaRecorder){
+    say("Este navegador não grava áudio. Tente o Chrome.", true);
+    return Promise.reject();
+  }
+  return navigator.mediaDevices.getUserMedia({audio:true}).then(function(s){ stream=s; hush(); return s; })
+    .catch(function(){ say("Preciso da permissão do microfone. Clique no cadeado na barra de endereço e permita o microfone.", true); throw 0; });
+}
+function start(){
+  if(rec) return;
+  ensureMic().then(function(s){
+    var m=recMime();
+    chunks=[];
+    rec=new MediaRecorder(s, m?{mimeType:m}:undefined);
+    rec.addEventListener("dataavailable",function(e){ if(e.data&&e.data.size) chunks.push(e.data); });
+    rec.addEventListener("stop",function(){ finish(m||"audio/webm"); });
+    rec.start(); t0=Date.now();
+    $("mic").classList.add("on");
+    tick=setInterval(function(){ $("mictext").textContent=((Date.now()-t0)/1000).toFixed(1)+"s"; },100);
+  }).catch(function(){});
+}
+function stop(){
+  if(!rec) return;
+  clearInterval(tick); tick=null;
+  $("mic").classList.remove("on");
+  try{ rec.stop(); }catch(e){}
+  rec=null;
+}
+function finish(mime){
+  var ms=Date.now()-t0;
+  $("mictext").textContent="Segure para gravar";
+  if(!chunks.length) return;
+  if(ms<300){ say("Muito curto — segure o botão enquanto fala.", true); return; }
+  hush();
+  var w=cur();
+  clips[w.pt]={blob:new Blob(chunks,{type:mime}), mime:mime, ext:extFor(mime)};
+  put(w.pt, clips[w.pt]);
+  draw();
+  if(i<group.words.length-1){ i++; draw(); }      // straight on to the next one
+}
+var mic=$("mic");
+mic.addEventListener("pointerdown",function(e){ e.preventDefault(); latched=false; start(); });
+mic.addEventListener("pointerup",function(e){
+  e.preventDefault();
+  if(Date.now()-t0 < 300){ latched=true; $("mictext").textContent="gravando… toque para parar"; return; }
+  stop();
+});
+mic.addEventListener("pointerleave",function(){ if(rec && !latched) stop(); });
+mic.addEventListener("click",function(){ if(latched && rec){ latched=false; stop(); } });
+document.addEventListener("keydown",function(e){
+  if(e.code==="Space" && !rec && document.activeElement.tagName!=="SELECT"){ e.preventDefault(); start(); }
+  if(e.code==="ArrowRight") $("next").click();
+  if(e.code==="ArrowLeft") $("prev").click();
+});
+document.addEventListener("keyup",function(e){ if(e.code==="Space"&&rec){ e.preventDefault(); stop(); } });
+
+/* ---------- handing the clips over ---------- */
+function b64(blob){
+  return new Promise(function(res){
+    var fr=new FileReader();
+    fr.onload=function(){ res(String(fr.result).split(",")[1]||""); };
+    fr.readAsDataURL(blob);
+  });
+}
+$("dl").addEventListener("click",function(){
+  var keys=Object.keys(clips);
+  if(!keys.length) return;
+  $("dl").disabled=true; $("dl").textContent="Preparando…";
+  Promise.all(keys.map(function(k){
+    return b64(clips[k].blob).then(function(d){
+      return {pt:k, mime:clips[k].mime, ext:clips[k].ext, data:d};
+    });
+  })).then(function(rows){
+    var out=JSON.stringify({kind:"caderno-recordings", made:new Date().toISOString().slice(0,10), clips:rows});
+    var a=document.createElement("a");
+    a.href=URL.createObjectURL(new Blob([out],{type:"application/json"}));
+    a.download="gravacoes-"+new Date().toISOString().slice(0,10)+".json";
+    a.click();
+    setTimeout(function(){ URL.revokeObjectURL(a.href); },5000);
+    $("dl").disabled=false; $("dl").textContent="Baixar as gravações ("+rows.length+")";
+    say("Pronto! Mande o arquivo gravacoes-…json para a Grace. Obrigado!");
+  });
+});
+</script>
+</body>
+</html>
