@@ -619,7 +619,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
 (function(){
 "use strict";
 
-var BUILD="20260829-010651";
+var BUILD="20260829-011440";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -2092,8 +2092,16 @@ $("jsonFile").addEventListener("change",function(){
   f.text().then(function(txt){
     var inc; try{ inc=JSON.parse(txt); }catch(e){ banner("That file isn't valid JSON."); return; }
     var n=merge(inc);
-    var restored = (Array.isArray(inc.audioClips) && inc.audioClips.length) ? restoreClips(inc.audioClips) : 0;
+    // the gravar page hands over {kind:"caderno-recordings", clips:[…]}
+    var incoming = Array.isArray(inc.audioClips) ? inc.audioClips
+                 : (Array.isArray(inc.clips) ? inc.clips : []);
+    var restored = incoming.length ? restoreClips(incoming) : 0;
     queueSave(); refreshSelects(); renderChapters(); renderVocab(); renderProgress();
+    if(inc.kind==="caderno-recordings"){
+      banner(restored ? "Added "+restored+" recording"+(restored===1?"":"s")+"."
+                      : "No matching words for those recordings.");
+      return;
+    }
     var msg="Imported "+n.chapters+" chapter"+(n.chapters===1?"":"s")+", "+n.vocab+" word"+(n.vocab===1?"":"s")+
             ", "+n.notes+" note"+(n.notes===1?"":"s")+", "+n.sessions+" session"+(n.sessions===1?"":"s")+".";
     if(n.classes) msg+=" Added "+n.classes+" class"+(n.classes===1?"":"es")+".";
@@ -2115,7 +2123,7 @@ function restoreClips(clips){
     try{
       var bin=atob(c.data), arr=new Uint8Array(bin.length);
       for(var i=0;i<bin.length;i++) arr[i]=bin.charCodeAt(i);
-      var type=c.type||"audio/webm";
+      var type=c.type||c.mime||"audio/webm";
       var blob=new Blob([arr],{type:type});
       var key=uid();
       w.audio={key:key, path:"audio/"+key+"."+(type.indexOf("mp4")>=0?"m4a":type.indexOf("ogg")>=0?"ogg":"webm"), type:type};
