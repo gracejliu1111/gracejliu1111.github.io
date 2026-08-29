@@ -607,7 +607,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
 (function(){
 "use strict";
 
-var BUILD="20260829-002559";
+var BUILD="20260829-003206";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -2147,12 +2147,15 @@ function merge(inc){
     var k=r.date+"|"+(r.start||"");
     var have=classAt[k];
     if(have){
-      // Same slot, so this is a correction rather than a new class: take the
-      // incoming wording, but never silently blank a field that was filled.
+      // Same slot, so this is a correction rather than a new class.  A field the
+      // file does not mention is left alone; a field it sets to "" is cleared,
+      // which is how a link that turned out to be wrong gets removed.
       var changed=false;
       ["title","end","where","join"].forEach(function(f){
+        if(!Object.prototype.hasOwnProperty.call(r,f)) return;
         var v=r[f]==null ? "" : String(r[f]);
-        if(v && v!==have[f]){ have[f]=v; changed=true; }
+        if(f==="join") v=safeUrl(v);
+        if(v!==have[f]){ have[f]=v; changed=true; }
       });
       if(changed) n.upgraded++; else n.skipped++;
       return;
