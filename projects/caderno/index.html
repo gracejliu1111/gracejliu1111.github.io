@@ -269,6 +269,27 @@ input:focus,textarea:focus,select:focus{border-color:var(--accent); outline:none
 .sec.pending{background:var(--clay-soft); border-radius:8px;
              box-shadow:0 0 0 10px var(--clay-soft); transition:none}
 
+/* ---------- upcoming classes ---------- */
+.aulas{display:flex; flex-direction:column}
+.aula{display:grid; grid-template-columns:132px 118px minmax(0,1fr) auto; gap:14px; align-items:baseline;
+      padding:11px 0; border-bottom:1px solid var(--line)}
+.aula:last-child{border-bottom:none}
+.aula .when{font-weight:600; font-size:14px; font-variant-numeric:tabular-nums}
+.aula .clock{font-size:13.5px; color:var(--ink-2); font-variant-numeric:tabular-nums}
+.aula .what{font-size:14px; color:var(--ink-2); min-width:0}
+.aula .what b{color:var(--ink); font-weight:600}
+.aula .rel{font-size:11px; letter-spacing:.06em; text-transform:uppercase; font-weight:700; color:var(--ink-3)}
+.aula.next{background:var(--accent-soft); border-radius:8px; padding-left:12px; padding-right:12px;
+           margin:0 -12px; border-bottom-color:transparent}
+.aula.next .rel{color:var(--accent-ink)}
+.aula .x{opacity:0; transition:opacity .12s}
+.aula:hover .x{opacity:1}
+@media (hover:none){ .aula .x{opacity:1} }
+@media (max-width:760px){
+  .aula{grid-template-columns:1fr auto; gap:4px 12px}
+  .aula .what{grid-column:1/-1}
+}
+
 .toolbar{display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-bottom:14px}
 .toolbar input[type=text]{max-width:250px} .toolbar select{max-width:190px; font-size:13.5px}
 
@@ -483,6 +504,24 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
         </div>
       </div>
 
+      <div class="card" style="margin-bottom:16px">
+        <div class="row" style="justify-content:space-between; align-items:baseline">
+          <h3 style="font-size:15px">Próximas aulas <span class="hint" style="font-weight:400">· upcoming classes</span></h3>
+          <button class="btn tiny" id="addAulaBtn">Add a class</button>
+        </div>
+        <div class="grid" id="aulaForm" style="display:none; grid-template-columns:140px 110px 110px minmax(0,1fr); gap:10px; margin-top:14px">
+          <label class="f">Date<input type="date" id="aDate"></label>
+          <label class="f">Starts<input type="time" id="aStart"></label>
+          <label class="f">Ends<input type="time" id="aEnd"></label>
+          <label class="f">What<input type="text" id="aTitle" placeholder="PRT 105 · BMCC"></label>
+          <div class="row" style="grid-column:1/-1">
+            <button class="btn primary" id="aSave">Add</button>
+            <button class="btn ghost" id="aCancel">Cancel</button>
+          </div>
+        </div>
+        <div class="aulas" id="aulaList" style="margin-top:12px"></div>
+      </div>
+
       <div class="stats">
         <div class="stat accent"><div class="n" id="stStreak">0</div><div class="l">Day streak</div></div>
         <div class="stat"><div class="n"><span id="stWeek">0</span><span class="u">min</span></div><div class="l">This week</div></div>
@@ -564,7 +603,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
 (function(){
 "use strict";
 
-var BUILD="20260828-234126";
+var BUILD="20260829-000013";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -578,13 +617,13 @@ function $(id){ return document.getElementById(id); }
 function fold(s){ return String(s||"").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/\s+/g," ").trim(); }
 function tidy(s){ return String(s||"").toLowerCase().replace(/\s+/g," ").trim(); }
 
-function blank(){ return {v:2, updatedAt:0, book:{title:"",author:""}, chapters:[], vocab:[], notes:[], sessions:[]}; }
+function blank(){ return {v:2, updatedAt:0, book:{title:"",author:""}, chapters:[], vocab:[], notes:[], sessions:[], classes:[]}; }
 
 function migrate(s){
   if(!s || typeof s!=="object") return null;
   s.book = s.book || {title:"",author:""};
   s.chapters = s.chapters || [];
-  s.vocab = s.vocab || []; s.notes = s.notes || []; s.sessions = s.sessions || [];
+  s.vocab = s.vocab || []; s.notes = s.notes || []; s.sessions = s.sessions || []; s.classes = s.classes || [];
   if(s.v !== 2){
     var ch = null;
     if(s.vocab.length || s.notes.length){
@@ -1785,6 +1824,96 @@ function renderWeak(){
     : '<div class="empty">Nothing has tripped you up twice yet.</div>';
   wireWordList($("weakList"));
 }
+function whenLabel(d){
+  var t=today();
+  if(d===t) return "today";
+  if(d===addDays(t,1)) return "tomorrow";
+  var a=new Date(t.slice(0,4),+t.slice(5,7)-1,+t.slice(8,10));
+  var b=new Date(d.slice(0,4),+d.slice(5,7)-1,+d.slice(8,10));
+  var days=Math.round((b-a)/86400000);
+  if(days<0) return "";
+  if(days<7) return "in "+days+" days";
+  if(days<14) return "next week";
+  return "in "+Math.round(days/7)+" weeks";
+}
+function prettyTime(t){
+  if(!t) return "";
+  var p=t.split(":"), h=+p[0], m=p[1]||"00";
+  var ap=h>=12?"pm":"am", hh=h%12||12;
+  return hh+":"+m+" "+ap;
+}
+function upcomingClasses(){
+  var t=today();
+  return state.classes.filter(function(c){ return (c.date||"")>=t; })
+    .sort(function(a,b){ return (a.date+(a.start||"")) < (b.date+(b.start||"")) ? -1 : 1; });
+}
+var calStamp="";
+function applyCalendar(feed){
+  if(!feed || !Array.isArray(feed.classes)) return false;
+  var mine=state.classes.filter(function(c){ return c.src!=="gcal"; });
+  var taken={};
+  mine.forEach(function(c){ taken[c.date+"|"+(c.start||"")]=1; });
+  var fromCal=[];
+  feed.classes.forEach(function(r){
+    if(!r || !r.date) return;
+    var k=r.date+"|"+(r.start||"");
+    if(taken[k]) return;                       // she already added this one by hand
+    taken[k]=1;
+    fromCal.push({id:"gcal-"+(r.uid||k), src:"gcal", date:String(r.date),
+                  start:String(r.start||""), end:String(r.end||""),
+                  title:String(r.title||""), where:String(r.where||"")});
+  });
+  var before=JSON.stringify(state.classes.filter(function(c){ return c.src==="gcal"; }));
+  if(before===JSON.stringify(fromCal)) return false;   // nothing moved; don't touch storage
+  state.classes=mine.concat(fromCal);
+  return true;
+}
+function syncCalendar(){
+  return fetch("data/classes.json?t="+Date.now(),{cache:"no-store"})
+    .then(function(r){ return r.ok ? r.json() : null; })
+    .catch(function(){ return null; })
+    .then(function(feed){
+      if(!feed) return;
+      calStamp=feed.updated||"";
+      if(applyCalendar(feed)) queueSave();
+      renderAulas();
+    });
+}
+
+function renderAulas(){
+  var el=$("aulaList"); if(!el) return;
+  var up=upcomingClasses(), shown=up.slice(0,6);
+  if(!up.length){
+    el.innerHTML='<div class="empty" style="padding:18px 4px">'
+      + (calStamp ? 'Nothing coming up on your calendar.' : 'No classes scheduled yet.')
+      + '</div>';
+    return;
+  }
+  el.innerHTML = shown.map(function(c,i){
+    var d=new Date(+c.date.slice(0,4), +c.date.slice(5,7)-1, +c.date.slice(8,10));
+    var when=d.toLocaleDateString("en-US",{weekday:"short", month:"short", day:"numeric"});
+    var clock=c.start ? prettyTime(c.start)+(c.end?" – "+prettyTime(c.end):"") : "";
+    return '<div class="aula'+(i===0?" next":"")+'">'+
+      '<span class="when">'+esc(when)+'</span>'+
+      '<span class="clock">'+esc(clock)+'</span>'+
+      '<span class="what">'+(c.title?'<b>'+esc(c.title)+'</b>':"Class")+(c.where?' · '+esc(c.where):"")+'</span>'+
+      '<span class="rel">'+esc(whenLabel(c.date))+
+        (c.src==="gcal" ? '' : ' <button class="btn tiny ghost x" data-adel="'+c.id+'" title="Remove">✕</button>')+
+        '</span>'+
+    '</div>';
+  }).join("")
+    + (up.length>shown.length
+        ? '<div class="hint" style="padding-top:10px">'+(up.length-shown.length)+' more scheduled.</div>' : "")
+    + (calStamp
+        ? '<div class="hint" style="padding-top:10px">Synced from Google Calendar · '+esc(calStamp)+'</div>' : "");
+  el.querySelectorAll("[data-adel]").forEach(function(b){
+    b.addEventListener("click",function(){
+      state.classes=state.classes.filter(function(c){ return c.id!==b.dataset.adel; });
+      queueSave(); renderAulas();
+    });
+  });
+}
+
 function renderProgress(){
   $("progDate").textContent=new Date().toLocaleDateString("en-US",{weekday:"long", month:"long", day:"numeric"});
   $("stStreak").textContent=streak();
@@ -1792,8 +1921,23 @@ function renderProgress(){
   $("stWeek").textContent=wk;
   $("stBook").innerHTML=bookPct()+'<span class="u">%</span>';
   $("stDue").textContent=dueCards().length;
-  renderWeek(); renderGrowth(); renderMastery(); renderLog(); renderWeak();
+  renderAulas(); renderWeek(); renderGrowth(); renderMastery(); renderLog(); renderWeak();
 }
+$("addAulaBtn").addEventListener("click",function(){
+  var f=$("aulaForm");
+  f.style.display = f.style.display==="none" ? "grid" : "none";
+  if(f.style.display==="grid"){ if(!$("aDate").value) $("aDate").value=today(); $("aDate").focus(); }
+});
+$("aCancel").addEventListener("click",function(){ $("aulaForm").style.display="none"; });
+$("aSave").addEventListener("click",function(){
+  var d=$("aDate").value;
+  if(!d){ $("aDate").focus(); return; }
+  state.classes.push({id:uid(), date:d, start:$("aStart").value||"", end:$("aEnd").value||"",
+                      title:$("aTitle").value.trim(), where:""});
+  $("aTitle").value=""; $("aulaForm").style.display="none";
+  queueSave(); renderAulas();
+});
+
 $("openLog").addEventListener("click",function(){
   var p=$("logPanel"); p.style.display=p.style.display==="none"?"block":"none";
   if(p.style.display==="block"){ $("sDate").value=$("sDate").value||today(); $("sMin").focus(); }
@@ -1876,6 +2020,7 @@ $("jsonFile").addEventListener("change",function(){
     queueSave(); refreshSelects(); renderChapters(); renderVocab(); renderProgress();
     var msg="Imported "+n.chapters+" chapter"+(n.chapters===1?"":"s")+", "+n.vocab+" word"+(n.vocab===1?"":"s")+
             ", "+n.notes+" note"+(n.notes===1?"":"s")+", "+n.sessions+" session"+(n.sessions===1?"":"s")+".";
+    if(n.classes) msg+=" Added "+n.classes+" class"+(n.classes===1?"":"es")+".";
     if(restored) msg+=" Restored "+restored+" recording"+(restored===1?"":"s")+".";
     if(n.upgraded) msg+=" Upgraded "+n.upgraded+" note"+(n.upgraded===1?"":"s")+" to the richer format.";
     if(n.skipped) msg+=" Skipped "+n.skipped+" already here.";
@@ -1906,7 +2051,7 @@ function restoreClips(clips){
 }
 
 function merge(inc){
-  var n={chapters:0,vocab:0,notes:0,sessions:0,skipped:0,upgraded:0};
+  var n={chapters:0,vocab:0,notes:0,sessions:0,classes:0,skipped:0,upgraded:0};
   var byName={};
   state.chapters.forEach(function(c){ byName[fold((c.num||"")+"|"+c.title)]=c.id; });
   if(inc.book && !state.book.title && inc.book.title){ state.book.title=String(inc.book.title); state.book.author=String(inc.book.author||""); }
@@ -1978,6 +2123,18 @@ function merge(inc){
     state.notes.push(nn); noteKey[key]=nn;
     n.notes++;
   });
+  var classKey={};
+  state.classes.forEach(function(c){ classKey[c.date+"|"+(c.start||"")]=1; });
+  if(Array.isArray(inc.classes)) inc.classes.forEach(function(r){
+    if(!r || !r.date) return;
+    var k=r.date+"|"+(r.start||"");
+    if(classKey[k]){ n.skipped++; return; }
+    classKey[k]=1;
+    state.classes.push({id:r.id||uid(), date:String(r.date), start:String(r.start||""),
+                        end:String(r.end||""), title:String(r.title||""), where:String(r.where||"")});
+    n.classes++;
+  });
+
   var haveSess={}, sessKey={};
   state.sessions.forEach(function(x){ haveSess[x.id]=1; sessKey[x.date+"|"+x.minutes+"|"+fold(x.topic||x.note||"")]=1; });
   if(Array.isArray(inc.sessions)) inc.sessions.forEach(function(r){
@@ -2060,6 +2217,7 @@ loadState().then(function(){
   $("bTitle").value=state.book.title||"";
   $("bAuthor").value=state.book.author||"";
   refreshSelects(); renderChapters(); renderVocab(); renderProgress(); renderQuizSetup();
+  syncCalendar();
   if(window.claude&&typeof claude.use==="function"){
     return claude.use("artifact").then(function(api){
       artifactApi=api; mode=api?"cloud":"local";
