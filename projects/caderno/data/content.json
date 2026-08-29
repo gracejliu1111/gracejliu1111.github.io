@@ -1,0 +1,382 @@
+{
+ "version": 1,
+ "note": "Added the alphabet",
+ "chapters": [
+  {
+   "id": "ch-alfabeto",
+   "num": "",
+   "title": "O alfabeto",
+   "pages": ""
+  }
+ ],
+ "vocab": [
+  {
+   "pt": "A",
+   "en": "á",
+   "ex": "amigo — friend",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "B",
+   "en": "bê",
+   "ex": "bom — good",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "C",
+   "en": "cê",
+   "ex": "casa — house",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "D",
+   "en": "dê",
+   "ex": "dia — day",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "E",
+   "en": "é",
+   "ex": "ele — he",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "F",
+   "en": "efe",
+   "ex": "falar — to speak",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "G",
+   "en": "gê",
+   "ex": "gato — cat",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "H",
+   "en": "agá",
+   "ex": "hoje — today (h is silent)",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "I",
+   "en": "i",
+   "ex": "ilha — island",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "J",
+   "en": "jota",
+   "ex": "janela — window",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "K",
+   "en": "cá",
+   "ex": "quilo — kilo (rare)",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "L",
+   "en": "ele",
+   "ex": "livro — book",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "M",
+   "en": "eme",
+   "ex": "mãe — mother",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "N",
+   "en": "ene",
+   "ex": "noite — night",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "O",
+   "en": "ó",
+   "ex": "ovo — egg",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "P",
+   "en": "pê",
+   "ex": "pão — bread",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "Q",
+   "en": "quê",
+   "ex": "quando — when",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "R",
+   "en": "erre",
+   "ex": "rua — street",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "S",
+   "en": "esse",
+   "ex": "sol — sun",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "T",
+   "en": "tê",
+   "ex": "tudo — everything",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "U",
+   "en": "u",
+   "ex": "uva — grape",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "V",
+   "en": "vê",
+   "ex": "você — you",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "W",
+   "en": "dáblio",
+   "ex": "watt (rare)",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "X",
+   "en": "xis",
+   "ex": "xícara — cup",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "Y",
+   "en": "ípsilon",
+   "ex": "yoga (rare)",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  },
+  {
+   "pt": "Z",
+   "en": "zê",
+   "ex": "zero — zero",
+   "tags": [
+    "alfabeto",
+    "letra"
+   ],
+   "chapterId": "ch-alfabeto"
+  }
+ ],
+ "notes": [
+  {
+   "chapterId": "ch-alfabeto",
+   "title": "O alfabeto",
+   "source": "p. —",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Twenty-six letters, the same as English. Say the name of each one out loud — you will need them for spelling your name on the phone, and the names are not what an English speaker guesses. Tap the microphone on any letter to record it."
+    },
+    {
+     "t": "callout",
+     "text": "K, W and Y were readmitted to the alphabet by the 2009 spelling reform. They appear almost only in foreign names, units and borrowed words, so learn them last."
+    },
+    {
+     "t": "h",
+     "text": "The letters"
+    },
+    {
+     "t": "alpha",
+     "tag": "alfabeto",
+     "rare": [
+      "K",
+      "W",
+      "Y"
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Marks you will see above and below letters"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Mark",
+      "Name",
+      "What it does",
+      "Example"
+     ],
+     "rows": [
+      [
+       "á é í ó ú",
+       "acento agudo",
+       "stressed, and open",
+       "café — coffee"
+      ],
+      [
+       "â ê ô",
+       "acento circunflexo",
+       "stressed, and closed",
+       "você — you"
+      ],
+      [
+       "ã õ",
+       "til",
+       "nasal — through the nose",
+       "irmã — sister"
+      ],
+      [
+       "ç",
+       "cedilha",
+       "makes c sound like s, before a, o, u",
+       "almoço — lunch"
+      ],
+      [
+       "à",
+       "crase",
+       "the word a merged with another a",
+       "à noite — at night"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Two letters, one sound"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "lh",
+       "like the lli in million — filho, son"
+      ],
+      [
+       "nh",
+       "like the ny in canyon — dinheiro, money"
+      ],
+      [
+       "ch",
+       "like sh — chá, tea"
+      ],
+      [
+       "rr",
+       "a throaty h in most of Brazil — carro, car"
+      ],
+      [
+       "ss",
+       "a hard s between vowels — passo, step"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "An r at the start of a word sounds like rr: rua sounds closer to hua. This is the single most Brazilian thing about Brazilian pronunciation."
+    }
+   ]
+  }
+ ]
+}
