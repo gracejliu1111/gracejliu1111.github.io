@@ -603,7 +603,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
 (function(){
 "use strict";
 
-var BUILD="20260829-000013";
+var BUILD="20260829-001847";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -2123,15 +2123,27 @@ function merge(inc){
     state.notes.push(nn); noteKey[key]=nn;
     n.notes++;
   });
-  var classKey={};
-  state.classes.forEach(function(c){ classKey[c.date+"|"+(c.start||"")]=1; });
+  var classAt={};
+  state.classes.forEach(function(c){ classAt[c.date+"|"+(c.start||"")]=c; });
   if(Array.isArray(inc.classes)) inc.classes.forEach(function(r){
     if(!r || !r.date) return;
     var k=r.date+"|"+(r.start||"");
-    if(classKey[k]){ n.skipped++; return; }
-    classKey[k]=1;
-    state.classes.push({id:r.id||uid(), date:String(r.date), start:String(r.start||""),
-                        end:String(r.end||""), title:String(r.title||""), where:String(r.where||"")});
+    var have=classAt[k];
+    if(have){
+      // Same slot, so this is a correction rather than a new class: take the
+      // incoming wording, but never silently blank a field that was filled.
+      var changed=false;
+      ["title","end","where"].forEach(function(f){
+        var v=r[f]==null ? "" : String(r[f]);
+        if(v && v!==have[f]){ have[f]=v; changed=true; }
+      });
+      if(changed) n.upgraded++; else n.skipped++;
+      return;
+    }
+    var row={id:r.id||uid(), date:String(r.date), start:String(r.start||""),
+             end:String(r.end||""), title:String(r.title||""), where:String(r.where||"")};
+    classAt[k]=row;
+    state.classes.push(row);
     n.classes++;
   });
 

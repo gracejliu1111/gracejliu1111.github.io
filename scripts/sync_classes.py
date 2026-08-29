@@ -23,7 +23,9 @@ OUT = pathlib.Path("projects/caderno/data/classes.json")
 WINDOW_BACK = 1
 WINDOW_FORWARD = 180
 # Only keep events whose title matches one of these, case-insensitively.
-# Empty list = keep everything on the calendar.
+# This is REQUIRED.  The feed may well be a personal calendar and the file this
+# writes is committed to a public repo, so refusing to run beats publishing
+# everything by accident.
 KEYWORDS = [k.strip().lower() for k in os.environ.get("CLASS_KEYWORDS", "").split(",") if k.strip()]
 
 
@@ -45,6 +47,11 @@ def main():
     url = os.environ.get("CALENDAR_ICS_URL", "").strip()
     if not url:
         fail("CALENDAR_ICS_URL is not set. Add it under Settings -> Secrets and variables -> Actions.")
+    if not KEYWORDS:
+        fail("CLASS_KEYWORDS is empty. This file is committed to a public repo, so the script "
+             "will not publish an unfiltered calendar. Set the CLASS_KEYWORDS variable under "
+             "Settings -> Secrets and variables -> Actions -> Variables (e.g. 'portuguese').")
+
     if not url.startswith(("http://", "https://")):
         fail("CALENDAR_ICS_URL is not a URL. Use the calendar's 'Secret address in iCal format'.")
     if not url.endswith(".ics"):
@@ -69,7 +76,7 @@ def main():
     rows = []
     for ev in events:
         title = str(ev.get("SUMMARY", "") or "").strip()
-        if KEYWORDS and not any(k in title.lower() for k in KEYWORDS):
+        if not any(k in title.lower() for k in KEYWORDS):
             continue
         if str(ev.get("STATUS", "") or "").upper() == "CANCELLED":
             continue
