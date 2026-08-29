@@ -293,6 +293,14 @@ input:focus,textarea:focus,select:focus{border-color:var(--accent); outline:none
   .aula .what{grid-column:1/-1}
 }
 
+/* On its own page there is no contents rail to fill the left, so a lone 42rem
+   column would strand a wide empty margin.  Prose keeps a readable measure;
+   the grid and the tables are free to use the width. */
+#alfaCol{max-width:none}
+#alfaCol .sec{border-bottom:none; padding-bottom:8px; margin-bottom:0}
+#alfaCol p, #alfaCol .callout, #alfaCol .pairs, #alfaCol .btable{max-width:44rem}
+#alfaCol .alpha{max-width:none}
+
 /* ---------- alphabet grid ---------- */
 .alpha{display:grid; grid-template-columns:repeat(auto-fill,minmax(148px,1fr)); gap:10px; margin:6px 0 20px}
 .alcell{border:1px solid var(--line); border-radius:10px; padding:11px 12px 9px; background:var(--surface);
@@ -386,6 +394,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
       <div class="sub" id="brandSub">Português brasileiro</div>
     </div>
     <button class="navbtn" data-go="livro" aria-current="true"><span><span class="pt">Livro</span><span class="en">The book</span></span></button>
+    <button class="navbtn" data-go="alfabeto"><span><span class="pt">Alfabeto</span><span class="en">The alphabet</span></span></button>
     <button class="navbtn" data-go="praticar"><span><span class="pt">Praticar</span><span class="en">Practice</span></span><span class="count" id="dueBadge" hidden>0</span></button>
     <button class="navbtn" data-go="vocab"><span><span class="pt">Vocabulário</span><span class="en">All words</span></span></button>
     <button class="navbtn" data-go="progresso"><span><span class="pt">Progresso</span><span class="en">Progress &amp; log</span></span></button>
@@ -422,6 +431,14 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
       </div>
 
       <div id="chapterDetail" style="display:none"></div>
+    </section>
+
+    <!-- ========== ALFABETO ========== -->
+    <section class="view" id="v-alfabeto">
+      <div class="viewhead">
+        <div><div class="kicker">Reference</div><h2>O alfabeto</h2></div>
+      </div>
+      <div class="readcol" id="alfaCol"></div>
     </section>
 
     <!-- ========== PRATICAR ========== -->
@@ -619,7 +636,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
 (function(){
 "use strict";
 
-var BUILD="20260829-011440";
+var BUILD="20260829-012543";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -789,6 +806,7 @@ function go(name){
   var bs=document.querySelectorAll(".navbtn");
   for(var j=0;j<bs.length;j++) bs[j].setAttribute("aria-current", bs[j].dataset.go===name?"true":"false");
   if(name==="livro") renderChapters();
+  if(name==="alfabeto") renderAlfabeto();
   if(name==="progresso") renderProgress();
   if(name==="praticar") renderQuizSetup();
   if(name==="vocab") renderVocab();
@@ -802,6 +820,31 @@ document.addEventListener("click",function(e){
 /* ---------- LIVRO ---------- */
 var openChapter=null;
 
+/* The alphabet is stored as an ordinary chapter — so its letters stay quizzable,
+   recordable vocabulary — but it is reference, not part of her book, so it lives
+   on its own page and is kept out of Livro.  Recognised by its alpha block
+   rather than by title, so renaming it cannot break this.               */
+function isAlphabet(c){
+  return notesIn(c.id).some(function(n){
+    return Array.isArray(n.blocks) && n.blocks.some(function(b){ return b.t==="alpha"; });
+  });
+}
+function renderAlfabeto(){
+  var col=$("alfaCol"); if(!col) return;
+  var cs=state.chapters.filter(isAlphabet);
+  var ns=[];
+  cs.forEach(function(c){ ns=ns.concat(notesIn(c.id)); });
+  if(!ns.length){
+    col.innerHTML='<div class="empty">The alphabet has not loaded yet. Reload the page.</div>';
+    return;
+  }
+  col.innerHTML = ns.map(function(n){
+    return '<section class="sec" id="sec-'+n.id+'">'+blocksHtml(n)+'</section>';
+  }).join("");
+  linkGlosses(col);
+  wireWordList(col);
+}
+
 function renderChapters(){
   $("bookTitle").textContent = state.book.title || "Livro";
   $("bookKicker").textContent = state.book.author || (state.book.title ? "Your book" : "Name your book in Ajustes");
@@ -809,7 +852,7 @@ function renderChapters(){
   if(openChapter){ renderChapterDetail(); return; }
   $("chapterIndex").style.display=""; $("chapterDetail").style.display="none";
 
-  var cs=sortedChapters();
+  var cs=sortedChapters().filter(function(c){ return !isAlphabet(c); });
   $("chGrid").innerHTML = cs.length ? cs.map(function(c){
     var ws=wordsIn(c.id), ns=notesIn(c.id).length;
     var solid=ws.filter(function(w){return tier(w)===2;}).length;
@@ -1332,6 +1375,7 @@ function noteHtml(n){
 function refreshWordLists(){
   renderVocab();
   if(openChapter) renderChapterDetail();
+  if($("v-alfabeto") && $("v-alfabeto").classList.contains("on")) renderAlfabeto();
   if($("v-progresso") && $("v-progresso").classList.contains("on")) renderWeak();
 }
 
@@ -1455,6 +1499,7 @@ function saveClip(w, blob, ext, type){
   var files={}; files[path]={content:blob, contentType:type};
   queueSave(files);
   if(openChapter) renderChapterDetail();
+  if($("v-alfabeto") && $("v-alfabeto").classList.contains("on")) renderAlfabeto();
   renderVocab();
 }
 
