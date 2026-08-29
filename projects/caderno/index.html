@@ -293,6 +293,18 @@ input:focus,textarea:focus,select:focus{border-color:var(--accent); outline:none
   .aula .what{grid-column:1/-1}
 }
 
+/* ---------- alphabet grid ---------- */
+.alpha{display:grid; grid-template-columns:repeat(auto-fill,minmax(148px,1fr)); gap:10px; margin:6px 0 20px}
+.alcell{border:1px solid var(--line); border-radius:10px; padding:11px 12px 9px; background:var(--surface);
+        display:flex; flex-direction:column; gap:2px; min-width:0}
+.alcell .ltr{font-family:var(--ui); font-size:23px; font-weight:700; letter-spacing:-.01em; line-height:1.1}
+.alcell .nm{font-family:var(--ui); font-size:13px; color:var(--accent-ink); font-weight:600}
+.alcell .eg{font-family:var(--ui); font-size:11.5px; color:var(--ink-3); line-height:1.35;
+            white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+.alcell .alacts{display:flex; align-items:center; gap:6px; margin-top:7px}
+.alcell.rare{opacity:.72}
+@media (max-width:520px){ .alpha{grid-template-columns:repeat(auto-fill,minmax(118px,1fr))} }
+
 .toolbar{display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin-bottom:14px}
 .toolbar input[type=text]{max-width:250px} .toolbar select{max-width:190px; font-size:13.5px}
 
@@ -607,7 +619,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
 (function(){
 "use strict";
 
-var BUILD="20260829-003206";
+var BUILD="20260829-004552";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -873,6 +885,26 @@ function blocksHtml(n){
               '<div class="exans" id="a-'+n.id+'-'+i+'-'+j+'">'+esc(it.a)+'</div>'+
               '</div></div></div>';
           }).join("")+'</div>';
+      case "alpha": {
+        var tag=fold(b.tag||"alfabeto");
+        var letters=state.vocab.filter(function(w){
+          return w.chapterId===n.chapterId && (w.tags||[]).some(function(t){ return fold(t)===tag; });
+        });
+        if(!letters.length) return '<div class="empty">The letters have not been imported yet.</div>';
+        return '<div class="alpha">'+letters.map(function(w){
+          return '<div class="alcell'+(b.rare&&b.rare.indexOf(w.pt)>=0?" rare":"")+'">'+
+            '<span class="ltr">'+esc(w.pt)+'</span>'+
+            '<span class="nm">'+esc(w.en)+'</span>'+
+            (w.ex?'<span class="eg" title="'+esc(w.ex)+'">'+esc(w.ex)+'</span>':'')+
+            '<span class="alacts">'+
+              '<button class="play'+(w.audio?"":" none")+'" data-play="'+w.id+'" aria-label="Play '+esc(w.pt)+'" title="'+(w.audio?"Play recording":"No recording yet")+'">'+
+                '<svg viewBox="0 0 16 16"><path d="M4 2.5v11l10-5.5z"/></svg></button>'+
+              '<button class="rec" data-rec="'+w.id+'" title="Hold to record · tap to start and tap again to stop" aria-label="Record '+esc(w.pt)+'"><span class="dot"></span></button>'+
+              '<span class="rectimer" data-timer="'+w.id+'"></span>'+
+            '</span>'+
+          '</div>';
+        }).join("")+'</div>';
+      }
       default: return '';
     }
   }).join("");
@@ -1043,6 +1075,8 @@ function renderChapterDetail(){
       queueSave(); renderChapterDetail();
     });
     linkGlosses($("readCol"));
+    // an alphabet grid in the reading view records and plays like any word list
+    if($("readCol") && $("readCol").querySelector(".alpha")) wireWordList($("readCol"));
     trackReading();
   }
 
