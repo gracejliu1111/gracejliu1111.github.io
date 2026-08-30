@@ -645,7 +645,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
 (function(){
 "use strict";
 
-var BUILD="20260829-013600";
+var BUILD="20260830-224659";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -2010,11 +2010,16 @@ function loadShippedContent(){
       var n=merge(pack);
       state.contentVersion=v;
       queueSave(); refreshSelects(); renderChapters(); renderVocab(); renderProgress();
+      // A returning copy already has the words, so new material shows up as
+      // upgrades (a recording attached, a title corrected) rather than additions.
       var added=n.chapters+n.vocab+n.notes;
-      if(added) banner((pack.note||"Added new material")+" — "+
-        n.chapters+" chapter"+(n.chapters===1?"":"s")+", "+
-        n.vocab+" word"+(n.vocab===1?"":"s")+", "+
-        n.notes+" section"+(n.notes===1?"":"s")+".");
+      var bits=[];
+      if(n.chapters) bits.push(n.chapters+" chapter"+(n.chapters===1?"":"s"));
+      if(n.vocab)    bits.push(n.vocab+" word"+(n.vocab===1?"":"s"));
+      if(n.notes)    bits.push(n.notes+" section"+(n.notes===1?"":"s"));
+      if(n.upgraded) bits.push(n.upgraded+" updated");
+      if(added||n.upgraded) banner((pack.note||"Added new material")+
+        (bits.length ? " — "+bits.join(", ")+"." : "."));
     });
 }
 

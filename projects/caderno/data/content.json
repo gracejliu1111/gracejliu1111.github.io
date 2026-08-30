@@ -1,6 +1,6 @@
 {
- "version": 1,
- "note": "Added the alphabet",
+ "version": 2,
+ "note": "Added 90 recordings from Fred",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -18,7 +18,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "453e50de5090",
+    "path": "audio/453e50de5090.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "B",
@@ -28,7 +33,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "0ee01f133b9e",
+    "path": "audio/0ee01f133b9e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "C",
@@ -38,7 +48,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "bf165b8ef3a5",
+    "path": "audio/bf165b8ef3a5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "D",
@@ -48,7 +63,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "f40749406276",
+    "path": "audio/f40749406276.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "E",
@@ -58,7 +78,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "3e35bae7054e",
+    "path": "audio/3e35bae7054e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "F",
@@ -68,7 +93,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "fe998587012c",
+    "path": "audio/fe998587012c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "G",
@@ -78,7 +108,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "3cce29a019d5",
+    "path": "audio/3cce29a019d5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "H",
@@ -88,7 +123,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "ac2fc99107a6",
+    "path": "audio/ac2fc99107a6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "I",
@@ -98,7 +138,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "6bccc1b082d9",
+    "path": "audio/6bccc1b082d9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "J",
@@ -108,7 +153,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "368c9aa2bdbe",
+    "path": "audio/368c9aa2bdbe.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "K",
@@ -118,7 +168,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "2be67e46d08b",
+    "path": "audio/2be67e46d08b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "L",
@@ -128,7 +183,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "7306a0c3b6fa",
+    "path": "audio/7306a0c3b6fa.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "M",
@@ -138,7 +198,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "dc5c293cc3c7",
+    "path": "audio/dc5c293cc3c7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "N",
@@ -148,7 +213,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "afcf5f035d41",
+    "path": "audio/afcf5f035d41.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "O",
@@ -158,7 +228,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "8d507119784a",
+    "path": "audio/8d507119784a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "P",
@@ -168,7 +243,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "4f0dee6ba683",
+    "path": "audio/4f0dee6ba683.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Q",
@@ -178,7 +258,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "cb94bb3182e4",
+    "path": "audio/cb94bb3182e4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "R",
@@ -188,7 +273,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "bb8bac8a909b",
+    "path": "audio/bb8bac8a909b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "S",
@@ -198,7 +288,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "b3d99b05ec08",
+    "path": "audio/b3d99b05ec08.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "T",
@@ -208,7 +303,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "abb12c7a4c24",
+    "path": "audio/abb12c7a4c24.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "U",
@@ -218,7 +318,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "9280ef02515d",
+    "path": "audio/9280ef02515d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "V",
@@ -228,7 +333,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "317b4463f2b3",
+    "path": "audio/317b4463f2b3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "W",
@@ -238,7 +348,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "d2072981ff2e",
+    "path": "audio/d2072981ff2e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "X",
@@ -248,7 +363,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "24df925e2e59",
+    "path": "audio/24df925e2e59.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Y",
@@ -258,7 +378,12 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "4f3e036dfb48",
+    "path": "audio/4f3e036dfb48.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Z",
@@ -268,7 +393,978 @@
     "alfabeto",
     "letra"
    ],
-   "chapterId": "ch-alfabeto"
+   "chapterId": "ch-alfabeto",
+   "audio": {
+    "key": "50a12b00ed61",
+    "path": "audio/50a12b00ed61.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "oi",
+   "en": "hi",
+   "ex": "Oi, Gustavo. E aí?",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "76658553d291",
+    "path": "audio/76658553d291.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "bom dia",
+   "en": "good morning",
+   "ex": "Bom dia, tudo bem?",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "e5656c118646",
+    "path": "audio/e5656c118646.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "boa tarde",
+   "en": "good afternoon",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "fa025fa615db",
+    "path": "audio/fa025fa615db.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "boa noite",
+   "en": "good evening/good night",
+   "ex": "Boa noite, como vai a senhora?",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "bf8de1090fe4",
+    "path": "audio/bf8de1090fe4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Tudo bem?",
+   "en": "How's it going? (infml.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "1208a7a4afd4",
+    "path": "audio/1208a7a4afd4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Tudo bem.",
+   "en": "I'm fine. (infml.)",
+   "ex": "Oi, Sandra. Tudo bem.",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "c673ad940617",
+    "path": "audio/c673ad940617.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Como vai?",
+   "en": "How are you? (fml.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "5c7e04083e79",
+    "path": "audio/5c7e04083e79.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Estou bem.",
+   "en": "I'm fine. (fml.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "de3a26cd125e",
+    "path": "audio/de3a26cd125e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "E você?",
+   "en": "And you?",
+   "ex": "Tudo bem, e você?",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "4bc1fd1fd807",
+    "path": "audio/4bc1fd1fd807.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "obrigado/a",
+   "en": "thank you (m./f.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "6afc6f641b6e",
+    "path": "audio/6afc6f641b6e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "de nada",
+   "en": "you're welcome",
+   "ex": "— Obrigada! — De nada.",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "f4ef0fd9ed82",
+    "path": "audio/f4ef0fd9ed82.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "por favor",
+   "en": "please",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "bad321f28435",
+    "path": "audio/bad321f28435.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "até logo",
+   "en": "good-bye (fml.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "e83f8ac5f7eb",
+    "path": "audio/e83f8ac5f7eb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "tchau",
+   "en": "good-bye (infml.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "e3d35ebb7372",
+    "path": "audio/e3d35ebb7372.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "sim",
+   "en": "yes",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "357a1251e3c2",
+    "path": "audio/357a1251e3c2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "não",
+   "en": "no",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "3668528e6123",
+    "path": "audio/3668528e6123.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Como vai você?",
+   "en": "How are you? (infml.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "formality",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "05083ba82121",
+    "path": "audio/05083ba82121.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Como vai o senhor?",
+   "en": "How are you? (fml./m.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "formality",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "287dbb90392b",
+    "path": "audio/287dbb90392b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Como vai a senhora?",
+   "en": "How are you? (fml./f.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "formality",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "8e063d6d1505",
+    "path": "audio/8e063d6d1505.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Tudo bem, e você?",
+   "en": "I'm fine, and you? (infml.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "formality",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "60fe2177117e",
+    "path": "audio/60fe2177117e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Estou bem, e o senhor?",
+   "en": "I'm fine, and you? (fml./m.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "formality",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "dce898aa2a56",
+    "path": "audio/dce898aa2a56.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Estou bem, e a senhora?",
+   "en": "I'm fine, and you? (fml./f.)",
+   "ex": "",
+   "tags": [
+    "greetings",
+    "formality",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "f82e481654ad",
+    "path": "audio/f82e481654ad.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "o senhor",
+   "en": "sir — formal 'you' for a man",
+   "ex": "O senhor fala português, Sr. Paulo?",
+   "tags": [
+    "formality",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "c74ccbde0ac0",
+    "path": "audio/c74ccbde0ac0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "a senhora",
+   "en": "ma'am — formal 'you' for a woman",
+   "ex": "A senhora poderia me ajudar?",
+   "tags": [
+    "formality",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "b503bf891fb8",
+    "path": "audio/b503bf891fb8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "você",
+   "en": "you (informal, and neutral for both genders)",
+   "ex": "Você fala português, Paulo?",
+   "tags": [
+    "formality",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "b2da65d9256f",
+    "path": "audio/b2da65d9256f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Com licença.",
+   "en": "Excuse me.",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "fcc8a8ff4634",
+    "path": "audio/fcc8a8ff4634.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Desculpe.",
+   "en": "I'm sorry.",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "c6fe0655b051",
+    "path": "audio/c6fe0655b051.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "E aí?",
+   "en": "What's happening?",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "58a7e9ca67db",
+    "path": "audio/58a7e9ca67db.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Como você se chama?",
+   "en": "What's your name? (infml.)",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "e804f743dacd",
+    "path": "audio/e804f743dacd.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Como o senhor se chama?",
+   "en": "What's your name? (fml./m.)",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "5d9faa85beb9",
+    "path": "audio/5d9faa85beb9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Como a senhora se chama?",
+   "en": "What's your name? (fml./f.)",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "61cf406d2a3a",
+    "path": "audio/61cf406d2a3a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Eu me chamo …",
+   "en": "My name is …",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "c42b4a81efeb",
+    "path": "audio/c42b4a81efeb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Gostaria de apresentar …",
+   "en": "I'd like to introduce …",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "18e140d374e9",
+    "path": "audio/18e140d374e9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Quero lhe apresentar …",
+   "en": "I'd like to introduce … to you.",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "f2d1d27aa62e",
+    "path": "audio/f2d1d27aa62e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Muito prazer.",
+   "en": "It's a pleasure.",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "21ed9db9a23d",
+    "path": "audio/21ed9db9a23d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "O prazer é meu.",
+   "en": "The pleasure is mine.",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "465a3e0f9352",
+    "path": "audio/465a3e0f9352.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Você fala inglês?",
+   "en": "Do you speak English? (infml.)",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "cdc5d2d53ba1",
+    "path": "audio/cdc5d2d53ba1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "O senhor fala inglês?",
+   "en": "Do you speak English? (fml./m.)",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "ea20f9a332a1",
+    "path": "audio/ea20f9a332a1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "A senhora fala inglês?",
+   "en": "Do you speak English? (fml./f.)",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "da22c2923aff",
+    "path": "audio/da22c2923aff.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Eu não falo português.",
+   "en": "I don't speak Portuguese.",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "fdadf1789c47",
+    "path": "audio/fdadf1789c47.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Você poderia repetir?",
+   "en": "Could you repeat?",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "331b035dac9d",
+    "path": "audio/331b035dac9d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Eu não entendi.",
+   "en": "I didn't understand.",
+   "ex": "",
+   "tags": [
+    "introductions",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "e94a85bc6a94",
+    "path": "audio/e94a85bc6a94.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Tudo certo?",
+   "en": "How's everything?",
+   "ex": "",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "60084181266f",
+    "path": "audio/60084181266f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Até mais tarde.",
+   "en": "See you later.",
+   "ex": "",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "03a1205bf69a",
+    "path": "audio/03a1205bf69a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Entre, por favor.",
+   "en": "Come in, please.",
+   "ex": "",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "09ee8e48a65a",
+    "path": "audio/09ee8e48a65a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Muito obrigado.",
+   "en": "Thank you very much. (fml./m.)",
+   "ex": "",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "a3218dc3627a",
+    "path": "audio/a3218dc3627a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Muito obrigada.",
+   "en": "Thank you very much. (fml./f.)",
+   "ex": "",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "adb86a66ad88",
+    "path": "audio/adb86a66ad88.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Não há de que.",
+   "en": "Don't mention it.",
+   "ex": "",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "3e390fe324e8",
+    "path": "audio/3e390fe324e8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Faça o favor.",
+   "en": "Please (infml.)",
+   "ex": "Abra a janela, faça o favor. — Open the window, will you?",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "c17d47889db6",
+    "path": "audio/c17d47889db6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Faça-me um favor.",
+   "en": "Do me a favor.",
+   "ex": "",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "5f6924215cd6",
+    "path": "audio/5f6924215cd6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Você pode me ajudar?",
+   "en": "Can you help me?",
+   "ex": "",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "0d6d755dd85c",
+    "path": "audio/0d6d755dd85c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "O senhor poderia me ajudar?",
+   "en": "Could you help me? (fml./m.)",
+   "ex": "",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "fa332a35873b",
+    "path": "audio/fa332a35873b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "A senhora poderia me ajudar?",
+   "en": "Could you help me? (fml./f.)",
+   "ex": "",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "c4778abc1db3",
+    "path": "audio/c4778abc1db3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Socorro!",
+   "en": "Help! (in an emergency)",
+   "ex": "",
+   "tags": [
+    "politeness",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "9421a977f04f",
+    "path": "audio/9421a977f04f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Esta é …",
+   "en": "This is … (introducing someone)",
+   "ex": "Esta é a Jane.",
+   "tags": [
+    "dialogue",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "27a731a56f6f",
+    "path": "audio/27a731a56f6f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Você é americana?",
+   "en": "Are you American? (to a woman)",
+   "ex": "",
+   "tags": [
+    "dialogue",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "0a16738826d3",
+    "path": "audio/0a16738826d3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Eu sou australiana.",
+   "en": "I'm Australian. (woman speaking)",
+   "ex": "Não, eu sou australiana.",
+   "tags": [
+    "dialogue",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "94d41efd3070",
+    "path": "audio/94d41efd3070.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Bem-vindo/a ao Brasil!",
+   "en": "Welcome to Brazil! (m./f.)",
+   "ex": "Bem-vinda ao Brasil!",
+   "tags": [
+    "dialogue",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "f4607edcd63f",
+    "path": "audio/f4607edcd63f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Legal!",
+   "en": "Cool!",
+   "ex": "",
+   "tags": [
+    "dialogue",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "af081635dbbd",
+    "path": "audio/af081635dbbd.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Eu falo um pouco de português.",
+   "en": "I speak a little Portuguese.",
+   "ex": "",
+   "tags": [
+    "classroom",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "1dc9c03f7e33",
+    "path": "audio/1dc9c03f7e33.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Estou aprendendo português.",
+   "en": "I'm learning Portuguese.",
+   "ex": "",
+   "tags": [
+    "classroom",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "ed0b847d9f35",
+    "path": "audio/ed0b847d9f35.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Fale mais devagar.",
+   "en": "Speak more slowly.",
+   "ex": "",
+   "tags": [
+    "classroom",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "67b45fd69b5a",
+    "path": "audio/67b45fd69b5a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Parabéns!",
+   "en": "Congratulations!",
+   "ex": "",
+   "tags": [
+    "classroom",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "196ba5cdc3c6",
+    "path": "audio/196ba5cdc3c6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
+  },
+  {
+   "pt": "Muito bem!",
+   "en": "Very good!",
+   "ex": "",
+   "tags": [
+    "classroom",
+    "lesson 1"
+   ],
+   "chapter": "Essential Expressions",
+   "audio": {
+    "key": "c81e4596b83f",
+    "path": "audio/c81e4596b83f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   }
  ],
  "notes": [
