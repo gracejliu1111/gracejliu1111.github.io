@@ -261,6 +261,16 @@ input:focus,textarea:focus,select:focus{border-color:var(--accent); outline:none
           font-variant-numeric:tabular-nums; min-width:34px}
 .rechint{font-family:var(--ui); font-size:11px; color:var(--ink-3)}
 
+/* ---------- record-over confirmation ----------
+   The prompt floats above the button instead of sitting in the row: inline text
+   would widen the actions and slide the button out from under the second tap. */
+.rec.armed{border-color:var(--clay); background:var(--clay-soft)}
+.acts, .alacts{position:relative}
+.recq{position:absolute; bottom:100%; right:0; margin-bottom:7px;
+  background:var(--clay-soft); color:var(--clay); border:1px solid var(--clay);
+  font-family:var(--ui); font-size:11.5px; font-weight:600; white-space:nowrap;
+  padding:3px 9px; border-radius:6px; z-index:5; pointer-events:none}
+
 /* ---------- delete confirmation ---------- */
 .confirm{display:flex; align-items:center; gap:9px; flex-wrap:wrap; justify-content:flex-end}
 .confirm .q{font-family:var(--ui); font-size:12.5px; color:var(--clay); font-weight:600}
@@ -645,7 +655,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
 (function(){
 "use strict";
 
-var BUILD="20260830-224659";
+var BUILD="20260830-230659";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -826,6 +836,7 @@ function fillChapterSelect(sel, allLabel, keepAlphabet){
 /* ---------- nav ---------- */
 function go(name){
   pendingDel=null; pendingNoteDel=null; pendingSessDel=null;
+  if(typeof disarmRecorder==="function") disarmRecorder();
   var vs=document.querySelectorAll(".view");
   for(var i=0;i<vs.length;i++) vs[i].classList.toggle("on", vs[i].id==="v-"+name);
   var bs=document.querySelectorAll(".navbtn");
@@ -1521,6 +1532,7 @@ function saveClip(w, blob, ext, type){
   var key=uid(), path="audio/"+key+"."+ext;
   w.audio={key:key, path:path, type:type};
   idb.put(key, blob);
+  disarmRecorder();
   var files={}; files[path]={content:blob, contentType:type};
   queueSave(files);
   if(openChapter) renderChapterDetail();
@@ -1529,6 +1541,27 @@ function saveClip(w, blob, ext, type){
 }
 
 /* hold to record; a quick tap latches it on until the next tap */
+var armedRec=null, armTimer=null;
+function disarmRecorder(){
+  clearTimeout(armTimer); armTimer=null;
+  if(!armedRec) return;
+  var prev=armedRec; armedRec=null;
+  document.querySelectorAll('[data-rec="'+prev+'"]').forEach(function(el){ el.classList.remove("armed"); });
+  document.querySelectorAll(".recq").forEach(function(el){ el.parentNode.removeChild(el); });
+}
+function armRecorder(btn, w){
+  disarmRecorder();
+  armedRec=w.id;
+  document.querySelectorAll('[data-rec="'+w.id+'"]').forEach(function(el){
+    el.classList.add("armed");
+    var host=el.parentNode; if(!host) return;
+    var tip=document.createElement("span");
+    tip.className="recq"; tip.textContent="Replace recording? Tap again";
+    host.appendChild(tip);        // absolutely positioned, so nothing in the row moves
+  });
+  armTimer=setTimeout(disarmRecorder, 6000);   // forget about it if she walks away
+}
+
 function bindRecorders(root){
   if(!root) return;
   root.addEventListener("pointerdown", function(e){
@@ -1536,12 +1569,22 @@ function bindRecorders(root){
     e.preventDefault();
     if(recState.id===b.dataset.rec && recState.latched){ stopRec(); return; }  // tap again to stop
     if(recState.id) return;                                                    // already recording elsewhere
+
+    // A word that already has a recording does not start capturing on one
+    // click — Fred's clips are not replaceable by accident.
+    var w=state.vocab.filter(function(x){ return x.id===b.dataset.rec; })[0];
+    if(w && w.audio && armedRec!==b.dataset.rec){
+      armRecorder(b, w);
+      return;
+    }
+    disarmRecorder();
     try{ b.setPointerCapture(e.pointerId); }catch(err){}
     startRec(b.dataset.rec, b);
   });
   function release(e){
     var b=e.target.closest("[data-rec]"); if(!b) return;
     if(recState.id!==b.dataset.rec) return;
+    if(armedRec===b.dataset.rec && !recState.t0) return;
     if(Date.now()-recState.t0 < 400 || !recState.t0){
       recState.latched=true;                    // quick tap → keep going until next tap
       var t=recTimerEl(recState.id);
