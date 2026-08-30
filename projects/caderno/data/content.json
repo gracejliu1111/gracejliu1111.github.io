@@ -1,6 +1,6 @@
 {
- "version": 3,
- "note": "Added Lesson 2 — People and the Family",
+ "version": 5,
+ "note": "Added Lessons 2 to 5 — new words arrive 15 a day",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -13,6 +13,24 @@
    "num": "2",
    "title": "People and the Family",
    "pages": "24–42"
+  },
+  {
+   "id": "ch-licao-3",
+   "num": "3",
+   "title": "Numbers and Plurals",
+   "pages": "43–59"
+  },
+  {
+   "id": "ch-licao-4",
+   "num": "4",
+   "title": "Around the House",
+   "pages": "60–77"
+  },
+  {
+   "id": "ch-licao-5",
+   "num": "5",
+   "title": "Describing People and Things",
+   "pages": "78–93"
   }
  ],
  "vocab": [
@@ -1380,7 +1398,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "o pai",
@@ -1390,7 +1410,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "o irmão",
@@ -1400,7 +1422,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "a irmã",
@@ -1410,7 +1434,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "o professor",
@@ -1420,7 +1446,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "a professora",
@@ -1430,7 +1458,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "o estudante",
@@ -1440,7 +1470,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "o homem",
@@ -1450,7 +1482,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "a mulher",
@@ -1460,7 +1494,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "o marido",
@@ -1470,7 +1506,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "a esposa",
@@ -1480,7 +1518,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "o amigo",
@@ -1490,7 +1530,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "a amiga",
@@ -1500,7 +1542,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "o menino",
@@ -1510,7 +1554,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "a menina",
@@ -1520,7 +1566,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-30",
+   "box": 0
   },
   {
    "pt": "a pessoa",
@@ -1530,7 +1578,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "a casa",
@@ -1540,7 +1590,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "o escritório",
@@ -1550,7 +1602,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "o médico",
@@ -1560,7 +1614,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "a médica",
@@ -1570,7 +1626,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "a filha",
@@ -1580,7 +1638,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "o filho",
@@ -1590,7 +1650,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "o vizinho",
@@ -1600,7 +1662,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "a vizinha",
@@ -1610,7 +1674,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "o primo",
@@ -1620,7 +1686,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "a prima",
@@ -1630,7 +1698,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "o brasileiro",
@@ -1640,7 +1710,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "a brasileira",
@@ -1650,7 +1722,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "o americano",
@@ -1660,7 +1734,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "a americana",
@@ -1670,7 +1746,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-08-31",
+   "box": 0
   },
   {
    "pt": "o enfermeiro",
@@ -1680,7 +1758,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "a enfermeira",
@@ -1690,7 +1770,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "o apartamento",
@@ -1700,7 +1782,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "a água",
@@ -1710,7 +1794,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "a praia",
@@ -1720,7 +1806,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "o relógio",
@@ -1730,7 +1818,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "a rua",
@@ -1740,7 +1830,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "o copo",
@@ -1750,7 +1842,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "a mesa",
@@ -1760,7 +1854,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "o livro",
@@ -1770,7 +1866,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "o café",
@@ -1780,7 +1878,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "o açúcar",
@@ -1790,7 +1890,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "o giz",
@@ -1800,7 +1902,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "o restaurante",
@@ -1810,7 +1914,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "o anel",
@@ -1820,7 +1926,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-01",
+   "box": 0
   },
   {
    "pt": "o motor",
@@ -1830,7 +1938,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "a noite",
@@ -1840,7 +1950,9 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "um",
@@ -1850,7 +1962,9 @@
     "números",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "uma",
@@ -1860,7 +1974,9 @@
     "números",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "dois",
@@ -1870,7 +1986,9 @@
     "números",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "duas",
@@ -1880,7 +1998,9 @@
     "números",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "o melhor amigo",
@@ -1890,7 +2010,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "o avô",
@@ -1900,7 +2022,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "a avó",
@@ -1910,7 +2034,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "o sogro",
@@ -1920,7 +2046,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "a sogra",
@@ -1930,7 +2058,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "o cunhado",
@@ -1940,7 +2070,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "a cunhada",
@@ -1950,7 +2082,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "o genro",
@@ -1960,7 +2094,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "a nora",
@@ -1970,7 +2106,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-02",
+   "box": 0
   },
   {
    "pt": "o enteado",
@@ -1980,7 +2118,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "a enteada",
@@ -1990,7 +2130,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "o padrasto",
@@ -2000,7 +2142,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "a madrasta",
@@ -2010,7 +2154,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "o colega",
@@ -2020,7 +2166,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "a colega",
@@ -2030,7 +2178,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "o gerente",
@@ -2040,7 +2190,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "a gerente",
@@ -2050,7 +2202,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "o telefone celular",
@@ -2060,7 +2214,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "o correio eletrônico",
@@ -2070,7 +2226,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "o cartão postal",
@@ -2080,7 +2238,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "o recepcionista",
@@ -2090,7 +2250,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "a recepcionista",
@@ -2100,7 +2262,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "o tio",
@@ -2110,7 +2274,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "a tia",
@@ -2120,7 +2286,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-03",
+   "box": 0
   },
   {
    "pt": "o nome",
@@ -2130,7 +2298,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "o sobrenome",
@@ -2140,7 +2310,9 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "há",
@@ -2150,7 +2322,9 @@
     "gramática",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "não há",
@@ -2160,7 +2334,9 @@
     "gramática",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "aqui",
@@ -2170,7 +2346,9 @@
     "gramática",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "ali",
@@ -2180,7 +2358,9 @@
     "gramática",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "lá",
@@ -2190,7 +2370,9 @@
     "gramática",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "e",
@@ -2200,7 +2382,9 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "também",
@@ -2210,7 +2394,9 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "é claro",
@@ -2220,7 +2406,9 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "é",
@@ -2230,7 +2418,9 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "vários",
@@ -2240,7 +2430,9 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "várias",
@@ -2250,7 +2442,9 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "o quarto",
@@ -2259,7 +2453,9 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "a mala",
@@ -2268,7 +2464,9 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-04",
+   "box": 0
   },
   {
    "pt": "o jornal",
@@ -2277,7 +2475,9 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-05",
+   "box": 0
   },
   {
    "pt": "o carro",
@@ -2286,7 +2486,9 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-05",
+   "box": 0
   },
   {
    "pt": "o hotel",
@@ -2295,7 +2497,9 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-05",
+   "box": 0
   },
   {
    "pt": "o cachorro",
@@ -2304,7 +2508,9 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-05",
+   "box": 0
   },
   {
    "pt": "a família",
@@ -2313,7 +2519,9 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-05",
+   "box": 0
   },
   {
    "pt": "a ilha",
@@ -2322,7 +2530,3221 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "due": "2026-09-05",
+   "box": 0
+  },
+  {
+   "pt": "três",
+   "en": "three",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-05",
+   "box": 0
+  },
+  {
+   "pt": "quatro",
+   "en": "four",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-05",
+   "box": 0
+  },
+  {
+   "pt": "cinco",
+   "en": "five",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-05",
+   "box": 0
+  },
+  {
+   "pt": "seis",
+   "en": "six",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-05",
+   "box": 0
+  },
+  {
+   "pt": "sete",
+   "en": "seven",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-05",
+   "box": 0
+  },
+  {
+   "pt": "oito",
+   "en": "eight",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-05",
+   "box": 0
+  },
+  {
+   "pt": "nove",
+   "en": "nine",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-05",
+   "box": 0
+  },
+  {
+   "pt": "dez",
+   "en": "ten",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-05",
+   "box": 0
+  },
+  {
+   "pt": "onze",
+   "en": "eleven",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-05",
+   "box": 0
+  },
+  {
+   "pt": "doze",
+   "en": "twelve",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "treze",
+   "en": "thirteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "quatorze",
+   "en": "fourteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "quinze",
+   "en": "fifteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "dezesseis",
+   "en": "sixteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "dezessete",
+   "en": "seventeen",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "dezoito",
+   "en": "eighteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "dezenove",
+   "en": "nineteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "vinte",
+   "en": "twenty",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "vinte e um",
+   "en": "twenty-one (m.)",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "vinte e uma",
+   "en": "twenty-one (f.)",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "vinte e dois",
+   "en": "twenty-two (m.)",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "vinte e duas",
+   "en": "twenty-two (f.)",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "trinta",
+   "en": "thirty",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "quarenta",
+   "en": "forty",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-06",
+   "box": 0
+  },
+  {
+   "pt": "cinquenta",
+   "en": "fifty",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "sessenta",
+   "en": "sixty",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "setenta",
+   "en": "seventy",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "oitenta",
+   "en": "eighty",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "noventa",
+   "en": "ninety",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "cem",
+   "en": "one hundred",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "cento e um",
+   "en": "one hundred and one",
+   "ex": "",
+   "tags": [
+    "números",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "uns",
+   "en": "some (m. pl.)",
+   "ex": "uns monumentos — some monuments",
+   "tags": [
+    "artigos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "umas",
+   "en": "some (f. pl.)",
+   "ex": "umas chaves — some keys",
+   "tags": [
+    "artigos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "os",
+   "en": "the (m. pl.)",
+   "ex": "os livros — the books",
+   "tags": [
+    "artigos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "as",
+   "en": "the (f. pl.)",
+   "ex": "as laranjas — the oranges",
+   "tags": [
+    "artigos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "a criança",
+   "en": "the child",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "a maçã",
+   "en": "the apple",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "o ovo",
+   "en": "the egg",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "a chave",
+   "en": "the key",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-07",
+   "box": 0
+  },
+  {
+   "pt": "o monumento",
+   "en": "the monument",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "o gato",
+   "en": "the cat",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "o rádio",
+   "en": "the radio",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "a caneta",
+   "en": "the pen",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "a revista",
+   "en": "the magazine",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "o sorvete",
+   "en": "the ice-cream",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "a fotografia",
+   "en": "the photograph",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "o cão",
+   "en": "the dog",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "a mão",
+   "en": "the hand",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "o avião",
+   "en": "the airplane",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "o doutor",
+   "en": "the doctor",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "a laranja",
+   "en": "the orange",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "o mapa",
+   "en": "the map",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "o turista",
+   "en": "the tourist",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "o cliente",
+   "en": "the client",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-08",
+   "box": 0
+  },
+  {
+   "pt": "o banco",
+   "en": "the bank",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "a porta",
+   "en": "the door",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "a janela",
+   "en": "the window",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "a raquete",
+   "en": "the racquet",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "a bola",
+   "en": "the ball",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "a aspirina",
+   "en": "the aspirin",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "o protetor solar",
+   "en": "the sun block",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "o tênis",
+   "en": "tennis",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "o problema",
+   "en": "the problem",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "o dinheiro",
+   "en": "money",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "o cartão de crédito",
+   "en": "the credit card",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "o saco",
+   "en": "the bag",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "a mensagem",
+   "en": "the message",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "a rosa",
+   "en": "the rose",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "a classe",
+   "en": "the class",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-09",
+   "box": 0
+  },
+  {
+   "pt": "ter",
+   "en": "to have",
+   "ex": "",
+   "tags": [
+    "verbo ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "eu tenho",
+   "en": "I have",
+   "ex": "",
+   "tags": [
+    "verbo ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "você tem",
+   "en": "you have",
+   "ex": "",
+   "tags": [
+    "verbo ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "ele tem",
+   "en": "he has",
+   "ex": "",
+   "tags": [
+    "verbo ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "ela tem",
+   "en": "she has",
+   "ex": "",
+   "tags": [
+    "verbo ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "nós temos",
+   "en": "we have",
+   "ex": "",
+   "tags": [
+    "verbo ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "vocês têm",
+   "en": "you have (pl.)",
+   "ex": "",
+   "tags": [
+    "verbo ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "eles têm",
+   "en": "they have (m.)",
+   "ex": "",
+   "tags": [
+    "verbo ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "elas têm",
+   "en": "they have (f.)",
+   "ex": "",
+   "tags": [
+    "verbo ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "eu",
+   "en": "I",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "você",
+   "en": "you",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "ele",
+   "en": "he",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "ela",
+   "en": "she",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "nós",
+   "en": "we",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "vocês",
+   "en": "you (pl.)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-10",
+   "box": 0
+  },
+  {
+   "pt": "eles",
+   "en": "they (m.)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "elas",
+   "en": "they (f.)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "ter sorte",
+   "en": "to have luck / to be lucky",
+   "ex": "",
+   "tags": [
+    "expressões com ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "ter azar",
+   "en": "to have bad luck",
+   "ex": "",
+   "tags": [
+    "expressões com ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "ter um problema",
+   "en": "to have a problem",
+   "ex": "",
+   "tags": [
+    "expressões com ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "ter sede",
+   "en": "to be thirsty",
+   "ex": "",
+   "tags": [
+    "expressões com ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "ter fome",
+   "en": "to be hungry",
+   "ex": "",
+   "tags": [
+    "expressões com ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "ter sono",
+   "en": "to be sleepy",
+   "ex": "",
+   "tags": [
+    "expressões com ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "ter medo",
+   "en": "to be afraid",
+   "ex": "",
+   "tags": [
+    "expressões com ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "ter tempo",
+   "en": "to have time",
+   "ex": "",
+   "tags": [
+    "expressões com ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "Tenha um bom dia!",
+   "en": "Have a nice day!",
+   "ex": "",
+   "tags": [
+    "expressões com ter",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "a lição de casa",
+   "en": "homework",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "a dor de cabeça",
+   "en": "headache",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "a dor nas costas",
+   "en": "backache",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "a dor de dente",
+   "en": "toothache",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-11",
+   "box": 0
+  },
+  {
+   "pt": "a casa de praia",
+   "en": "beach house",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "Sinto muito.",
+   "en": "I'm sorry.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "Ótimo!",
+   "en": "Great!",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "Aqui está.",
+   "en": "Here it is.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "Não tem problema.",
+   "en": "No problem.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "Vamos jogar tênis?",
+   "en": "Let's play tennis?",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "depois",
+   "en": "after",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 3"
+   ],
+   "chapterId": "ch-licao-3",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "a garagem",
+   "en": "the garage",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "a gaveta",
+   "en": "the drawer",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "a toalha",
+   "en": "the towel",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "o banheiro",
+   "en": "the bathroom",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "o sapato",
+   "en": "the shoe",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "o armário",
+   "en": "the closet",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "a poltrona",
+   "en": "the armchair",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "a estante",
+   "en": "the bookcase",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-12",
+   "box": 0
+  },
+  {
+   "pt": "o vaso",
+   "en": "the vase",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "a piscina",
+   "en": "the swimming pool",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "o quintal",
+   "en": "the backyard",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "a cama",
+   "en": "the bed",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "a sala de estar",
+   "en": "the living room",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "a geladeira",
+   "en": "the refrigerator",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "a cozinha",
+   "en": "the kitchen",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "a garrafa",
+   "en": "the bottle",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "o jardim",
+   "en": "the garden",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "a escola",
+   "en": "the school",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "o parque",
+   "en": "the park",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "a estação",
+   "en": "the station",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "a flor",
+   "en": "the flower",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "a árvore",
+   "en": "the tree",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "o terraço",
+   "en": "the terrace",
+   "ex": "",
+   "tags": [
+    "em casa",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-13",
+   "box": 0
+  },
+  {
+   "pt": "estar",
+   "en": "to be (temporary)",
+   "ex": "",
+   "tags": [
+    "verbo estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "eu estou",
+   "en": "I am",
+   "ex": "",
+   "tags": [
+    "verbo estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "você está",
+   "en": "you are",
+   "ex": "",
+   "tags": [
+    "verbo estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "ele está",
+   "en": "he is",
+   "ex": "",
+   "tags": [
+    "verbo estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "ela está",
+   "en": "she is",
+   "ex": "",
+   "tags": [
+    "verbo estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "nós estamos",
+   "en": "we are",
+   "ex": "",
+   "tags": [
+    "verbo estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "vocês estão",
+   "en": "you are (pl.)",
+   "ex": "",
+   "tags": [
+    "verbo estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "eles estão",
+   "en": "they are (m.)",
+   "ex": "",
+   "tags": [
+    "verbo estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "elas estão",
+   "en": "they are (f.)",
+   "ex": "",
+   "tags": [
+    "verbo estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "em",
+   "en": "at / on / in",
+   "ex": "",
+   "tags": [
+    "preposição em",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "no",
+   "en": "in / on the (m. sg.)",
+   "ex": "no jardim — in the garden",
+   "tags": [
+    "preposição em",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "na",
+   "en": "in / on the (f. sg.)",
+   "ex": "na gaveta — in the drawer",
+   "tags": [
+    "preposição em",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "nos",
+   "en": "in / on the (m. pl.)",
+   "ex": "nos escritórios — in the offices",
+   "tags": [
+    "preposição em",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "nas",
+   "en": "in / on the (f. pl.)",
+   "ex": "nas estantes — in the bookcases",
+   "tags": [
+    "preposição em",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "em cima",
+   "en": "on top of / above",
+   "ex": "Há um terraço em cima.",
+   "tags": [
+    "preposição em",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-14",
+   "box": 0
+  },
+  {
+   "pt": "embaixo",
+   "en": "under / below",
+   "ex": "O gato está embaixo da mesa.",
+   "tags": [
+    "preposição em",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "em frente",
+   "en": "in front of",
+   "ex": "Há árvores em frente.",
+   "tags": [
+    "preposição em",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "a bicicleta",
+   "en": "the bicycle",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "a calçada",
+   "en": "the sidewalk",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "o lenço",
+   "en": "the handkerchief",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "a bolsa",
+   "en": "the handbag",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "a carteira",
+   "en": "the wallet",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "o bolso",
+   "en": "the pocket",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "o computador",
+   "en": "the computer",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "a escrivaninha",
+   "en": "the desk",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "o endereço",
+   "en": "the address",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "o trabalho",
+   "en": "work",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "a fazenda",
+   "en": "the farm",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "a prateleira",
+   "en": "the shelf",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "a festa de aniversário",
+   "en": "the birthday party",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-15",
+   "box": 0
+  },
+  {
+   "pt": "o papel",
+   "en": "the paper",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "em ordem",
+   "en": "in order",
+   "ex": "",
+   "tags": [
+    "objetos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "meu / minha",
+   "en": "my",
+   "ex": "",
+   "tags": [
+    "possessivos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "meus / minhas",
+   "en": "my (pl.)",
+   "ex": "",
+   "tags": [
+    "possessivos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "seu / sua",
+   "en": "your",
+   "ex": "",
+   "tags": [
+    "possessivos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "seus / suas",
+   "en": "your (pl.)",
+   "ex": "",
+   "tags": [
+    "possessivos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "nosso / nossa",
+   "en": "our",
+   "ex": "",
+   "tags": [
+    "possessivos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "nossos / nossas",
+   "en": "our (pl.)",
+   "ex": "",
+   "tags": [
+    "possessivos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "dele",
+   "en": "his",
+   "ex": "",
+   "tags": [
+    "possessivos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "dela",
+   "en": "her",
+   "ex": "",
+   "tags": [
+    "possessivos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "deles",
+   "en": "their (m. or mixed)",
+   "ex": "",
+   "tags": [
+    "possessivos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "delas",
+   "en": "their (f.)",
+   "ex": "",
+   "tags": [
+    "possessivos",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "estar com sede",
+   "en": "to be thirsty",
+   "ex": "",
+   "tags": [
+    "expressões com estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "estar com fome",
+   "en": "to be hungry",
+   "ex": "",
+   "tags": [
+    "expressões com estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "estar com frio",
+   "en": "to be cold",
+   "ex": "",
+   "tags": [
+    "expressões com estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-16",
+   "box": 0
+  },
+  {
+   "pt": "estar com sono",
+   "en": "to be sleepy",
+   "ex": "",
+   "tags": [
+    "expressões com estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "estar com calor",
+   "en": "to be hot",
+   "ex": "",
+   "tags": [
+    "expressões com estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "estar com pressa",
+   "en": "to be in a hurry",
+   "ex": "",
+   "tags": [
+    "expressões com estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "estar com medo",
+   "en": "to be afraid",
+   "ex": "",
+   "tags": [
+    "expressões com estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "estar com vergonha",
+   "en": "to be embarrassed",
+   "ex": "",
+   "tags": [
+    "expressões com estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "estar com dor de cabeça",
+   "en": "to have a headache",
+   "ex": "",
+   "tags": [
+    "expressões com estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "estar com febre",
+   "en": "to have a fever",
+   "ex": "",
+   "tags": [
+    "expressões com estar",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "está chovendo",
+   "en": "it's raining",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "está ventando",
+   "en": "it's windy",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "está nevando",
+   "en": "it's snowing",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "está ensolarado",
+   "en": "it's sunny",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "está nublado",
+   "en": "it's overcast",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "limpo",
+   "en": "clean",
+   "ex": "",
+   "tags": [
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "feliz",
+   "en": "happy",
+   "ex": "",
+   "tags": [
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "triste",
+   "en": "sad",
+   "ex": "",
+   "tags": [
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-17",
+   "box": 0
+  },
+  {
+   "pt": "aí",
+   "en": "there (near you)",
+   "ex": "",
+   "tags": [
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "a vovó",
+   "en": "grandma",
+   "ex": "",
+   "tags": [
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "querido / querida",
+   "en": "dear",
+   "ex": "",
+   "tags": [
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "Acho que…",
+   "en": "I think that…",
+   "ex": "",
+   "tags": [
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "Que legal!",
+   "en": "Cool!",
+   "ex": "",
+   "tags": [
+    "lição 4"
+   ],
+   "chapterId": "ch-licao-4",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "vermelho",
+   "en": "red",
+   "ex": "",
+   "tags": [
+    "cores",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "amarelo",
+   "en": "yellow",
+   "ex": "",
+   "tags": [
+    "cores",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "azul",
+   "en": "blue",
+   "ex": "",
+   "tags": [
+    "cores",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "verde",
+   "en": "green",
+   "ex": "",
+   "tags": [
+    "cores",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "cor-de-rosa",
+   "en": "pink",
+   "ex": "",
+   "tags": [
+    "cores",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "laranja",
+   "en": "orange (colour)",
+   "ex": "",
+   "tags": [
+    "cores",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "preto",
+   "en": "black",
+   "ex": "",
+   "tags": [
+    "cores",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "branco",
+   "en": "white",
+   "ex": "",
+   "tags": [
+    "cores",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "marrom",
+   "en": "brown",
+   "ex": "",
+   "tags": [
+    "cores",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "cinza",
+   "en": "gray",
+   "ex": "",
+   "tags": [
+    "cores",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-18",
+   "box": 0
+  },
+  {
+   "pt": "roxo",
+   "en": "purple",
+   "ex": "",
+   "tags": [
+    "cores",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "o tomate",
+   "en": "the tomato",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "a banana",
+   "en": "the banana",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "o céu",
+   "en": "the sky",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "o mar",
+   "en": "the sea",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "o pássaro",
+   "en": "the bird",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "a cadeira",
+   "en": "the chair",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "o filme",
+   "en": "the movie",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "o cavalo",
+   "en": "the horse",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "o portão",
+   "en": "the gate",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "a camiseta",
+   "en": "the t-shirt",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "o casaco",
+   "en": "the coat",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "a cidade",
+   "en": "the city",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "os óculos",
+   "en": "the glasses",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "a montanha",
+   "en": "the mountain",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-19",
+   "box": 0
+  },
+  {
+   "pt": "o país",
+   "en": "the country",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "o prédio",
+   "en": "the building",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "o sofá",
+   "en": "the sofa",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "o aluno",
+   "en": "the student",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "as férias",
+   "en": "vacation",
+   "ex": "",
+   "tags": [
+    "substantivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "pequeno",
+   "en": "small",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "grande",
+   "en": "big",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "jovem",
+   "en": "young",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "bom",
+   "en": "good",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "mau",
+   "en": "bad",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "ruim",
+   "en": "bad",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "magro",
+   "en": "thin",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "baixo",
+   "en": "short",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "alto",
+   "en": "tall / high",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "forte",
+   "en": "strong",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-20",
+   "box": 0
+  },
+  {
+   "pt": "novo",
+   "en": "new / young",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "velho",
+   "en": "old",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "moderno",
+   "en": "modern",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "bonito",
+   "en": "beautiful",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "confortável",
+   "en": "comfortable",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "médio",
+   "en": "medium-size",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "limpo",
+   "en": "clean",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "ser",
+   "en": "to be (inherent)",
+   "ex": "",
+   "tags": [
+    "verbo ser",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "eu sou",
+   "en": "I am",
+   "ex": "",
+   "tags": [
+    "verbo ser",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "você é",
+   "en": "you are",
+   "ex": "",
+   "tags": [
+    "verbo ser",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "ele é",
+   "en": "he is",
+   "ex": "",
+   "tags": [
+    "verbo ser",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "ela é",
+   "en": "she is",
+   "ex": "",
+   "tags": [
+    "verbo ser",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "nós somos",
+   "en": "we are",
+   "ex": "",
+   "tags": [
+    "verbo ser",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "vocês são",
+   "en": "you are (pl.)",
+   "ex": "",
+   "tags": [
+    "verbo ser",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "eles são",
+   "en": "they are (m.)",
+   "ex": "",
+   "tags": [
+    "verbo ser",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-21",
+   "box": 0
+  },
+  {
+   "pt": "elas são",
+   "en": "they are (f.)",
+   "ex": "",
+   "tags": [
+    "verbo ser",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "de",
+   "en": "of / from",
+   "ex": "Eu sou de Nova Iorque.",
+   "tags": [
+    "preposição de",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "do",
+   "en": "of / from the (m. sg.)",
+   "ex": "O carro é do Paulo.",
+   "tags": [
+    "preposição de",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "da",
+   "en": "of / from the (f. sg.)",
+   "ex": "Ele está na casa da Maria.",
+   "tags": [
+    "preposição de",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "dos",
+   "en": "of / from the (m. pl.)",
+   "ex": "no oeste dos Estados Unidos",
+   "tags": [
+    "preposição de",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "das",
+   "en": "of / from the (f. pl.)",
+   "ex": "",
+   "tags": [
+    "preposição de",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "brasileiro",
+   "en": "Brazilian",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "americano",
+   "en": "American",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "australiano",
+   "en": "Australian",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "alemão",
+   "en": "German",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "japonês",
+   "en": "Japanese",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "argentino",
+   "en": "Argentine",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "muito",
+   "en": "very / a lot",
+   "ex": "",
+   "tags": [
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "como",
+   "en": "like / as",
+   "ex": "",
+   "tags": [
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "o oeste",
+   "en": "the west",
+   "ex": "",
+   "tags": [
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-22",
+   "box": 0
+  },
+  {
+   "pt": "os Estados Unidos",
+   "en": "the United States",
+   "ex": "",
+   "tags": [
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-23",
+   "box": 0
+  },
+  {
+   "pt": "o arquiteto",
+   "en": "the architect",
+   "ex": "",
+   "tags": [
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-23",
+   "box": 0
+  },
+  {
+   "pt": "a flor",
+   "en": "the flower",
+   "ex": "",
+   "tags": [
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-23",
+   "box": 0
+  },
+  {
+   "pt": "Fantástico!",
+   "en": "Fantastic!",
+   "ex": "",
+   "tags": [
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-23",
+   "box": 0
+  },
+  {
+   "pt": "Excelente!",
+   "en": "Excellent!",
+   "ex": "",
+   "tags": [
+    "lição 5"
+   ],
+   "chapterId": "ch-licao-5",
+   "due": "2026-09-23",
+   "box": 0
   }
  ],
  "notes": [
@@ -3607,6 +7029,2956 @@
       "talk about people (unsure? p. 30)",
       "use there is and there are (unsure? p. 33)",
       "tell someone about your family (unsure? p. 36)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Lesson goals",
+   "source": "p. 43",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Oi! In this lesson you'll learn how to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "count",
+      "use a/an and some",
+      "form plurals in Portuguese",
+      "use the verb ter (to have)",
+      "put it all together in a short conversation"
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Adiante! — Go ahead!"
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Numbers 1 to 20",
+   "source": "p. 44 · CD 1, track 20",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "um / uma",
+       "one (m. / f.)"
+      ],
+      [
+       "dois / duas",
+       "two (m. / f.)"
+      ],
+      [
+       "três",
+       "three"
+      ],
+      [
+       "quatro",
+       "four"
+      ],
+      [
+       "cinco",
+       "five"
+      ],
+      [
+       "seis",
+       "six"
+      ],
+      [
+       "sete",
+       "seven"
+      ],
+      [
+       "oito",
+       "eight"
+      ],
+      [
+       "nove",
+       "nine"
+      ],
+      [
+       "dez",
+       "ten"
+      ],
+      [
+       "onze",
+       "eleven"
+      ],
+      [
+       "doze",
+       "twelve"
+      ],
+      [
+       "treze",
+       "thirteen"
+      ],
+      [
+       "quatorze",
+       "fourteen"
+      ],
+      [
+       "quinze",
+       "fifteen"
+      ],
+      [
+       "dezesseis",
+       "sixteen"
+      ],
+      [
+       "dezessete",
+       "seventeen"
+      ],
+      [
+       "dezoito",
+       "eighteen"
+      ],
+      [
+       "dezenove",
+       "nineteen"
+      ],
+      [
+       "vinte",
+       "twenty"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Only one and two change with gender. Everything from três upward has a single form."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Indefinite articles, and forming the plural",
+   "source": "pp. 46–47 · CD 1, track 21",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "You already have o and a (the). Now the indefinite articles um and uma (a / an)."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "um",
+       "a / an (m. sg.)"
+      ],
+      [
+       "uma",
+       "a / an (f. sg.)"
+      ],
+      [
+       "um homem",
+       "a man"
+      ],
+      [
+       "uma criança",
+       "a child"
+      ],
+      [
+       "uma maçã",
+       "an apple"
+      ],
+      [
+       "um ovo",
+       "an egg"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Their plurals mean some"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "uns",
+       "some (m. pl.)"
+      ],
+      [
+       "umas",
+       "some (f. pl.)"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "And o and a have plurals too"
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "the book",
+       "o livro",
+       "os livros"
+      ],
+      [
+       "the orange",
+       "a laranja",
+       "as laranjas"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Most nouns ending in a vowel: add –s"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "umas chaves",
+       "some keys"
+      ],
+      [
+       "uns monumentos",
+       "some monuments"
+      ],
+      [
+       "os gatos",
+       "the cats"
+      ],
+      [
+       "os rádios",
+       "the radios"
+      ],
+      [
+       "as xícaras",
+       "the cups"
+      ],
+      [
+       "os clientes",
+       "the clients"
+      ],
+      [
+       "as canetas",
+       "the pens"
+      ],
+      [
+       "as revistas",
+       "the magazines"
+      ],
+      [
+       "os sorvetes",
+       "the ice-creams"
+      ],
+      [
+       "as mesas",
+       "the tables"
+      ],
+      [
+       "as fotografias",
+       "the photographs"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The exceptions"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Ending",
+      "Rule",
+      "Example"
+     ],
+     "rows": [
+      [
+       "–ão",
+       "three possible plurals, learn each one",
+       "o cão → os cães; a mão → as mãos; o avião → os aviões"
+      ],
+      [
+       "–m",
+       "–m becomes –ns",
+       "o homem → os homens"
+      ],
+      [
+       "–r, –z, –s",
+       "add –es",
+       "o doutor → os doutores"
+      ],
+      [
+       "–l",
+       "drop the –l, add –is",
+       "o jornal → os jornais"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Pronouncing s",
+   "source": "p. 48 · CD 1, track 22",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Spelling",
+      "Where",
+      "Sounds like",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "s",
+       "at the start of a word, or after a consonant",
+       "the s in see",
+       "saco (bag), mensagem (message)"
+      ],
+      [
+       "s",
+       "between vowels",
+       "the z in zipper",
+       "rosa (rose), mesa (table)"
+      ],
+      [
+       "s",
+       "before b, d, soft g, j, l, m, n, r, v or z",
+       "the z in zipper",
+       "mesmo (same), esmeralda (emerald)"
+      ],
+      [
+       "s",
+       "before hard c, hard g, f, p, q, t, and word-final",
+       "the s in see",
+       "esposa (wife), destino (destiny), canetas (pens)"
+      ],
+      [
+       "ss",
+       "always",
+       "the ss in message",
+       "classe (class), nosso (our)"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "In Rio de Janeiro a final s is pronounced like sh — canetas comes out [ka-NEH-tash] there, and [ka-NEH-tass] in São Paulo and most of the rest of Brazil. Listen to some Bossa Nova and you'll hear it."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Ter in sentences",
+   "source": "p. 49 · CD 1, track 23",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu tenho lição de casa.",
+       "I have homework."
+      ],
+      [
+       "Você tem dor de cabeça.",
+       "You have a headache."
+      ],
+      [
+       "Ele tem dor nas costas.",
+       "He has a backache."
+      ],
+      [
+       "Ela tem dor de dente.",
+       "She has a toothache."
+      ],
+      [
+       "Vocês têm uma casa de praia.",
+       "You have a beach house."
+      ],
+      [
+       "Eles têm vários cartões de crédito.",
+       "They have several credit cards."
+      ],
+      [
+       "Elas têm dinheiro.",
+       "They have money."
+      ],
+      [
+       "Ela tem cinco professores.",
+       "She has five teachers."
+      ],
+      [
+       "Vocês têm dez aviões.",
+       "You have ten airplanes."
+      ],
+      [
+       "Eles têm sete anéis.",
+       "They have seven rings."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Word stress",
+   "source": "pp. 49–50 · CD 1, track 24",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Words ending in –a, –e, –o, or the consonants –s, –m or –ns are usually stressed on the second-to-last syllable."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "gato",
+       "cat"
+      ],
+      [
+       "homem",
+       "man"
+      ],
+      [
+       "elefante",
+       "elephant"
+      ],
+      [
+       "garagem",
+       "garage"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Words ending in –i or –u (or –i/–u followed by –m or –s), or in a diphthong, are stressed on the last syllable."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "depois",
+       "after"
+      ],
+      [
+       "aqui",
+       "here"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "If a word follows neither rule, a written accent marks the stressed syllable. On í and ú the acute simply marks stress; on á, é and ó it marks stress and an open vowel. The circumflex on â, ê and ô marks a closed vowel. The grave accent, used only on à in certain contractions, doesn't change stress at all."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "fácil",
+       "easy"
+      ],
+      [
+       "música",
+       "music"
+      ],
+      [
+       "agradável",
+       "pleasant"
+      ],
+      [
+       "automóvel",
+       "automobile"
+      ],
+      [
+       "você",
+       "you"
+      ],
+      [
+       "cônsul",
+       "consul"
+      ],
+      [
+       "câmera",
+       "camera"
+      ],
+      [
+       "às",
+       "to the"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "A diphthong is two vowels making one sound together — the ei in seis (six) sounds like the a in hate."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Subject pronouns",
+   "source": "p. 51 · CD 1, track 25",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "I",
+       "eu"
+      ],
+      [
+       "you",
+       "você"
+      ],
+      [
+       "he",
+       "ele"
+      ],
+      [
+       "she",
+       "ela"
+      ],
+      [
+       "we",
+       "nós"
+      ],
+      [
+       "you (pl.)",
+       "vocês"
+      ],
+      [
+       "they (m.)",
+       "eles"
+      ],
+      [
+       "they (f.)",
+       "elas"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "They has a masculine and a feminine form: eles and elas. And Portuguese has no subject pronoun for it."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "The verb ter (to have)",
+   "source": "p. 52 · CD 1, track 25",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ter is irregular. The accent on the second and third person plural doesn't change the pronunciation."
+    },
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "I have",
+       "eu tenho"
+      ],
+      [
+       "you have",
+       "você tem"
+      ],
+      [
+       "he has",
+       "ele tem"
+      ],
+      [
+       "she has",
+       "ela tem"
+      ],
+      [
+       "we have",
+       "nós temos"
+      ],
+      [
+       "you have (pl.)",
+       "vocês têm"
+      ],
+      [
+       "they have (m.)",
+       "eles têm"
+      ],
+      [
+       "they have (f.)",
+       "elas têm"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "In sentences"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu tenho uma filha.",
+       "I have a daughter."
+      ],
+      [
+       "Você tem dois cães.",
+       "You have two dogs."
+      ],
+      [
+       "Ele tem três livros.",
+       "He has three books."
+      ],
+      [
+       "Nós temos quatro filhos.",
+       "We have four children."
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Filhos can mean four sons, or sons and daughters together. The same logic applies to friends: nós temos amigas is a group of women, while nós temos amigos is either all men or a mixed group."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Idiomatic expressions with ter",
+   "source": "p. 53",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Portuguese uses ter (to have) where English reaches for to be."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "ter sorte",
+       "to have luck / to be lucky"
+      ],
+      [
+       "ter azar",
+       "to have bad luck"
+      ],
+      [
+       "ter um problema",
+       "to have a problem"
+      ],
+      [
+       "ter sede",
+       "to be thirsty"
+      ],
+      [
+       "ter fome",
+       "to be hungry"
+      ],
+      [
+       "ter sono",
+       "to be sleepy"
+      ],
+      [
+       "ter medo",
+       "to be afraid"
+      ],
+      [
+       "ter tempo",
+       "to have time"
+      ],
+      [
+       "Tenha um bom dia!",
+       "Have a nice day!"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Ter in the negative, and questions",
+   "source": "p. 55 · CD 1, track 27",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Put não in front of the verb."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "eu não tenho",
+       "I don't have"
+      ],
+      [
+       "ele/ela não tem",
+       "he/she doesn't have"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "For questions, just add a question mark — no inversion, as in Lesson 2."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Você tem …?",
+       "Do you have …?"
+      ],
+      [
+       "Eles/Elas têm …?",
+       "Do they have …?"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Paulo and Sandra — a short conversation",
+   "source": "p. 54 · CD 1, track 26",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "The lesson closes with a short exchange between two friends about playing tennis. Rather than reproduce it, here are the lines that carry the lesson's grammar — ter in the affirmative, the negative and as a question — plus the everyday phrases around them."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu tenho duas raquetes.",
+       "I have two racquets."
+      ],
+      [
+       "Eu tenho umas bolas.",
+       "I have some balls."
+      ],
+      [
+       "Você tem uma aspirina? Eu tenho dor de cabeça.",
+       "Do you have an aspirin? I have a headache."
+      ],
+      [
+       "Não, eu não tenho aspirina.",
+       "No, I don't have an aspirin."
+      ],
+      [
+       "Você tem protetor solar?",
+       "Do you have sun block?"
+      ],
+      [
+       "Sim, tenho. Aqui está.",
+       "Yes, I do. Here it is."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The small change worth stealing"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Tudo bem?",
+       "How's everything?"
+      ],
+      [
+       "Vamos jogar tênis?",
+       "Let's play tennis?"
+      ],
+      [
+       "Ótimo!",
+       "Great!"
+      ],
+      [
+       "Sinto muito.",
+       "I'm sorry."
+      ],
+      [
+       "Não tem problema.",
+       "No problem."
+      ],
+      [
+       "Obrigado!",
+       "Thank you!"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Numbers 21 to 100",
+   "source": "pp. 57–58 · CD 1, track 28",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "vinte e um / uma",
+       "twenty-one"
+      ],
+      [
+       "vinte e dois / duas",
+       "twenty-two"
+      ],
+      [
+       "vinte e três",
+       "twenty-three"
+      ],
+      [
+       "trinta",
+       "thirty"
+      ],
+      [
+       "trinta e um / uma",
+       "thirty-one"
+      ],
+      [
+       "trinta e dois / duas",
+       "thirty-two"
+      ],
+      [
+       "trinta e três",
+       "thirty-three"
+      ],
+      [
+       "quarenta",
+       "forty"
+      ],
+      [
+       "cinquenta",
+       "fifty"
+      ],
+      [
+       "sessenta",
+       "sixty"
+      ],
+      [
+       "setenta",
+       "seventy"
+      ],
+      [
+       "oitenta",
+       "eighty"
+      ],
+      [
+       "noventa",
+       "ninety"
+      ],
+      [
+       "cem",
+       "one hundred"
+      ],
+      [
+       "cento e um / uma",
+       "one hundred and one"
+      ],
+      [
+       "cento e dois / duas",
+       "one hundred and two"
+      ],
+      [
+       "cento e três",
+       "one hundred and three"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Um and dois keep their masculine and feminine forms inside the bigger numbers too."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Há vinte e duas portas.",
+       "There are twenty-two doors."
+      ],
+      [
+       "A casa tem quarenta e duas janelas.",
+       "The house has forty-two windows."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Vocabulary Practice 1",
+   "source": "pp. 45–46",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Fill in each sentence with the right number.",
+     "items": [
+      {
+       "q": "Há ______ turistas. — There are twenty tourists.",
+       "a": "vinte"
+      },
+      {
+       "q": "Não há ______ mapas. — There aren't three maps.",
+       "a": "três"
+      },
+      {
+       "q": "Há ______ gatos e ______ cães. — There are five cats and six dogs.",
+       "a": "cinco … seis"
+      },
+      {
+       "q": "Há ______ amigos e ______ amigas. — There are eight male friends and nine female friends.",
+       "a": "oito … nove"
+      },
+      {
+       "q": "Há ______ xícaras lá? — Are there seven cups over there?",
+       "a": "sete"
+      },
+      {
+       "q": "Não há ______ rádios, há ______. — There aren't ten radios; there are eleven.",
+       "a": "dez … onze"
+      },
+      {
+       "q": "Há ______ professores e ______ estudantes. — There are four teachers and fourteen students.",
+       "a": "quatro … quatorze"
+      },
+      {
+       "q": "Há ______ gerentes e ______ clientes. — There are two managers and twelve clients.",
+       "a": "dois … doze"
+      },
+      {
+       "q": "Há ______ jornal e ______ revistas. — There is one newspaper and two magazines.",
+       "a": "um … duas"
+      },
+      {
+       "q": "Há ______ casas e ______ apartamentos. — There are six houses and sixteen apartments.",
+       "a": "seis … dezesseis"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Vocabulary Practice 2",
+   "source": "pp. 50–51",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete each sentence.",
+     "items": [
+      {
+       "q": "Eu tenho vinte ______. — I have twenty books.",
+       "a": "livros"
+      },
+      {
+       "q": "Nós temos ______. — We have a beach house.",
+       "a": "uma casa de praia"
+      },
+      {
+       "q": "Vocês têm ______. — You have homework.",
+       "a": "lição de casa"
+      },
+      {
+       "q": "Elas têm dez ______. — They have ten photographs.",
+       "a": "fotografias"
+      },
+      {
+       "q": "Você tem ______. — You have money.",
+       "a": "dinheiro"
+      },
+      {
+       "q": "Ele tem quatro ______. — He has four cats.",
+       "a": "gatos"
+      },
+      {
+       "q": "Eles têm ______. — They have a headache.",
+       "a": "dor de cabeça"
+      },
+      {
+       "q": "Ela tem dois ______. — She has two offices.",
+       "a": "escritórios"
+      },
+      {
+       "q": "Maria e Pedro têm três ______. — Maria and Pedro have three children.",
+       "a": "filhos"
+      },
+      {
+       "q": "Você e Aparecida têm ______. — You and Aparecida have a car.",
+       "a": "um carro"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Work Out 1",
+   "source": "pp. 53–54",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Add the right indefinite article, then translate.",
+     "items": [
+      {
+       "q": "______ turista",
+       "a": "um / uma turista — a tourist"
+      },
+      {
+       "q": "______ dia",
+       "a": "um dia — a day"
+      },
+      {
+       "q": "______ jornais",
+       "a": "uns jornais — some newspapers"
+      },
+      {
+       "q": "______ professora",
+       "a": "uma professora — a teacher"
+      },
+      {
+       "q": "______ pessoas",
+       "a": "umas pessoas — some people"
+      },
+      {
+       "q": "______ amigos",
+       "a": "uns amigos — some friends"
+      },
+      {
+       "q": "______ escritórios",
+       "a": "uns escritórios — some offices"
+      },
+      {
+       "q": "______ anéis",
+       "a": "uns anéis — some rings"
+      },
+      {
+       "q": "______ canetas",
+       "a": "umas canetas — some pens"
+      },
+      {
+       "q": "______ cartão de crédito",
+       "a": "um cartão de crédito — a credit card"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Work Out 2",
+   "source": "pp. 55–56",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with the verb ter, then translate.",
+     "items": [
+      {
+       "q": "Eu não ______ dinheiro. Você ______?",
+       "a": "tenho / tem — I don't have money. Do you?"
+      },
+      {
+       "q": "Roberto ______ dor de dente.",
+       "a": "tem — Roberto has a toothache."
+      },
+      {
+       "q": "Márcia e Luísa não ______ cachorros. Elas ______ gatos.",
+       "a": "têm / têm — Márcia and Luísa don't have dogs. They have cats."
+      },
+      {
+       "q": "O professor e os estudantes ______ livros e canetas.",
+       "a": "têm — The teacher and the students have books and pens."
+      },
+      {
+       "q": "O recepcionista ______ uns jornais.",
+       "a": "tem — The receptionist has some newspapers."
+      },
+      {
+       "q": "Felipe não ______ as chaves.",
+       "a": "tem — Felipe doesn't have the keys."
+      },
+      {
+       "q": "Vocês ______ tempo?",
+       "a": "têm — Do you have time?"
+      },
+      {
+       "q": "Eu e Ana ______ umas fotografias.",
+       "a": "temos — Ana and I have some photographs."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Drive It Home",
+   "source": "pp. 56–57",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Rewrite each sentence in the plural, subject included. Example: A estudante tem um livro. → As estudantes têm uns livros.",
+     "items": [
+      {
+       "q": "O professor tem um livro.",
+       "a": "Os professores têm uns livros."
+      },
+      {
+       "q": "A amiga tem uma raquete.",
+       "a": "As amigas têm umas raquetes."
+      },
+      {
+       "q": "O jornal tem uma fotografia.",
+       "a": "Os jornais têm umas fotografias."
+      },
+      {
+       "q": "O hotel tem um quarto.",
+       "a": "Os hotéis têm uns quartos."
+      },
+      {
+       "q": "O homem tem um escritório.",
+       "a": "Os homens têm uns escritórios."
+      },
+      {
+       "q": "A esposa tem um anel.",
+       "a": "As esposas têm uns anéis."
+      },
+      {
+       "q": "O banco tem um cliente.",
+       "a": "Os bancos têm uns clientes."
+      },
+      {
+       "q": "O gerente tem um problema.",
+       "a": "Os gerentes têm uns problemas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Word Recall",
+   "source": "p. 59",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete each one.",
+     "items": [
+      {
+       "q": "Ask someone if he has a newspaper: Você tem ______?",
+       "a": "um jornal"
+      },
+      {
+       "q": "Ask a hotel receptionist if they have a room: O hotel tem ______?",
+       "a": "um quarto"
+      },
+      {
+       "q": "Ask a friend if he has a problem: Você tem ______?",
+       "a": "um problema"
+      },
+      {
+       "q": "Say you don't have an aspirin: Eu ______ aspirina.",
+       "a": "não tenho uma"
+      },
+      {
+       "q": "Say you and your family don't have the keys: Nós ______ chaves.",
+       "a": "não temos as"
+      },
+      {
+       "q": "Say the children don't have a dog: As crianças ______ cão.",
+       "a": "não têm um"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-3",
+   "title": "Parting words",
+   "source": "p. 57",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ótimo! You've finished the lesson. By now you should be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "count (unsure? p. 44)",
+      "use a/an and some (unsure? p. 46)",
+      "form plurals in Portuguese (unsure? p. 46)",
+      "use the verb ter (unsure? p. 52)",
+      "put it all together in a short conversation (unsure? p. 54)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Lesson goals",
+   "source": "p. 60",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Oi! In this lesson you'll learn how to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use the verb estar (to be)",
+      "use idiomatic expressions with estar",
+      "use the preposition em (at, on, in)",
+      "use possessive adjectives like my, your and our",
+      "talk about things around your home"
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Que legal! — Cool!"
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Around the house",
+   "source": "p. 61 · CD 1, track 29",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "O carro está na garagem.",
+       "The car is in the garage."
+      ],
+      [
+       "Os documentos estão na gaveta.",
+       "The documents are in the drawer."
+      ],
+      [
+       "As toalhas estão no banheiro.",
+       "The towels are in the bathroom."
+      ],
+      [
+       "Os sapatos estão no armário.",
+       "The shoes are in the closet."
+      ],
+      [
+       "O gato está na poltrona.",
+       "The cat is on the armchair."
+      ],
+      [
+       "Os livros estão nas estantes.",
+       "The books are in the bookcases."
+      ],
+      [
+       "O vaso está na mesa.",
+       "The vase is on the table."
+      ],
+      [
+       "Há uma piscina no quintal.",
+       "There's a swimming pool in the backyard."
+      ],
+      [
+       "Há duas camas no quarto.",
+       "There are two beds in the bedroom."
+      ],
+      [
+       "Há três janelas na sala de estar.",
+       "There are three windows in the living room."
+      ],
+      [
+       "Há uma geladeira na cozinha.",
+       "There's a refrigerator in the kitchen."
+      ],
+      [
+       "Há água na garrafa.",
+       "There's water in the bottle."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Pronouncing r and t",
+   "source": "pp. 61–62 · CD 1, track 30",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Spelling",
+      "Where",
+      "Sounds like",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "r",
+       "at the beginning of a word",
+       "a breathy h (trilled in parts of Brazil)",
+       "reservar (to reserve), rua (street)"
+      ],
+      [
+       "r",
+       "in the middle, between vowels",
+       "a tap or flap against the ridge behind the top teeth",
+       "para (to), caro (expensive)"
+      ],
+      [
+       "r",
+       "at the end of a syllable, before another consonant",
+       "a breathy h, or a flap in parts of Brazil",
+       "porta (door), carne (meat)"
+      ],
+      [
+       "r",
+       "at the end of a word",
+       "a breathy h, or a flap in parts of Brazil",
+       "senhor (sir), bar (bar)"
+      ],
+      [
+       "rr",
+       "always",
+       "a breathy h (trilled in parts of Brazil)",
+       "carro (car), arroz (rice)"
+      ],
+      [
+       "t",
+       "before a, o, u and other consonants",
+       "the t in take",
+       "tarde (afternoon), todo (all)"
+      ],
+      [
+       "t",
+       "before e and i",
+       "the ch in choose",
+       "tia (aunt), importante (important)"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "In quarto the r is that breathy h, or a flap. Cariocas in Rio famously trill their r more; paulistanos in São Paulo soften it. In small towns it can be longer, close to the American r. These regional differences are rarely strong enough to confuse anyone — and newscasters everywhere speak a standard Brazilian Portuguese, much as they do in the U.S."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "The verb estar (to be)",
+   "source": "pp. 64–65 · CD 1, track 31",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Estar is one of two verbs meaning to be. This one covers locations, and temporary states and feelings."
+    },
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "I am",
+       "eu estou"
+      ],
+      [
+       "you are",
+       "você está"
+      ],
+      [
+       "he / she is",
+       "ele / ela está"
+      ],
+      [
+       "we are",
+       "nós estamos"
+      ],
+      [
+       "you are (pl.)",
+       "vocês estão"
+      ],
+      [
+       "they are",
+       "eles / elas estão"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "For locations"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "As crianças estão no parque.",
+       "The children are in the park."
+      ],
+      [
+       "As chaves estão na gaveta.",
+       "The keys are in the drawer."
+      ],
+      [
+       "Eu estou no Brasil.",
+       "I'm in Brazil."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "For temporary states"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Ela está com sede.",
+       "She's thirsty."
+      ],
+      [
+       "A casa está limpa.",
+       "The house is clean."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "For feelings"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Ela está feliz.",
+       "She's happy."
+      ],
+      [
+       "Eu estou triste.",
+       "I'm sad."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Negative and questions"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Marina e Paulo não estão em casa.",
+       "Marina and Paulo are not home."
+      ],
+      [
+       "Pedro está no jardim?",
+       "Is Pedro in the garden?"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "The preposition em",
+   "source": "p. 66 · CD 1, track 32",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Em means at, on or in, and it is usually contracted with the definite article."
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "masculine",
+       "em + o = no",
+       "em + os = nos"
+      ],
+      [
+       "feminine",
+       "em + a = na",
+       "em + as = nas"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Há flores no jardim.",
+       "There are flowers in the garden."
+      ],
+      [
+       "Ele está na estação.",
+       "He is at the station."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "With other prepositions of place"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "em cima",
+       "on top of / above"
+      ],
+      [
+       "embaixo",
+       "under"
+      ],
+      [
+       "em frente",
+       "in front of"
+      ],
+      [
+       "Há um terraço em cima e um embaixo.",
+       "There's a terrace above and one below."
+      ],
+      [
+       "Há árvores em frente.",
+       "There are trees in front."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Whose things are whose",
+   "source": "p. 67 · CD 1, track 33",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "A minha bicicleta está na calçada.",
+       "My bicycle is on the sidewalk."
+      ],
+      [
+       "O meu lenço está na minha bolsa.",
+       "My handkerchief is in my handbag."
+      ],
+      [
+       "A sua carteira está no seu bolso?",
+       "Is your wallet in your pocket?"
+      ],
+      [
+       "O seu computador está na sua escrivaninha.",
+       "Your computer is on your desk."
+      ],
+      [
+       "Você tem o meu endereço?",
+       "Do you have my address?"
+      ],
+      [
+       "A nossa mãe está no trabalho.",
+       "Our mother is at work."
+      ],
+      [
+       "Os nossos filhos estão na nossa fazenda.",
+       "Our children are on our farm."
+      ],
+      [
+       "Os seus CDs estão nas prateleiras.",
+       "Your CDs are on the shelves."
+      ],
+      [
+       "As suas amigas não estão na festa de aniversário.",
+       "Your friends aren't at the birthday party."
+      ],
+      [
+       "Os seus papéis estão em ordem.",
+       "Your papers are in order."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Possessive adjectives",
+   "source": "pp. 69–70 · CD 1, track 34",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "A possessive adjective shows possession — my, your, his, her, our, their. In Portuguese they have masculine, feminine, singular and plural forms, and most of them agree with the thing possessed, not the owner."
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "my car / cars",
+       "o meu carro",
+       "os meus carros"
+      ],
+      [
+       "my house / houses",
+       "a minha casa",
+       "as minhas casas"
+      ],
+      [
+       "your car / cars",
+       "o seu carro",
+       "os seus carros"
+      ],
+      [
+       "your house / houses",
+       "a sua casa",
+       "as suas casas"
+      ],
+      [
+       "our car / cars",
+       "o nosso carro",
+       "os nossos carros"
+      ],
+      [
+       "our house / houses",
+       "a nossa casa",
+       "as nossas casas"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "But his, her and their do not agree — they name the owner"
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Masculine owner",
+      "Feminine owner"
+     ],
+     "rows": [
+      [
+       "his / her car",
+       "o carro dele",
+       "o carro dela"
+      ],
+      [
+       "his / her house",
+       "a casa dele",
+       "a casa dela"
+      ],
+      [
+       "their car",
+       "o carro deles (m. or mixed)",
+       "o carro delas (f.)"
+      ],
+      [
+       "their houses",
+       "as casas deles (m. or mixed)",
+       "as casas delas (f.)"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Ele está no apartamento dele e ela está no apartamento dela.",
+       "He is in his apartment and she is in her apartment."
+      ],
+      [
+       "As meninas têm o gato delas e os meninos têm o gato deles também.",
+       "The girls have their cat and the boys have their cat too."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Idiomatic expressions with estar com",
+   "source": "pp. 72–73 · CD 1, track 35",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Estar com — literally to be with — carries a momentary feeling or state."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "estar com sede",
+       "to be thirsty"
+      ],
+      [
+       "estar com fome",
+       "to be hungry"
+      ],
+      [
+       "estar com frio",
+       "to be cold"
+      ],
+      [
+       "estar com sono",
+       "to be sleepy"
+      ],
+      [
+       "estar com calor",
+       "to be hot"
+      ],
+      [
+       "estar com pressa",
+       "to be in a hurry"
+      ],
+      [
+       "estar com medo",
+       "to be afraid"
+      ],
+      [
+       "estar com vergonha",
+       "to be embarrassed"
+      ],
+      [
+       "estar com dor de cabeça",
+       "to have a headache"
+      ],
+      [
+       "estar com febre",
+       "to have a fever"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "And the weather"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "está chovendo",
+       "it's raining"
+      ],
+      [
+       "está ventando",
+       "it's windy"
+      ],
+      [
+       "está nevando",
+       "it's snowing"
+      ],
+      [
+       "está ensolarado",
+       "it's sunny"
+      ],
+      [
+       "está nublado",
+       "it's overcast"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Where is everything? — a family at home",
+   "source": "p. 73 · CD 1, track 36",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "The lesson closes with a family calling to each other around the house. Rather than reproduce it, here are the lines that carry the grammar — estar for location, the em contractions, and possessives."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Mãe, as minhas revistas estão aí?",
+       "Mom, are my magazines there?"
+      ],
+      [
+       "Não, elas não estão aqui. As suas revistas estão na sua escrivaninha no seu quarto.",
+       "No, they aren't here. Your magazines are on your desk in your bedroom."
+      ],
+      [
+       "Mãe, os meus sapatos estão aí embaixo?",
+       "Mom, are my shoes down there?"
+      ],
+      [
+       "Os seus sapatos estão aí em cima no seu armário.",
+       "Your shoes are up there in your closet."
+      ],
+      [
+       "O gato está embaixo da mesa no jardim.",
+       "The cat is under the table in the garden."
+      ],
+      [
+       "Ela está no quarto dela. Ela está com sono.",
+       "She's in her bedroom. She's sleepy."
+      ],
+      [
+       "Mãe, estou com sede.",
+       "Mom, I'm thirsty."
+      ],
+      [
+       "Há água na garrafa na cozinha.",
+       "There's water in the bottle in the kitchen."
+      ],
+      [
+       "Acho que eu estou com dor de cabeça!",
+       "I think I have a headache!"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Aí is a third word for there: aqui is here by me, aí is there by you, and lá is over there away from us both."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Vocabulary Practice 1",
+   "source": "pp. 63–64",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete each sentence, using Vocabulary Builder 1 as your guide.",
+     "items": [
+      {
+       "q": "O gato está ______. — The cat is on the armchair.",
+       "a": "na poltrona"
+      },
+      {
+       "q": "Há duas camas ______. — There are two beds in the bedroom.",
+       "a": "no quarto"
+      },
+      {
+       "q": "Os documentos estão ______. — The documents are in the drawer.",
+       "a": "na gaveta"
+      },
+      {
+       "q": "O carro está ______. — The car is in the garage.",
+       "a": "na garagem"
+      },
+      {
+       "q": "Os livros estão ______. — The books are in the bookcases.",
+       "a": "nas estantes"
+      },
+      {
+       "q": "Há três janelas ______. — There are three windows in the living room.",
+       "a": "na sala de estar"
+      },
+      {
+       "q": "Há uma piscina ______. — There's a swimming pool in the backyard.",
+       "a": "no quintal"
+      },
+      {
+       "q": "Os sapatos estão ______. — The shoes are in the closet.",
+       "a": "no armário"
+      },
+      {
+       "q": "As toalhas estão ______. — The towels are in the bathroom.",
+       "a": "no banheiro"
+      },
+      {
+       "q": "O vaso está ______. — The vase is on the table.",
+       "a": "na mesa"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Vocabulary Practice 2",
+   "source": "pp. 67–68",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with one of: endereço, fazenda, bicicleta, carteira, trabalho, lenço, prateleiras, festa de aniversário, papéis, escrivaninha.",
+     "items": [
+      {
+       "q": "O meu ______ está na minha bolsa. — My handkerchief is in my handbag.",
+       "a": "lenço"
+      },
+      {
+       "q": "As suas amigas não estão na ______? — Aren't your friends at the birthday party?",
+       "a": "festa de aniversário"
+      },
+      {
+       "q": "Os nossos filhos estão na nossa ______. — Our children are on our farm.",
+       "a": "fazenda"
+      },
+      {
+       "q": "A sua ______ está no seu bolso? — Is your wallet in your pocket?",
+       "a": "carteira"
+      },
+      {
+       "q": "A minha ______ está na calçada. — My bicycle is on the sidewalk.",
+       "a": "bicicleta"
+      },
+      {
+       "q": "Os seus CDs estão nas ______. — Your CDs are on the shelves.",
+       "a": "prateleiras"
+      },
+      {
+       "q": "A nossa mãe está no ______. — Our mother is at work.",
+       "a": "trabalho"
+      },
+      {
+       "q": "Os seus ______ estão em ordem. — Your papers are in order.",
+       "a": "papéis"
+      },
+      {
+       "q": "O seu computador está na sua ______. — Your computer is on your desk.",
+       "a": "escrivaninha"
+      },
+      {
+       "q": "Você tem o meu ______? — Do you have my address?",
+       "a": "endereço"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Work Out 1",
+   "source": "pp. 70–72",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. Complete with a possessive adjective: meu, nosso, minha, nossos, suas.",
+     "items": [
+      {
+       "q": "A ______ bicicleta está na garagem. — My bicycle is in the garage.",
+       "a": "minha"
+      },
+      {
+       "q": "Os ______ documentos não estão na gaveta. — Our documents are not in the drawer.",
+       "a": "nossos"
+      },
+      {
+       "q": "O ______ gato está no jardim? — Is our cat in the garden?",
+       "a": "nosso"
+      },
+      {
+       "q": "As ______ toalhas estão no banheiro. — Your towels are in the bathroom.",
+       "a": "suas"
+      },
+      {
+       "q": "O ______ pai está na fazenda. — Our father is on the farm.",
+       "a": "nosso"
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Complete with: deles (×2), delas, dele (×2), dela.",
+     "items": [
+      {
+       "q": "Paulo tem as chaves ______. — Paulo has his keys.",
+       "a": "dele"
+      },
+      {
+       "q": "Mariana não está no escritório ______. — Mariana isn't in her office.",
+       "a": "dela"
+      },
+      {
+       "q": "Sérgio e Tomás estão nas casas ______. — Sergio and Tomas are at their houses.",
+       "a": "deles"
+      },
+      {
+       "q": "As crianças têm os quartos ______. — The children have their bedrooms.",
+       "a": "delas"
+      },
+      {
+       "q": "O professor tem o livro ______ e os estudantes têm os livros ______. — The teacher has his book and the students have theirs.",
+       "a": "dele / deles"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Work Out 2",
+   "source": "pp. 74–75",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with the verb estar.",
+     "items": [
+      {
+       "q": "Os estudantes ______ na escola.",
+       "a": "estão"
+      },
+      {
+       "q": "As chaves ______ na gaveta.",
+       "a": "estão"
+      },
+      {
+       "q": "Eu não ______ com medo.",
+       "a": "estou"
+      },
+      {
+       "q": "O meu primo ______ na casa dele.",
+       "a": "está"
+      },
+      {
+       "q": "Você e as suas amigas ______ na festa de aniversário?",
+       "a": "estão"
+      },
+      {
+       "q": "A garrafa ______ na geladeira?",
+       "a": "está"
+      },
+      {
+       "q": "O livro e a revista ______ na estante.",
+       "a": "estão"
+      },
+      {
+       "q": "O meu amigo não ______ na casa dele.",
+       "a": "está"
+      },
+      {
+       "q": "Maria, você ______ com fome?",
+       "a": "está"
+      },
+      {
+       "q": "Eu e minha irmã ______ com frio.",
+       "a": "estamos"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Drive It Home",
+   "source": "pp. 75–76",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Write the sentence from the cue. Example: Você/apartamento → Você está no seu apartamento.",
+     "items": [
+      {
+       "q": "Nós/escola — We're in our school.",
+       "a": "Nós estamos na nossa escola."
+      },
+      {
+       "q": "Vocês/escritórios — You're in your offices.",
+       "a": "Vocês estão nos seus escritórios."
+      },
+      {
+       "q": "Eu/poltrona — I'm in my armchair.",
+       "a": "Eu estou na minha poltrona."
+      },
+      {
+       "q": "Você/quarto — You're in your bedroom.",
+       "a": "Você está no seu quarto."
+      },
+      {
+       "q": "Nós/jardim — We're in our garden.",
+       "a": "Nós estamos no nosso jardim."
+      },
+      {
+       "q": "Ele/carro — He's in his car.",
+       "a": "Ele está no carro dele."
+      },
+      {
+       "q": "Ela/casa — She's in her house.",
+       "a": "Ela está na casa dela."
+      },
+      {
+       "q": "Eles/apartamentos — They're in their apartments.",
+       "a": "Eles estão nos apartamentos deles."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Word Recall — the floor plan",
+   "source": "p. 77",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "The book prints a floor plan with four rooms numbered. The answers:"
+    },
+    {
+     "t": "ex",
+     "intro": "Name each room.",
+     "items": [
+      {
+       "q": "1 — the room with the bed",
+       "a": "o quarto"
+      },
+      {
+       "q": "2 — the room with the bath",
+       "a": "o banheiro"
+      },
+      {
+       "q": "3 — the room with the sofa",
+       "a": "a sala de estar"
+      },
+      {
+       "q": "4 — the room with the stove",
+       "a": "a cozinha"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-4",
+   "title": "Parting words",
+   "source": "p. 76",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Muito bem! You've finished the lesson. You should be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use the verb estar (unsure? p. 61)",
+      "use idiomatic expressions with estar (unsure? p. 64)",
+      "use the preposition em (unsure? p. 66)",
+      "use possessive adjectives (unsure? p. 69)",
+      "talk about things around your home (unsure? p. 73)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Lesson goals",
+   "source": "p. 78",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "In this lesson you'll learn how to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use colors and other common adjectives in Portuguese",
+      "describe people and things",
+      "use the verb ser (to be)",
+      "use possessive words like mine, yours and ours",
+      "put it all together in a brief conversation"
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Fantástico! — Fantastic!"
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Colors",
+   "source": "p. 79 · CD 1, track 37",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "O tomate é vermelho.",
+       "The tomato is red."
+      ],
+      [
+       "As bananas são amarelas.",
+       "The bananas are yellow."
+      ],
+      [
+       "O céu é azul.",
+       "The sky is blue."
+      ],
+      [
+       "O mar é verde.",
+       "The sea is green."
+      ],
+      [
+       "O pássaro é cor-de-rosa.",
+       "The bird is pink."
+      ],
+      [
+       "A cadeira é laranja.",
+       "The chair is orange."
+      ],
+      [
+       "O filme é preto e branco.",
+       "The movie is black and white."
+      ],
+      [
+       "O cavalo é marrom.",
+       "The horse is brown."
+      ],
+      [
+       "O portão é cinza.",
+       "The gate is gray."
+      ],
+      [
+       "As camisetas são roxas.",
+       "The t-shirts are purple."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Adjectives",
+   "source": "pp. 80–82 · CD 1, track 38",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Unlike English, where the adjective comes before the noun, in Portuguese it usually follows it — a praia bonita, the beautiful beach. And it agrees with the noun in gender and number."
+    },
+    {
+     "t": "h",
+     "text": "Regular adjectives: o / os and a / as"
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "masculine",
+       "o carro pequeno — the small car",
+       "os carros pequenos"
+      ],
+      [
+       "feminine",
+       "a casa pequena — the small house",
+       "as casas pequenas"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Colors behave the same way: um carro preto (a black car), duas camisetas pretas (two black t-shirts)."
+    },
+    {
+     "t": "h",
+     "text": "Adjectives ending in e or a consonant have one singular form and one plural"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "o quarto grande / a mesa grande",
+       "os quartos grandes / as mesas grandes"
+      ],
+      [
+       "o homem jovem / a mulher jovem",
+       "os homens jovens / as mulheres jovens"
+      ],
+      [
+       "o mar azul / a caneta azul",
+       "os mares azuis / as canetas azuis"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "A few are irregular, and come before the noun"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "o bom livro — the good book",
+       "os bons livros"
+      ],
+      [
+       "a boa revista — the good magazine",
+       "as boas revistas"
+      ],
+      [
+       "o mau aluno — the bad student",
+       "os maus alunos"
+      ],
+      [
+       "a má aluna — the bad student",
+       "as más alunas"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Three colors never change: cor-de-rosa, laranja and cinza. A xícara cor-de-rosa, os sofás cor-de-rosa."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Describing people and things",
+   "source": "p. 82 · CD 2, track 1",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Ele é magro.",
+       "He is thin."
+      ],
+      [
+       "Ela é baixa.",
+       "She is short."
+      ],
+      [
+       "Nós somos fortes.",
+       "We are strong."
+      ],
+      [
+       "Elas são boas.",
+       "They are good."
+      ],
+      [
+       "Você é jovem.",
+       "You are young."
+      ],
+      [
+       "O casaco é novo.",
+       "The coat is new."
+      ],
+      [
+       "A cidade é moderna.",
+       "The city is modern."
+      ],
+      [
+       "Os meus óculos são velhos.",
+       "My glasses are old."
+      ],
+      [
+       "As montanhas são grandes.",
+       "The mountains are big."
+      ],
+      [
+       "Os países são pequenos.",
+       "The countries are small."
+      ],
+      [
+       "Os prédios são altos.",
+       "The buildings are tall."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "The verb ser (to be)",
+   "source": "pp. 84–85 · CD 2, track 2",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "I am",
+       "eu sou"
+      ],
+      [
+       "you are",
+       "você é"
+      ],
+      [
+       "he / she is",
+       "ele / ela é"
+      ],
+      [
+       "we are",
+       "nós somos"
+      ],
+      [
+       "you are (pl.)",
+       "vocês são"
+      ],
+      [
+       "they are",
+       "eles / elas são"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Lesson 4 gave you estar, for locations and temporary states. Ser also means to be, but it describes inherent characteristics of people, places and things — and it is the verb for professions and nationalities."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Ela é alta.",
+       "She is tall."
+      ],
+      [
+       "Tomates são vermelhos.",
+       "Tomatoes are red."
+      ],
+      [
+       "Eu sou arquiteto.",
+       "I am an architect."
+      ],
+      [
+       "Ele é japonês.",
+       "He is Japanese."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "The preposition de",
+   "source": "pp. 85–86 · CD 2, track 3",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De means of or from."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu sou de Nova Iorque.",
+       "I'm from New York."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "It contracts with the definite article"
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "masculine",
+       "de + o = do",
+       "de + os = dos"
+      ],
+      [
+       "feminine",
+       "de + a = da",
+       "de + as = das"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "For possession"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "O carro é do Paulo.",
+       "The car is Paulo's."
+      ],
+      [
+       "Ele está na casa da Maria.",
+       "He's at Maria's house."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "And for origin or nationality"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Mário é da Itália e Ana é do Brasil.",
+       "Mario is from Italy and Ana is from Brazil."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Possessive pronouns",
+   "source": "p. 90 · CD 2, track 5",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lesson 4 gave you the possessive adjectives — meu, minha, seu, sua, nosso, nossa, dele, dela — which stand in place of an adjective: meu livro, my book."
+    },
+    {
+     "t": "p",
+     "text": "Possessive pronouns take the place of a noun instead: mine, yours, his, hers, ours, theirs. In Portuguese they are the same words."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "O meu carro é azul.",
+       "My car is blue."
+      ],
+      [
+       "O carro azul é meu.",
+       "The blue car is mine."
+      ],
+      [
+       "A nossa casa é amarela.",
+       "Our house is yellow."
+      ],
+      [
+       "A casa amarela é nossa.",
+       "The yellow house is ours."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Mary and Rafael — where are you from?",
+   "source": "pp. 87–88 · CD 2, track 4",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Two friends compare the cities they come from. Rather than reproduce the exchange, here are the lines carrying ser, de and the adjectives."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Rafael, você é do Brasil?",
+       "Rafael, are you from Brazil?"
+      ],
+      [
+       "Sou sim, mas minha mãe não é brasileira. Ela é da Argentina.",
+       "Yes I am, but my mother's not Brazilian. She's from Argentina."
+      ],
+      [
+       "Você é de que cidade?",
+       "You're from which city?"
+      ],
+      [
+       "Sou de Florianópolis, no sul do Brasil.",
+       "I'm from Florianopolis, in the south of Brazil."
+      ],
+      [
+       "As praias lá são bonitas?",
+       "Are the beaches there beautiful?"
+      ],
+      [
+       "São muito bonitas. O mar é azul e as montanhas são muito verdes.",
+       "They're very beautiful. The sea is blue and the mountains are very green."
+      ],
+      [
+       "Florianópolis é uma cidade grande ou pequena?",
+       "Is Florianopolis a big or a small city?"
+      ],
+      [
+       "É uma cidade média. Não é grande como São Paulo.",
+       "It's a medium-size city. It's not big like São Paulo."
+      ],
+      [
+       "Eu sou de Denver. Denver é uma cidade grande no oeste dos Estados Unidos.",
+       "I'm from Denver. Denver is a big city in the West of the United States."
+      ],
+      [
+       "Não há mar em Denver, mas há montanhas muito grandes e muito altas.",
+       "There isn't a sea in Denver, but the mountains are very big and very high."
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Note de que cidade — from which city — and como for like. Both are worth stealing whole."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Vocabulary Practice 1",
+   "source": "pp. 79–80",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Match each colour with its English equivalent.",
+     "items": [
+      {
+       "q": "branco",
+       "a": "white"
+      },
+      {
+       "q": "preto",
+       "a": "black"
+      },
+      {
+       "q": "azul",
+       "a": "blue"
+      },
+      {
+       "q": "vermelho",
+       "a": "red"
+      },
+      {
+       "q": "verde",
+       "a": "green"
+      },
+      {
+       "q": "amarelo",
+       "a": "yellow"
+      },
+      {
+       "q": "roxo",
+       "a": "purple"
+      },
+      {
+       "q": "cor-de-rosa",
+       "a": "pink"
+      },
+      {
+       "q": "laranja",
+       "a": "orange"
+      },
+      {
+       "q": "marrom",
+       "a": "brown"
+      },
+      {
+       "q": "cinza",
+       "a": "gray"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Vocabulary Practice 2",
+   "source": "pp. 82–84",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with the right adjective, agreeing in gender and number.",
+     "items": [
+      {
+       "q": "Você é ______. — You are young.",
+       "a": "jovem"
+      },
+      {
+       "q": "A cidade é ______. — The city is new.",
+       "a": "nova"
+      },
+      {
+       "q": "Ela é ______. — She is short.",
+       "a": "baixa"
+      },
+      {
+       "q": "Ele é ______. — He is thin.",
+       "a": "magro"
+      },
+      {
+       "q": "Nós somos ______. — We are strong.",
+       "a": "fortes"
+      },
+      {
+       "q": "As montanhas são ______. — The mountains are big.",
+       "a": "grandes"
+      },
+      {
+       "q": "Elas são ______. — They are good.",
+       "a": "boas"
+      },
+      {
+       "q": "Os prédios são ______. — The buildings are tall.",
+       "a": "altos"
+      },
+      {
+       "q": "Paulo e eu somos ______. — Paulo and I are Brazilian.",
+       "a": "brasileiros"
+      },
+      {
+       "q": "Os óculos são ______. — The glasses are old.",
+       "a": "velhos"
+      },
+      {
+       "q": "Os países são ______. — The countries are small.",
+       "a": "pequenos"
+      },
+      {
+       "q": "O casaco é ______. — The coat is new.",
+       "a": "novo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Work Out 1",
+   "source": "pp. 86–87",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. Rewrite in the plural.",
+     "items": [
+      {
+       "q": "Ele é alto.",
+       "a": "Eles são altos."
+      },
+      {
+       "q": "Ela é magra.",
+       "a": "Elas são magras."
+      },
+      {
+       "q": "Você é americano?",
+       "a": "Vocês são americanos?"
+      },
+      {
+       "q": "Eu não sou australiana.",
+       "a": "Nós não somos australianas."
+      },
+      {
+       "q": "O filme não é bom.",
+       "a": "Os filmes não são bons."
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Now put these in the singular.",
+     "items": [
+      {
+       "q": "Nós somos professores.",
+       "a": "Eu sou professor."
+      },
+      {
+       "q": "As cidades são modernas.",
+       "a": "A cidade é moderna."
+      },
+      {
+       "q": "As praias são bonitas.",
+       "a": "A praia é bonita."
+      },
+      {
+       "q": "Os turistas não são alemães.",
+       "a": "O turista não é alemão."
+      },
+      {
+       "q": "As poltronas são confortáveis?",
+       "a": "A poltrona é confortável?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Work Out 2",
+   "source": "pp. 89–90",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with an adjective, agreeing with the noun.",
+     "items": [
+      {
+       "q": "O pássaro é ______. — The bird is yellow.",
+       "a": "amarelo"
+      },
+      {
+       "q": "As flores são ______. — The flowers are white.",
+       "a": "brancas"
+      },
+      {
+       "q": "Os turistas são ______. — The tourists are American.",
+       "a": "americanos"
+      },
+      {
+       "q": "A minha amiga é ______. — My friend is beautiful.",
+       "a": "bonita"
+      },
+      {
+       "q": "Ele tem uma casa muito ______? — Does he have a very small house?",
+       "a": "pequena"
+      },
+      {
+       "q": "As garrafas não são ______. — The bottles aren't big.",
+       "a": "grandes"
+      },
+      {
+       "q": "O computador dele não é ______. — His computer isn't old.",
+       "a": "velho"
+      },
+      {
+       "q": "As revistas ______ estão em cima da mesa. — The new magazines are on the table.",
+       "a": "novas"
+      },
+      {
+       "q": "Há ______ professores e há professores ruins. — There are good teachers and bad teachers.",
+       "a": "bons"
+      },
+      {
+       "q": "As maçãs argentinas são muito ______. — Argentine apples are very good.",
+       "a": "boas"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Drive It Home",
+   "source": "pp. 91–92",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with ser or estar. Ser for inherent qualities, nationalities, occupations and fixed locations; estar for temporary locations, states and feelings.",
+     "items": [
+      {
+       "q": "O meu casaco ______ vermelho. — My coat is red.",
+       "a": "é"
+      },
+      {
+       "q": "Eu ______ arquiteto e eu ______ no escritório. — I am an architect and I'm at the office.",
+       "a": "sou / estou"
+      },
+      {
+       "q": "As montanhas ______ muito grandes. — The mountains are very big.",
+       "a": "são"
+      },
+      {
+       "q": "Meus primos ______ brasileiros. — My cousins are Brazilian.",
+       "a": "são"
+      },
+      {
+       "q": "Vocês não ______ com fome, mas ______ com sede. — You aren't hungry but you're thirsty.",
+       "a": "estão / estão"
+      },
+      {
+       "q": "A minha bolsa ______ preta e ela ______ no armário. — My handbag is black and it's in the closet.",
+       "a": "é / está"
+      },
+      {
+       "q": "O carro azul ______ nosso e ele ______ na rua. — Our car is blue and it's on the street.",
+       "a": "é / está"
+      },
+      {
+       "q": "Paulo e eu ______ de férias. Nós ______ na Itália. — Paulo and I are on vacation. We're in Italy.",
+       "a": "estamos / estamos"
+      },
+      {
+       "q": "A cama do hotel ______ grande, mas não ______ confortável. — The hotel bed is big but not comfortable.",
+       "a": "é / é"
+      },
+      {
+       "q": "Nós ______ estudantes e nós ______ na escola. — We're students and we're at school.",
+       "a": "somos / estamos"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Word Recall — describe a garden",
+   "source": "p. 93",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Answer each one.",
+     "items": [
+      {
+       "q": "garden, flowers and cat",
+       "a": "jardim / flores / gato"
+      },
+      {
+       "q": "It's a beautiful garden.",
+       "a": "O jardim é bonito."
+      },
+      {
+       "q": "There are some yellow and some white flowers in the garden.",
+       "a": "Há umas flores amarelas e brancas no jardim."
+      },
+      {
+       "q": "There's a cat in the garden.",
+       "a": "Há um gato no jardim."
+      },
+      {
+       "q": "The cat is black and white.",
+       "a": "O gato é preto e branco."
+      },
+      {
+       "q": "There's a chair in the garden.",
+       "a": "Há uma cadeira no jardim."
+      },
+      {
+       "q": "The chair is red.",
+       "a": "A cadeira é vermelha."
+      },
+      {
+       "q": "The cat is on the red chair.",
+       "a": "O gato está na cadeira vermelha."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-5",
+   "title": "Parting words",
+   "source": "p. 92",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Excelente! You've finished the lesson. You should be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use colors and other common adjectives (unsure? p. 79)",
+      "describe people and things (unsure? p. 80)",
+      "use the verb ser (unsure? p. 84)",
+      "put it together in a brief conversation (unsure? p. 87)",
+      "use possessive words like mine, yours and ours (unsure? p. 90)"
      ]
     }
    ]
