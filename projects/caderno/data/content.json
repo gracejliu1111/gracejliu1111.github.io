@@ -1,12 +1,18 @@
 {
- "version": 2,
- "note": "Added 90 recordings from Fred",
+ "version": 3,
+ "note": "Added Lesson 2 — People and the Family",
  "chapters": [
   {
    "id": "ch-alfabeto",
    "num": "",
    "title": "O alfabeto",
    "pages": ""
+  },
+  {
+   "id": "ch-licao-2",
+   "num": "2",
+   "title": "People and the Family",
+   "pages": "24–42"
   }
  ],
  "vocab": [
@@ -1365,6 +1371,958 @@
     "path": "audio/c81e4596b83f.webm",
     "type": "audio/webm;codecs=opus"
    }
+  },
+  {
+   "pt": "a mãe",
+   "en": "mother",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o pai",
+   "en": "father",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o irmão",
+   "en": "brother",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a irmã",
+   "en": "sister",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o professor",
+   "en": "teacher (m.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a professora",
+   "en": "teacher (f.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o estudante",
+   "en": "student",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o homem",
+   "en": "man",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a mulher",
+   "en": "woman",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o marido",
+   "en": "husband",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a esposa",
+   "en": "wife (formal)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o amigo",
+   "en": "friend (m.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a amiga",
+   "en": "friend (f.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o menino",
+   "en": "boy",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a menina",
+   "en": "girl",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a pessoa",
+   "en": "person",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a casa",
+   "en": "house",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o escritório",
+   "en": "office",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o médico",
+   "en": "doctor (m.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a médica",
+   "en": "doctor (f.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a filha",
+   "en": "daughter",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o filho",
+   "en": "son",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o vizinho",
+   "en": "the neighbor (m.)",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a vizinha",
+   "en": "the neighbor (f.)",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o primo",
+   "en": "the cousin (m.)",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a prima",
+   "en": "the cousin (f.)",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o brasileiro",
+   "en": "the Brazilian (m.)",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a brasileira",
+   "en": "the Brazilian (f.)",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o americano",
+   "en": "the American (m.)",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a americana",
+   "en": "the American (f.)",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o enfermeiro",
+   "en": "the nurse (m.)",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a enfermeira",
+   "en": "the nurse (f.)",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o apartamento",
+   "en": "the apartment",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a água",
+   "en": "the water",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a praia",
+   "en": "the beach",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o relógio",
+   "en": "the watch / the clock",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a rua",
+   "en": "the street",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o copo",
+   "en": "the (drinking) glass",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a mesa",
+   "en": "the table",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o livro",
+   "en": "the book",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o café",
+   "en": "the coffee",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o açúcar",
+   "en": "the sugar",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o giz",
+   "en": "the chalk",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o restaurante",
+   "en": "the restaurant",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o anel",
+   "en": "the ring",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o motor",
+   "en": "the engine",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a noite",
+   "en": "the evening / the night",
+   "ex": "",
+   "tags": [
+    "artigos",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "um",
+   "en": "one (m.)",
+   "ex": "um primo — one male cousin",
+   "tags": [
+    "números",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "uma",
+   "en": "one (f.)",
+   "ex": "uma prima — one female cousin",
+   "tags": [
+    "números",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "dois",
+   "en": "two (m.)",
+   "ex": "dois quartos — two bedrooms",
+   "tags": [
+    "números",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "duas",
+   "en": "two (f.)",
+   "ex": "duas malas — two suitcases",
+   "tags": [
+    "números",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o melhor amigo",
+   "en": "the best friend (m.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o avô",
+   "en": "the grandfather",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a avó",
+   "en": "the grandmother",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o sogro",
+   "en": "father-in-law",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a sogra",
+   "en": "mother-in-law",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o cunhado",
+   "en": "brother-in-law",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a cunhada",
+   "en": "sister-in-law",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o genro",
+   "en": "son-in-law",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a nora",
+   "en": "daughter-in-law",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o enteado",
+   "en": "stepson",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a enteada",
+   "en": "stepdaughter",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o padrasto",
+   "en": "stepfather",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a madrasta",
+   "en": "stepmother",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o colega",
+   "en": "the colleague (m.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a colega",
+   "en": "the colleague (f.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o gerente",
+   "en": "the manager (m.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a gerente",
+   "en": "the manager (f.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o telefone celular",
+   "en": "the cell phone",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o correio eletrônico",
+   "en": "the email",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o cartão postal",
+   "en": "the postcard",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o recepcionista",
+   "en": "the receptionist (m.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a recepcionista",
+   "en": "the receptionist (f.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o tio",
+   "en": "the uncle",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a tia",
+   "en": "the aunt",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o nome",
+   "en": "the name",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o sobrenome",
+   "en": "the last name",
+   "ex": "",
+   "tags": [
+    "família",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "há",
+   "en": "there is / there are",
+   "ex": "Há uma casa. — There is a house.",
+   "tags": [
+    "gramática",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "não há",
+   "en": "there isn't / there aren't",
+   "ex": "Não há um quarto. — There isn't a bedroom.",
+   "tags": [
+    "gramática",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "aqui",
+   "en": "here",
+   "ex": "Há um professor aqui. — There is a teacher here.",
+   "tags": [
+    "gramática",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "ali",
+   "en": "there",
+   "ex": "…e três estudantes ali. — …and three students there.",
+   "tags": [
+    "gramática",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "lá",
+   "en": "over there",
+   "ex": "Há um bom hotel lá. — There's a good hotel over there.",
+   "tags": [
+    "gramática",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "e",
+   "en": "and",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "também",
+   "en": "too / also",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "é claro",
+   "en": "of course",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "é",
+   "en": "is",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "vários",
+   "en": "several (m.)",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "várias",
+   "en": "several (f.)",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o quarto",
+   "en": "the bedroom",
+   "ex": "",
+   "tags": [
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a mala",
+   "en": "the suitcase",
+   "ex": "",
+   "tags": [
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o jornal",
+   "en": "the newspaper",
+   "ex": "",
+   "tags": [
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o carro",
+   "en": "the car",
+   "ex": "",
+   "tags": [
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o hotel",
+   "en": "the hotel",
+   "ex": "",
+   "tags": [
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "o cachorro",
+   "en": "the dog",
+   "ex": "",
+   "tags": [
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a família",
+   "en": "the family",
+   "ex": "",
+   "tags": [
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
+  },
+  {
+   "pt": "a ilha",
+   "en": "the island",
+   "ex": "",
+   "tags": [
+    "lição 2"
+   ],
+   "chapterId": "ch-licao-2"
   }
  ],
  "notes": [
@@ -1471,6 +2429,1185 @@
     {
      "t": "callout",
      "text": "An r at the start of a word sounds like rr: rua sounds closer to hua. This is the single most Brazilian thing about Brazilian pronunciation."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Lesson goals",
+   "source": "p. 24",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Oi! In your second lesson you'll learn how to talk about people and members of your family, and continue with key structures in Portuguese."
+    },
+    {
+     "t": "h",
+     "text": "By the end you should be able to"
+    },
+    {
+     "t": "list",
+     "items": [
+      "talk about members of your family · p. 25",
+      "use definite articles (the) · p. 27",
+      "talk about people · p. 30",
+      "use there is and there are in Portuguese · p. 33",
+      "use what you've learned to tell someone about your family · p. 36"
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Vamos lá! — Let's go!"
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Family and people",
+   "source": "p. 25 · CD 1, track 10",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "The first vocabulary list of the lesson. Every noun is given here with its article, which is the habit the book asks you to build: learn each noun together with o or a."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "a mãe",
+       "mother"
+      ],
+      [
+       "o pai",
+       "father"
+      ],
+      [
+       "o irmão",
+       "brother"
+      ],
+      [
+       "a irmã",
+       "sister"
+      ],
+      [
+       "o professor",
+       "teacher (m.)"
+      ],
+      [
+       "a professora",
+       "teacher (f.)"
+      ],
+      [
+       "o estudante",
+       "student"
+      ],
+      [
+       "o homem",
+       "man"
+      ],
+      [
+       "a mulher",
+       "woman"
+      ],
+      [
+       "o marido",
+       "husband"
+      ],
+      [
+       "a esposa",
+       "wife (formal)"
+      ],
+      [
+       "o amigo",
+       "friend (m.)"
+      ],
+      [
+       "a amiga",
+       "friend (f.)"
+      ],
+      [
+       "o menino",
+       "boy"
+      ],
+      [
+       "a menina",
+       "girl"
+      ],
+      [
+       "a pessoa",
+       "person"
+      ],
+      [
+       "a casa",
+       "house"
+      ],
+      [
+       "o escritório",
+       "office"
+      ],
+      [
+       "o médico",
+       "doctor (m.)"
+      ],
+      [
+       "a médica",
+       "doctor (f.)"
+      ],
+      [
+       "a filha",
+       "daughter"
+      ],
+      [
+       "o filho",
+       "son"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "In Portuguese the word for wife is the same as the word for woman: mulher. There is also the more formal pair esposa (wife) and esposo (husband)."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Pronouncing consonants 1 — lh and nh",
+   "source": "p. 27 · CD 1, track 11",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Two consonant pairs that appear constantly in Portuguese, and that you have already met in mulher and filha."
+    },
+    {
+     "t": "table",
+     "head": [
+      "Spelling",
+      "Sounds like",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "lh",
+       "the lli in million",
+       "filho (son), milho (corn)"
+      ],
+      [
+       "nh",
+       "the ni in onion",
+       "espanhol (Spanish), tenho (I have)"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "In sentences"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "O homem de Ilhéus.",
+       "The man from Ilhéus."
+      ],
+      [
+       "Manhattan é uma ilha.",
+       "Manhattan is an island."
+      ],
+      [
+       "Não há nenhum.",
+       "There isn't any."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "The definite articles o and a",
+   "source": "pp. 27–29 · CD 1, track 12",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "A noun refers to a person, place or thing. Very few English nouns have a masculine or feminine form — host/hostess is a rare one — but every noun in Portuguese has a grammatical gender. The definite article, the, is o for masculine and a for feminine, and it reflects that gender."
+    },
+    {
+     "t": "h",
+     "text": "People"
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Masculine",
+      "Feminine"
+     ],
+     "rows": [
+      [
+       "the neighbor",
+       "o vizinho",
+       "a vizinha"
+      ],
+      [
+       "the cousin",
+       "o primo",
+       "a prima"
+      ],
+      [
+       "the Brazilian",
+       "o brasileiro",
+       "a brasileira"
+      ],
+      [
+       "the American",
+       "o americano",
+       "a americana"
+      ],
+      [
+       "the nurse",
+       "o enfermeiro",
+       "a enfermeira"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Places and things have a gender too"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "a casa",
+       "the house"
+      ],
+      [
+       "o apartamento",
+       "the apartment"
+      ],
+      [
+       "a água",
+       "the water"
+      ],
+      [
+       "a praia",
+       "the beach"
+      ],
+      [
+       "o relógio",
+       "the watch / the clock"
+      ],
+      [
+       "a rua",
+       "the street"
+      ],
+      [
+       "o copo",
+       "the (drinking) glass"
+      ],
+      [
+       "a mesa",
+       "the table"
+      ],
+      [
+       "o livro",
+       "the book"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "But the ending doesn't always tell you"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "o café",
+       "the coffee"
+      ],
+      [
+       "o açúcar",
+       "the sugar"
+      ],
+      [
+       "o giz",
+       "the chalk"
+      ],
+      [
+       "o homem",
+       "the man"
+      ],
+      [
+       "o restaurante",
+       "the restaurant"
+      ],
+      [
+       "o anel",
+       "the ring"
+      ],
+      [
+       "o motor",
+       "the engine"
+      ],
+      [
+       "a noite",
+       "the evening / the night"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "o and a are used far more often than the is in English, and they always tell you the gender. So when you learn a new noun, learn it with its article — not casa but a casa."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Numbers 1 and 2",
+   "source": "p. 29 · CD 1, track 13",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "one (m.)",
+       "um"
+      ],
+      [
+       "one (f.)",
+       "uma"
+      ],
+      [
+       "two (m.)",
+       "dois"
+      ],
+      [
+       "two (f.)",
+       "duas"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "One and two are the numbers that change with gender: they agree with the noun they refer to. You'll meet the rest of the numbers in the next lesson."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "um primo",
+       "one male cousin"
+      ],
+      [
+       "uma prima",
+       "one female cousin"
+      ],
+      [
+       "dois quartos",
+       "two bedrooms"
+      ],
+      [
+       "duas malas",
+       "two suitcases"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "More people, and a few things",
+   "source": "p. 30 · CD 1, track 14",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "The second list: in-laws, step-relations, and the handful of everyday nouns the lesson needs."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "o melhor amigo",
+       "the best friend (m.)"
+      ],
+      [
+       "o avô",
+       "the grandfather"
+      ],
+      [
+       "a avó",
+       "the grandmother"
+      ],
+      [
+       "o sogro",
+       "father-in-law"
+      ],
+      [
+       "a sogra",
+       "mother-in-law"
+      ],
+      [
+       "o cunhado",
+       "brother-in-law"
+      ],
+      [
+       "a cunhada",
+       "sister-in-law"
+      ],
+      [
+       "o genro",
+       "son-in-law"
+      ],
+      [
+       "a nora",
+       "daughter-in-law"
+      ],
+      [
+       "o enteado",
+       "stepson"
+      ],
+      [
+       "a enteada",
+       "stepdaughter"
+      ],
+      [
+       "o padrasto",
+       "stepfather"
+      ],
+      [
+       "a madrasta",
+       "stepmother"
+      ],
+      [
+       "o colega",
+       "the colleague (m.)"
+      ],
+      [
+       "a colega",
+       "the colleague (f.)"
+      ],
+      [
+       "o gerente",
+       "the manager (m.)"
+      ],
+      [
+       "a gerente",
+       "the manager (f.)"
+      ],
+      [
+       "o telefone celular",
+       "the cell phone"
+      ],
+      [
+       "o correio eletrônico",
+       "the email"
+      ],
+      [
+       "o cartão postal",
+       "the postcard"
+      ],
+      [
+       "o recepcionista",
+       "the receptionist (m.)"
+      ],
+      [
+       "a recepcionista",
+       "the receptionist (f.)"
+      ],
+      [
+       "o tio",
+       "the uncle"
+      ],
+      [
+       "a tia",
+       "the aunt"
+      ],
+      [
+       "o nome",
+       "the name"
+      ],
+      [
+       "o sobrenome",
+       "the last name"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Note on the printed page: the row after enteado (stepson) is glossed simply as \"daughter\", but enteada is stepdaughter — it sits in the middle of the step-family run. Learn it as stepdaughter."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Pronouncing consonants 2 — c, h and l",
+   "source": "p. 31 · CD 1, track 15",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Letter",
+      "When",
+      "Sounds like",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "c",
+       "before a, o, u and consonants other than h",
+       "the k in kite",
+       "caro (expensive), capital (capital)"
+      ],
+      [
+       "c",
+       "before e and i",
+       "the c in center",
+       "cidade (city), especial (special)"
+      ],
+      [
+       "h",
+       "always",
+       "silent",
+       "hotel (hotel)"
+      ],
+      [
+       "l",
+       "normally",
+       "close to the l in lead, tongue further forward on the roof of the mouth",
+       "lavar (to wash), dólar (dollar)"
+      ],
+      [
+       "l",
+       "at the end of a word",
+       "softened, close to the w in we",
+       "final (final), Brasil (Brazil)"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "So hotel comes out as [OH-tew] — silent h at the front, softened l at the end. Other common silent-h words: hora (hour), honesto (honest), honrar (to honor)."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Há — there is and there are",
+   "source": "pp. 33–34 · CD 1, track 16",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Há covers both there is and there are — one word, no change for number."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Há uma casa.",
+       "There is a house."
+      ],
+      [
+       "Há um menino.",
+       "There is a boy."
+      ],
+      [
+       "Há dois carros.",
+       "There are two cars."
+      ],
+      [
+       "Há duas professoras.",
+       "There are two teachers."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Negative"
+    },
+    {
+     "t": "p",
+     "text": "Put não (no) in front of há."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Não há um quarto.",
+       "There isn't a bedroom."
+      ],
+      [
+       "Não há dois copos.",
+       "There aren't two glasses."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Questions"
+    },
+    {
+     "t": "p",
+     "text": "In writing, just add a question mark — there is no word inversion the way English flips to Is there? / Are there? Intonation does the work: a slight rise in pitch toward the end tells the listener it's a question."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Há um médico?",
+       "Is there a doctor?"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Here and there"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "aqui",
+       "here"
+      ],
+      [
+       "ali",
+       "there"
+      ],
+      [
+       "lá",
+       "over there"
+      ],
+      [
+       "Há um professor aqui e três estudantes ali.",
+       "There is a teacher here and three students there."
+      ],
+      [
+       "Há um bom hotel lá.",
+       "There's a good hotel over there."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "A few essential words",
+   "source": "p. 35 · CD 1, track 17",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "e",
+       "and"
+      ],
+      [
+       "também",
+       "too / also"
+      ],
+      [
+       "é claro",
+       "of course"
+      ],
+      [
+       "é",
+       "is"
+      ],
+      [
+       "vários (m.) / várias (f.)",
+       "several"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "A minha família — bringing it together",
+   "source": "pp. 36–37 · CD 1, track 18",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "The lesson closes with a short monologue in which a speaker introduces her family. Rather than reproduce it here, this is the pattern it drills — every sentence is há plus a family word plus a name, which is exactly what you'd say introducing your own."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "A minha família.",
+       "My family."
+      ],
+      [
+       "Quero apresentar a minha família.",
+       "I want to introduce my family."
+      ],
+      [
+       "Na minha família há um pai, o Sr. Carlos.",
+       "In my family there's a father, Mr. Carlos."
+      ],
+      [
+       "Há uma mãe, a Sra. Ana.",
+       "There's a mother, Mrs. Ana."
+      ],
+      [
+       "Há um irmão, Pedro, professor.",
+       "There's a brother, Pedro, a teacher."
+      ],
+      [
+       "E há uma irmã, Sônia, médica.",
+       "And there's a sister, Sônia, a doctor."
+      ],
+      [
+       "Há dois avôs e duas avós.",
+       "There are two grandfathers and two grandmothers."
+      ],
+      [
+       "Há tios, tias, primos e primas.",
+       "There are aunts, uncles, and cousins."
+      ],
+      [
+       "Também há o Juca. O Juca é o cachorro!",
+       "There's also Juca. Juca is the dog!"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Notice the definite article in front of names and family words — o Juca, a Sra. Ana, a minha família. Brazilians use it far more freely than English does. And note a person's job simply follows their name, with no article: Pedro, professor."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Pronouncing consonants 3 — t",
+   "source": "pp. 38–39 · CD 1, track 19",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Letter",
+      "When",
+      "Sounds like",
+      "Examples"
+     ],
+     "rows": [
+      [
+       "t",
+       "before a, o, u and other consonants",
+       "the t in take",
+       "tarde (afternoon), todo (all)"
+      ],
+      [
+       "t",
+       "before e and i",
+       "the ch in choose",
+       "tia (aunt), importante (important)"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "This one varies by region. In the south — Paraná, Santa Catarina, Rio Grande do Sul — people tend to pronounce t as it's spelled even before e or i. In Rio de Janeiro and São Paulo it becomes a ch."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "dente (tooth) in Paraná",
+       "[DEN-te]"
+      ],
+      [
+       "dente in São Paulo",
+       "[DEN-chee]"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Regional pronunciation doesn't drastically change the word — no more than an American and a British speaker saying their own t differently."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Vocabulary Practice 1",
+   "source": "p. 26",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Translate the following words into Portuguese.",
+     "items": [
+      {
+       "q": "office",
+       "a": "escritório"
+      },
+      {
+       "q": "sister",
+       "a": "irmã"
+      },
+      {
+       "q": "house",
+       "a": "casa"
+      },
+      {
+       "q": "mother",
+       "a": "mãe"
+      },
+      {
+       "q": "father",
+       "a": "pai"
+      },
+      {
+       "q": "man",
+       "a": "homem"
+      },
+      {
+       "q": "woman",
+       "a": "mulher"
+      },
+      {
+       "q": "student",
+       "a": "estudante"
+      },
+      {
+       "q": "teacher (m.)",
+       "a": "professor"
+      },
+      {
+       "q": "girl",
+       "a": "menina"
+      },
+      {
+       "q": "daughter",
+       "a": "filha"
+      },
+      {
+       "q": "boy",
+       "a": "menino"
+      },
+      {
+       "q": "person",
+       "a": "pessoa"
+      },
+      {
+       "q": "friend",
+       "a": "amigo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Vocabulary Practice 2",
+   "source": "pp. 32–33",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Give the correct definite article: o or a.",
+     "items": [
+      {
+       "q": "___ copo — the glass",
+       "a": "o copo"
+      },
+      {
+       "q": "___ professor — the teacher (m.)",
+       "a": "o professor"
+      },
+      {
+       "q": "___ casa — the house",
+       "a": "a casa"
+      },
+      {
+       "q": "___ irmão — the brother",
+       "a": "o irmão"
+      },
+      {
+       "q": "___ menina — the girl",
+       "a": "a menina"
+      },
+      {
+       "q": "___ amigo — the friend (m.)",
+       "a": "o amigo"
+      },
+      {
+       "q": "___ água — the water",
+       "a": "a água"
+      },
+      {
+       "q": "___ mulher — the woman",
+       "a": "a mulher"
+      },
+      {
+       "q": "___ restaurante — the restaurant",
+       "a": "o restaurante"
+      },
+      {
+       "q": "___ dia — the day",
+       "a": "o dia"
+      },
+      {
+       "q": "___ brasileira — the Brazilian woman",
+       "a": "a brasileira"
+      },
+      {
+       "q": "___ lápis — the pencil",
+       "a": "o lápis"
+      },
+      {
+       "q": "___ homem — the man",
+       "a": "o homem"
+      },
+      {
+       "q": "___ pai — the father",
+       "a": "o pai"
+      },
+      {
+       "q": "___ marido — the husband",
+       "a": "o marido"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Work Out 1",
+   "source": "pp. 35–36",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete each sentence with the right word: jornal, estudante, duas, dois, professora, amigos, homem, americana.",
+     "items": [
+      {
+       "q": "Há um ________. — There's a student.",
+       "a": "estudante"
+      },
+      {
+       "q": "Há uma ________. — There's a teacher.",
+       "a": "professora"
+      },
+      {
+       "q": "Não há ________ amigos. — There aren't two friends.",
+       "a": "dois"
+      },
+      {
+       "q": "Há dois ________. — There are two friends.",
+       "a": "amigos"
+      },
+      {
+       "q": "Há ________ mulheres. — There are two women.",
+       "a": "duas"
+      },
+      {
+       "q": "Há um ________. — There's a man.",
+       "a": "homem"
+      },
+      {
+       "q": "Há uma ________. — There's an American woman.",
+       "a": "americana"
+      },
+      {
+       "q": "Não há um ________. — There isn't a newspaper.",
+       "a": "jornal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Work Out 2",
+   "source": "pp. 37–38",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete each phrase with the right noun, feminine or masculine. The article and the translation will guide you.",
+     "items": [
+      {
+       "q": "a ________ — the wife",
+       "a": "a mulher / a esposa"
+      },
+      {
+       "q": "a ________ — the teacher",
+       "a": "a professora"
+      },
+      {
+       "q": "a ________ — the friend",
+       "a": "a amiga"
+      },
+      {
+       "q": "o ________ — the cousin",
+       "a": "o primo"
+      },
+      {
+       "q": "o ________ — the doctor",
+       "a": "o médico"
+      },
+      {
+       "q": "o ________ — the grandfather",
+       "a": "o avô"
+      },
+      {
+       "q": "a ________ — the American",
+       "a": "a americana"
+      },
+      {
+       "q": "o ________ — the son",
+       "a": "o filho"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Drive it Home",
+   "source": "pp. 39–41",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Give the feminine of each noun, with the article a.",
+     "items": [
+      {
+       "q": "o primo — the cousin",
+       "a": "a prima"
+      },
+      {
+       "q": "o professor — the teacher",
+       "a": "a professora"
+      },
+      {
+       "q": "o americano — the American",
+       "a": "a americana"
+      },
+      {
+       "q": "o homem — the man",
+       "a": "a mulher"
+      },
+      {
+       "q": "o filho — the son",
+       "a": "a filha"
+      },
+      {
+       "q": "o estudante — the student",
+       "a": "a estudante"
+      },
+      {
+       "q": "o amigo — the friend",
+       "a": "a amiga"
+      },
+      {
+       "q": "o pai — the father",
+       "a": "a mãe"
+      },
+      {
+       "q": "o avô — the grandfather",
+       "a": "a avó"
+      },
+      {
+       "q": "o colega — the colleague",
+       "a": "a colega"
+      },
+      {
+       "q": "o médico — the doctor",
+       "a": "a médica"
+      },
+      {
+       "q": "o enfermeiro — the nurse",
+       "a": "a enfermeira"
+      },
+      {
+       "q": "o marido — the husband",
+       "a": "a mulher / a esposa"
+      },
+      {
+       "q": "o turista — the tourist",
+       "a": "a turista"
+      },
+      {
+       "q": "o recepcionista — the receptionist",
+       "a": "a recepcionista"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Word Recall",
+   "source": "p. 42",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Translate into Portuguese.",
+     "items": [
+      {
+       "q": "yes / no",
+       "a": "sim / não"
+      },
+      {
+       "q": "sister",
+       "a": "a irmã"
+      },
+      {
+       "q": "uncle's wife",
+       "a": "a tia"
+      },
+      {
+       "q": "please",
+       "a": "por favor"
+      },
+      {
+       "q": "sister's husband",
+       "a": "o cunhado"
+      },
+      {
+       "q": "and",
+       "a": "e"
+      },
+      {
+       "q": "too",
+       "a": "também"
+      },
+      {
+       "q": "aunt's son",
+       "a": "o primo"
+      },
+      {
+       "q": "excuse me",
+       "a": "com licença"
+      },
+      {
+       "q": "mother's mother",
+       "a": "a avó"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-2",
+   "title": "Parting words",
+   "source": "p. 41",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Parabéns! You finished the lesson. You should now be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "talk about members of your family (unsure? p. 25)",
+      "use definite articles (unsure? p. 27)",
+      "talk about people (unsure? p. 30)",
+      "use there is and there are (unsure? p. 33)",
+      "tell someone about your family (unsure? p. 36)"
+     ]
     }
    ]
   }
