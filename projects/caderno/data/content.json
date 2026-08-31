@@ -1,6 +1,6 @@
 {
- "version": 7,
- "note": "Everything is available now — no scheduled dates",
+ "version": 8,
+ "note": "Lições 1–10 plus o alfabeto. Shipped content; merged once per version.",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -43,6 +43,24 @@
    "num": "7",
    "title": "Everyday Life",
    "pages": "111–125"
+  },
+  {
+   "id": "ch-licao-8",
+   "num": "8",
+   "title": "At a Restaurant",
+   "pages": "126–143"
+  },
+  {
+   "id": "ch-licao-9",
+   "num": "9",
+   "title": "At Work",
+   "pages": "144–158"
+  },
+  {
+   "id": "ch-licao-10",
+   "num": "10",
+   "title": "Among Friends",
+   "pages": "159–178"
   }
  ],
  "vocab": [
@@ -6835,6 +6853,3197 @@
     "lição 7"
    ],
    "chapterId": "ch-licao-7"
+  },
+  {
+   "pt": "a cerveja",
+   "en": "beer",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o vinho",
+   "en": "wine",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o vinho branco",
+   "en": "white wine",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o vinho tinto",
+   "en": "red wine",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a carne",
+   "en": "meat",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a carne de vaca",
+   "en": "beef",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a carne de porco",
+   "en": "pork",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o peixe",
+   "en": "fish",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o sanduíche",
+   "en": "sandwich",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a salada",
+   "en": "salad",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a alface",
+   "en": "lettuce",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o suco de laranja",
+   "en": "orange juice",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o cardápio",
+   "en": "the menu",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o garçom",
+   "en": "the waiter",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o prato",
+   "en": "the dish / the plate",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a sobremesa",
+   "en": "dessert",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o sal",
+   "en": "salt",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a pimenta",
+   "en": "pepper",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o pão",
+   "en": "bread",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a manteiga",
+   "en": "butter",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a sopa",
+   "en": "soup",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "os legumes",
+   "en": "legumes",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "as verduras",
+   "en": "vegetables",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a cebola",
+   "en": "onion",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o alho",
+   "en": "garlic",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a vagem",
+   "en": "green beans",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a ervilha",
+   "en": "peas",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o feijão",
+   "en": "beans",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o arroz",
+   "en": "rice",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o limão",
+   "en": "lemon",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a cereja",
+   "en": "cherry",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o aperitivo",
+   "en": "something you eat or drink before a meal",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o coquetel",
+   "en": "cocktail",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o frango",
+   "en": "chicken",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "as batatas fritas",
+   "en": "french fries",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o morango",
+   "en": "strawberry",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o chocolate",
+   "en": "chocolate",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o bolo",
+   "en": "cake",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a torta de maçã",
+   "en": "apple pie",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o bolo de coco",
+   "en": "coconut cake",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o purê de batatas",
+   "en": "mashed potatoes",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o café com leite",
+   "en": "coffee with milk",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a taça",
+   "en": "wine glass / goblet",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "os talheres",
+   "en": "silverware",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o garfo",
+   "en": "fork",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a faca",
+   "en": "knife",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a colher",
+   "en": "spoon",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a tigela",
+   "en": "bowl",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o guardanapo",
+   "en": "napkin",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a toalha de mesa",
+   "en": "table cloth",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a conta",
+   "en": "the check",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a entrada",
+   "en": "the appetizer; also the admission ticket",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lazer",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o prato principal",
+   "en": "the main course",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a taxa de serviço",
+   "en": "the service charge",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a lista de espera",
+   "en": "the waiting list",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "a porção individual",
+   "en": "individual portion",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o cheque",
+   "en": "check",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "torrado",
+   "en": "toasted",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "assado",
+   "en": "roasted",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "cozido",
+   "en": "cooked",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "grelhado",
+   "en": "grilled",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "cru",
+   "en": "raw",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "bem passado",
+   "en": "well-done",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "ao ponto",
+   "en": "medium",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "mal passado",
+   "en": "rare",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "delicioso",
+   "en": "delicious",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "gelado",
+   "en": "cold / chilled",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "típico",
+   "en": "typical",
+   "ex": "",
+   "tags": [
+    "comida",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "escrever",
+   "en": "to write",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "entender",
+   "en": "to understand",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "correr",
+   "en": "to run",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "perceber",
+   "en": "to notice",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "esconder",
+   "en": "to hide",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "receber",
+   "en": "to receive",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "morrer",
+   "en": "to die",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "devolver",
+   "en": "to give back",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "viver",
+   "en": "to live",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "parecer",
+   "en": "to seem / to look",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "beber",
+   "en": "to drink",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "comer",
+   "en": "to eat",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "escolher",
+   "en": "to choose",
+   "ex": "",
+   "tags": [
+    "verbos -er",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "abrir",
+   "en": "to open",
+   "ex": "",
+   "tags": [
+    "verbos -ir",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "assistir",
+   "en": "to watch / to attend",
+   "ex": "",
+   "tags": [
+    "verbos -ir",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "discutir",
+   "en": "to discuss / to argue",
+   "ex": "",
+   "tags": [
+    "verbos -ir",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "dividir",
+   "en": "to divide / to share",
+   "ex": "",
+   "tags": [
+    "verbos -ir",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "partir",
+   "en": "to leave / to depart",
+   "ex": "",
+   "tags": [
+    "verbos -ir",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "decidir",
+   "en": "to decide",
+   "ex": "",
+   "tags": [
+    "verbos -ir",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "insistir",
+   "en": "to insist",
+   "ex": "",
+   "tags": [
+    "verbos -ir",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "pedir",
+   "en": "to ask for / to order",
+   "ex": "",
+   "tags": [
+    "verbos -ir",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "eu escrevo",
+   "en": "I write",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "nós escrevemos",
+   "en": "we write",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "eu abro",
+   "en": "I open",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "nós abrimos",
+   "en": "we open",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "eu prefiro",
+   "en": "I prefer",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "preferir",
+   "en": "to prefer",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "recomendar",
+   "en": "to recommend",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "reservar",
+   "en": "to reserve",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "acompanhar",
+   "en": "to go with / to accompany",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "aceitar",
+   "en": "to accept",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "desejar",
+   "en": "to wish",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "este / esta",
+   "en": "this (near me)",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "estes / estas",
+   "en": "these (near me)",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "esse / essa",
+   "en": "that (near you)",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "esses / essas",
+   "en": "those (near you)",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "aquele / aquela",
+   "en": "that (over there)",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "aqueles / aquelas",
+   "en": "those (over there)",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "isto",
+   "en": "this thing here",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "isso",
+   "en": "that thing you have there",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "aquilo",
+   "en": "that thing over there",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "eu gostaria",
+   "en": "I'd like",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "eu quero",
+   "en": "I want",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o que você deseja",
+   "en": "what would you like",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "Com licença",
+   "en": "excuse me",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "Pois não.",
+   "en": "Certainly. / Of course.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "Está bem.",
+   "en": "All right.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "Venha por aqui.",
+   "en": "Come this way.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "Bom apetite!",
+   "en": "Enjoy your meal!",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "Excelente escolha!",
+   "en": "Excellent choice!",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "com gás",
+   "en": "sparkling",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 8"
+   ],
+   "chapterId": "ch-licao-8"
+  },
+  {
+   "pt": "o programador",
+   "en": "the programmer",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o veterinário",
+   "en": "the veterinarian",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o piloto",
+   "en": "the pilot",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o advogado",
+   "en": "the lawyer",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o ator",
+   "en": "the actor",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o jornalista",
+   "en": "the journalist",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o diretor",
+   "en": "the director",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o escritor",
+   "en": "the writer",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o cozinheiro",
+   "en": "the cook",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o vendedor",
+   "en": "the salesperson",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o faxineiro",
+   "en": "the janitor",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o assistente",
+   "en": "the assistant",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o trabalhador",
+   "en": "the worker",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "a diretora de produção",
+   "en": "the production director",
+   "ex": "",
+   "tags": [
+    "profissões",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "programar",
+   "en": "to program",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "cuidar de",
+   "en": "to treat / to look after",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "voar",
+   "en": "to fly",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "defender",
+   "en": "to defend",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "ensaiar",
+   "en": "to rehearse",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "entrevistar",
+   "en": "to interview",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "dirigir",
+   "en": "to direct / to drive",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "limpar",
+   "en": "to clean",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "tratar",
+   "en": "to treat",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "fazer faxina",
+   "en": "to clean (a place)",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "vender",
+   "en": "to sell",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "investir",
+   "en": "to invest",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "entregar",
+   "en": "to deliver",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "marcar",
+   "en": "to schedule",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "adiar",
+   "en": "to put off / to postpone",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "ficar",
+   "en": "to stay",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "virar",
+   "en": "to turn / to become",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "ir",
+   "en": "to go",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "eu vou",
+   "en": "I go",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "você vai",
+   "en": "you go",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "nós vamos",
+   "en": "we go",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "vocês vão",
+   "en": "you go (pl.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "eles vão",
+   "en": "they go",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "fazer",
+   "en": "to do / to make",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "eu faço",
+   "en": "I do / I make",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "você faz",
+   "en": "you do",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "nós fazemos",
+   "en": "we do",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "vocês fazem",
+   "en": "you do (pl.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "eles fazem",
+   "en": "they do",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "ao",
+   "en": "to the (m. sg.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "à",
+   "en": "to the (f. sg.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "aos",
+   "en": "to the (m. pl.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "às",
+   "en": "to the (f. pl.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "os dias da semana",
+   "en": "the days of the week",
+   "ex": "",
+   "tags": [
+    "dias",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "segunda-feira",
+   "en": "Monday",
+   "ex": "",
+   "tags": [
+    "dias",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "terça-feira",
+   "en": "Tuesday",
+   "ex": "",
+   "tags": [
+    "dias",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "quarta-feira",
+   "en": "Wednesday",
+   "ex": "",
+   "tags": [
+    "dias",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "quinta-feira",
+   "en": "Thursday",
+   "ex": "",
+   "tags": [
+    "dias",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "sexta-feira",
+   "en": "Friday",
+   "ex": "",
+   "tags": [
+    "dias",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "sábado",
+   "en": "Saturday",
+   "ex": "",
+   "tags": [
+    "dias",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "domingo",
+   "en": "Sunday",
+   "ex": "",
+   "tags": [
+    "dias",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "os meses do ano",
+   "en": "the months of the year",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "janeiro",
+   "en": "January",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "fevereiro",
+   "en": "February",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "março",
+   "en": "March",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "abril",
+   "en": "April",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "maio",
+   "en": "May",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "junho",
+   "en": "June",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "julho",
+   "en": "July",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "agosto",
+   "en": "August",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "setembro",
+   "en": "September",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "outubro",
+   "en": "October",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "novembro",
+   "en": "November",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "dezembro",
+   "en": "December",
+   "ex": "",
+   "tags": [
+    "meses",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "a primavera",
+   "en": "spring",
+   "ex": "",
+   "tags": [
+    "estações",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o verão",
+   "en": "summer",
+   "ex": "",
+   "tags": [
+    "estações",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o outono",
+   "en": "fall",
+   "ex": "",
+   "tags": [
+    "estações",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o inverno",
+   "en": "winter",
+   "ex": "",
+   "tags": [
+    "estações",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "fazer negócios",
+   "en": "to do business",
+   "ex": "",
+   "tags": [
+    "expressões com fazer",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "Não faz mal.",
+   "en": "It doesn't matter.",
+   "ex": "",
+   "tags": [
+    "expressões com fazer",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "fazer amigos",
+   "en": "to make friends",
+   "ex": "",
+   "tags": [
+    "expressões com fazer",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "fazer xx anos",
+   "en": "to turn xx years old",
+   "ex": "",
+   "tags": [
+    "expressões com fazer",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "fazer tempo bom",
+   "en": "to be nice (weather)",
+   "ex": "",
+   "tags": [
+    "expressões com fazer",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "fazer compras",
+   "en": "to go shopping",
+   "ex": "",
+   "tags": [
+    "expressões com fazer",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "fazer ginástica",
+   "en": "to work out",
+   "ex": "",
+   "tags": [
+    "expressões com fazer",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "fazer uma viagem de negócios",
+   "en": "to take a business trip",
+   "ex": "",
+   "tags": [
+    "expressões com fazer",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "a empresa",
+   "en": "the company",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "a firma",
+   "en": "the firm",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "a companhia",
+   "en": "the company",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o aumento",
+   "en": "the raise",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o bônus",
+   "en": "the bonus",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "a reunião",
+   "en": "the meeting",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o projeto",
+   "en": "the project",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "a greve",
+   "en": "the strike",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "entrar em greve",
+   "en": "to go on strike",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "tirar férias",
+   "en": "to take vacation",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "tirar o dia de folga",
+   "en": "to take the day off",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "tirar licença médica",
+   "en": "to take a medical leave",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "a agenda",
+   "en": "the agenda / the diary",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "lotado",
+   "en": "jam-packed",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "a apresentação de vendas",
+   "en": "the sales presentation",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "pronto",
+   "en": "ready",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o circo",
+   "en": "the circus",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o jogo de futebol",
+   "en": "the soccer game",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "as festas de fim de ano",
+   "en": "the holiday parties",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "amanhã",
+   "en": "tomorrow",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "cheio",
+   "en": "crowded / full",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "Que sorte!",
+   "en": "That's fortunate! / What luck!",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "a peça de teatro",
+   "en": "the play",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o romance",
+   "en": "the novel",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "a comida",
+   "en": "food",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o produto",
+   "en": "the product",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "o político",
+   "en": "the politician",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "lição 9"
+   ],
+   "chapterId": "ch-licao-9"
+  },
+  {
+   "pt": "gostar de",
+   "en": "to like",
+   "ex": "",
+   "tags": [
+    "gostar",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eu gosto",
+   "en": "I like",
+   "ex": "",
+   "tags": [
+    "gostar",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "você gosta",
+   "en": "you like",
+   "ex": "",
+   "tags": [
+    "gostar",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "nós gostamos",
+   "en": "we like",
+   "ex": "",
+   "tags": [
+    "gostar",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "vocês gostam",
+   "en": "you like (pl.)",
+   "ex": "",
+   "tags": [
+    "gostar",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eles gostam",
+   "en": "they like",
+   "ex": "",
+   "tags": [
+    "gostar",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "adorar",
+   "en": "to love",
+   "ex": "",
+   "tags": [
+    "gostar",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "detestar",
+   "en": "to hate",
+   "ex": "",
+   "tags": [
+    "gostar",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "odiar",
+   "en": "to hate",
+   "ex": "",
+   "tags": [
+    "gostar",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "concordar",
+   "en": "to agree",
+   "ex": "",
+   "tags": [
+    "gostar",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "ler",
+   "en": "to read",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eu leio",
+   "en": "I read",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "você lê",
+   "en": "you read",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "nós lemos",
+   "en": "we read",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "vocês leem",
+   "en": "you read (pl.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eles leem",
+   "en": "they read",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "vir",
+   "en": "to come",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eu venho",
+   "en": "I come",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "você vem",
+   "en": "you come",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "nós vimos",
+   "en": "we come",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "vocês vêm",
+   "en": "you come (pl.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eles vêm",
+   "en": "they come",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "dar",
+   "en": "to give",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eu dou",
+   "en": "I give",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "você dá",
+   "en": "you give",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "nós damos",
+   "en": "we give",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "vocês dão",
+   "en": "you give (pl.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eles dão",
+   "en": "they give",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "sair",
+   "en": "to leave / to go out",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eu saio",
+   "en": "I go out",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "você sai",
+   "en": "you go out",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "nós saímos",
+   "en": "we go out",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "vocês saem",
+   "en": "you go out (pl.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eles saem",
+   "en": "they go out",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "querer",
+   "en": "to want",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "você quer",
+   "en": "you want",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "nós queremos",
+   "en": "we want",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "vocês querem",
+   "en": "you want (pl.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eles querem",
+   "en": "they want",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "poder",
+   "en": "can / to be able to",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eu posso",
+   "en": "I can",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "você pode",
+   "en": "you can",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "nós podemos",
+   "en": "we can",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "vocês podem",
+   "en": "you can (pl.)",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "eles podem",
+   "en": "they can",
+   "ex": "",
+   "tags": [
+    "verbos irregulares",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "descansar",
+   "en": "to rest",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "nadar",
+   "en": "to swim",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "esquiar",
+   "en": "to ski",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "tocar piano",
+   "en": "to play the piano",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "assistir a",
+   "en": "to watch",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "telefonar",
+   "en": "to call / to phone",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "caridade",
+   "en": "charity",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "ir a pé",
+   "en": "to walk there / to go on foot",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "viajar de navio",
+   "en": "to travel by ship",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o ingresso",
+   "en": "the ticket (event)",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "a passagem",
+   "en": "the ticket (transport)",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o show",
+   "en": "the rock concert",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "a inauguração",
+   "en": "the opening",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "a sessão",
+   "en": "the showing / the session",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o lugar",
+   "en": "the seat / the place",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o trem",
+   "en": "the train",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o navio",
+   "en": "the ship",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o carnaval",
+   "en": "carnival",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o trânsito",
+   "en": "traffic",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o cinema",
+   "en": "the movies",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o teatro",
+   "en": "the theater",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o cantor",
+   "en": "the singer",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o ator favorito",
+   "en": "favourite actor",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "predileto",
+   "en": "favourite",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "favorito",
+   "en": "favourite",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o filme de ação",
+   "en": "action movie",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o filme antigo",
+   "en": "old movie",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "a maratona",
+   "en": "the marathon",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "a biografia",
+   "en": "the biography",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "o jogo de tênis",
+   "en": "the tennis game",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "os planos",
+   "en": "the plans",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "caro",
+   "en": "expensive",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "violento",
+   "en": "violent",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "divertido",
+   "en": "fun",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "Que divertido!",
+   "en": "What fun!",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "Claro, vamos!",
+   "en": "Of course, let's go!",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "principalmente",
+   "en": "especially",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "mais tarde",
+   "en": "later",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "juntos",
+   "en": "together",
+   "ex": "",
+   "tags": [
+    "lazer",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "deste / desta",
+   "en": "of this",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "desse / dessa",
+   "en": "of that",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "daquele / daquela",
+   "en": "of that over there",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "destes / destas",
+   "en": "of these",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "desses / dessas",
+   "en": "of those",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "daqueles / daquelas",
+   "en": "of those over there",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "disto",
+   "en": "of this (neuter)",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "disso",
+   "en": "of that (neuter)",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
+  },
+  {
+   "pt": "daquilo",
+   "en": "of that over there (neuter)",
+   "ex": "",
+   "tags": [
+    "demonstrativos",
+    "lição 10"
+   ],
+   "chapterId": "ch-licao-10"
   }
  ],
  "notes": [
@@ -12906,7 +16115,3025 @@
      ]
     }
    ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Lesson goals",
+   "source": "p. 126",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "By the end of this lesson you'll be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use important vocabulary related to food",
+      "use regular –er and –ir verbs",
+      "say I'd like and I want",
+      "say this, that, these and those",
+      "order at a restaurant"
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Bom apetite! — Enjoy your meal!"
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Eating and drinking",
+   "source": "p. 127 · CD 2, track 21",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu bebo água.",
+       "I drink water."
+      ],
+      [
+       "Você bebe cerveja.",
+       "You drink beer."
+      ],
+      [
+       "Ela não bebe vinho.",
+       "She doesn't drink wine."
+      ],
+      [
+       "Ele come carne.",
+       "He eats meat."
+      ],
+      [
+       "Nós comemos peixe.",
+       "We eat fish."
+      ],
+      [
+       "Vocês comem um sanduíche.",
+       "You eat a sandwich."
+      ],
+      [
+       "Ele pede uma salada.",
+       "He orders a salad."
+      ],
+      [
+       "O que você prefere?",
+       "What do you prefer?"
+      ],
+      [
+       "Vocês preferem suco de laranja.",
+       "You prefer orange juice."
+      ],
+      [
+       "Eu prefiro uma salada de alface com tomate.",
+       "I prefer a lettuce and tomato salad."
+      ],
+      [
+       "Nós pedimos o cardápio.",
+       "We ask for the menu."
+      ],
+      [
+       "Você chama o garçom.",
+       "You call the waiter."
+      ],
+      [
+       "Aquele prato parece delicioso.",
+       "That dish looks delicious."
+      ],
+      [
+       "Esta sobremesa é boa.",
+       "This dessert is good."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "More food words",
+   "source": "pp. 128–129 · CD 2, track 22",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "sal e pimenta",
+       "salt and pepper"
+      ],
+      [
+       "pão e manteiga",
+       "bread and butter"
+      ],
+      [
+       "torrado",
+       "toasted"
+      ],
+      [
+       "assado",
+       "roasted"
+      ],
+      [
+       "cozido",
+       "cooked"
+      ],
+      [
+       "grelhado",
+       "grilled"
+      ],
+      [
+       "cru",
+       "raw"
+      ],
+      [
+       "sopa",
+       "soup"
+      ],
+      [
+       "legumes",
+       "legumes"
+      ],
+      [
+       "verduras",
+       "vegetables"
+      ],
+      [
+       "cebola e alho",
+       "onions and garlic"
+      ],
+      [
+       "vagem",
+       "green beans"
+      ],
+      [
+       "ervilha",
+       "peas"
+      ],
+      [
+       "feijão e arroz",
+       "beans and rice"
+      ],
+      [
+       "laranja",
+       "orange"
+      ],
+      [
+       "limão",
+       "lemon"
+      ],
+      [
+       "cereja",
+       "cherry"
+      ],
+      [
+       "aperitivo",
+       "something you eat or drink before a meal"
+      ],
+      [
+       "coquetel",
+       "cocktail"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Regular –er and –ir verbs",
+   "source": "pp. 129–131 · CD 2, track 23",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "You have the –ar endings already. These are the other two families."
+    },
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "–er: escrever (to write)",
+      "–ir: abrir (to open)"
+     ],
+     "rows": [
+      [
+       "I",
+       "eu escrevo",
+       "eu abro"
+      ],
+      [
+       "you",
+       "você escreve",
+       "você abre"
+      ],
+      [
+       "he / she",
+       "ele/ela escreve",
+       "ele/ela abre"
+      ],
+      [
+       "we",
+       "nós escrevemos",
+       "nós abrimos"
+      ],
+      [
+       "you (pl.)",
+       "vocês escrevem",
+       "vocês abrem"
+      ],
+      [
+       "they",
+       "eles/elas escrevem",
+       "eles/elas abrem"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "The two sets differ in only one place: nós. –emos for –er verbs, –imos for –ir verbs. Everything else is identical."
+    },
+    {
+     "t": "h",
+     "text": "Common –er verbs"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "escrever",
+       "to write"
+      ],
+      [
+       "entender",
+       "to understand"
+      ],
+      [
+       "correr",
+       "to run"
+      ],
+      [
+       "perceber",
+       "to notice"
+      ],
+      [
+       "esconder",
+       "to hide"
+      ],
+      [
+       "receber",
+       "to receive"
+      ],
+      [
+       "morrer",
+       "to die"
+      ],
+      [
+       "devolver",
+       "to give back"
+      ],
+      [
+       "viver",
+       "to live"
+      ],
+      [
+       "aprender",
+       "to learn"
+      ],
+      [
+       "parecer",
+       "to seem / to look"
+      ],
+      [
+       "beber",
+       "to drink"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Common –ir verbs"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "abrir",
+       "to open"
+      ],
+      [
+       "assistir",
+       "to watch / to attend"
+      ],
+      [
+       "discutir",
+       "to discuss / to argue"
+      ],
+      [
+       "dividir",
+       "to divide / to share"
+      ],
+      [
+       "partir",
+       "to leave / to depart"
+      ],
+      [
+       "decidir",
+       "to decide"
+      ],
+      [
+       "insistir",
+       "to insist"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "In sentences"
+    },
+    {
+     "t": "p",
+     "text": "Negative: put não before the verb. Questions: add a question mark, and raise the pitch when speaking."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu escrevo uma carta.",
+       "I write a letter."
+      ],
+      [
+       "O Artur vive em Curitiba.",
+       "Artur lives in Curitiba."
+      ],
+      [
+       "Nós não recebemos o jornal em casa.",
+       "We don't receive the paper at home."
+      ],
+      [
+       "Onde vocês aprendem português?",
+       "Where do you learn Portuguese?"
+      ],
+      [
+       "As crianças não dividem o chocolate.",
+       "The children don't share the chocolate."
+      ],
+      [
+       "A que horas parte o avião?",
+       "What time does the plane leave?"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Ordering at a restaurant",
+   "source": "p. 132 · CD 2, track 24",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu gostaria de uma mesa para dois, por favor.",
+       "I'd like a table for two, please."
+      ],
+      [
+       "Com licença, o senhor poderia trazer a conta?",
+       "Excuse me, could you bring the check?"
+      ],
+      [
+       "Nós aceitamos dinheiro, cheque ou cartão de crédito.",
+       "We accept cash, check or credit card."
+      ],
+      [
+       "A senhora gostaria do seu filé bem passado, ao ponto ou mal passado?",
+       "Would you like your steak well-done, medium or rare?"
+      ],
+      [
+       "Os senhores preferem carne de vaca ou carne de porco?",
+       "Do you prefer beef or pork?"
+      ],
+      [
+       "Eu recomendo batatas fritas para acompanhar.",
+       "I recommend french fries to go with that."
+      ],
+      [
+       "A senhora gostaria de uma salada para acompanhar?",
+       "Would you like a salad to go with that?"
+      ],
+      [
+       "O que deseja como entrada?",
+       "What would you like as an appetizer?"
+      ],
+      [
+       "Este prato principal é típico da região.",
+       "This entrée is typical of this region."
+      ],
+      [
+       "Com licença, a taxa de serviço está incluída?",
+       "Excuse me, is the service included?"
+      ],
+      [
+       "Os senhores já escolheram?",
+       "Have you already decided?"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "A false friend to watch: entrada means appetizer, not entrée. The main course is o prato principal."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "I'd like, and I want",
+   "source": "p. 133 · CD 2, track 25",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "You'll meet the verb gostar properly in a later lesson. For ordering, eu gostaria (I'd like) is the courteous form. Eu quero (I want) is more direct. And when someone asks what you'd like, they often say o que você deseja — literally what do you wish."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Que tipo de vinho o senhor deseja?",
+       "What kind of wine would you like?"
+      ],
+      [
+       "Quero água com gás.",
+       "I want sparkling water."
+      ],
+      [
+       "Gostaria de reservar uma mesa para quatro pessoas, por favor.",
+       "I'd like to make a reservation for a party of four, please."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Demonstratives",
+   "source": "pp. 134–136 · CD 2, track 26",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Words that point: this, that, these, those. They agree in number and gender with the noun — and where English makes two distinctions of distance, Portuguese makes three."
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Masculine",
+      "Feminine"
+     ],
+     "rows": [
+      [
+       "this",
+       "este",
+       "esta"
+      ],
+      [
+       "that",
+       "esse",
+       "essa"
+      ],
+      [
+       "that (over there)",
+       "aquele",
+       "aquela"
+      ],
+      [
+       "these",
+       "estes",
+       "estas"
+      ],
+      [
+       "those",
+       "esses",
+       "essas"
+      ],
+      [
+       "those (over there)",
+       "aqueles",
+       "aquelas"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "este / esta — near both of you"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Estes guardanapos são brasileiros.",
+       "These napkins are Brazilian."
+      ],
+      [
+       "Nós preferimos esta mesa.",
+       "We prefer this table."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "esse / essa — near the person you're speaking to"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Esse guardanapo no chão é seu?",
+       "Is that napkin on the floor yours?"
+      ],
+      [
+       "Essas revistas são locais?",
+       "Are those local magazines?"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "aquele / aquela — away from you both"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Quem é aquela mulher?",
+       "Who's that woman?"
+      ],
+      [
+       "Aqueles jogadores de futebol são ótimos.",
+       "Those football players are great."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "When you don't know what the thing is"
+    },
+    {
+     "t": "p",
+     "text": "There are neuter, invariable forms for when you can't tell the gender — or don't know what you're pointing at."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "O que é isto?",
+       "What's this here?"
+      ],
+      [
+       "O que é isso?",
+       "What's that there?"
+      ],
+      [
+       "O que é aquilo?",
+       "What's that over there?"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "In informal spoken Brazilian Portuguese not much attention is paid to the este/esse distinction. Speaking, you can use esse or isso for this, esses for these, aquele or aquilo for that, and aqueles for those."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "At the table",
+   "source": "p. 138 · CD 2, track 28",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "talheres: garfo / faca / colher",
+       "silverware: fork / knife / spoon"
+      ],
+      [
+       "prato",
+       "plate"
+      ],
+      [
+       "copo",
+       "glass"
+      ],
+      [
+       "tigela",
+       "bowl"
+      ],
+      [
+       "taça",
+       "wine glass / goblet"
+      ],
+      [
+       "vinho branco",
+       "white wine"
+      ],
+      [
+       "vinho tinto",
+       "red wine"
+      ],
+      [
+       "torta de maçã",
+       "apple pie"
+      ],
+      [
+       "bolo de coco",
+       "coconut cake"
+      ],
+      [
+       "purê de batatas",
+       "mashed potatoes"
+      ],
+      [
+       "porção individual",
+       "individual portion"
+      ],
+      [
+       "porção aperitivo",
+       "appetizer portion"
+      ],
+      [
+       "toalha de mesa",
+       "table cloth"
+      ],
+      [
+       "lista de espera",
+       "waiting list"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Prato does three jobs: prato principal is the main course, prato is a plate, and pratos in the plural also means dishes in general — Lave os pratos! Wash the dishes!"
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Tomar — to take, and to have",
+   "source": "p. 140 · CD 2, track 29",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tomar means to take: Tome uma aspirina, take an aspirin. But it also means to have, when what you're having is food or drink."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Ele toma café com leite.",
+       "He has coffee with milk."
+      ],
+      [
+       "Nós tomamos sopa de cebola.",
+       "We have onion soup."
+      ],
+      [
+       "Eu gostaria de tomar um sorvete de morango.",
+       "I'd like to have strawberry ice cream."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Dinner for one — at the restaurant",
+   "source": "p. 137 · CD 2, track 27",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "A customer arrives alone and orders. These are the lines worth having ready."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Boa noite. O senhor tem uma mesa para uma pessoa?",
+       "Good evening. Do you have a table for one?"
+      ],
+      [
+       "Pois não. Venha por aqui, por favor.",
+       "Certainly. Come this way, please."
+      ],
+      [
+       "Aqui está o cardápio.",
+       "Here's the menu."
+      ],
+      [
+       "Que prato típico o senhor recomenda?",
+       "What typical dish do you suggest?"
+      ],
+      [
+       "Hoje, temos peixe à baiana. É delicioso!",
+       "Today we have fish Bahia style. It's delicious!"
+      ],
+      [
+       "Está bem. Gostaria do peixe com batatas fritas.",
+       "All right. I'd like the fish with french fries."
+      ],
+      [
+       "E para beber?",
+       "And to drink?"
+      ],
+      [
+       "Uma cerveja bem gelada.",
+       "A very cold beer."
+      ],
+      [
+       "Excelente escolha!",
+       "Excellent choice!"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Pois não is worth stealing whole. It's what a Brazilian says to signal willingness to help — yes, certainly, of course, can I help you. Note that it looks like a negative and isn't."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Vocabulary Practice 1",
+   "source": "pp. 127–128",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Translate into Portuguese.",
+     "items": [
+      {
+       "q": "I drink water.",
+       "a": "Eu bebo água."
+      },
+      {
+       "q": "You drink beer.",
+       "a": "Você bebe cerveja."
+      },
+      {
+       "q": "He eats meat.",
+       "a": "Ele come carne."
+      },
+      {
+       "q": "We eat fish.",
+       "a": "Nós comemos peixe."
+      },
+      {
+       "q": "What do you prefer?",
+       "a": "O que você prefere?"
+      },
+      {
+       "q": "You call the waiter.",
+       "a": "Você chama o garçom."
+      },
+      {
+       "q": "This dessert is good.",
+       "a": "Esta sobremesa é boa."
+      },
+      {
+       "q": "That dish looks delicious.",
+       "a": "Aquele prato parece delicioso."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Vocabulary Practice 2",
+   "source": "p. 133",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Translate these expressions.",
+     "items": [
+      {
+       "q": "excuse me",
+       "a": "com licença"
+      },
+      {
+       "q": "I'd like",
+       "a": "eu gostaria"
+      },
+      {
+       "q": "could you",
+       "a": "você / o senhor / a senhora poderia"
+      },
+      {
+       "q": "I recommend",
+       "a": "eu recomendo"
+      },
+      {
+       "q": "we accept",
+       "a": "nós aceitamos"
+      },
+      {
+       "q": "already decided",
+       "a": "já escolheram"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Work Out 1",
+   "source": "pp. 136–137",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "You're at the table. Answer the waiter in Portuguese.",
+     "items": [
+      {
+       "q": "Já escolheu? — Yes, I'd like the chicken with green beans.",
+       "a": "Sim, eu gostaria de frango com vagem."
+      },
+      {
+       "q": "Gostaria de uma sopa como entrada? — No, thank you. I prefer a lettuce and tomato salad.",
+       "a": "Não, eu prefiro uma salada de alface com tomate."
+      },
+      {
+       "q": "E para beber? — A glass of white wine, please.",
+       "a": "Uma taça de vinho branco, por favor."
+      },
+      {
+       "q": "Gostaria de uma sobremesa? — No dessert, but some coffee. Thank you.",
+       "a": "Não, sobremesa não, mas sim um café. Obrigado(a)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Work Out 2",
+   "source": "pp. 139–140",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Put each verb into the right form — all three regular endings.",
+     "items": [
+      {
+       "q": "Você ______ esta palavra? (entender)",
+       "a": "entende"
+      },
+      {
+       "q": "O que vocês ______ para acompanhar a carne? (escolher)",
+       "a": "escolhem"
+      },
+      {
+       "q": "Ana e Paulo ______ uma mesa para duas pessoas. (esperar)",
+       "a": "esperam"
+      },
+      {
+       "q": "As amigas ______ a sobremesa. (dividir)",
+       "a": "dividem"
+      },
+      {
+       "q": "Eu ______ cedo. (partir)",
+       "a": "parto"
+      },
+      {
+       "q": "Esse restaurante ______ ser muito bom. (parecer)",
+       "a": "parece"
+      },
+      {
+       "q": "A máquina de lavar pratos ______ todos os pratos, copos e talheres. (lavar)",
+       "a": "lava"
+      },
+      {
+       "q": "O meu amigo ______ um restaurante típico brasileiro. (recomendar)",
+       "a": "recomenda"
+      },
+      {
+       "q": "O meu marido e eu ______ nossos amigos para jantar. (receber)",
+       "a": "recebemos"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Drive It Home",
+   "source": "pp. 141–142",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. Complete with a demonstrative: este/esta/estes/estas, aquele/aquela/aqueles/aquelas.",
+     "items": [
+      {
+       "q": "Eu prefiro ______ sapatos aqui. — I prefer these shoes here.",
+       "a": "estes"
+      },
+      {
+       "q": "João, ______ clientes lá perto da porta não receberam o cardápio.",
+       "a": "aqueles"
+      },
+      {
+       "q": "______ carta é para a senhora. — This letter is for you, ma'am.",
+       "a": "Esta"
+      },
+      {
+       "q": "Senhor, ______ bananas aqui estão boas para hoje?",
+       "a": "estas"
+      },
+      {
+       "q": "______ café é seu porque não tem açúcar. — This is your coffee.",
+       "a": "Este"
+      },
+      {
+       "q": "Quem são ______ pessoas na sala do gerente?",
+       "a": "aquelas"
+      },
+      {
+       "q": "Ah, Paris! ______ cidade é muito romântica!",
+       "a": "Aquela"
+      },
+      {
+       "q": "Não, este aqui não é o meu casaco. O meu casaco é ______ lá.",
+       "a": "aquele"
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Now complete with isto, isso or aquilo.",
+     "items": [
+      {
+       "q": "Você entende o que é ______ aqui?",
+       "a": "isto"
+      },
+      {
+       "q": "O que é ______ na televisão?",
+       "a": "aquilo"
+      },
+      {
+       "q": "Com licença, ______ aqui é seu?",
+       "a": "isto"
+      },
+      {
+       "q": "______ do outro lado da rua é uma loja ou um restaurante?",
+       "a": "Aquilo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Word Recall",
+   "source": "p. 143",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Translate into Portuguese.",
+     "items": [
+      {
+       "q": "The pleasure is mine.",
+       "a": "O prazer é meu."
+      },
+      {
+       "q": "I want to introduce my family.",
+       "a": "Quero apresentar a minha família."
+      },
+      {
+       "q": "I have a headache.",
+       "a": "Eu tenho dor de cabeça."
+      },
+      {
+       "q": "She's sleepy.",
+       "a": "Ela está com sono."
+      },
+      {
+       "q": "The sea is very blue.",
+       "a": "O mar é muito azul."
+      },
+      {
+       "q": "There's an ATM next to the pharmacy.",
+       "a": "Há um caixa eletrônico ao lado da farmácia."
+      },
+      {
+       "q": "Classes are from 9:00 a.m. to 3:00 p.m.",
+       "a": "As aulas são das nove da manhã às três da tarde."
+      },
+      {
+       "q": "What typical dish do you suggest?",
+       "a": "Que prato típico o senhor recomenda?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-8",
+   "title": "Parting words",
+   "source": "p. 142",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bom trabalho! You've finished the lesson. You should be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use vocabulary related to food (unsure? p. 127)",
+      "use regular –er and –ir verbs (unsure? p. 129)",
+      "say I'd like and I want (unsure? p. 132)",
+      "say this, that, these and those (unsure? p. 134)",
+      "order at a restaurant (unsure? p. 137)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "Lesson goals",
+   "source": "p. 144",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "By the end of this lesson you'll be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "name common professions",
+      "use the verb ir (to go)",
+      "use the verb fazer (to do / to make)",
+      "say the days of the week and months of the year",
+      "talk about your job"
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Vamos trabalhar! — Let's get to work!"
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "What people do",
+   "source": "p. 145 · CD 2, track 30",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Programadores programam computadores.",
+       "Programmers program computers."
+      ],
+      [
+       "Veterinários cuidam de animais.",
+       "Veterinarians treat animals."
+      ],
+      [
+       "Pilotos voam aviões.",
+       "Pilots fly airplanes."
+      ],
+      [
+       "Advogados defendem clientes.",
+       "Lawyers defend clients."
+      ],
+      [
+       "Atores ensaiam peças de teatro.",
+       "Actors rehearse plays."
+      ],
+      [
+       "Jornalistas entrevistam políticos.",
+       "Journalists interview politicians."
+      ],
+      [
+       "Diretores dirigem companhias.",
+       "Directors direct companies."
+      ],
+      [
+       "Escritores escrevem romances.",
+       "Writers write novels."
+      ],
+      [
+       "Cozinheiros fazem comida.",
+       "Cooks make food."
+      ],
+      [
+       "Vendedores vendem produtos.",
+       "Salespeople sell products."
+      ],
+      [
+       "Faxineiros fazem faxina em escritórios.",
+       "Janitors clean offices."
+      ],
+      [
+       "Professores dão aulas.",
+       "Teachers give lessons."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "The verb ir, and contractions with a",
+   "source": "pp. 146–148 · CD 2, track 31",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "I go",
+       "eu vou"
+      ],
+      [
+       "you go",
+       "você vai"
+      ],
+      [
+       "he / she goes",
+       "ele/ela vai"
+      ],
+      [
+       "we go",
+       "nós vamos"
+      ],
+      [
+       "you go (pl.)",
+       "vocês vão"
+      ],
+      [
+       "they go",
+       "eles/elas vão"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu vou à escola.",
+       "I go to school."
+      ],
+      [
+       "Onde nós vamos?",
+       "Where are we going?"
+      ],
+      [
+       "Elas não vão ao aeroporto. Elas vão à estação rodoviária.",
+       "They're not going to the airport. They're going to the bus station."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "a contracts with the article, like de and em before it"
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "masculine",
+       "a + o = ao",
+       "a + os = aos"
+      ],
+      [
+       "feminine",
+       "a + a = à",
+       "a + as = às"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Note the grave accent on the feminine forms — à, às. It is the one place the grave accent is used."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Ele vai à praia de Copacabana.",
+       "He's going to Copacabana beach."
+      ],
+      [
+       "Elas vão ao circo.",
+       "They're going to the circus."
+      ],
+      [
+       "Nós vamos ao jogo de futebol.",
+       "We're going to the soccer game."
+      ],
+      [
+       "Você vai às festas de fim de ano.",
+       "You are going to the holiday parties."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "And ir makes the future, exactly as in English"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu vou acordar cedo.",
+       "I'm going to wake up early."
+      ],
+      [
+       "Onde você vai passar as férias?",
+       "Where are you going to spend your vacation?"
+      ],
+      [
+       "Eles vão chegar na hora?",
+       "Are they going to arrive on time?"
+      ],
+      [
+       "A empresa não vai dar um aumento.",
+       "The company isn't going to give a raise."
+      ],
+      [
+       "O professor vai dar uma prova amanhã.",
+       "The teacher is going to give a test tomorrow."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "At the office — what's going to happen",
+   "source": "pp. 148–149 · CD 2, track 32",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Vou fazer uma viagem de negócios.",
+       "I'm going to take a business trip."
+      ],
+      [
+       "A minha empresa vai investir mais.",
+       "My company is going to invest more."
+      ],
+      [
+       "A nossa reunião vai ser adiada.",
+       "Our meeting is going to be put off."
+      ],
+      [
+       "Os trabalhadores vão entrar em greve.",
+       "The workers are going to go on strike."
+      ],
+      [
+       "A assistente não vai trabalhar amanhã.",
+       "The assistant is not going to work tomorrow."
+      ],
+      [
+       "Nós vamos entregar o projeto.",
+       "We're going to deliver the project."
+      ],
+      [
+       "Quando você vai tirar férias?",
+       "When are you going to take vacations?"
+      ],
+      [
+       "A gerente vai marcar uma reunião.",
+       "The manager is going to schedule a meeting."
+      ],
+      [
+       "Eles vão fazer negócios com a China.",
+       "They're going to do business with China."
+      ],
+      [
+       "A firma vai pagar um bônus.",
+       "The firm is going to pay a bonus."
+      ],
+      [
+       "Eu vou tirar o dia de folga.",
+       "I'm going to take the day off."
+      ],
+      [
+       "Ele vai tirar licença médica.",
+       "He's going to take a medical leave."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "The verb fazer",
+   "source": "p. 150 · CD 2, track 33",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "I do / make",
+       "eu faço"
+      ],
+      [
+       "you do / make",
+       "você faz"
+      ],
+      [
+       "he / she does",
+       "ele/ela faz"
+      ],
+      [
+       "we do / make",
+       "nós fazemos"
+      ],
+      [
+       "you do (pl.)",
+       "vocês fazem"
+      ],
+      [
+       "they do",
+       "eles/elas fazem"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu faço a minha lição de casa.",
+       "I do my homework."
+      ],
+      [
+       "Vocês fazem negócios na China?",
+       "Do you do business in China?"
+      ],
+      [
+       "Quem fez aquilo?",
+       "Who did that? / Who made that?"
+      ],
+      [
+       "Minha amiga faz um bolo delicioso.",
+       "My friend makes a delicious cake."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "Expressions with fazer",
+   "source": "p. 153 · CD 3, track 2",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Não faz mal.",
+       "It doesn't matter."
+      ],
+      [
+       "fazer amigos",
+       "to make friends"
+      ],
+      [
+       "fazer xx anos",
+       "to turn xx years old"
+      ],
+      [
+       "fazer tempo bom",
+       "to be nice (weather)"
+      ],
+      [
+       "fazer compras",
+       "to go shopping"
+      ],
+      [
+       "fazer negócios",
+       "to do business"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "Days, months and seasons",
+   "source": "pp. 151–152 · CD 3, track 1",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "segunda-feira",
+       "Monday"
+      ],
+      [
+       "terça-feira",
+       "Tuesday"
+      ],
+      [
+       "quarta-feira",
+       "Wednesday"
+      ],
+      [
+       "quinta-feira",
+       "Thursday"
+      ],
+      [
+       "sexta-feira",
+       "Friday"
+      ],
+      [
+       "sábado",
+       "Saturday"
+      ],
+      [
+       "domingo",
+       "Sunday"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "The days are not capitalized, and feira is optional in speech — segunda, terça, quarta. For something happening on a particular day use no for sábado and domingo, which are masculine, and na for the others, which are feminine."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu chego no domingo.",
+       "I arrive on Sunday."
+      ],
+      [
+       "Ele parte na sexta-feira.",
+       "He leaves on Friday."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "For something that happens in general — on Mondays — use aos (sábado, domingo) and às (Monday to Friday)."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Nós assistimos televisão aos domingos.",
+       "We watch TV on Sundays."
+      ],
+      [
+       "Ela faz ginástica às segundas e quartas.",
+       "She works out on Mondays and Wednesdays."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The months — also not capitalized"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "janeiro",
+       "January"
+      ],
+      [
+       "fevereiro",
+       "February"
+      ],
+      [
+       "março",
+       "March"
+      ],
+      [
+       "abril",
+       "April"
+      ],
+      [
+       "maio",
+       "May"
+      ],
+      [
+       "junho",
+       "June"
+      ],
+      [
+       "julho",
+       "July"
+      ],
+      [
+       "agosto",
+       "August"
+      ],
+      [
+       "setembro",
+       "September"
+      ],
+      [
+       "outubro",
+       "October"
+      ],
+      [
+       "novembro",
+       "November"
+      ],
+      [
+       "dezembro",
+       "December"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "For a particular month, use em."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "No Brasil o inverno começa em junho.",
+       "In Brazil winter starts in June."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "The seasons"
+    },
+    {
+     "t": "p",
+     "text": "Primavera is feminine; verão, outono and inverno are masculine. Use na for primavera and no for the others."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "As praias estão cheias no verão.",
+       "The beaches are crowded in summer."
+      ],
+      [
+       "Minhas aulas terminam na primavera.",
+       "My classes end in spring."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "A manager and an assistant",
+   "source": "pp. 154–155 · CD 3, track 3",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "A manager runs through the day's diary with her assistant. These are the lines carrying the lesson."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Bom dia! Tudo bem? Como está a minha agenda para hoje?",
+       "Good morning! How's everything? How's my agenda for today?"
+      ],
+      [
+       "Sua agenda está lotada!",
+       "Your agenda is jam-packed!"
+      ],
+      [
+       "Qual é a primeira atividade do dia?",
+       "What's the first activity of the day?"
+      ],
+      [
+       "Vou usar a apresentação de vendas. Ela está pronta?",
+       "I'm going to use the sales presentation. Is it ready?"
+      ],
+      [
+       "Está sim. A reunião vai das nove às dez e meia.",
+       "Yes, it is. The meeting is from 9:00 to 10:30."
+      ],
+      [
+       "Depois vamos ter a visita da diretora de produção.",
+       "After that we're going to have a visit from the production director."
+      ],
+      [
+       "Vou ter almoço de negócios hoje?",
+       "Am I going to have a business lunch today?"
+      ],
+      [
+       "Que sorte!",
+       "That's fortunate!"
+      ],
+      [
+       "Não faz mal. Amanhã é sábado e nós não vamos trabalhar!",
+       "It doesn't matter. Tomorrow is Saturday and we're not going to work!"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "Vocabulary Practice 1",
+   "source": "pp. 145–146",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Match each profession with what they do.",
+     "items": [
+      {
+       "q": "Atores…",
+       "a": "ensaiam peças de teatro"
+      },
+      {
+       "q": "Diretores…",
+       "a": "dirigem companhias"
+      },
+      {
+       "q": "Pilotos…",
+       "a": "voam aviões"
+      },
+      {
+       "q": "Advogados…",
+       "a": "defendem clientes"
+      },
+      {
+       "q": "Professores…",
+       "a": "dão aulas"
+      },
+      {
+       "q": "Cozinheiros…",
+       "a": "fazem comida"
+      },
+      {
+       "q": "Veterinários…",
+       "a": "cuidam de animais"
+      },
+      {
+       "q": "Jornalistas…",
+       "a": "entrevistam políticos"
+      },
+      {
+       "q": "Vendedores…",
+       "a": "vendem produtos"
+      },
+      {
+       "q": "Programadores…",
+       "a": "programam computadores"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "Vocabulary Practice 2",
+   "source": "p. 149",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. Translate into English.",
+     "items": [
+      {
+       "q": "tirar o dia de folga",
+       "a": "take the day off"
+      },
+      {
+       "q": "tirar licença médica",
+       "a": "take a medical leave"
+      },
+      {
+       "q": "marcar uma reunião",
+       "a": "to schedule a meeting"
+      },
+      {
+       "q": "entrar em greve",
+       "a": "to go on strike"
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Now translate into Portuguese.",
+     "items": [
+      {
+       "q": "to pay a bonus",
+       "a": "pagar um bônus"
+      },
+      {
+       "q": "to deliver the project",
+       "a": "entregar o projeto"
+      },
+      {
+       "q": "to be put off",
+       "a": "ser adiado"
+      },
+      {
+       "q": "to take a business trip",
+       "a": "fazer uma viagem de negócios"
+      },
+      {
+       "q": "to do business",
+       "a": "fazer negócios"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "Work Out 1",
+   "source": "pp. 153–154",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with ir plus a verb from: trabalhar, viajar, fazer, pedir, investir, ficar, aprender, dar.",
+     "items": [
+      {
+       "q": "A gerente ______ uma viagem de negócios.",
+       "a": "vai fazer"
+      },
+      {
+       "q": "A minha família ______ para a praia em janeiro.",
+       "a": "vai viajar"
+      },
+      {
+       "q": "Nós ______ nosso dinheiro naquele banco.",
+       "a": "vamos investir"
+      },
+      {
+       "q": "Os trabalhadores ______ um aumento.",
+       "a": "vão pedir"
+      },
+      {
+       "q": "Mariana e Pedro ______ duas noites no Hotel Ipanema.",
+       "a": "vão ficar"
+      },
+      {
+       "q": "O professor ______ aulas na segunda-feira?",
+       "a": "vai dar"
+      },
+      {
+       "q": "Eu ______ português no Brasil.",
+       "a": "vou aprender"
+      },
+      {
+       "q": "Vocês não ______ aos sábados ou domingos.",
+       "a": "vão trabalhar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "Work Out 2",
+   "source": "p. 155",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "From memory.",
+     "items": [
+      {
+       "q": "Write the days of the week, starting with Monday.",
+       "a": "segunda-feira, terça-feira, quarta-feira, quinta-feira, sexta-feira, sábado, domingo"
+      },
+      {
+       "q": "Write the months of the year.",
+       "a": "janeiro, fevereiro, março, abril, maio, junho, julho, agosto, setembro, outubro, novembro, dezembro"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "Drive It Home",
+   "source": "pp. 156–157",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete each sentence with a verb and a profession.",
+     "items": [
+      {
+       "q": "Eu vou ______ de gatos e cachorros. — I'm going to treat cats and dogs.",
+       "a": "tratar — veterinário"
+      },
+      {
+       "q": "Ele vai ______ um cliente. — He's going to defend a client.",
+       "a": "defender — advogado"
+      },
+      {
+       "q": "Ela vai ______ uma reunião. — She's going to direct a meeting.",
+       "a": "dirigir — diretor"
+      },
+      {
+       "q": "Eles vão ______ dez escritórios. — They're going to clean ten offices.",
+       "a": "limpar — faxineiros"
+      },
+      {
+       "q": "Eles vão ______ uma peça de teatro. — They're going to rehearse a play.",
+       "a": "ensaiar — atores"
+      },
+      {
+       "q": "Eu vou ______ um Boeing 707. — I'm going to fly a Boeing 707.",
+       "a": "voar — piloto"
+      },
+      {
+       "q": "Ela vai ______ um romance. — She's going to write a novel.",
+       "a": "escrever — escritor"
+      },
+      {
+       "q": "Ele vai ______ um jantar para vinte pessoas. — He's going to cook a dinner for twenty.",
+       "a": "fazer — cozinheiro"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "Word Recall",
+   "source": "p. 158",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Give the infinitive, then translate.",
+     "items": [
+      {
+       "q": "sou",
+       "a": "ser — to be"
+      },
+      {
+       "q": "estamos",
+       "a": "estar — to be"
+      },
+      {
+       "q": "faz",
+       "a": "fazer — to do / to make"
+      },
+      {
+       "q": "gostaria",
+       "a": "gostar — to like"
+      },
+      {
+       "q": "tenho",
+       "a": "ter — to have"
+      },
+      {
+       "q": "viram",
+       "a": "virar — to turn / to become"
+      },
+      {
+       "q": "chamam",
+       "a": "chamar — to call"
+      },
+      {
+       "q": "aprende",
+       "a": "aprender — to learn"
+      },
+      {
+       "q": "abre",
+       "a": "abrir — to open"
+      },
+      {
+       "q": "vão",
+       "a": "ir — to go"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-9",
+   "title": "Parting words",
+   "source": "p. 157",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ótimo! You've finished Lesson 9. You should be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "identify some professional activities (unsure? p. 145)",
+      "use the verb ir (unsure? p. 146)",
+      "use the verb fazer (unsure? p. 150)",
+      "say the days of the week and dates (unsure? p. 151)",
+      "talk about your job (unsure? p. 154)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Lesson goals",
+   "source": "p. 159",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "By the end of this lesson you'll be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use the verb gostar de (to like)",
+      "use some common irregular verbs",
+      "use the verbs querer (to want) and poder (can)",
+      "talk about socializing and entertaining"
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Que divertido! — What fun!"
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Likes and dislikes",
+   "source": "p. 160 · CD 3, track 4",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu gosto de andar de bicicleta.",
+       "I like to ride bicycles."
+      ],
+      [
+       "Você gosta de futebol?",
+       "Do you like soccer?"
+      ],
+      [
+       "As crianças não gostam de dormir.",
+       "Children don't like to sleep."
+      ],
+      [
+       "Eu gosto do seu carro.",
+       "I like your car."
+      ],
+      [
+       "Nós gostamos da sua casa.",
+       "We like your house."
+      ],
+      [
+       "Quem gosta de pizza?",
+       "Who likes pizza?"
+      ],
+      [
+       "Ele não gosta de jogar tênis.",
+       "He doesn't like to play tennis."
+      ],
+      [
+       "Ela adora o carnaval.",
+       "She loves carnival."
+      ],
+      [
+       "Eu detesto trânsito.",
+       "I hate traffic."
+      ],
+      [
+       "Você não odeia filas?",
+       "Don't you hate lines?"
+      ],
+      [
+       "E você? O que você gosta de fazer?",
+       "How about you? What do you like to do?"
+      ],
+      [
+       "Você prefere jogar ou assistir esportes?",
+       "Do you prefer to play or watch sports?"
+      ],
+      [
+       "Que tipo de filme você gosta?",
+       "What kind of movies do you like?"
+      ],
+      [
+       "Quem é o seu cantor predileto?",
+       "Who's your favorite singer?"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "The verb gostar de",
+   "source": "pp. 161–163 · CD 3, track 5",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Gostar is a regular –ar verb, but what it likes is always introduced by de — and that de can be followed by a noun or by another verb."
+    },
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "I like",
+       "eu gosto"
+      ],
+      [
+       "you like",
+       "você gosta"
+      ],
+      [
+       "he / she likes",
+       "ele/ela gosta"
+      ],
+      [
+       "we like",
+       "nós gostamos"
+      ],
+      [
+       "you like (pl.)",
+       "vocês gostam"
+      ],
+      [
+       "they like",
+       "eles/elas gostam"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu gosto de cerveja.",
+       "I like beer."
+      ],
+      [
+       "Eu gosto de tomar cerveja.",
+       "I like to drink beer."
+      ],
+      [
+       "Eu não gosto de filmes violentos.",
+       "I don't like violent movies."
+      ],
+      [
+       "Eu não gosto de assistir filmes violentos.",
+       "I don't like to watch violent movies."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "For something specific, de contracts with the article"
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "masculine",
+       "de + o = do",
+       "de + os = dos"
+      ],
+      [
+       "feminine",
+       "de + a = da",
+       "de + as = das"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Ele gosta de gatos.",
+       "He likes cats."
+      ],
+      [
+       "Ele gosta do gato dele.",
+       "He likes his cat."
+      ],
+      [
+       "Você gosta da amiga da Carol?",
+       "Do you like Carol's friend?"
+      ],
+      [
+       "Nós não gostamos das fotos.",
+       "We don't like the photos."
+      ],
+      [
+       "Vocês gostam dos planos para as férias?",
+       "Do you like the vacation plans?"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "That is the whole trick: gostar de + something in general, gostar do/da/dos/das + something specific."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Three irregular verbs: ler, vir, dar",
+   "source": "pp. 163–164",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "ler (to read)",
+      "vir (to come)",
+      "dar (to give)"
+     ],
+     "rows": [
+      [
+       "I",
+       "eu leio",
+       "eu venho",
+       "eu dou"
+      ],
+      [
+       "you",
+       "você lê",
+       "você vem",
+       "você dá"
+      ],
+      [
+       "he / she",
+       "ele/ela lê",
+       "ele/ela vem",
+       "ele/ela dá"
+      ],
+      [
+       "we",
+       "nós lemos",
+       "nós vimos",
+       "nós damos"
+      ],
+      [
+       "you (pl.)",
+       "vocês leem",
+       "vocês vêm",
+       "vocês dão"
+      ],
+      [
+       "they",
+       "eles/elas leem",
+       "eles/elas vêm",
+       "eles/elas dão"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu leio romances e biografias.",
+       "I read novels and biographies."
+      ],
+      [
+       "Nós não lemos o jornal todos os dias.",
+       "We don't read the newspaper every day."
+      ],
+      [
+       "O Pedro e a Cecília vêm jantar em casa.",
+       "Pedro and Cecilia are coming over for dinner."
+      ],
+      [
+       "A que horas você vem aqui?",
+       "What time are you coming here?"
+      ],
+      [
+       "Quando vocês dão jantares em casa?",
+       "When do you give dinner parties at home?"
+      ],
+      [
+       "Paula dá dinheiro para caridade.",
+       "Paula gives money to charity."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Wanting and being able to",
+   "source": "p. 165 · CD 3, track 6",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu quero descansar.",
+       "I want to rest."
+      ],
+      [
+       "Ela quer nadar.",
+       "She wants to swim."
+      ],
+      [
+       "Você quer ir a uma festa?",
+       "Do you want to go to a party?"
+      ],
+      [
+       "Quando vocês querem viajar?",
+       "When do you want to travel?"
+      ],
+      [
+       "Nós queremos dois ingressos.",
+       "We want two tickets."
+      ],
+      [
+       "Eu posso jantar no sábado.",
+       "I can have dinner on Saturday."
+      ],
+      [
+       "Quando você pode sair?",
+       "When can you go out?"
+      ],
+      [
+       "Eles não podem vir à inauguração.",
+       "They can't come to the opening."
+      ],
+      [
+       "Ela pode tocar piano.",
+       "She can play the piano."
+      ],
+      [
+       "Vocês podem reservar três lugares?",
+       "Can you reserve three places?"
+      ],
+      [
+       "Eu posso ir lá a pé?",
+       "Can I walk there?"
+      ],
+      [
+       "Você quer sair comigo?",
+       "Do you want to go out with me?"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "The verb sair",
+   "source": "pp. 165–166",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sair means to leave, to get out, or to go out — and it does all three."
+    },
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "I leave / go out",
+       "eu saio"
+      ],
+      [
+       "you leave / go out",
+       "você sai"
+      ],
+      [
+       "he / she leaves",
+       "ele/ela sai"
+      ],
+      [
+       "we leave / go out",
+       "nós saímos"
+      ],
+      [
+       "you leave (pl.)",
+       "vocês saem"
+      ],
+      [
+       "they leave",
+       "eles/elas saem"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Que horas sai o trem para Belo Horizonte?",
+       "What time does the train to Belo Horizonte leave?"
+      ],
+      [
+       "Vocês saem do trabalho às cinco ou às seis da tarde?",
+       "Do you leave work at 5 or 6 p.m.?"
+      ],
+      [
+       "A Paula e o Pedro saem juntos.",
+       "Paula and Pedro go out together."
+      ],
+      [
+       "Aos domingos eu saio com meus amigos.",
+       "On Sundays I go out with my friends."
+      ],
+      [
+       "Vamos sair de casa e ir ao cinema!",
+       "Let's get out of the house and go to the movies!"
+      ],
+      [
+       "Saia do meu lugar!",
+       "Get out of my seat!"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Which word for ticket?",
+   "source": "p. 168",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Portuguese splits the English word ticket three ways."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "ingresso / entrada",
+       "for a movie, a concert, a show, a game or a play"
+      ],
+      [
+       "bilhete / passagem",
+       "for transport — bilhete de avião, passagem de trem, bilhete de ônibus"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Nós queremos dois ingressos para a sessão das dezenove horas, por favor.",
+       "We want two tickets for the 7:00 p.m. show, please."
+      ],
+      [
+       "Eu gostaria de uma entrada para o show das dezenove e trinta.",
+       "I'd like a ticket for the 7:30 p.m. show."
+      ],
+      [
+       "Eu gostaria de uma passagem para o trem das vinte horas para o Rio de Janeiro, por favor.",
+       "I'd like a ticket for the 8:00 p.m. train to Rio de Janeiro, please."
+      ],
+      [
+       "O nosso bilhete de avião está na minha bolsa.",
+       "Our airplane ticket is in my handbag."
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "And two words for concert: um concerto is a classical concert, while a pop, rock or samba gig is um show. Jogar is to play a game or a sport; tocar is to play an instrument."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Querer and poder",
+   "source": "pp. 168–170 · CD 3, track 7",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Querer means to want, and like English it is followed by a noun or by a verb in the infinitive."
+    },
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "I want",
+       "eu quero"
+      ],
+      [
+       "you want",
+       "você quer"
+      ],
+      [
+       "he / she wants",
+       "ele/ela quer"
+      ],
+      [
+       "we want",
+       "nós queremos"
+      ],
+      [
+       "you want (pl.)",
+       "vocês querem"
+      ],
+      [
+       "they want",
+       "eles/elas querem"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu quero um ingresso para o jogo de tênis.",
+       "I want a ticket for the tennis game."
+      ],
+      [
+       "Nós queremos viajar de navio.",
+       "We want to travel by ship."
+      ],
+      [
+       "O que você quer para o café da manhã?",
+       "What do you want for breakfast?"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Poder means can, or to be able to, and is also followed by an infinitive."
+    },
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "I can",
+       "eu posso"
+      ],
+      [
+       "you can",
+       "você pode"
+      ],
+      [
+       "he / she can",
+       "ele/ela pode"
+      ],
+      [
+       "we can",
+       "nós podemos"
+      ],
+      [
+       "you can (pl.)",
+       "vocês podem"
+      ],
+      [
+       "they can",
+       "eles/elas podem"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Poder carries both English senses. Ability: eu posso tocar piano, I can play the piano. Possibility: eu posso ir ao cinema amanhã, I can go to the movies tomorrow."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eles não podem correr a maratona.",
+       "They can't run the marathon."
+      ],
+      [
+       "Você pode esquiar?",
+       "Can you ski?"
+      ],
+      [
+       "Os meus amigos não podem vir no domingo.",
+       "My friends can't come on Sunday."
+      ],
+      [
+       "Que horas você pode sair na sexta-feira?",
+       "What time can you go out on Friday?"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Gostar with demonstratives",
+   "source": "pp. 174–175",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De contracts with the demonstratives too, exactly as it does with the articles."
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "this / these (m.)",
+       "de + este = deste",
+       "de + estes = destes"
+      ],
+      [
+       "that / those (m.)",
+       "de + esse = desse",
+       "de + esses = desses"
+      ],
+      [
+       "that / those over there (m.)",
+       "de + aquele = daquele",
+       "de + aqueles = daqueles"
+      ],
+      [
+       "this / these (f.)",
+       "de + esta = desta",
+       "de + estas = destas"
+      ],
+      [
+       "that / those (f.)",
+       "de + essa = dessa",
+       "de + essas = dessas"
+      ],
+      [
+       "that / those over there (f.)",
+       "de + aquela = daquela",
+       "de + aquelas = daquelas"
+      ],
+      [
+       "neuter",
+       "de + isto = disto; de + isso = disso",
+       "de + aquilo = daquilo"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu gosto deste livro.",
+       "I like this book."
+      ],
+      [
+       "Você gosta dessa salada?",
+       "Do you like that salad?"
+      ],
+      [
+       "Nós não gostamos daquele novo filme.",
+       "We didn't like that new movie."
+      ],
+      [
+       "Vocês gostam disso?",
+       "Do you like that?"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Sandra and Carlos — making plans",
+   "source": "p. 172 · CD 3, track 8",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Two friends talk about films, theatre and what they like doing at the weekend."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Você gosta de filmes de ação?",
+       "Do you like action movies?"
+      ],
+      [
+       "Às vezes, mas prefiro filmes antigos como Casablanca.",
+       "Sometimes, but I prefer old movies like Casablanca."
+      ],
+      [
+       "Que legal! Eu também. Eu amo Humphrey Bogart. Ele é o meu ator favorito!",
+       "Cool! Me too. I love Humphrey Bogart. He's my favorite actor!"
+      ],
+      [
+       "E teatro? Você vai ao teatro?",
+       "And the theater? Do you go to the theater?"
+      ],
+      [
+       "Sim vou, mas não muito porque é caro.",
+       "Yes, I do, but not a lot because it's expensive."
+      ],
+      [
+       "Concordo, principalmente para estudantes como nós.",
+       "I agree, especially for students like us."
+      ],
+      [
+       "Adoro viajar. Mas não gosto de ir à praia aos domingos porque odeio o trânsito.",
+       "I love to travel. But I don't like to go to the beach on Sundays because I hate traffic."
+      ],
+      [
+       "Eu prefiro ficar na cidade aos domingos. Eu posso estudar e ler.",
+       "I prefer to stay in the city on Sundays. I can study and read."
+      ],
+      [
+       "Vamos ao cinema mais tarde? Podemos assistir a um filme preto e branco.",
+       "Let's go to the movies later? We can watch a black and white movie."
+      ],
+      [
+       "Claro, vamos!",
+       "Of course, let's go!"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Vocabulary Practice 1",
+   "source": "pp. 160–161",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Match each phrase to its English.",
+     "items": [
+      {
+       "q": "gostamos da sua casa",
+       "a": "like your house"
+      },
+      {
+       "q": "gosto de andar de bicicleta",
+       "a": "like to ride a bicycle"
+      },
+      {
+       "q": "odeia filas",
+       "a": "hate lines"
+      },
+      {
+       "q": "gosto do seu carro",
+       "a": "like your car"
+      },
+      {
+       "q": "adora o carnaval",
+       "a": "loves carnival"
+      },
+      {
+       "q": "prefere jogar",
+       "a": "prefers to play"
+      },
+      {
+       "q": "cantor favorito",
+       "a": "favorite singer"
+      },
+      {
+       "q": "não gostam de dormir",
+       "a": "don't like to sleep"
+      },
+      {
+       "q": "quem gosta de",
+       "a": "who likes"
+      },
+      {
+       "q": "detesto trânsito",
+       "a": "hate traffic"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Vocabulary Practice 2",
+   "source": "pp. 166–167",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. Translate into English.",
+     "items": [
+      {
+       "q": "Você quer ir a uma festa?",
+       "a": "Do you want to go to a party?"
+      },
+      {
+       "q": "Quando vocês querem viajar?",
+       "a": "When do you want to travel?"
+      },
+      {
+       "q": "Quando você pode sair?",
+       "a": "When can you go out?"
+      },
+      {
+       "q": "Vocês podem reservar três lugares?",
+       "a": "Can you reserve three seats?"
+      },
+      {
+       "q": "Eles não podem vir à inauguração.",
+       "a": "They can't come to the opening."
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Now translate into Portuguese.",
+     "items": [
+      {
+       "q": "I want to rest.",
+       "a": "Eu quero descansar."
+      },
+      {
+       "q": "She wants to swim.",
+       "a": "Ela quer nadar."
+      },
+      {
+       "q": "We want two tickets.",
+       "a": "Nós queremos dois ingressos."
+      },
+      {
+       "q": "She can play the piano.",
+       "a": "Ela pode tocar piano."
+      },
+      {
+       "q": "Can I walk there?",
+       "a": "Eu posso ir lá a pé?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Work Out 1",
+   "source": "pp. 170–171",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Unscramble each sentence.",
+     "items": [
+      {
+       "q": "Eu / esquiar / de / no / gosto / inverno",
+       "a": "Eu gosto de esquiar no inverno."
+      },
+      {
+       "q": "gostam / Elas / nadar / de / no / não / mar",
+       "a": "Elas não gostam de nadar no mar."
+      },
+      {
+       "q": "gostam / horas / aos / vocês / de / sábados / acordar / Que",
+       "a": "Que horas vocês gostam de acordar aos sábados?"
+      },
+      {
+       "q": "praia / você / Quando / ir / de / gosta / à",
+       "a": "Quando você gosta de ir à praia?"
+      },
+      {
+       "q": "tarde / Nós / de / gostamos / não / jantar",
+       "a": "Nós não gostamos de jantar tarde."
+      },
+      {
+       "q": "tipo / Que / comida / de / gostam / vocês",
+       "a": "Que tipo de comida vocês gostam?"
+      },
+      {
+       "q": "futebol / gosta / filho / de / jogar / Meu",
+       "a": "Meu filho gosta de jogar futebol."
+      },
+      {
+       "q": "de / descansar / domingos / em / casa / gosto / aos / Eu",
+       "a": "Eu gosto de descansar em casa aos domingos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Work Out 2",
+   "source": "pp. 173–174",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Make each sentence more formal — o senhor / a senhora instead of você, os senhores / as senhoras instead of vocês.",
+     "items": [
+      {
+       "q": "Eu quero sorvete de chocolate.",
+       "a": "Eu queria / Eu gostaria de um sorvete de chocolate."
+      },
+      {
+       "q": "Você quer um ingresso para o filme das nove?",
+       "a": "Você gostaria de um ingresso…? / O senhor queria…?"
+      },
+      {
+       "q": "Nós queremos uma mesa para dois.",
+       "a": "Nós queríamos / Nós gostaríamos de uma mesa para dois."
+      },
+      {
+       "q": "Ana e Paulo, vocês podem vir à reunião?",
+       "a": "Sra. Ana e Sr. Paulo, os senhores poderiam vir à reunião?"
+      },
+      {
+       "q": "João, que horas você pode telefonar?",
+       "a": "Sr. João, que horas o senhor poderia telefonar?"
+      },
+      {
+       "q": "Eu posso abrir a janela?",
+       "a": "Eu poderia abrir a janela?"
+      },
+      {
+       "q": "Helena, você pode vir aqui?",
+       "a": "Sra. Helena, a senhora poderia vir aqui?"
+      },
+      {
+       "q": "José e Carlos, vocês podem trabalhar até as vinte horas?",
+       "a": "Sr. José e Sr. Carlos, os senhores poderiam trabalhar até as vinte horas?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Drive It Home",
+   "source": "pp. 176–177",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. Complete with the simple present of the verb in parentheses.",
+     "items": [
+      {
+       "q": "Você ______ desse filme preto e branco? (gostar)",
+       "a": "gosta"
+      },
+      {
+       "q": "Eu ______ ir a um jogo. (querer)",
+       "a": "quero"
+      },
+      {
+       "q": "Ele não ______ vir a minha festa. (poder)",
+       "a": "pode"
+      },
+      {
+       "q": "Ela ______ um livro bom. (ler)",
+       "a": "lê"
+      },
+      {
+       "q": "Eu ______ uma festa para o meu amigo. (dar)",
+       "a": "dou"
+      },
+      {
+       "q": "Quando você ______ ao Brasil? (vir)",
+       "a": "vem"
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Now put those sentences in the plural.",
+     "items": [
+      {
+       "q": "Você gosta desse filme…",
+       "a": "Vocês gostam desses filmes preto e branco?"
+      },
+      {
+       "q": "Eu quero ir a um jogo.",
+       "a": "Nós queremos ir a uns jogos."
+      },
+      {
+       "q": "Ele não pode vir a minha festa.",
+       "a": "Eles não podem vir a nossas festas."
+      },
+      {
+       "q": "Ela lê um livro bom.",
+       "a": "Elas leem uns bons livros."
+      },
+      {
+       "q": "Eu dou uma festa para o meu amigo.",
+       "a": "Nós damos umas festas para os nossos amigos."
+      },
+      {
+       "q": "Quando você vem ao Brasil?",
+       "a": "Quando vocês vêm ao Brasil?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Word Recall",
+   "source": "p. 178",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Give the English, and say whether the verb is regular (R) or irregular (I).",
+     "items": [
+      {
+       "q": "estar",
+       "a": "to be — irregular"
+      },
+      {
+       "q": "comer",
+       "a": "to eat — regular"
+      },
+      {
+       "q": "beber",
+       "a": "to drink — regular"
+      },
+      {
+       "q": "ficar",
+       "a": "to stay — regular"
+      },
+      {
+       "q": "odiar",
+       "a": "to hate — irregular"
+      },
+      {
+       "q": "apresentar",
+       "a": "to introduce — regular"
+      },
+      {
+       "q": "fazer",
+       "a": "to make / to do — irregular"
+      },
+      {
+       "q": "dar",
+       "a": "to give — irregular"
+      },
+      {
+       "q": "ler",
+       "a": "to read — irregular"
+      },
+      {
+       "q": "ir",
+       "a": "to go — irregular"
+      },
+      {
+       "q": "chegar",
+       "a": "to arrive — regular"
+      },
+      {
+       "q": "partir",
+       "a": "to leave — regular"
+      },
+      {
+       "q": "ter",
+       "a": "to have — irregular"
+      },
+      {
+       "q": "querer",
+       "a": "to want — irregular"
+      },
+      {
+       "q": "pedir",
+       "a": "to ask for — irregular"
+      },
+      {
+       "q": "vir",
+       "a": "to come — irregular"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-10",
+   "title": "Parting words",
+   "source": "p. 177",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Parabéns! You've finished the last lesson of the book. You should be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use the verb gostar de (unsure? p. 161)",
+      "use some common irregular verbs (unsure? p. 163)",
+      "use querer and poder (unsure? p. 168)",
+      "talk about socializing and entertaining (unsure? p. 172)"
+     ]
+    }
+   ]
   }
- ],
- "clearDue": true
+ ]
 }

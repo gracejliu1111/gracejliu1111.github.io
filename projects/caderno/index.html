@@ -655,7 +655,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
 (function(){
 "use strict";
 
-var BUILD="20260831-020547";
+var BUILD="20260831-025954";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -2405,7 +2405,11 @@ function merge(inc){
       var w=newWord(String(r.pt),String(r.en),r.ex?String(r.ex):"",
         Array.isArray(r.tags)?r.tags.map(String):[], resolve(r.chapterId, r.chapter));
       if(r.box!=null) w.box=+r.box||0;
-      if(r.due) w.due=r.due;
+      /* A word you have never seen has no scheduled date: it is simply waiting.
+         Only a file that carries a real date sets one, so importing a lesson
+         never stamps three hundred words with today. isDue() already counts a
+         dateless word as ready, so nothing is hidden by leaving it out.       */
+      if(r.due) w.due=r.due; else delete w.due;
       // audio that ships with the app: no local blob, so play() falls back to the
       // file in the repo, which is what makes recordings work for every visitor
       if(r.audio && r.audio.path) w.audio={key:String(r.audio.key||""), path:String(r.audio.path),
