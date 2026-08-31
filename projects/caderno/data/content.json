@@ -1,6 +1,6 @@
 {
- "version": 5,
- "note": "Added Lessons 2 to 5 — new words arrive 15 a day",
+ "version": 6,
+ "note": "Added Lessons 6 and 7",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -31,6 +31,18 @@
    "num": "5",
    "title": "Describing People and Things",
    "pages": "78–93"
+  },
+  {
+   "id": "ch-licao-6",
+   "num": "6",
+   "title": "Around Town",
+   "pages": "97–110"
+  },
+  {
+   "id": "ch-licao-7",
+   "num": "7",
+   "title": "Everyday Life",
+   "pages": "111–125"
   }
  ],
  "vocab": [
@@ -5745,6 +5757,2178 @@
    "chapterId": "ch-licao-5",
    "due": "2026-09-23",
    "box": 0
+  },
+  {
+   "pt": "o bar",
+   "en": "the bar",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "o hospital",
+   "en": "the hospital",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "a delegacia de polícia",
+   "en": "the police station",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "o pronto socorro",
+   "en": "the emergency room",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "a biblioteca",
+   "en": "the library",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "o shopping center",
+   "en": "the shopping mall",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "o estacionamento",
+   "en": "the parking",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "a padaria",
+   "en": "the bakery",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "o correio",
+   "en": "the post office",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "o caixa eletrônico",
+   "en": "the ATM",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "a estação rodoviária",
+   "en": "the bus station",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "o ponto de táxi",
+   "en": "the taxi stand",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "o metrô",
+   "en": "the subway",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "a bilheteria",
+   "en": "the box office",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "o museu de arte",
+   "en": "the art museum",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-24",
+   "box": 0
+  },
+  {
+   "pt": "o supermercado",
+   "en": "the supermarket",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "a banca de jornais",
+   "en": "the newsstand",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "a praça",
+   "en": "the square",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "a loja de sapatos",
+   "en": "the shoe shop",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "o elevador",
+   "en": "the elevator",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "o aeroporto",
+   "en": "the airport",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "a embaixada",
+   "en": "the embassy",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "o posto de gasolina",
+   "en": "the service station",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "o semáforo",
+   "en": "the traffic light",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "o chefe",
+   "en": "the boss",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "a farmácia",
+   "en": "the pharmacy",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "a escada rolante",
+   "en": "the escalator",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "o andar",
+   "en": "the floor",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "a quadra",
+   "en": "the block",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "o quarteirão",
+   "en": "the block",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-25",
+   "box": 0
+  },
+  {
+   "pt": "o ônibus",
+   "en": "the bus",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "a igreja",
+   "en": "the church",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "a sinagoga",
+   "en": "the synagogue",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "a mesquita",
+   "en": "the mosque",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "o templo",
+   "en": "the temple",
+   "ex": "",
+   "tags": [
+    "na cidade",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "aberto",
+   "en": "open",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "fechado",
+   "en": "closed",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "perto",
+   "en": "near",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "longe",
+   "en": "far",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "perto daqui",
+   "en": "near here",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "na esquina",
+   "en": "at the corner",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "no meio da quadra",
+   "en": "in the middle of the block",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "ao lado de",
+   "en": "next to",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "em frente a",
+   "en": "opposite / in front of",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "à direita",
+   "en": "on the right",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-26",
+   "box": 0
+  },
+  {
+   "pt": "à esquerda",
+   "en": "on the left",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "no próximo quarteirão",
+   "en": "on the next block",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "vire",
+   "en": "turn",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "o caminho",
+   "en": "the way",
+   "ex": "",
+   "tags": [
+    "direções",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "primeiro",
+   "en": "first",
+   "ex": "",
+   "tags": [
+    "ordinais",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "segundo",
+   "en": "second",
+   "ex": "",
+   "tags": [
+    "ordinais",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "terceiro",
+   "en": "third",
+   "ex": "",
+   "tags": [
+    "ordinais",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "quarto",
+   "en": "fourth",
+   "ex": "",
+   "tags": [
+    "ordinais",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "quinto",
+   "en": "fifth",
+   "ex": "",
+   "tags": [
+    "ordinais",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "sexto",
+   "en": "sixth",
+   "ex": "",
+   "tags": [
+    "ordinais",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "sétimo",
+   "en": "seventh",
+   "ex": "",
+   "tags": [
+    "ordinais",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "oitavo",
+   "en": "eighth",
+   "ex": "",
+   "tags": [
+    "ordinais",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "nono",
+   "en": "ninth",
+   "ex": "",
+   "tags": [
+    "ordinais",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "décimo",
+   "en": "tenth",
+   "ex": "",
+   "tags": [
+    "ordinais",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "onde",
+   "en": "where",
+   "ex": "",
+   "tags": [
+    "perguntas",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-27",
+   "box": 0
+  },
+  {
+   "pt": "quem",
+   "en": "who",
+   "ex": "",
+   "tags": [
+    "perguntas",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "qual",
+   "en": "what / which",
+   "ex": "",
+   "tags": [
+    "perguntas",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "que",
+   "en": "what",
+   "ex": "",
+   "tags": [
+    "perguntas",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "o que",
+   "en": "what",
+   "ex": "",
+   "tags": [
+    "perguntas",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "quando",
+   "en": "when / how often",
+   "ex": "",
+   "tags": [
+    "perguntas",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "quantas vezes",
+   "en": "how many times",
+   "ex": "",
+   "tags": [
+    "perguntas",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "por que",
+   "en": "why",
+   "ex": "",
+   "tags": [
+    "perguntas",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "porque",
+   "en": "because",
+   "ex": "",
+   "tags": [
+    "perguntas",
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "a rua",
+   "en": "the street",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "a avenida",
+   "en": "the avenue",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "a alameda",
+   "en": "the boulevard",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "a estrada",
+   "en": "the road",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "a rodovia",
+   "en": "the highway",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "o CEP",
+   "en": "the zip code",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "o feriado",
+   "en": "the holiday",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-28",
+   "box": 0
+  },
+  {
+   "pt": "o herói",
+   "en": "the hero",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "hoje",
+   "en": "today",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "o despertador",
+   "en": "the alarm clock",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "acordar",
+   "en": "to wake up",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "mais uma pergunta",
+   "en": "one more question",
+   "ex": "",
+   "tags": [
+    "lição 6"
+   ],
+   "chapterId": "ch-licao-6",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "falar",
+   "en": "to speak",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "trabalhar",
+   "en": "to work",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "acordar",
+   "en": "to wake up",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "lavar",
+   "en": "to wash",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "esperar",
+   "en": "to wait / to expect",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "fumar",
+   "en": "to smoke",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "andar",
+   "en": "to walk",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "jantar",
+   "en": "to have dinner",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "almoçar",
+   "en": "to have lunch",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "comprar",
+   "en": "to buy",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-29",
+   "box": 0
+  },
+  {
+   "pt": "estudar",
+   "en": "to study",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "morar",
+   "en": "to live",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "entrar",
+   "en": "to enter",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "viajar",
+   "en": "to travel",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "chamar",
+   "en": "to call",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "encontrar",
+   "en": "to meet up / to find",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "tirar",
+   "en": "to take off / to take out",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "combinar",
+   "en": "to make plans",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "conversar",
+   "en": "to talk",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "parar",
+   "en": "to stop",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "olhar",
+   "en": "to look",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "começar",
+   "en": "to start",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "terminar",
+   "en": "to end",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "mandar",
+   "en": "to send",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "usar",
+   "en": "to use",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-09-30",
+   "box": 0
+  },
+  {
+   "pt": "aprender",
+   "en": "to learn",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "ensinar",
+   "en": "to teach",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "visitar",
+   "en": "to visit",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "colocar",
+   "en": "to put",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "levar",
+   "en": "to take someone/something",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "chegar",
+   "en": "to arrive",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "escutar",
+   "en": "to listen to",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "tomar",
+   "en": "to take / to have (drink or eat)",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "preparar",
+   "en": "to prepare",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "fechar",
+   "en": "to close",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "funcionar",
+   "en": "to be open / to run",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "levantar",
+   "en": "to get up",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "caminhar",
+   "en": "to walk",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "jogar",
+   "en": "to play",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "amar",
+   "en": "to love",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-01",
+   "box": 0
+  },
+  {
+   "pt": "aconselhar",
+   "en": "to advise",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "brincar",
+   "en": "to play (as a child)",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "eu falo",
+   "en": "I speak",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "você fala",
+   "en": "you speak",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "ele fala",
+   "en": "he speaks",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "nós falamos",
+   "en": "we speak",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "vocês falam",
+   "en": "you speak (pl.)",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "eles falam",
+   "en": "they speak",
+   "ex": "",
+   "tags": [
+    "verbos -ar",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "Que horas são?",
+   "en": "What time is it?",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "a hora",
+   "en": "the hour",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "o minuto",
+   "en": "the minute",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "meia",
+   "en": "half (an hour)",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "o meio-dia",
+   "en": "noon",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "a meia-noite",
+   "en": "midnight",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "da manhã",
+   "en": "in the morning / a.m.",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-02",
+   "box": 0
+  },
+  {
+   "pt": "da tarde",
+   "en": "in the afternoon / p.m.",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "da noite",
+   "en": "in the evening / p.m.",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "À que horas…?",
+   "en": "At what time…?",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "cedo",
+   "en": "early",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "tarde",
+   "en": "late",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "na hora",
+   "en": "on time",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "atrasado",
+   "en": "late (running late)",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "antes de",
+   "en": "before",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "depois de",
+   "en": "after",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "durante",
+   "en": "for / during",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "a semana que vem",
+   "en": "next week",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "o fim de semana",
+   "en": "the weekend",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "o café da manhã",
+   "en": "breakfast",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "a prova",
+   "en": "the exam",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "o concerto",
+   "en": "the concert",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-03",
+   "box": 0
+  },
+  {
+   "pt": "o relatório",
+   "en": "the report",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "o bilhete",
+   "en": "the ticket",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "a louça",
+   "en": "the dishes",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "a fila",
+   "en": "the line / queue",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "a faculdade",
+   "en": "college",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "a aula",
+   "en": "the class",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "a boneca",
+   "en": "the doll",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "a roupa",
+   "en": "clothes",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "o voleibol",
+   "en": "volleyball",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "sempre",
+   "en": "always",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "muitas vezes",
+   "en": "often",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "frequentemente",
+   "en": "frequently",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "às vezes",
+   "en": "sometimes",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "de vez em quando",
+   "en": "once in a while",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "raramente",
+   "en": "rarely",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-04",
+   "box": 0
+  },
+  {
+   "pt": "nunca",
+   "en": "never",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "três vezes por semana",
+   "en": "three times a week",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "uma vez por semana",
+   "en": "once a week",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "por dia",
+   "en": "a day / per day",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "por mês",
+   "en": "a month / per month",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "por ano",
+   "en": "a year / per year",
+   "ex": "",
+   "tags": [
+    "frequência",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "eu amo",
+   "en": "I love",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "caminho",
+   "en": "I take a walk",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "você aconselha",
+   "en": "you advise",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "como voluntárias",
+   "en": "as volunteers",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "o tempo está bom",
+   "en": "the weather is fine",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "os abraços",
+   "en": "hugs",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "um beijo",
+   "en": "a kiss",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "saudades",
+   "en": "I miss you",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "sozinho",
+   "en": "alone",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-05",
+   "box": 0
+  },
+  {
+   "pt": "fora",
+   "en": "out",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-06",
+   "box": 0
+  },
+  {
+   "pt": "Desculpe, estou atrasado.",
+   "en": "Sorry, I'm late.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "lição 7"
+   ],
+   "chapterId": "ch-licao-7",
+   "due": "2026-10-06",
+   "box": 0
   }
  ],
  "notes": [
@@ -9979,6 +12163,1840 @@
       "use the verb ser (unsure? p. 84)",
       "put it together in a brief conversation (unsure? p. 87)",
       "use possessive words like mine, yours and ours (unsure? p. 90)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Lesson goals",
+   "source": "p. 97",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "By the end of this lesson you'll be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use important vocabulary for getting around town",
+      "express location and direction",
+      "ask questions",
+      "use ordinal numbers",
+      "ask for and give directions"
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Já é a sua sexta lição! — It's already your sixth lesson!"
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Around town",
+   "source": "p. 98 · CD 2, track 6",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "O bar está aberto.",
+       "The bar is open."
+      ],
+      [
+       "Os restaurantes estão fechados.",
+       "The restaurants are closed."
+      ],
+      [
+       "O hospital é perto.",
+       "The hospital is near."
+      ],
+      [
+       "A delegacia de polícia é longe.",
+       "The police station is far."
+      ],
+      [
+       "O pronto socorro é na esquina.",
+       "The emergency room is at the corner."
+      ],
+      [
+       "A biblioteca é no meio da quadra.",
+       "The library is in the middle of the block."
+      ],
+      [
+       "O shopping center tem estacionamento.",
+       "The shopping mall has parking."
+      ],
+      [
+       "Há uma padaria perto daqui?",
+       "Is there a bakery near here?"
+      ],
+      [
+       "O correio é ao lado do banco.",
+       "The post office is next to the bank."
+      ],
+      [
+       "Há um caixa eletrônico em frente ao hotel.",
+       "There's an ATM opposite the hotel."
+      ],
+      [
+       "Há uma estação rodoviária perto daqui?",
+       "Is there a bus station near here?"
+      ],
+      [
+       "Há um ponto de táxi no próximo quarteirão.",
+       "There's a taxi stand on the next block."
+      ],
+      [
+       "Há um metrô na cidade?",
+       "Is there a subway in the city?"
+      ],
+      [
+       "A bilheteria é à direita.",
+       "The box office is on the right."
+      ],
+      [
+       "O museu de arte é à esquerda.",
+       "The art museum is on the left."
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Notice aberto and fechado take estar, while perto and longe take ser — a shop being shut is temporary; a hospital being far away is not."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "The preposition a, and à",
+   "source": "pp. 98–99 · CD 2, track 7",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "A means to. Contracted with the feminine article a it becomes à (to the / on the). You'll meet it properly in later lessons; for now just notice it."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "A escada rolante é à direita da porta.",
+       "The escalator is to the right of the door."
+      ],
+      [
+       "O banco é à esquerda do supermercado.",
+       "The bank is to the left of the supermarket."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Onde and quem",
+   "source": "pp. 99–100 · CD 2, track 8",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "No inversion and no auxiliary — unlike English, you just start the sentence with the question word."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Onde é o correio?",
+       "Where is the post office?"
+      ],
+      [
+       "Quem é a pessoa à esquerda?",
+       "Who is the person on the left?"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Ordinal numbers",
+   "source": "pp. 100–101 · CD 2, track 9",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "primeiro",
+       "first"
+      ],
+      [
+       "segundo",
+       "second"
+      ],
+      [
+       "terceiro",
+       "third"
+      ],
+      [
+       "quarto",
+       "fourth"
+      ],
+      [
+       "quinto",
+       "fifth"
+      ],
+      [
+       "sexto",
+       "sixth"
+      ],
+      [
+       "sétimo",
+       "seventh"
+      ],
+      [
+       "oitavo",
+       "eighth"
+      ],
+      [
+       "nono",
+       "ninth"
+      ],
+      [
+       "décimo",
+       "tenth"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ordinals are adjectives, so they agree in gender and number with the noun."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "O banco é no segundo quarteirão.",
+       "The bank is on the second block."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "They're abbreviated with a superscript º for masculine and ª for feminine."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Ele está no 1º ano.",
+       "He's in the 1st year."
+      ],
+      [
+       "Ele está na 3ª série.",
+       "He's in 3rd grade."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Asking where and who",
+   "source": "pp. 101–102 · CD 2, track 10",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Onde é o banheiro?",
+       "Where's the bathroom?"
+      ],
+      [
+       "O banheiro é a primeira porta à esquerda.",
+       "The bathroom is the first door on the left."
+      ],
+      [
+       "Onde é a banca de jornais?",
+       "Where is the newsstand?"
+      ],
+      [
+       "A banca de jornais é na praça.",
+       "The newsstand is in the square."
+      ],
+      [
+       "Onde é a loja de sapatos?",
+       "Where's the shoe shop?"
+      ],
+      [
+       "É no terceiro andar à direita do elevador.",
+       "It is on the third floor to the right of the elevator."
+      ],
+      [
+       "Onde é o aeroporto?",
+       "Where's the airport?"
+      ],
+      [
+       "O aeroporto é a quinze quilômetros daqui.",
+       "The airport is 15 kilometers from here."
+      ],
+      [
+       "Onde é a embaixada?",
+       "Where's the embassy?"
+      ],
+      [
+       "A embaixada é na capital do país.",
+       "The embassy is in the nation's capital."
+      ],
+      [
+       "Onde é o posto de gasolina?",
+       "Where's the service station?"
+      ],
+      [
+       "Vire à direita no segundo semáforo.",
+       "Turn right at the second traffic light."
+      ],
+      [
+       "Quem é o chefe?",
+       "Who's the boss?"
+      ],
+      [
+       "Quem está no escritório hoje?",
+       "Who's in the office today?"
+      ],
+      [
+       "Quem são eles?",
+       "Who are they?"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Writing an address",
+   "source": "p. 103",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Say the name of the street before the number, and use commas between the street, the number and the floor. The zip code is the CEP."
+    },
+    {
+     "t": "table",
+     "head": [
+      "Portuguese",
+      "English"
+     ],
+     "rows": [
+      [
+       "Hotel Plaza\nRua da Independência, 39, 4º andar\n01234-000 Salvador, Bahia",
+       "Plaza Hotel\n39 Rua da Independencia, 4th floor\n01234-000 Salvador, Bahia"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "a rua",
+       "street"
+      ],
+      [
+       "a avenida",
+       "avenue"
+      ],
+      [
+       "a alameda",
+       "boulevard"
+      ],
+      [
+       "a estrada",
+       "road"
+      ],
+      [
+       "a rodovia",
+       "highway"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "More question words",
+   "source": "pp. 103–104 · CD 2, track 11",
+   "blocks": [
+    {
+     "t": "h",
+     "text": "Qual — to identify or choose (what or which)"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Qual é o caminho para o aeroporto?",
+       "What's the way to the airport?"
+      ],
+      [
+       "Qual é o seu endereço?",
+       "What's your address?"
+      ],
+      [
+       "Qual é o sobrenome dele?",
+       "What's his last name?"
+      ],
+      [
+       "Qual é o nosso ônibus?",
+       "Which is our bus?"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Que or o que — to ask what thing"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Que carro você tem?",
+       "What car do you have?"
+      ],
+      [
+       "Que horas são?",
+       "What time is it?"
+      ],
+      [
+       "O que ele tem?",
+       "What does he have?"
+      ],
+      [
+       "O que há na sua bolsa?",
+       "What's in your bag?"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Quando — when, and how often"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Quando você escuta música? Eu sempre escuto música à noite.",
+       "When do you listen to music? I always listen to music at night."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Quantas vezes — how many times"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Quantas vezes por dia você escova os dentes?",
+       "How many times a day do you brush your teeth?"
+      ],
+      [
+       "Quantas vezes por semana você estuda português?",
+       "How many times a week do you study Portuguese?"
+      ],
+      [
+       "Quantas vezes por mês os pilotos viajam?",
+       "How many times a month do pilots travel?"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Por que and como — why and how"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Por que você acorda cedo?",
+       "Why do you wake up early?"
+      ],
+      [
+       "Porque trabalho às sete horas.",
+       "Because I work at 7:00 a.m."
+      ],
+      [
+       "Como ele acorda cedo?",
+       "How does he wake up early?"
+      ],
+      [
+       "Ele usa um despertador.",
+       "He uses an alarm clock."
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Two words to ask (por que), one word to answer (porque)."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Places of worship",
+   "source": "p. 109 · CD 2, track 13",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "a igreja",
+       "church"
+      ],
+      [
+       "a sinagoga",
+       "synagogue"
+      ],
+      [
+       "a mesquita",
+       "mosque"
+      ],
+      [
+       "o templo",
+       "temple"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Asking a stranger for directions",
+   "source": "p. 106 · CD 2, track 12",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "A tourist stops a passer-by. These are the lines worth having by heart."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Com licença, senhora. Onde é o correio, por favor?",
+       "Excuse me, ma'am. Where's the post office please?"
+      ],
+      [
+       "O correio é na segunda quadra à direita, mas hoje está fechado.",
+       "The post office is on the second block to the right, but today it is closed."
+      ],
+      [
+       "Hoje é feriado.",
+       "Today is a holiday."
+      ],
+      [
+       "E o banco está aberto?",
+       "And is the bank open?"
+      ],
+      [
+       "Não, senhor. O banco está fechado também.",
+       "No, sir. The bank is also closed."
+      ],
+      [
+       "Onde há um caixa eletrônico?",
+       "Where is there an ATM?"
+      ],
+      [
+       "Há um caixa eletrônico ao lado da farmácia.",
+       "There's an ATM next to the pharmacy."
+      ],
+      [
+       "Vire a segunda rua à direita e depois a primeira à esquerda.",
+       "Turn right on the second street and then make the first left."
+      ],
+      [
+       "Desculpe, mais uma pergunta.",
+       "Sorry, one more question."
+      ],
+      [
+       "Muito obrigado.",
+       "Thank you."
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Tiradentes, mentioned in the dialogue, is a Brazilian national hero — a dentist and independence conspirator executed in 1792, commemorated on 21 April."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Vocabulary Practice 1",
+   "source": "p. 99",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Match each phrase to its English.",
+     "items": [
+      {
+       "q": "à esquerda",
+       "a": "on the left"
+      },
+      {
+       "q": "à direita",
+       "a": "on the right"
+      },
+      {
+       "q": "na esquina",
+       "a": "at the corner"
+      },
+      {
+       "q": "no meio da quadra",
+       "a": "in the middle of the block"
+      },
+      {
+       "q": "em frente",
+       "a": "opposite / in front of"
+      },
+      {
+       "q": "perto daqui",
+       "a": "near here"
+      },
+      {
+       "q": "longe",
+       "a": "far"
+      },
+      {
+       "q": "aberto",
+       "a": "open"
+      },
+      {
+       "q": "fechado",
+       "a": "closed"
+      },
+      {
+       "q": "no próximo quarteirão",
+       "a": "on the next block"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Vocabulary Practice 2",
+   "source": "pp. 102–103",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Answer by unscrambling the words in parentheses.",
+     "items": [
+      {
+       "q": "Onde é o banheiro? (banheiro/esquerda/à/primeira/o/é/a/porta)",
+       "a": "O banheiro é a primeira porta à esquerda."
+      },
+      {
+       "q": "Onde é o posto de gasolina? (segundo/à/semáforo/direita/vire/no)",
+       "a": "Vire à direita no segundo semáforo."
+      },
+      {
+       "q": "Onde é a banca de jornais? (a/banca/de/praça/é/na/jornais)",
+       "a": "A banca de jornais é na praça."
+      },
+      {
+       "q": "Onde é a loja de sapatos? (do/no/à/andar/elevador/direita/é/terceiro)",
+       "a": "É no terceiro andar à direita do elevador."
+      },
+      {
+       "q": "Onde é o aeroporto? (aeroporto/daqui/é/o/quilômetros/quinze/a)",
+       "a": "O aeroporto é a quinze quilômetros daqui."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Work Out 1",
+   "source": "p. 105",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete each sentence with the right Portuguese word.",
+     "items": [
+      {
+       "q": "Qual o seu ______? — What's your address?",
+       "a": "endereço"
+      },
+      {
+       "q": "Onde é a ______? — Where's the newsstand?",
+       "a": "banca de jornais"
+      },
+      {
+       "q": "Qual o seu ______? — What's your last name?",
+       "a": "sobrenome"
+      },
+      {
+       "q": "Onde é a ______? — Where's the bus station?",
+       "a": "estação rodoviária"
+      },
+      {
+       "q": "______ são os nossos professores? — Who are our teachers?",
+       "a": "Quem"
+      },
+      {
+       "q": "______ o caminho para a praia? — What's the way to the beach?",
+       "a": "Qual"
+      },
+      {
+       "q": "______ você tem na sua bolsa? — What's in your bag?",
+       "a": "O que"
+      },
+      {
+       "q": "______ é a biblioteca? — Where's the library?",
+       "a": "Onde"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Work Out 2",
+   "source": "pp. 107–108",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. Translate into English.",
+     "items": [
+      {
+       "q": "está aberto",
+       "a": "is open"
+      },
+      {
+       "q": "é na esquina",
+       "a": "is at the corner"
+      },
+      {
+       "q": "é na praça",
+       "a": "is in the square"
+      },
+      {
+       "q": "quem é",
+       "a": "who is"
+      },
+      {
+       "q": "onde é",
+       "a": "where is"
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Now translate into Portuguese.",
+     "items": [
+      {
+       "q": "your address",
+       "a": "seu endereço"
+      },
+      {
+       "q": "last name",
+       "a": "sobrenome"
+      },
+      {
+       "q": "the second traffic light",
+       "a": "o segundo semáforo"
+      },
+      {
+       "q": "on the right",
+       "a": "à direita"
+      },
+      {
+       "q": "near here",
+       "a": "perto daqui"
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "C. Complete with the right ordinal number.",
+     "items": [
+      {
+       "q": "É a ______ rua à direita. — It's the fourth street on the right.",
+       "a": "quarta"
+      },
+      {
+       "q": "Vire no ______ semáforo. — Turn at the second traffic light.",
+       "a": "segundo"
+      },
+      {
+       "q": "Ele está na ______ série. — He's in eighth grade.",
+       "a": "oitava"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Drive It Home",
+   "source": "pp. 108–109",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Translate into English.",
+     "items": [
+      {
+       "q": "A banca de jornais é na praça.",
+       "a": "The newsstand is in the square."
+      },
+      {
+       "q": "O aeroporto é a quinze quilômetros daqui.",
+       "a": "The airport is 15 kilometers from here."
+      },
+      {
+       "q": "Vire no terceiro semáforo à esquerda.",
+       "a": "Turn left at the third traffic light."
+      },
+      {
+       "q": "Os banheiros são na segunda porta à direita.",
+       "a": "The bathrooms are on the second door to the right."
+      },
+      {
+       "q": "Quem é o gerente?",
+       "a": "Who is the manager?"
+      },
+      {
+       "q": "Qual é o seu endereço?",
+       "a": "What's your address?"
+      },
+      {
+       "q": "Que carro você tem?",
+       "a": "What car do you have?"
+      },
+      {
+       "q": "Onde é a delegacia de polícia?",
+       "a": "Where is the police station?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Word Recall",
+   "source": "p. 110",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Answer each one.",
+     "items": [
+      {
+       "q": "How do you say excuse me?",
+       "a": "com licença"
+      },
+      {
+       "q": "How do you say comfortable bed?",
+       "a": "cama confortável"
+      },
+      {
+       "q": "What verb means both there is and there are?",
+       "a": "há"
+      },
+      {
+       "q": "How do you say here and there?",
+       "a": "aqui / lá (or ali)"
+      },
+      {
+       "q": "How do you say the apple is red?",
+       "a": "a maçã é vermelha"
+      },
+      {
+       "q": "How do you say the apple is on the table?",
+       "a": "a maçã está na mesa"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-6",
+   "title": "Parting words",
+   "source": "p. 109",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Que maravilha! You've finished the lesson. You should be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use vocabulary for getting around town (unsure? p. 98)",
+      "express location and direction (unsure? p. 98)",
+      "ask questions (unsure? p. 99)",
+      "use ordinal numbers (unsure? p. 100)",
+      "ask for and give directions (unsure? p. 100)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "Lesson goals",
+   "source": "p. 111",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "By the end of this lesson you'll be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use regular verbs",
+      "tell time",
+      "talk about how often you do something",
+      "tell someone about your everyday life"
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Que horas são? — What time is it?"
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "Everyday actions",
+   "source": "p. 112 · CD 2, track 14",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu falo português.",
+       "I speak Portuguese."
+      ],
+      [
+       "Você fala italiano?",
+       "Do you speak Italian?"
+      ],
+      [
+       "Ele fala inglês.",
+       "He speaks English."
+      ],
+      [
+       "Ela trabalha muito.",
+       "She works a lot."
+      ],
+      [
+       "Nós não trabalhamos.",
+       "We don't work."
+      ],
+      [
+       "Onde você trabalha?",
+       "Where do you work?"
+      ],
+      [
+       "Nós acordamos cedo.",
+       "We wake up early."
+      ],
+      [
+       "Você acorda tarde.",
+       "You wake up late."
+      ],
+      [
+       "Eu lavo a louça.",
+       "I wash the dishes."
+      ],
+      [
+       "Ela espera na fila.",
+       "She waits in line."
+      ],
+      [
+       "Nós não fumamos.",
+       "We don't smoke."
+      ],
+      [
+       "Vocês andam no parque.",
+       "You walk in the park."
+      ],
+      [
+       "Ele janta sozinho.",
+       "He has dinner alone."
+      ],
+      [
+       "Onde você almoça?",
+       "Where do you have lunch?"
+      ],
+      [
+       "Eu compro um bilhete.",
+       "I buy a ticket."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "–ar verbs",
+   "source": "pp. 113–115 · CD 2, track 15",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Most regular infinitives end in –ar, –er or –ir, and each type follows its own pattern of endings. This lesson takes the –ar verbs, like falar (to speak)."
+    },
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "I speak",
+       "eu falo"
+      ],
+      [
+       "you speak",
+       "você fala"
+      ],
+      [
+       "he speaks",
+       "ele fala"
+      ],
+      [
+       "she speaks",
+       "ela fala"
+      ],
+      [
+       "we speak",
+       "nós falamos"
+      ],
+      [
+       "you speak (pl.)",
+       "vocês falam"
+      ],
+      [
+       "they speak (m.)",
+       "eles falam"
+      ],
+      [
+       "they speak (f.)",
+       "elas falam"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Eu and nós can be dropped — the ending already says who the subject is. Estudo espanhol means I study Spanish; Estudamos matemática, We study math."
+    },
+    {
+     "t": "h",
+     "text": "In sentences"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Ele não mora no Canadá.",
+       "He doesn't live in Canada."
+      ],
+      [
+       "Elas entram em casa.",
+       "They (f.) enter the house."
+      ],
+      [
+       "Vocês viajam ao Japão?",
+       "Do you travel to Japan?"
+      ],
+      [
+       "O senhor chama um táxi.",
+       "You call a taxi."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "More –ar verbs"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "encontrar",
+       "to meet up, to find"
+      ],
+      [
+       "tirar",
+       "to take off or out"
+      ],
+      [
+       "combinar",
+       "to make plans"
+      ],
+      [
+       "conversar",
+       "to talk"
+      ],
+      [
+       "parar",
+       "to stop"
+      ],
+      [
+       "olhar",
+       "to look"
+      ],
+      [
+       "começar",
+       "to start"
+      ],
+      [
+       "terminar",
+       "to end"
+      ],
+      [
+       "mandar",
+       "to send"
+      ],
+      [
+       "morar",
+       "to live"
+      ],
+      [
+       "usar",
+       "to use"
+      ],
+      [
+       "aprender",
+       "to learn"
+      ],
+      [
+       "ensinar",
+       "to teach"
+      ],
+      [
+       "visitar",
+       "to visit"
+      ],
+      [
+       "colocar",
+       "to put"
+      ],
+      [
+       "levar",
+       "to take someone/something"
+      ],
+      [
+       "chegar",
+       "to arrive"
+      ],
+      [
+       "escutar",
+       "to listen to"
+      ],
+      [
+       "tomar",
+       "to take, to have (drink/eat)"
+      ],
+      [
+       "lavar",
+       "to wash"
+      ],
+      [
+       "preparar",
+       "to prepare"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Careful: aprender ends in –er, not –ar, so it doesn't take these endings. The book lists it here among the vocabulary, not as an –ar verb."
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "Daily schedules",
+   "source": "pp. 115–116 · CD 2, track 16",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu trabalho das oito da manhã às seis da tarde.",
+       "I work from 8:00 to 6:00."
+      ],
+      [
+       "Ele toma banho antes das sete da manhã.",
+       "He takes a shower before 7:00 a.m."
+      ],
+      [
+       "Nós chegamos depois da meia-noite.",
+       "We arrive after midnight."
+      ],
+      [
+       "Você encontra os seus amigos ao meio-dia.",
+       "You meet your friends at noon."
+      ],
+      [
+       "À que horas elas ensinam?",
+       "What time do they teach?"
+      ],
+      [
+       "Tomamos café da manhã às sete e meia.",
+       "We have breakfast at 7:30."
+      ],
+      [
+       "Ele visita os pais dele nos fins de semana.",
+       "He visits his parents on weekends."
+      ],
+      [
+       "O supermercado fecha às vinte e duas horas.",
+       "The supermarket closes at 10:00 p.m."
+      ],
+      [
+       "O banco funciona das dez às dezesseis.",
+       "The bank is open from 10:00 a.m. to 4:00 p.m."
+      ],
+      [
+       "O concerto começa às dezenove horas.",
+       "The concert starts at 7:00 p.m."
+      ],
+      [
+       "As provas terminam na semana que vem.",
+       "The exams end next week."
+      ],
+      [
+       "O piloto viaja três vezes por semana.",
+       "The pilot travels three times a week."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "Telling time",
+   "source": "pp. 116–118 · CD 2, track 17",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Que horas são? means What time is it? Unlike English, where the answer always starts with it is, in Portuguese ser agrees with hora."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "é uma hora",
+       "it's one o'clock"
+      ],
+      [
+       "são duas horas",
+       "it's two o'clock"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Hora is feminine — uma hora, duas horas. Minuto is masculine — um minuto, dois minutos."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "É uma hora e dois minutos.",
+       "It's 1:02."
+      ],
+      [
+       "São duas horas e um minuto.",
+       "It's 2:01."
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "You don't need the word minute every time"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Time",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "3:05",
+       "São três e cinco."
+      ],
+      [
+       "4:10",
+       "São quatro e dez."
+      ],
+      [
+       "6:15",
+       "São seis e quinze."
+      ],
+      [
+       "8:30",
+       "São oito e trinta. / São oito e meia."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Meia means half (an hour). Some times can be said two ways:"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Time",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "9:40",
+       "São nove e quarenta. / São vinte para as dez. (twenty to ten)"
+      ],
+      [
+       "10:45",
+       "São dez e quarenta e cinco. / São quinze para as onze. (fifteen to eleven)"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "No a.m. or p.m."
+    },
+    {
+     "t": "table",
+     "head": [
+      "English",
+      "Portuguese"
+     ],
+     "rows": [
+      [
+       "3:00 a.m.",
+       "São três da manhã. — It's three in the morning."
+      ],
+      [
+       "3:00 p.m.",
+       "São três da tarde. — It's three in the afternoon."
+      ],
+      [
+       "8:00 p.m.",
+       "São oito da noite. — It's eight in the evening."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "For official time, timetables and schedules you'll see the 24-hour clock: 13:00 for 1:00 p.m., 14:00 for 2:00 p.m., 15:00 for 3:00 p.m."
+    },
+    {
+     "t": "h",
+     "text": "At what time?"
+    },
+    {
+     "t": "p",
+     "text": "À que horas contracts the preposition a with the article a."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "À que horas é o filme? O filme é às três e meia.",
+       "What time is the movie? The movie is at three thirty."
+      ],
+      [
+       "À que horas é a reunião? A reunião é às quinze horas.",
+       "What time is the meeting? The meeting is at three p.m."
+      ],
+      [
+       "das 8:00 às 10:00",
+       "from 8:00 to 10:00"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "How often — adverbs of frequency",
+   "source": "pp. 118–119 · CD 2, track 18",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "sempre",
+       "always"
+      ],
+      [
+       "muitas vezes",
+       "often"
+      ],
+      [
+       "frequentemente",
+       "frequently"
+      ],
+      [
+       "às vezes",
+       "sometimes"
+      ],
+      [
+       "de vez em quando",
+       "once in a while"
+      ],
+      [
+       "raramente",
+       "rarely"
+      ],
+      [
+       "nunca",
+       "never"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "They can go before the main verb, or at the beginning or the end of a sentence."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu sempre uso protetor solar.",
+       "I always wear sunscreen."
+      ],
+      [
+       "Frequentemente as crianças brincam de bonecas.",
+       "Frequently children play with dolls."
+      ],
+      [
+       "Muitas vezes trabalhamos dez horas.",
+       "We often work 10 hours."
+      ],
+      [
+       "Acordamos tarde de vez em quando.",
+       "We wake up late once in a while."
+      ],
+      [
+       "Às vezes jantamos fora.",
+       "We sometimes eat out."
+      ],
+      [
+       "Ele raramente compra roupas novas.",
+       "He rarely buys new clothes."
+      ],
+      [
+       "Vocês nunca passam as férias nas montanhas.",
+       "You never take vacations in the mountains."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "An e-mail from Rio",
+   "source": "pp. 120–121 · CD 2, track 19",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Flávia writes home from college in Rio. Rather than reproduce the letter, here are the lines carrying the lesson — –ar verbs, clock times and frequency adverbs — plus the way a Brazilian signs off to family."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Querida mamãe,",
+       "Dear Mom,"
+      ],
+      [
+       "Eu estou muito bem na faculdade aqui.",
+       "I'm doing very well here in college."
+      ],
+      [
+       "Frequentemente, eu acordo cedo e caminho na praia durante uma hora.",
+       "Often I wake up early and take a walk on the beach for an hour."
+      ],
+      [
+       "Depois eu tomo o café da manhã como você sempre aconselha.",
+       "After that I have breakfast, as you always advise."
+      ],
+      [
+       "As aulas são das nove da manhã às três da tarde.",
+       "Classes are from 9:00 a.m. to 3:00 p.m."
+      ],
+      [
+       "Muitas vezes eu estudo na biblioteca das três às cinco.",
+       "I often study in the library from 3:00 to 5:00 p.m."
+      ],
+      [
+       "Duas vezes por semana, eu e a minha melhor amiga trabalhamos como voluntárias.",
+       "Twice a week, my best friend and I work as volunteers."
+      ],
+      [
+       "Às vezes, quando o tempo está bom, nós jogamos vôlei na praia.",
+       "Once in a while when the weather is good, we play beach volleyball."
+      ],
+      [
+       "No fim de semana há sempre uma festa.",
+       "On weekends there's always a party."
+      ],
+      [
+       "Eu mando abraços para eles e um beijo para você.",
+       "I send hugs to them and a kiss to you."
+      ],
+      [
+       "Saudades,",
+       "I miss you,"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "New words from the letter"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "eu amo",
+       "I love"
+      ],
+      [
+       "caminho",
+       "I take a walk"
+      ],
+      [
+       "durante",
+       "for / during"
+      ],
+      [
+       "você aconselha",
+       "you advise"
+      ],
+      [
+       "como voluntárias",
+       "as volunteers"
+      ],
+      [
+       "o tempo está bom",
+       "the weather is fine"
+      ],
+      [
+       "fim de semana",
+       "weekend"
+      ],
+      [
+       "abraços",
+       "hugs"
+      ],
+      [
+       "um beijo",
+       "a kiss"
+      ],
+      [
+       "saudades",
+       "I miss you"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "Vocabulary Practice 1",
+   "source": "pp. 112–113",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Match each Portuguese sentence to its English.",
+     "items": [
+      {
+       "q": "Eu falo português.",
+       "a": "I speak Portuguese."
+      },
+      {
+       "q": "Ela trabalha muito.",
+       "a": "She works a lot."
+      },
+      {
+       "q": "Ele fala inglês.",
+       "a": "He speaks English."
+      },
+      {
+       "q": "Você acorda tarde.",
+       "a": "You wake up late."
+      },
+      {
+       "q": "Nós acordamos cedo.",
+       "a": "We wake up early."
+      },
+      {
+       "q": "Ela espera na fila.",
+       "a": "She waits in line."
+      },
+      {
+       "q": "Ele janta sozinho.",
+       "a": "He has dinner alone."
+      },
+      {
+       "q": "Eu compro um bilhete.",
+       "a": "I buy a ticket."
+      },
+      {
+       "q": "Você anda no parque.",
+       "a": "You walk in the park."
+      },
+      {
+       "q": "Eu lavo a louça.",
+       "a": "I wash the dishes."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "Vocabulary Practice 2",
+   "source": "p. 116",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Match each Portuguese time to the clock time.",
+     "items": [
+      {
+       "q": "oito e meia",
+       "a": "8:30"
+      },
+      {
+       "q": "cinco para as dez",
+       "a": "9:55"
+      },
+      {
+       "q": "dezessete horas e trinta minutos",
+       "a": "5:30 p.m."
+      },
+      {
+       "q": "vinte para a meia noite",
+       "a": "11:40 p.m."
+      },
+      {
+       "q": "três e quarenta e cinco da manhã",
+       "a": "3:45 a.m."
+      },
+      {
+       "q": "quinze para as quatro da tarde",
+       "a": "3:45 p.m."
+      },
+      {
+       "q": "nove e cinco",
+       "a": "9:05"
+      },
+      {
+       "q": "meio-dia e meia",
+       "a": "12:30 p.m."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "Work Out 1",
+   "source": "pp. 119–120",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with the right adverb of frequency.",
+     "items": [
+      {
+       "q": "Os hospitais ______ fecham. — Hospitals never close.",
+       "a": "nunca"
+      },
+      {
+       "q": "______ nós acordamos ao meio-dia. — We wake up at noon once in a while.",
+       "a": "De vez em quando"
+      },
+      {
+       "q": "Os museus ______ abrem à noite. — Museums rarely open at night.",
+       "a": "raramente"
+      },
+      {
+       "q": "Os jovens ______ escutam música. — Young people always listen to music.",
+       "a": "sempre"
+      },
+      {
+       "q": "As crianças ______ estudam de manhã. — Children frequently study in the morning.",
+       "a": "frequentemente"
+      },
+      {
+       "q": "______ os alunos chegam na hora. — Students often arrive on time.",
+       "a": "Muitas vezes"
+      },
+      {
+       "q": "Eu ______ chego atrasada no escritório. — I sometimes arrive late at the office.",
+       "a": "às vezes"
+      },
+      {
+       "q": "A família viaja para o sul ______. — The family travels south three times a year.",
+       "a": "três vezes por ano"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "Work Out 2",
+   "source": "pp. 122–123",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Rewrite in the plural, using nós, vocês, eles or elas. Change the verb too.",
+     "items": [
+      {
+       "q": "Eu acordo cedo.",
+       "a": "Nós acordamos cedo. — We wake up early."
+      },
+      {
+       "q": "Ele trabalha muito.",
+       "a": "Eles trabalham muito. — They work a lot."
+      },
+      {
+       "q": "Você não lava o carro.",
+       "a": "Vocês não lavam o carro. — You don't wash the car."
+      },
+      {
+       "q": "Ela prepara o relatório.",
+       "a": "Elas preparam o relatório. — They prepare the report."
+      },
+      {
+       "q": "Você não mora na China.",
+       "a": "Vocês não moram na China. — You don't live in China."
+      },
+      {
+       "q": "Eu tomo café da manhã.",
+       "a": "Nós tomamos café da manhã. — We have breakfast."
+      },
+      {
+       "q": "Ela não chega na hora.",
+       "a": "Elas não chegam na hora. — They don't arrive on time."
+      },
+      {
+       "q": "Ele escuta música.",
+       "a": "Eles escutam música. — They listen to music."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "Drive It Home",
+   "source": "pp. 123–124",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with the right form of the verb in parentheses, then translate.",
+     "items": [
+      {
+       "q": "Os turistas ______ um cartão postal. (mandar)",
+       "a": "mandam — The tourists send a postcard."
+      },
+      {
+       "q": "Maria e Pedro ______ às sete horas. (levantar)",
+       "a": "levantam — Maria and Pedro get up at 7:00."
+      },
+      {
+       "q": "Eu ______ o meu casaco. (tirar)",
+       "a": "tiro — I take off my coat."
+      },
+      {
+       "q": "Os bancos ______ antes das quatro da tarde. (fechar)",
+       "a": "fecham — Banks close before 4:00 p.m."
+      },
+      {
+       "q": "Nós ______ nossos pais uma vez por semana. (visitar)",
+       "a": "visitamos — We visit our parents once a week."
+      },
+      {
+       "q": "O meu colega ______ o ônibus às seis da tarde. (esperar)",
+       "a": "espera — My colleague waits for the bus at 6:00 p.m."
+      },
+      {
+       "q": "Os hospitais nunca ______. (fechar)",
+       "a": "fecham — Hospitals never close."
+      },
+      {
+       "q": "A gerente ______ depois do meio-dia e meia. (almoçar)",
+       "a": "almoça — The manager has lunch after 12:30 p.m."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "Word Recall",
+   "source": "p. 125",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Answer each one.",
+     "items": [
+      {
+       "q": "What do you reply when someone says thank you?",
+       "a": "de nada"
+      },
+      {
+       "q": "What are the two words used for wife?",
+       "a": "mulher / esposa"
+      },
+      {
+       "q": "How do you say 97?",
+       "a": "noventa e sete"
+      },
+      {
+       "q": "How do you say pink?",
+       "a": "cor-de-rosa"
+      },
+      {
+       "q": "If o meu carro é azul means my car is blue, how do you say the blue car is mine?",
+       "a": "o carro azul é meu"
+      },
+      {
+       "q": "Complete the sequence: primeiro, segundo, ______",
+       "a": "terceiro"
+      },
+      {
+       "q": "How do you say when, where and who?",
+       "a": "quando, onde, quem"
+      },
+      {
+       "q": "Say: Sorry, I'm late.",
+       "a": "Desculpe, estou atrasado(a)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "ch-licao-7",
+   "title": "Parting words",
+   "source": "p. 124",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Perfeito! You've finished the lesson. You should be able to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use regular verbs (unsure? p. 113)",
+      "tell time (unsure? p. 116)",
+      "talk about how often you do something (unsure? p. 118)",
+      "tell someone about your everyday life (unsure? p. 120)"
      ]
     }
    ]
