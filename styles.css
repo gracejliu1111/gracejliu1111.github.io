@@ -164,7 +164,6 @@ h2 {
   width: 56px; height: 56px;
   border-radius: 50%;
   object-fit: cover;
-  filter: grayscale(1) contrast(1.04);
   border: 1px solid var(--rule);
 }
 .identity .lines { display: grid; gap: 0.15rem; }
