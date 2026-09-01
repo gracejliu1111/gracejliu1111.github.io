@@ -159,22 +159,32 @@ var GROUPS=[], group=null, i=0, clips={};   // clips[pt] = {blob, mime, ext}
 
 function chapterMap(chs){ var m={}; (chs||[]).forEach(function(c){ m[c.id]=c.title; }); return m; }
 
+function chapterNum(chs){ var m={}; (chs||[]).forEach(function(c){ m[c.id]=c.num||""; }); return m; }
+/* A word that already has a recording in the repo is done: leaving it in the list
+   would invite Fred to record all 90 of lesson 1 a second time on a fresh browser. */
 function collect(packs){
-  var seen={}, byChapter={};
+  var seen={}, byChapter={}, order={}, done={};
   packs.forEach(function(pk){
     if(!pk) return;
-    var names=chapterMap(pk.chapters);
+    var names=chapterMap(pk.chapters), nums=chapterNum(pk.chapters);
     (pk.vocab||[]).forEach(function(w){
       if(!w||!w.pt) return;
       var k=w.pt.toLowerCase();
+      var ch=names[w.chapterId]||"Outras palavras";
+      if(w.audio && w.audio.path){ done[ch]=(done[ch]||0)+1; seen[k]=1; return; }
       if(seen[k]) return;
       seen[k]=1;
-      var ch=names[w.chapterId]||"Outras palavras";
+      if(!(ch in order)){
+        var n=parseFloat(nums[w.chapterId]);
+        order[ch]=isNaN(n) ? 900 : n;                       // alfabeto and strays last
+      }
       (byChapter[ch]=byChapter[ch]||[]).push({pt:w.pt, en:w.en||"", ex:w.ex||""});
     });
   });
-  return Object.keys(byChapter).map(function(name){
-    return {name:name, words:byChapter[name]};
+  return Object.keys(byChapter).sort(function(a,b){
+    return order[a]-order[b] || a.localeCompare(b);
+  }).map(function(name){
+    return {name:name, words:byChapter[name], already:done[name]||0};
   });
 }
 
@@ -185,11 +195,21 @@ Promise.all([
   GROUPS=collect(packs);
   if(!GROUPS.length){ say("Não consegui carregar a lista de palavras. Avise a Grace.", true); return; }
   var sel=$("pick");
-  sel.innerHTML=GROUPS.map(function(g,gi){
-    return '<option value="'+gi+'">'+esc(g.name)+' — '+g.words.length+' palavras</option>';
-  }).join("");
+  function label(g,gi){
+    var d=g.words.filter(function(w){ return clips[w.pt]; }).length;
+    return esc(g.name)+' — '+(d?d+'/'+g.words.length+' gravadas':g.words.length+' palavras');
+  }
+  function paintPicker(){
+    var at=sel.value;
+    sel.innerHTML=GROUPS.map(function(g,gi){
+      return '<option value="'+gi+'">'+label(g,gi)+'</option>';
+    }).join("");
+    if(at!=="") sel.value=at;
+  }
+  window.paintPicker=paintPicker;
+  paintPicker();
   sel.addEventListener("change",function(){ setGroup(+sel.value); });
-  return openStore().then(loadSaved).then(function(){ setGroup(0); });
+  return openStore().then(loadSaved).then(function(){ paintPicker(); setGroup(0); });
 });
 
 function setGroup(gi){ group=GROUPS[gi]; i=0; draw(); }
@@ -234,8 +254,8 @@ function draw(){
   var done=group.words.filter(function(x){ return clips[x.pt]; }).length;
   $("count").textContent=done; $("total").textContent=group.words.length;
   $("bar").style.width=(group.words.length? done/group.words.length*100 : 0)+"%";
-  $("dl").disabled = !Object.keys(clips).length;
-  $("dl").textContent = "Baixar as gravações"+(Object.keys(clips).length?" ("+Object.keys(clips).length+")":"");
+  $("dl").disabled = !done;
+  $("dl").textContent = "Baixar as gravações desta lista"+(done?" ("+done+")":"");
   $("list").innerHTML=group.words.map(function(x,xi){
     return '<div class="item'+(xi===i?" cur":"")+'" data-i="'+xi+'">'+
       '<span class="dot'+(clips[x.pt]?" ok":"")+'"></span>'+
@@ -302,7 +322,7 @@ function finish(mime){
   var w=cur();
   clips[w.pt]={blob:new Blob(chunks,{type:mime}), mime:mime, ext:extFor(mime)};
   put(w.pt, clips[w.pt]);
-  draw();
+  draw(); if(window.paintPicker) window.paintPicker();
   if(i<group.words.length-1){ i++; draw(); }      // straight on to the next one
 }
 var mic=$("mic");
@@ -330,7 +350,9 @@ function b64(blob){
   });
 }
 $("dl").addEventListener("click",function(){
-  var keys=Object.keys(clips);
+  /* one chapter per file: small enough to send, and it is the unit Grace ingests */
+  var mine={}; group.words.forEach(function(w){ if(clips[w.pt]) mine[w.pt]=1; });
+  var keys=Object.keys(clips).filter(function(k){ return mine[k]; });
   if(!keys.length) return;
   $("dl").disabled=true; $("dl").textContent="Preparando…";
   Promise.all(keys.map(function(k){
@@ -338,14 +360,16 @@ $("dl").addEventListener("click",function(){
       return {pt:k, mime:clips[k].mime, ext:clips[k].ext, data:d};
     });
   })).then(function(rows){
-    var out=JSON.stringify({kind:"caderno-recordings", made:new Date().toISOString().slice(0,10), clips:rows});
+    var out=JSON.stringify({kind:"caderno-recordings", made:new Date().toISOString().slice(0,10),
+                            list:group.name, clips:rows});
     var a=document.createElement("a");
     a.href=URL.createObjectURL(new Blob([out],{type:"application/json"}));
-    a.download="gravacoes-"+new Date().toISOString().slice(0,10)+".json";
+    a.download="gravacoes-"+group.name.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"")
+             +"-"+new Date().toISOString().slice(0,10)+".json";
     a.click();
     setTimeout(function(){ URL.revokeObjectURL(a.href); },5000);
-    $("dl").disabled=false; $("dl").textContent="Baixar as gravações ("+rows.length+")";
-    say("Pronto! Mande o arquivo gravacoes-…json para a Grace. Obrigado!");
+    $("dl").disabled=false; $("dl").textContent="Baixar as gravações desta lista ("+rows.length+")";
+    say("Pronto! Mande o arquivo gravacoes-…json para a Grace. Pode fazer uma lista por vez. Obrigado!");
   });
 });
 </script>
