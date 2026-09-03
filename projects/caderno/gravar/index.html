@@ -160,16 +160,33 @@ var GROUPS=[], group=null, i=0, clips={};   // clips[pt] = {blob, mime, ext}
 function chapterMap(chs){ var m={}; (chs||[]).forEach(function(c){ m[c.id]=c.title; }); return m; }
 
 function chapterNum(chs){ var m={}; (chs||[]).forEach(function(c){ m[c.id]=c.num||""; }); return m; }
+/* A letter of the alphabet and a word that happens to be spelled the same are
+   two different recordings.  Without this the letter E — already recorded —
+   marks the word e (and) as done, and it never gets offered to anyone. */
+function isLetter(w){
+  if(w && Array.isArray(w.tags))
+    for(var t=0;t<w.tags.length;t++) if(String(w.tags[t]).toLowerCase()==="letra") return true;
+  return false;
+}
+function alphaChapters(chs, notes){
+  var ids={};
+  (notes||[]).forEach(function(n){
+    if(n && Array.isArray(n.blocks) && n.blocks.some(function(b){ return b.t==="alpha"; }))
+      ids[n.chapterId]=1;
+  });
+  return ids;
+}
 /* A word that already has a recording in the repo is done: leaving it in the list
    would invite Fred to record all 90 of lesson 1 a second time on a fresh browser. */
 function collect(packs){
   var seen={}, byChapter={}, order={}, done={};
   packs.forEach(function(pk){
     if(!pk) return;
-    var names=chapterMap(pk.chapters), nums=chapterNum(pk.chapters);
+    var names=chapterMap(pk.chapters), nums=chapterNum(pk.chapters),
+        alpha=alphaChapters(pk.chapters, pk.notes);
     (pk.vocab||[]).forEach(function(w){
       if(!w||!w.pt) return;
-      var k=w.pt.toLowerCase();
+      var k=(isLetter(w)||alpha[w.chapterId] ? "letra:" : "palavra:")+w.pt.toLowerCase();
       var ch=names[w.chapterId]||"Outras palavras";
       if(w.audio && w.audio.path){ done[ch]=(done[ch]||0)+1; seen[k]=1; return; }
       if(seen[k]) return;

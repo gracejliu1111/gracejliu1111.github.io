@@ -1,6 +1,6 @@
 {
- "version": 8,
- "note": "Lições 1–10 plus o alfabeto. Shipped content; merged once per version.",
+ "version": 9,
+ "note": "Lição 2 com áudio — 95 gravações novas do Fred.",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -1428,7 +1428,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "0e9d18faf111",
+    "path": "audio/0e9d18faf111.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o pai",
@@ -1438,7 +1443,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "9d172acc0727",
+    "path": "audio/9d172acc0727.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o irmão",
@@ -1448,7 +1458,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "d7a5d48bace1",
+    "path": "audio/d7a5d48bace1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a irmã",
@@ -1458,7 +1473,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "f9a410bd2347",
+    "path": "audio/f9a410bd2347.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o professor",
@@ -1468,7 +1488,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "245da9b874a8",
+    "path": "audio/245da9b874a8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a professora",
@@ -1478,7 +1503,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "a4bf06969b66",
+    "path": "audio/a4bf06969b66.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o estudante",
@@ -1488,7 +1518,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "2171a38e9361",
+    "path": "audio/2171a38e9361.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o homem",
@@ -1498,7 +1533,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "9d582a2b234d",
+    "path": "audio/9d582a2b234d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a mulher",
@@ -1508,7 +1548,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "c4dc831ced17",
+    "path": "audio/c4dc831ced17.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o marido",
@@ -1518,7 +1563,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "c978aeb19569",
+    "path": "audio/c978aeb19569.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a esposa",
@@ -1528,7 +1578,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "80dcb26110c3",
+    "path": "audio/80dcb26110c3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o amigo",
@@ -1538,7 +1593,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "f94416af5523",
+    "path": "audio/f94416af5523.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a amiga",
@@ -1548,7 +1608,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "1d64a1be65ea",
+    "path": "audio/1d64a1be65ea.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o menino",
@@ -1558,7 +1623,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "7ffefd97a808",
+    "path": "audio/7ffefd97a808.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a menina",
@@ -1568,7 +1638,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "40e4b2b13565",
+    "path": "audio/40e4b2b13565.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a pessoa",
@@ -1578,7 +1653,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "1e66f6a71e6a",
+    "path": "audio/1e66f6a71e6a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a casa",
@@ -1588,7 +1668,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "be22ef037923",
+    "path": "audio/be22ef037923.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o escritório",
@@ -1598,7 +1683,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "9576c6ec27fd",
+    "path": "audio/9576c6ec27fd.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o médico",
@@ -1608,7 +1698,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "08831d3fb54a",
+    "path": "audio/08831d3fb54a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a médica",
@@ -1618,7 +1713,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "33ef1bb69077",
+    "path": "audio/33ef1bb69077.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a filha",
@@ -1628,7 +1728,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "ad1cec44d813",
+    "path": "audio/ad1cec44d813.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o filho",
@@ -1638,7 +1743,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "d3a6e038c2fa",
+    "path": "audio/d3a6e038c2fa.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o vizinho",
@@ -1648,7 +1758,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "750f9084ea25",
+    "path": "audio/750f9084ea25.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a vizinha",
@@ -1658,7 +1773,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "cd6f266f17ac",
+    "path": "audio/cd6f266f17ac.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o primo",
@@ -1668,7 +1788,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "e87cb2446421",
+    "path": "audio/e87cb2446421.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a prima",
@@ -1678,7 +1803,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "deffb50f5171",
+    "path": "audio/deffb50f5171.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o brasileiro",
@@ -1688,7 +1818,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "591ad9c68250",
+    "path": "audio/591ad9c68250.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a brasileira",
@@ -1698,7 +1833,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "cc1f8f58f77e",
+    "path": "audio/cc1f8f58f77e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o americano",
@@ -1708,7 +1848,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "5e4171cc18e3",
+    "path": "audio/5e4171cc18e3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a americana",
@@ -1718,7 +1863,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "e99931fe2cf5",
+    "path": "audio/e99931fe2cf5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o enfermeiro",
@@ -1728,7 +1878,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "0e77ad11f662",
+    "path": "audio/0e77ad11f662.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a enfermeira",
@@ -1738,7 +1893,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "99cc05be348c",
+    "path": "audio/99cc05be348c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o apartamento",
@@ -1748,7 +1908,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "d69ffdc24988",
+    "path": "audio/d69ffdc24988.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a água",
@@ -1758,7 +1923,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "3bfb56049f41",
+    "path": "audio/3bfb56049f41.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a praia",
@@ -1768,7 +1938,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "464a1ba5741e",
+    "path": "audio/464a1ba5741e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o relógio",
@@ -1778,7 +1953,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "dbfc0e1cbbd6",
+    "path": "audio/dbfc0e1cbbd6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a rua",
@@ -1788,7 +1968,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "6545f215bfe8",
+    "path": "audio/6545f215bfe8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o copo",
@@ -1798,7 +1983,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "8df2ce373aa3",
+    "path": "audio/8df2ce373aa3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a mesa",
@@ -1808,7 +1998,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "f6f9f8c26a53",
+    "path": "audio/f6f9f8c26a53.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o livro",
@@ -1818,7 +2013,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "eaa0107f7834",
+    "path": "audio/eaa0107f7834.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o café",
@@ -1828,7 +2028,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "b2902b6b4b36",
+    "path": "audio/b2902b6b4b36.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o açúcar",
@@ -1838,7 +2043,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "390c20039010",
+    "path": "audio/390c20039010.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o giz",
@@ -1848,7 +2058,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "e02fb40923ac",
+    "path": "audio/e02fb40923ac.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o restaurante",
@@ -1858,7 +2073,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "623d370077dd",
+    "path": "audio/623d370077dd.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o anel",
@@ -1868,7 +2088,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "d7c8df39b0a9",
+    "path": "audio/d7c8df39b0a9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o motor",
@@ -1878,7 +2103,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "3f27db9a8c39",
+    "path": "audio/3f27db9a8c39.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a noite",
@@ -1888,7 +2118,12 @@
     "artigos",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "a98f91151635",
+    "path": "audio/a98f91151635.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "um",
@@ -1898,7 +2133,12 @@
     "números",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "98566300aa8c",
+    "path": "audio/98566300aa8c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "uma",
@@ -1908,7 +2148,12 @@
     "números",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "0aaa9436d74c",
+    "path": "audio/0aaa9436d74c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dois",
@@ -1918,7 +2163,12 @@
     "números",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "fb9685a6bcd8",
+    "path": "audio/fb9685a6bcd8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "duas",
@@ -1928,7 +2178,12 @@
     "números",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "4b97998418d6",
+    "path": "audio/4b97998418d6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o melhor amigo",
@@ -1938,7 +2193,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "71fbe302099e",
+    "path": "audio/71fbe302099e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o avô",
@@ -1948,7 +2208,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "3406aa90da5d",
+    "path": "audio/3406aa90da5d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a avó",
@@ -1958,7 +2223,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "3642be0ab75d",
+    "path": "audio/3642be0ab75d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o sogro",
@@ -1968,7 +2238,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "e8ff4e2400b4",
+    "path": "audio/e8ff4e2400b4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a sogra",
@@ -1978,7 +2253,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "d9c84ca1b769",
+    "path": "audio/d9c84ca1b769.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cunhado",
@@ -1988,7 +2268,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "5c0354d2a724",
+    "path": "audio/5c0354d2a724.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a cunhada",
@@ -1998,7 +2283,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "b64f97634a23",
+    "path": "audio/b64f97634a23.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o genro",
@@ -2008,7 +2298,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "6ef02c9263a8",
+    "path": "audio/6ef02c9263a8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a nora",
@@ -2018,7 +2313,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "c4b7d6cd21b1",
+    "path": "audio/c4b7d6cd21b1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o enteado",
@@ -2028,7 +2328,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "782e1668c02f",
+    "path": "audio/782e1668c02f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a enteada",
@@ -2038,7 +2343,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "61596958ddd0",
+    "path": "audio/61596958ddd0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o padrasto",
@@ -2048,7 +2358,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "1dd19cee8305",
+    "path": "audio/1dd19cee8305.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a madrasta",
@@ -2058,7 +2373,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "df4634a95c10",
+    "path": "audio/df4634a95c10.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o colega",
@@ -2068,7 +2388,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "9c824f8a089b",
+    "path": "audio/9c824f8a089b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a colega",
@@ -2078,7 +2403,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "f533872098be",
+    "path": "audio/f533872098be.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o gerente",
@@ -2088,7 +2418,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "a7e579446684",
+    "path": "audio/a7e579446684.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a gerente",
@@ -2098,7 +2433,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "a33ec7a7eb4e",
+    "path": "audio/a33ec7a7eb4e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o telefone celular",
@@ -2108,7 +2448,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "2feb1aa18137",
+    "path": "audio/2feb1aa18137.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o correio eletrônico",
@@ -2118,7 +2463,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "3227b4ab5df6",
+    "path": "audio/3227b4ab5df6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cartão postal",
@@ -2128,7 +2478,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "3e5101a33139",
+    "path": "audio/3e5101a33139.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o recepcionista",
@@ -2138,7 +2493,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "30be329a6857",
+    "path": "audio/30be329a6857.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a recepcionista",
@@ -2148,7 +2508,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "82e7c1963355",
+    "path": "audio/82e7c1963355.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o tio",
@@ -2158,7 +2523,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "52facf0413f6",
+    "path": "audio/52facf0413f6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a tia",
@@ -2168,7 +2538,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "157aa4eb4371",
+    "path": "audio/157aa4eb4371.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o nome",
@@ -2178,7 +2553,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "3115c8c2f449",
+    "path": "audio/3115c8c2f449.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o sobrenome",
@@ -2188,7 +2568,12 @@
     "família",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "153c7f7e7658",
+    "path": "audio/153c7f7e7658.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "há",
@@ -2198,7 +2583,12 @@
     "gramática",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "1299740672c2",
+    "path": "audio/1299740672c2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "não há",
@@ -2208,7 +2598,12 @@
     "gramática",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "60cddd080898",
+    "path": "audio/60cddd080898.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "aqui",
@@ -2218,7 +2613,12 @@
     "gramática",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "77ad217f32f2",
+    "path": "audio/77ad217f32f2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ali",
@@ -2228,7 +2628,12 @@
     "gramática",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "9cf05e9c3097",
+    "path": "audio/9cf05e9c3097.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "lá",
@@ -2238,7 +2643,12 @@
     "gramática",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "4b3b8ff5b61f",
+    "path": "audio/4b3b8ff5b61f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "e",
@@ -2258,7 +2668,12 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "a1503f155904",
+    "path": "audio/a1503f155904.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "é claro",
@@ -2268,7 +2683,12 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "45389e95764e",
+    "path": "audio/45389e95764e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "é",
@@ -2278,7 +2698,12 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "a09310ac1751",
+    "path": "audio/a09310ac1751.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vários",
@@ -2288,7 +2713,12 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "e75e6678c1e7",
+    "path": "audio/e75e6678c1e7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "várias",
@@ -2298,7 +2728,12 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "481b7d95c044",
+    "path": "audio/481b7d95c044.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o quarto",
@@ -2307,7 +2742,12 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "17ef8cff37b4",
+    "path": "audio/17ef8cff37b4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a mala",
@@ -2316,7 +2756,12 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "f64abc147721",
+    "path": "audio/f64abc147721.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o jornal",
@@ -2325,7 +2770,12 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "4c3123555c98",
+    "path": "audio/4c3123555c98.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o carro",
@@ -2334,7 +2784,12 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "9d56a0418295",
+    "path": "audio/9d56a0418295.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o hotel",
@@ -2343,7 +2798,12 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "7d57c93ca961",
+    "path": "audio/7d57c93ca961.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cachorro",
@@ -2352,7 +2812,12 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "b0f0f0a17c87",
+    "path": "audio/b0f0f0a17c87.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a família",
@@ -2361,7 +2826,12 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "9dba8ed38ab1",
+    "path": "audio/9dba8ed38ab1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a ilha",
@@ -2370,7 +2840,12 @@
    "tags": [
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "016bcbcd6a48",
+    "path": "audio/016bcbcd6a48.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "três",
@@ -3155,16 +3630,6 @@
   {
    "pt": "eu",
    "en": "I",
-   "ex": "",
-   "tags": [
-    "pronomes",
-    "lição 3"
-   ],
-   "chapterId": "ch-licao-3"
-  },
-  {
-   "pt": "você",
-   "en": "you",
    "ex": "",
    "tags": [
     "pronomes",
@@ -4765,16 +5230,6 @@
    "chapterId": "ch-licao-5"
   },
   {
-   "pt": "limpo",
-   "en": "clean",
-   "ex": "",
-   "tags": [
-    "adjetivos",
-    "lição 5"
-   ],
-   "chapterId": "ch-licao-5"
-  },
-  {
    "pt": "ser",
    "en": "to be (inherent)",
    "ex": "",
@@ -5013,15 +5468,6 @@
   {
    "pt": "o arquiteto",
    "en": "the architect",
-   "ex": "",
-   "tags": [
-    "lição 5"
-   ],
-   "chapterId": "ch-licao-5"
-  },
-  {
-   "pt": "a flor",
-   "en": "the flower",
    "ex": "",
    "tags": [
     "lição 5"
@@ -5727,15 +6173,6 @@
    "chapterId": "ch-licao-6"
   },
   {
-   "pt": "a rua",
-   "en": "the street",
-   "ex": "",
-   "tags": [
-    "lição 6"
-   ],
-   "chapterId": "ch-licao-6"
-  },
-  {
    "pt": "a avenida",
    "en": "the avenue",
    "ex": "",
@@ -5847,16 +6284,6 @@
   {
    "pt": "trabalhar",
    "en": "to work",
-   "ex": "",
-   "tags": [
-    "verbos -ar",
-    "lição 7"
-   ],
-   "chapterId": "ch-licao-7"
-  },
-  {
-   "pt": "acordar",
-   "en": "to wake up",
    "ex": "",
    "tags": [
     "verbos -ar",
