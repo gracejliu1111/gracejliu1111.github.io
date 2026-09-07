@@ -1,6 +1,6 @@
 {
- "version": 10,
- "note": "Lição 2 completa — o áudio da palavra e (and).",
+ "version": 11,
+ "note": "Lição 3 com áudio — 105 gravações novas do Fred.",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -2860,7 +2860,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "ffcd7faa2a3c",
+    "path": "audio/ffcd7faa2a3c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "quatro",
@@ -2870,7 +2875,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "8ab9d3ddc019",
+    "path": "audio/8ab9d3ddc019.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "cinco",
@@ -2880,7 +2890,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "4cd132da91f3",
+    "path": "audio/4cd132da91f3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "seis",
@@ -2890,7 +2905,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "83602c514980",
+    "path": "audio/83602c514980.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "sete",
@@ -2900,7 +2920,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "49f1887e6a44",
+    "path": "audio/49f1887e6a44.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "oito",
@@ -2910,7 +2935,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "e1b69f5bc66f",
+    "path": "audio/e1b69f5bc66f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nove",
@@ -2920,7 +2950,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "1c011778e179",
+    "path": "audio/1c011778e179.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dez",
@@ -2930,7 +2965,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "d1eeaf024da2",
+    "path": "audio/d1eeaf024da2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "onze",
@@ -2940,7 +2980,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "f22bb49e4ae4",
+    "path": "audio/f22bb49e4ae4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "doze",
@@ -2950,7 +2995,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "4753ca51eaf8",
+    "path": "audio/4753ca51eaf8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "treze",
@@ -2960,7 +3010,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "efec9b070a20",
+    "path": "audio/efec9b070a20.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "quatorze",
@@ -2970,7 +3025,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "e406da6bbdb4",
+    "path": "audio/e406da6bbdb4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "quinze",
@@ -2980,7 +3040,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "42e4041cc5f0",
+    "path": "audio/42e4041cc5f0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dezesseis",
@@ -2990,7 +3055,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "2c41b4ecefa3",
+    "path": "audio/2c41b4ecefa3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dezessete",
@@ -3000,7 +3070,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "e044c529b387",
+    "path": "audio/e044c529b387.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dezoito",
@@ -3010,7 +3085,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "d91ebe36ba21",
+    "path": "audio/d91ebe36ba21.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dezenove",
@@ -3020,7 +3100,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "a4b8b7f94c8a",
+    "path": "audio/a4b8b7f94c8a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vinte",
@@ -3030,7 +3115,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "4b607f1e913f",
+    "path": "audio/4b607f1e913f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vinte e um",
@@ -3040,7 +3130,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "ed7eef246e43",
+    "path": "audio/ed7eef246e43.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vinte e uma",
@@ -3050,7 +3145,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "695789bf3838",
+    "path": "audio/695789bf3838.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vinte e dois",
@@ -3060,7 +3160,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "10883190bf10",
+    "path": "audio/10883190bf10.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vinte e duas",
@@ -3070,7 +3175,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "27eec6b75f7f",
+    "path": "audio/27eec6b75f7f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "trinta",
@@ -3080,7 +3190,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "119b3026fa03",
+    "path": "audio/119b3026fa03.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "quarenta",
@@ -3090,7 +3205,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "b8ac8017f604",
+    "path": "audio/b8ac8017f604.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "cinquenta",
@@ -3100,7 +3220,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "ef2626ff554c",
+    "path": "audio/ef2626ff554c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "sessenta",
@@ -3110,7 +3235,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "7dace209c252",
+    "path": "audio/7dace209c252.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "setenta",
@@ -3120,7 +3250,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "32ea9f83b999",
+    "path": "audio/32ea9f83b999.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "oitenta",
@@ -3130,7 +3265,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "193b107f1a00",
+    "path": "audio/193b107f1a00.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "noventa",
@@ -3140,7 +3280,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "f49c9ea72aca",
+    "path": "audio/f49c9ea72aca.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "cem",
@@ -3150,7 +3295,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "2743b4796d5d",
+    "path": "audio/2743b4796d5d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "cento e um",
@@ -3160,7 +3310,12 @@
     "números",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "a07662a385f2",
+    "path": "audio/a07662a385f2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "uns",
@@ -3170,7 +3325,12 @@
     "artigos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "7936cd585d4d",
+    "path": "audio/7936cd585d4d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "umas",
@@ -3180,7 +3340,12 @@
     "artigos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "5fe2e1b57f63",
+    "path": "audio/5fe2e1b57f63.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "os",
@@ -3190,7 +3355,12 @@
     "artigos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "fcc44c286540",
+    "path": "audio/fcc44c286540.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "as",
@@ -3200,7 +3370,12 @@
     "artigos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "dc06781a326a",
+    "path": "audio/dc06781a326a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a criança",
@@ -3210,7 +3385,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "f3a1c6ca6b29",
+    "path": "audio/f3a1c6ca6b29.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a maçã",
@@ -3220,7 +3400,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "beb34f946a3f",
+    "path": "audio/beb34f946a3f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o ovo",
@@ -3230,7 +3415,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "564b1580948a",
+    "path": "audio/564b1580948a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a chave",
@@ -3240,7 +3430,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "5322871be7fc",
+    "path": "audio/5322871be7fc.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o monumento",
@@ -3250,7 +3445,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "94bb78e09818",
+    "path": "audio/94bb78e09818.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o gato",
@@ -3260,7 +3460,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "5ecec3199a1d",
+    "path": "audio/5ecec3199a1d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o rádio",
@@ -3270,7 +3475,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "f953e631a623",
+    "path": "audio/f953e631a623.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a caneta",
@@ -3280,7 +3490,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "ef1d938b7433",
+    "path": "audio/ef1d938b7433.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a revista",
@@ -3290,7 +3505,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "7cd1b509921b",
+    "path": "audio/7cd1b509921b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o sorvete",
@@ -3300,7 +3520,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "7ef66a580524",
+    "path": "audio/7ef66a580524.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a fotografia",
@@ -3310,7 +3535,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "2db0e8afea6e",
+    "path": "audio/2db0e8afea6e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cão",
@@ -3320,7 +3550,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "c98d4178ffb6",
+    "path": "audio/c98d4178ffb6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a mão",
@@ -3330,7 +3565,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "da27682e57e3",
+    "path": "audio/da27682e57e3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o avião",
@@ -3340,7 +3580,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "de1cb78b9eab",
+    "path": "audio/de1cb78b9eab.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o doutor",
@@ -3350,7 +3595,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "38551a9edb30",
+    "path": "audio/38551a9edb30.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a laranja",
@@ -3360,7 +3610,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "88e0302734fd",
+    "path": "audio/88e0302734fd.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o mapa",
@@ -3370,7 +3625,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "9d164bea9281",
+    "path": "audio/9d164bea9281.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o turista",
@@ -3380,7 +3640,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "aa6621632d84",
+    "path": "audio/aa6621632d84.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cliente",
@@ -3390,7 +3655,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "ad0070e239a7",
+    "path": "audio/ad0070e239a7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o banco",
@@ -3400,7 +3670,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "2b2c332c343a",
+    "path": "audio/2b2c332c343a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a porta",
@@ -3410,7 +3685,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "8a03286edd15",
+    "path": "audio/8a03286edd15.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a janela",
@@ -3420,7 +3700,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "6f2fbb90d109",
+    "path": "audio/6f2fbb90d109.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a raquete",
@@ -3430,7 +3715,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "bf84bd0bf282",
+    "path": "audio/bf84bd0bf282.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a bola",
@@ -3440,7 +3730,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "ce313585256d",
+    "path": "audio/ce313585256d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a aspirina",
@@ -3450,7 +3745,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "f4871f2ec18e",
+    "path": "audio/f4871f2ec18e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o protetor solar",
@@ -3460,7 +3760,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "1ab12ca693a4",
+    "path": "audio/1ab12ca693a4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o tênis",
@@ -3470,7 +3775,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "e5913686cb02",
+    "path": "audio/e5913686cb02.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o problema",
@@ -3480,7 +3790,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "bdcc945cd4b0",
+    "path": "audio/bdcc945cd4b0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o dinheiro",
@@ -3490,7 +3805,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "a76154c880ad",
+    "path": "audio/a76154c880ad.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cartão de crédito",
@@ -3500,7 +3820,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "8d0e1378dab2",
+    "path": "audio/8d0e1378dab2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o saco",
@@ -3510,7 +3835,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "382e064f4400",
+    "path": "audio/382e064f4400.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a mensagem",
@@ -3520,7 +3850,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "9743cac468ba",
+    "path": "audio/9743cac468ba.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a rosa",
@@ -3530,7 +3865,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "946dad79b717",
+    "path": "audio/946dad79b717.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a classe",
@@ -3540,7 +3880,12 @@
     "substantivos",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "99c067692959",
+    "path": "audio/99c067692959.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ter",
@@ -3550,7 +3895,12 @@
     "verbo ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "1341ca3272ab",
+    "path": "audio/1341ca3272ab.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu tenho",
@@ -3560,7 +3910,12 @@
     "verbo ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "bfde4ab1eac2",
+    "path": "audio/bfde4ab1eac2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você tem",
@@ -3570,7 +3925,12 @@
     "verbo ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "187e25d4bb8f",
+    "path": "audio/187e25d4bb8f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ele tem",
@@ -3580,7 +3940,12 @@
     "verbo ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "cfcda07d52c5",
+    "path": "audio/cfcda07d52c5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ela tem",
@@ -3590,7 +3955,12 @@
     "verbo ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "29ed0372f35f",
+    "path": "audio/29ed0372f35f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós temos",
@@ -3600,7 +3970,12 @@
     "verbo ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "99bf9c6087ff",
+    "path": "audio/99bf9c6087ff.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês têm",
@@ -3610,7 +3985,12 @@
     "verbo ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "181595b1a5ba",
+    "path": "audio/181595b1a5ba.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles têm",
@@ -3620,7 +4000,12 @@
     "verbo ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "6c82e785931d",
+    "path": "audio/6c82e785931d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "elas têm",
@@ -3630,7 +4015,12 @@
     "verbo ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "28d1f09568be",
+    "path": "audio/28d1f09568be.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu",
@@ -3640,7 +4030,12 @@
     "pronomes",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "e015bed8dd36",
+    "path": "audio/e015bed8dd36.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ele",
@@ -3650,7 +4045,12 @@
     "pronomes",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "44b44e983cb7",
+    "path": "audio/44b44e983cb7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ela",
@@ -3660,7 +4060,12 @@
     "pronomes",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "a9d8667a9b3d",
+    "path": "audio/a9d8667a9b3d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós",
@@ -3670,7 +4075,12 @@
     "pronomes",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "6b1444daed63",
+    "path": "audio/6b1444daed63.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês",
@@ -3680,7 +4090,12 @@
     "pronomes",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "ec9eb1070d49",
+    "path": "audio/ec9eb1070d49.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles",
@@ -3690,7 +4105,12 @@
     "pronomes",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "1b77e7140386",
+    "path": "audio/1b77e7140386.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "elas",
@@ -3700,7 +4120,12 @@
     "pronomes",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "e606c69ca539",
+    "path": "audio/e606c69ca539.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ter sorte",
@@ -3710,7 +4135,12 @@
     "expressões com ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "33aa3731160a",
+    "path": "audio/33aa3731160a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ter azar",
@@ -3720,7 +4150,12 @@
     "expressões com ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "b85f4885679a",
+    "path": "audio/b85f4885679a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ter um problema",
@@ -3730,7 +4165,12 @@
     "expressões com ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "9353735c2c83",
+    "path": "audio/9353735c2c83.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ter sede",
@@ -3740,7 +4180,12 @@
     "expressões com ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "6baf2083aa3a",
+    "path": "audio/6baf2083aa3a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ter fome",
@@ -3750,7 +4195,12 @@
     "expressões com ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "dfc810dddd24",
+    "path": "audio/dfc810dddd24.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ter sono",
@@ -3760,7 +4210,12 @@
     "expressões com ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "5d290fcda0e2",
+    "path": "audio/5d290fcda0e2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ter medo",
@@ -3770,7 +4225,12 @@
     "expressões com ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "14873e048676",
+    "path": "audio/14873e048676.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ter tempo",
@@ -3780,7 +4240,12 @@
     "expressões com ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "46153a997632",
+    "path": "audio/46153a997632.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Tenha um bom dia!",
@@ -3790,7 +4255,12 @@
     "expressões com ter",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "ac3152d2fc47",
+    "path": "audio/ac3152d2fc47.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a lição de casa",
@@ -3800,7 +4270,12 @@
     "expressões",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "93095f34fc09",
+    "path": "audio/93095f34fc09.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a dor de cabeça",
@@ -3810,7 +4285,12 @@
     "expressões",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "729a8ba8ae6a",
+    "path": "audio/729a8ba8ae6a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a dor nas costas",
@@ -3820,7 +4300,12 @@
     "expressões",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "5240b6ceb9b7",
+    "path": "audio/5240b6ceb9b7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a dor de dente",
@@ -3830,7 +4315,12 @@
     "expressões",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "f063b92c58c0",
+    "path": "audio/f063b92c58c0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a casa de praia",
@@ -3840,7 +4330,12 @@
     "expressões",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "6616698b0936",
+    "path": "audio/6616698b0936.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Sinto muito.",
@@ -3850,7 +4345,12 @@
     "expressões",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "460627c229b9",
+    "path": "audio/460627c229b9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Ótimo!",
@@ -3860,7 +4360,12 @@
     "expressões",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "52f83491af60",
+    "path": "audio/52f83491af60.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Aqui está.",
@@ -3870,7 +4375,12 @@
     "expressões",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "adc61b2f3154",
+    "path": "audio/adc61b2f3154.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Não tem problema.",
@@ -3880,7 +4390,12 @@
     "expressões",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "220c897a25be",
+    "path": "audio/220c897a25be.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Vamos jogar tênis?",
@@ -3890,7 +4405,12 @@
     "expressões",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "1fcc170a2585",
+    "path": "audio/1fcc170a2585.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "depois",
@@ -3900,7 +4420,12 @@
     "expressões",
     "lição 3"
    ],
-   "chapterId": "ch-licao-3"
+   "chapterId": "ch-licao-3",
+   "audio": {
+    "key": "8d5a106523fd",
+    "path": "audio/8d5a106523fd.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a garagem",
