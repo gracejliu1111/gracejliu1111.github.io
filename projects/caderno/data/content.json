@@ -1,6 +1,6 @@
 {
- "version": 9,
- "note": "Lição 2 com áudio — 95 gravações novas do Fred.",
+ "version": 10,
+ "note": "Lição 2 completa — o áudio da palavra e (and).",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -2658,7 +2658,12 @@
     "expressões",
     "lição 2"
    ],
-   "chapterId": "ch-licao-2"
+   "chapterId": "ch-licao-2",
+   "audio": {
+    "key": "58f52ca306dc",
+    "path": "audio/58f52ca306dc.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "também",
