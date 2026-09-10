@@ -1,6 +1,6 @@
 {
- "version": 11,
- "note": "Lição 3 com áudio — 105 gravações novas do Fred.",
+ "version": 12,
+ "note": "Lição 4 com áudio — 88 gravações novas do Fred.",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -4435,7 +4435,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "bd369b43d741",
+    "path": "audio/bd369b43d741.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a gaveta",
@@ -4445,7 +4450,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "0744b8997db6",
+    "path": "audio/0744b8997db6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a toalha",
@@ -4455,7 +4465,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "d398eaf74b59",
+    "path": "audio/d398eaf74b59.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o banheiro",
@@ -4465,7 +4480,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "cd8622f6b892",
+    "path": "audio/cd8622f6b892.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o sapato",
@@ -4475,7 +4495,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "f1eddcb6e702",
+    "path": "audio/f1eddcb6e702.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o armário",
@@ -4485,7 +4510,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "7cdba1504969",
+    "path": "audio/7cdba1504969.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a poltrona",
@@ -4495,7 +4525,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "018549cb430b",
+    "path": "audio/018549cb430b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a estante",
@@ -4505,7 +4540,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "e75956b5a0aa",
+    "path": "audio/e75956b5a0aa.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o vaso",
@@ -4515,7 +4555,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "9ab80089976d",
+    "path": "audio/9ab80089976d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a piscina",
@@ -4525,7 +4570,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "cbcde296eeba",
+    "path": "audio/cbcde296eeba.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o quintal",
@@ -4535,7 +4585,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "c2849839afcb",
+    "path": "audio/c2849839afcb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a cama",
@@ -4545,7 +4600,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "e01347d48871",
+    "path": "audio/e01347d48871.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a sala de estar",
@@ -4555,7 +4615,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "03dbace5acb3",
+    "path": "audio/03dbace5acb3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a geladeira",
@@ -4565,7 +4630,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "62f60a10477a",
+    "path": "audio/62f60a10477a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a cozinha",
@@ -4575,7 +4645,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "2f35ac2742f0",
+    "path": "audio/2f35ac2742f0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a garrafa",
@@ -4585,7 +4660,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "e479a01bd95c",
+    "path": "audio/e479a01bd95c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o jardim",
@@ -4595,7 +4675,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "5df71a3c6878",
+    "path": "audio/5df71a3c6878.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a escola",
@@ -4605,7 +4690,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "12097f78df37",
+    "path": "audio/12097f78df37.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o parque",
@@ -4615,7 +4705,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "ca4334bc16d4",
+    "path": "audio/ca4334bc16d4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a estação",
@@ -4625,7 +4720,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "6252d91724e5",
+    "path": "audio/6252d91724e5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a flor",
@@ -4635,7 +4735,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "1afee51eba77",
+    "path": "audio/1afee51eba77.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a árvore",
@@ -4645,7 +4750,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "a156ad976f22",
+    "path": "audio/a156ad976f22.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o terraço",
@@ -4655,7 +4765,12 @@
     "em casa",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "63fd4f91a226",
+    "path": "audio/63fd4f91a226.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estar",
@@ -4665,7 +4780,12 @@
     "verbo estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "73982957ac1f",
+    "path": "audio/73982957ac1f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu estou",
@@ -4675,7 +4795,12 @@
     "verbo estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "a5606d65b609",
+    "path": "audio/a5606d65b609.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você está",
@@ -4685,7 +4810,12 @@
     "verbo estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "8383ddffd601",
+    "path": "audio/8383ddffd601.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ele está",
@@ -4695,7 +4825,12 @@
     "verbo estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "1cbe38ccfb61",
+    "path": "audio/1cbe38ccfb61.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ela está",
@@ -4705,7 +4840,12 @@
     "verbo estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "e476d23bb0e3",
+    "path": "audio/e476d23bb0e3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós estamos",
@@ -4715,7 +4855,12 @@
     "verbo estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "b9c5b21bf02f",
+    "path": "audio/b9c5b21bf02f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês estão",
@@ -4725,7 +4870,12 @@
     "verbo estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "cde525c0666d",
+    "path": "audio/cde525c0666d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles estão",
@@ -4735,7 +4885,12 @@
     "verbo estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "df4e1c11bc32",
+    "path": "audio/df4e1c11bc32.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "elas estão",
@@ -4745,7 +4900,12 @@
     "verbo estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "6c9bff610d9d",
+    "path": "audio/6c9bff610d9d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "em",
@@ -4755,7 +4915,12 @@
     "preposição em",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "295f9be5c9f3",
+    "path": "audio/295f9be5c9f3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "no",
@@ -4765,7 +4930,12 @@
     "preposição em",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "3db3a11a9a0f",
+    "path": "audio/3db3a11a9a0f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "na",
@@ -4775,7 +4945,12 @@
     "preposição em",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "81412c9204c4",
+    "path": "audio/81412c9204c4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nos",
@@ -4785,7 +4960,12 @@
     "preposição em",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "4e7758172fad",
+    "path": "audio/4e7758172fad.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nas",
@@ -4795,7 +4975,12 @@
     "preposição em",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "216c0afa0d13",
+    "path": "audio/216c0afa0d13.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "em cima",
@@ -4805,7 +4990,12 @@
     "preposição em",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "880f3fea4188",
+    "path": "audio/880f3fea4188.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "embaixo",
@@ -4815,7 +5005,12 @@
     "preposição em",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "20fc1efab0e1",
+    "path": "audio/20fc1efab0e1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "em frente",
@@ -4825,7 +5020,12 @@
     "preposição em",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "e82356931965",
+    "path": "audio/e82356931965.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a bicicleta",
@@ -4835,7 +5035,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "93f45ed5b9ee",
+    "path": "audio/93f45ed5b9ee.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a calçada",
@@ -4845,7 +5050,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "19328108382f",
+    "path": "audio/19328108382f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o lenço",
@@ -4855,7 +5065,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "aba41a950eaa",
+    "path": "audio/aba41a950eaa.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a bolsa",
@@ -4865,7 +5080,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "491e8fb1aa48",
+    "path": "audio/491e8fb1aa48.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a carteira",
@@ -4875,7 +5095,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "c7ea56e50e50",
+    "path": "audio/c7ea56e50e50.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o bolso",
@@ -4885,7 +5110,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "8e6724f6fe0a",
+    "path": "audio/8e6724f6fe0a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o computador",
@@ -4895,7 +5125,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "6a394003985d",
+    "path": "audio/6a394003985d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a escrivaninha",
@@ -4905,7 +5140,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "b41f3b859e0c",
+    "path": "audio/b41f3b859e0c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o endereço",
@@ -4915,7 +5155,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "a48ae2df5f3c",
+    "path": "audio/a48ae2df5f3c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o trabalho",
@@ -4925,7 +5170,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "f6934bb24a0e",
+    "path": "audio/f6934bb24a0e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a fazenda",
@@ -4935,7 +5185,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "e695c27a0fed",
+    "path": "audio/e695c27a0fed.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a prateleira",
@@ -4945,7 +5200,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "c5dca93c992f",
+    "path": "audio/c5dca93c992f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a festa de aniversário",
@@ -4955,7 +5215,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "97d9f0f4a7d8",
+    "path": "audio/97d9f0f4a7d8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o papel",
@@ -4965,7 +5230,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "6c3e58b31c65",
+    "path": "audio/6c3e58b31c65.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "em ordem",
@@ -4975,7 +5245,12 @@
     "objetos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "66b8aaab6364",
+    "path": "audio/66b8aaab6364.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "meu / minha",
@@ -4985,7 +5260,12 @@
     "possessivos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "f75299f6b749",
+    "path": "audio/f75299f6b749.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "meus / minhas",
@@ -4995,7 +5275,12 @@
     "possessivos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "dc9f352d9ae5",
+    "path": "audio/dc9f352d9ae5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "seu / sua",
@@ -5005,7 +5290,12 @@
     "possessivos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "b1b5a07d5061",
+    "path": "audio/b1b5a07d5061.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "seus / suas",
@@ -5015,7 +5305,12 @@
     "possessivos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "072f061e5407",
+    "path": "audio/072f061e5407.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nosso / nossa",
@@ -5025,7 +5320,12 @@
     "possessivos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "b6530a0c7c98",
+    "path": "audio/b6530a0c7c98.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nossos / nossas",
@@ -5035,7 +5335,12 @@
     "possessivos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "26af25544804",
+    "path": "audio/26af25544804.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dele",
@@ -5045,7 +5350,12 @@
     "possessivos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "6ef0e5764f6d",
+    "path": "audio/6ef0e5764f6d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dela",
@@ -5055,7 +5365,12 @@
     "possessivos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "80def7445fc4",
+    "path": "audio/80def7445fc4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "deles",
@@ -5065,7 +5380,12 @@
     "possessivos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "ed281c939603",
+    "path": "audio/ed281c939603.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "delas",
@@ -5075,7 +5395,12 @@
     "possessivos",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "2a6959538fac",
+    "path": "audio/2a6959538fac.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estar com sede",
@@ -5085,7 +5410,12 @@
     "expressões com estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "18d1ab865e5c",
+    "path": "audio/18d1ab865e5c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estar com fome",
@@ -5095,7 +5425,12 @@
     "expressões com estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "b7f4b819bb18",
+    "path": "audio/b7f4b819bb18.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estar com frio",
@@ -5105,7 +5440,12 @@
     "expressões com estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "319970e9849b",
+    "path": "audio/319970e9849b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estar com sono",
@@ -5115,7 +5455,12 @@
     "expressões com estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "e0fe7e8b3760",
+    "path": "audio/e0fe7e8b3760.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estar com calor",
@@ -5125,7 +5470,12 @@
     "expressões com estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "5a5a626a51f0",
+    "path": "audio/5a5a626a51f0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estar com pressa",
@@ -5135,7 +5485,12 @@
     "expressões com estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "344577d47fcb",
+    "path": "audio/344577d47fcb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estar com medo",
@@ -5145,7 +5500,12 @@
     "expressões com estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "197be055637d",
+    "path": "audio/197be055637d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estar com vergonha",
@@ -5155,7 +5515,12 @@
     "expressões com estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "ffa9c15a1079",
+    "path": "audio/ffa9c15a1079.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estar com dor de cabeça",
@@ -5165,7 +5530,12 @@
     "expressões com estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "b53b5d21d41f",
+    "path": "audio/b53b5d21d41f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estar com febre",
@@ -5175,7 +5545,12 @@
     "expressões com estar",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "93c0314a64e7",
+    "path": "audio/93c0314a64e7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "está chovendo",
@@ -5185,7 +5560,12 @@
     "tempo",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "0ab724aa16d5",
+    "path": "audio/0ab724aa16d5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "está ventando",
@@ -5195,7 +5575,12 @@
     "tempo",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "88a53975f746",
+    "path": "audio/88a53975f746.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "está nevando",
@@ -5205,7 +5590,12 @@
     "tempo",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "4524ad7c6d98",
+    "path": "audio/4524ad7c6d98.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "está ensolarado",
@@ -5215,7 +5605,12 @@
     "tempo",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "79d7c2ca3123",
+    "path": "audio/79d7c2ca3123.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "está nublado",
@@ -5225,7 +5620,12 @@
     "tempo",
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "687f6ce2d985",
+    "path": "audio/687f6ce2d985.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "limpo",
@@ -5234,7 +5634,12 @@
    "tags": [
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "65972d88bfd3",
+    "path": "audio/65972d88bfd3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "feliz",
@@ -5243,7 +5648,12 @@
    "tags": [
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "c97d314dbf27",
+    "path": "audio/c97d314dbf27.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "triste",
@@ -5252,7 +5662,12 @@
    "tags": [
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "f90cba73ec68",
+    "path": "audio/f90cba73ec68.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "aí",
@@ -5261,7 +5676,12 @@
    "tags": [
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "b88efa6b4a74",
+    "path": "audio/b88efa6b4a74.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a vovó",
@@ -5270,7 +5690,12 @@
    "tags": [
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "aa0b378887fb",
+    "path": "audio/aa0b378887fb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "querido / querida",
@@ -5279,7 +5704,12 @@
    "tags": [
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "ce7f778ddefd",
+    "path": "audio/ce7f778ddefd.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Acho que…",
@@ -5288,7 +5718,12 @@
    "tags": [
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "a46770139c3e",
+    "path": "audio/a46770139c3e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Que legal!",
@@ -5297,7 +5732,12 @@
    "tags": [
     "lição 4"
    ],
-   "chapterId": "ch-licao-4"
+   "chapterId": "ch-licao-4",
+   "audio": {
+    "key": "e212cc1f4443",
+    "path": "audio/e212cc1f4443.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vermelho",
