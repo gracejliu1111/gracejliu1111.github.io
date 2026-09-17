@@ -358,6 +358,58 @@ a.work-shot:hover img, a.work-shot:focus-visible img { transform: scale(1.025); 
 .skill-row dd { margin: 0; font-size: 0.9375rem; color: var(--ink-soft); }
 @media (max-width: 34rem) { .skill-row { grid-template-columns: minmax(0, 1fr); } }
 
+/* ---------- lifefootprint: map ---------- */
+.tally {
+  display: flex; flex-wrap: wrap; gap: 0 clamp(2rem, 6vw, 4rem);
+  padding-bottom: 1.5rem; margin-bottom: 1.75rem;
+  border-bottom: 1px solid var(--rule-faint);
+}
+.stat { display: grid; gap: 0.1rem; }
+.stat .n {
+  font-family: var(--serif); font-weight: 300;
+  font-size: clamp(2rem, 1.4rem + 2vw, 2.9rem); line-height: 1;
+  letter-spacing: -0.02em; color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+.stat .l {
+  font-family: var(--mono); font-size: 0.625rem;
+  letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted);
+}
+
+.map-body { max-width: none; }
+
+.map-figure { margin: 0 0 2rem; }
+.worldmap { width: 100%; height: auto; display: block; }
+.worldmap .base .c { fill: var(--paper-sunk); stroke: var(--rule); stroke-width: 0.5; }
+.worldmap .marked .visited { fill: var(--accent-wash); stroke: var(--accent); stroke-width: 0.6; }
+.worldmap .marked .lived   { fill: var(--accent); stroke: var(--accent); stroke-width: 0.6; }
+.worldmap .dot.visited { fill: var(--accent-wash); stroke: var(--accent); stroke-width: 1.4; }
+.worldmap .dot.lived   { fill: var(--accent); stroke: var(--paper); stroke-width: 1.2; }
+.worldmap .marked path, .worldmap .dot { transition: opacity 160ms ease; cursor: help; }
+.worldmap .marked:hover path:not(:hover) { opacity: 0.55; }
+@media (prefers-reduced-motion: reduce) {
+  .worldmap .marked path, .worldmap .dot { transition: none; }
+  .worldmap .marked:hover path:not(:hover) { opacity: 1; }
+}
+
+.map-legend {
+  display: flex; flex-wrap: wrap; gap: 0.5rem 1.4rem; align-items: center;
+  margin-top: 0.9rem;
+}
+.map-legend span {
+  font-family: var(--mono); font-size: 0.625rem;
+  letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted);
+  display: inline-flex; align-items: center; gap: 0.45rem;
+}
+.map-legend .hint { margin-left: auto; text-transform: none; letter-spacing: 0.04em; }
+@media (max-width: 34rem) { .map-legend .hint { display: none; } }
+.key { width: 13px; height: 13px; display: inline-block; border: 1px solid var(--accent); }
+.key.visited { background: var(--accent-wash); }
+.key.lived { background: var(--accent); }
+
+.country-ledger .org { font-style: normal; line-height: 1.7; }
+.country-ledger .when { font-size: 0.875rem; color: var(--accent); }
+
 /* ---------- contact ---------- */
 .contact-grid {
   display: grid;
