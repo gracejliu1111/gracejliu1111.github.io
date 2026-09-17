@@ -22,7 +22,9 @@
   --mono:  "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
 
   --measure: 34rem;
-  --col: 46rem;
+  --body: 44rem;
+  --col: 72rem;
+  --rail: 9rem;
   --pad: clamp(1.25rem, 5vw, 3.5rem);
 }
 
@@ -137,13 +139,26 @@ nav a:hover, nav a:focus-visible, nav a[aria-current="page"] {
 @media (prefers-reduced-motion: reduce) { nav a { transition: none; } }
 
 /* ---------- section headings ---------- */
-.section-head {
-  display: flex;
-  align-items: baseline;
-  gap: 1rem;
-  margin-bottom: clamp(1.6rem, 3.5vw, 2.25rem);
+/* two-column ledger: label in the left rail, content to the right */
+.band-grid > .wrap {
+  display: grid;
+  grid-template-columns: var(--rail) minmax(0, 1fr);
+  gap: 0 clamp(1.75rem, 4vw, 4rem);
+  align-items: start;
 }
-.section-head::after { content: ""; flex: 1; height: 1px; background: var(--rule); }
+.rail { position: sticky; top: 1.75rem; }
+.section-body { max-width: var(--body); min-width: 0; }
+
+@media (max-width: 62rem) {
+  .band-grid > .wrap { grid-template-columns: minmax(0, 1fr); }
+  .rail {
+    position: static;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.65rem;
+    margin-bottom: clamp(1.4rem, 3vw, 2rem);
+  }
+  .section-body { max-width: none; }
+}
 
 h2 {
   font-family: var(--mono);
@@ -179,11 +194,11 @@ h2 {
 h1 {
   font-family: var(--serif);
   font-weight: 300;
-  font-size: clamp(1.75rem, 1.2rem + 2.3vw, 2.75rem);
-  line-height: 1.18;
+  font-size: clamp(1.8rem, 1.2rem + 2.5vw, 3.05rem);
+  line-height: 1.16;
   letter-spacing: -0.015em;
   margin: 0;
-  max-width: 22ch;
+  max-width: 20ch;
   text-wrap: balance;
 }
 .zto {
@@ -413,6 +428,8 @@ button:hover { background: var(--accent-ink); border-color: var(--accent-ink); }
   .topbar, .colophon, .no-print { display: none !important; }
   body { font-size: 10.5pt; line-height: 1.42; }
   .band { border-top: 0; }
+  .band-grid > .wrap { display: block; }
+  .rail { position: static; border-bottom: 1px solid var(--rule); margin-bottom: 0.4rem; }
   .band > .wrap { padding-block: 0 0.9rem; max-width: none; padding-inline: 0; }
   .entry { break-inside: avoid; padding-block: 0.6rem; }
   .entry li { font-size: 10pt; }
