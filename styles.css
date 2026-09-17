@@ -209,6 +209,27 @@ h1 {
   letter-spacing: -0.02em;
 }
 
+/* ---------- hero at-a-glance ---------- */
+.hero-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 17rem);
+  gap: clamp(1.75rem, 4.5vw, 4.5rem);
+  align-items: start;
+}
+.hero-facts { padding-top: 0.75rem; }
+.hero-facts .v { line-height: 1.5; }
+.hero-facts .v.stack { display: grid; gap: 0.3rem; justify-items: start; }
+.hero-facts .zto { font-size: 0.9em; }
+
+@media (max-width: 62rem) {
+  .hero-grid { grid-template-columns: minmax(0, 1fr); }
+  .hero-facts {
+    border-top: 1px solid var(--rule);
+    padding-top: clamp(1.4rem, 3vw, 1.9rem);
+    margin-top: 0.5rem;
+  }
+}
+
 /* ---------- prose ---------- */
 .prose { display: grid; gap: 1.05rem; }
 .prose p { margin: 0; color: var(--ink-soft); }
@@ -426,6 +447,7 @@ button:hover { background: var(--accent-ink); border-color: var(--accent-ink); }
     --accent: #000000; --accent-ink: #000000;
   }
   .topbar, .colophon, .no-print { display: none !important; }
+  .hero-grid { display: block; }
   body { font-size: 10.5pt; line-height: 1.42; }
   .band { border-top: 0; }
   .band-grid > .wrap { display: block; }
