@@ -1,6 +1,6 @@
 {
- "version": 12,
- "note": "Lição 4 com áudio — 88 gravações novas do Fred.",
+ "version": 13,
+ "note": "Lição 5 com áudio — 73 gravações novas do Fred.",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -5747,7 +5747,12 @@
     "cores",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "dabfe00aea9e",
+    "path": "audio/dabfe00aea9e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "amarelo",
@@ -5757,7 +5762,12 @@
     "cores",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "0f7cef49c67b",
+    "path": "audio/0f7cef49c67b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "azul",
@@ -5767,7 +5777,12 @@
     "cores",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "a509555aca92",
+    "path": "audio/a509555aca92.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "verde",
@@ -5777,7 +5792,12 @@
     "cores",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "d51b62f90c82",
+    "path": "audio/d51b62f90c82.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "cor-de-rosa",
@@ -5787,7 +5807,12 @@
     "cores",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "6f940ae1edf9",
+    "path": "audio/6f940ae1edf9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "laranja",
@@ -5797,7 +5822,12 @@
     "cores",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "0ce82d7d9e2e",
+    "path": "audio/0ce82d7d9e2e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "preto",
@@ -5807,7 +5837,12 @@
     "cores",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "d7cbd243629a",
+    "path": "audio/d7cbd243629a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "branco",
@@ -5817,7 +5852,12 @@
     "cores",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "aca32318398c",
+    "path": "audio/aca32318398c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "marrom",
@@ -5827,7 +5867,12 @@
     "cores",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "87afe1bb6970",
+    "path": "audio/87afe1bb6970.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "cinza",
@@ -5837,7 +5882,12 @@
     "cores",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "7df1df4b7882",
+    "path": "audio/7df1df4b7882.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "roxo",
@@ -5847,7 +5897,12 @@
     "cores",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "a9e685880578",
+    "path": "audio/a9e685880578.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o tomate",
@@ -5857,7 +5912,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "b97b6710b9db",
+    "path": "audio/b97b6710b9db.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a banana",
@@ -5867,7 +5927,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "c4ad2b99b1c5",
+    "path": "audio/c4ad2b99b1c5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o céu",
@@ -5877,7 +5942,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "4bc002c13f6d",
+    "path": "audio/4bc002c13f6d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o mar",
@@ -5887,7 +5957,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "6c98c7e23129",
+    "path": "audio/6c98c7e23129.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o pássaro",
@@ -5897,7 +5972,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "04d0695e2412",
+    "path": "audio/04d0695e2412.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a cadeira",
@@ -5907,7 +5987,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "21255e31f98e",
+    "path": "audio/21255e31f98e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o filme",
@@ -5917,7 +6002,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "0edd1383e95f",
+    "path": "audio/0edd1383e95f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cavalo",
@@ -5927,7 +6017,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "37bc51578904",
+    "path": "audio/37bc51578904.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o portão",
@@ -5937,7 +6032,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "c4b0007ce0af",
+    "path": "audio/c4b0007ce0af.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a camiseta",
@@ -5947,7 +6047,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "6567538313ed",
+    "path": "audio/6567538313ed.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o casaco",
@@ -5957,7 +6062,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "6c88522edafb",
+    "path": "audio/6c88522edafb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a cidade",
@@ -5967,7 +6077,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "1f7fcf8032f0",
+    "path": "audio/1f7fcf8032f0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "os óculos",
@@ -5977,7 +6092,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "5cfa90dfffef",
+    "path": "audio/5cfa90dfffef.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a montanha",
@@ -5987,7 +6107,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "28f3170f8e7e",
+    "path": "audio/28f3170f8e7e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o país",
@@ -5997,7 +6122,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "b849d8bab82b",
+    "path": "audio/b849d8bab82b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o prédio",
@@ -6007,7 +6137,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "929bafc6e0bf",
+    "path": "audio/929bafc6e0bf.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o sofá",
@@ -6017,7 +6152,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "bea79e97da77",
+    "path": "audio/bea79e97da77.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o aluno",
@@ -6027,7 +6167,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "cde8c641c84f",
+    "path": "audio/cde8c641c84f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "as férias",
@@ -6037,7 +6182,12 @@
     "substantivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "90f8dae7e691",
+    "path": "audio/90f8dae7e691.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "pequeno",
@@ -6047,7 +6197,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "b4bedf9915fa",
+    "path": "audio/b4bedf9915fa.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "grande",
@@ -6057,7 +6212,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "8e5ce993f37f",
+    "path": "audio/8e5ce993f37f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "jovem",
@@ -6067,7 +6227,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "7b0c259cb594",
+    "path": "audio/7b0c259cb594.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "bom",
@@ -6077,7 +6242,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "6ea0ae9c104e",
+    "path": "audio/6ea0ae9c104e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "mau",
@@ -6087,7 +6257,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "3a2b93ddeb3c",
+    "path": "audio/3a2b93ddeb3c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ruim",
@@ -6097,7 +6272,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "4e10b2d61c43",
+    "path": "audio/4e10b2d61c43.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "magro",
@@ -6107,7 +6287,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "b1f3a93bb07e",
+    "path": "audio/b1f3a93bb07e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "baixo",
@@ -6117,7 +6302,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "bfa1ee2eab0e",
+    "path": "audio/bfa1ee2eab0e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "alto",
@@ -6127,7 +6317,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "f68a06ad1ae9",
+    "path": "audio/f68a06ad1ae9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "forte",
@@ -6137,7 +6332,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "40ecda95a620",
+    "path": "audio/40ecda95a620.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "novo",
@@ -6147,7 +6347,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "3adcfdd7a66a",
+    "path": "audio/3adcfdd7a66a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "velho",
@@ -6157,7 +6362,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "b5e271f4272f",
+    "path": "audio/b5e271f4272f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "moderno",
@@ -6167,7 +6377,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "f17c6a8f3818",
+    "path": "audio/f17c6a8f3818.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "bonito",
@@ -6177,7 +6392,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "05f429da5165",
+    "path": "audio/05f429da5165.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "confortável",
@@ -6187,7 +6407,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "30d6c6204bed",
+    "path": "audio/30d6c6204bed.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "médio",
@@ -6197,7 +6422,12 @@
     "adjetivos",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "b774f9ceb358",
+    "path": "audio/b774f9ceb358.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ser",
@@ -6207,7 +6437,12 @@
     "verbo ser",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "e605a73eeeb7",
+    "path": "audio/e605a73eeeb7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu sou",
@@ -6217,7 +6452,12 @@
     "verbo ser",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "b3b48ff4fc44",
+    "path": "audio/b3b48ff4fc44.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você é",
@@ -6227,7 +6467,12 @@
     "verbo ser",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "5ebff06618d0",
+    "path": "audio/5ebff06618d0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ele é",
@@ -6237,7 +6482,12 @@
     "verbo ser",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "8606c20ad0b5",
+    "path": "audio/8606c20ad0b5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ela é",
@@ -6247,7 +6497,12 @@
     "verbo ser",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "82dcf8c679e9",
+    "path": "audio/82dcf8c679e9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós somos",
@@ -6257,7 +6512,12 @@
     "verbo ser",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "f6ea9f98ec67",
+    "path": "audio/f6ea9f98ec67.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês são",
@@ -6267,7 +6527,12 @@
     "verbo ser",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "00369fcdcdbf",
+    "path": "audio/00369fcdcdbf.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles são",
@@ -6277,7 +6542,12 @@
     "verbo ser",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "4ee7cf084384",
+    "path": "audio/4ee7cf084384.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "elas são",
@@ -6287,7 +6557,12 @@
     "verbo ser",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "d784644f564c",
+    "path": "audio/d784644f564c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "de",
@@ -6297,7 +6572,12 @@
     "preposição de",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "25f8e2112bf1",
+    "path": "audio/25f8e2112bf1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "do",
@@ -6307,7 +6587,12 @@
     "preposição de",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "f41a0ac8196b",
+    "path": "audio/f41a0ac8196b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "da",
@@ -6317,7 +6602,12 @@
     "preposição de",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "5aab3fa45c51",
+    "path": "audio/5aab3fa45c51.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dos",
@@ -6327,7 +6617,12 @@
     "preposição de",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "c1cc345e6b7a",
+    "path": "audio/c1cc345e6b7a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "das",
@@ -6337,7 +6632,12 @@
     "preposição de",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "bd01a3e37d73",
+    "path": "audio/bd01a3e37d73.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "brasileiro",
@@ -6347,7 +6647,12 @@
     "nacionalidades",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "fc12015cb48d",
+    "path": "audio/fc12015cb48d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "americano",
@@ -6357,7 +6662,12 @@
     "nacionalidades",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "6064b8888cde",
+    "path": "audio/6064b8888cde.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "australiano",
@@ -6367,7 +6677,12 @@
     "nacionalidades",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "85b20de30342",
+    "path": "audio/85b20de30342.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "alemão",
@@ -6377,7 +6692,12 @@
     "nacionalidades",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "5de5c94232ad",
+    "path": "audio/5de5c94232ad.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "japonês",
@@ -6387,7 +6707,12 @@
     "nacionalidades",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "f5f92d4df6a8",
+    "path": "audio/f5f92d4df6a8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "argentino",
@@ -6397,7 +6722,12 @@
     "nacionalidades",
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "84da4d44a8d3",
+    "path": "audio/84da4d44a8d3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "muito",
@@ -6406,7 +6736,12 @@
    "tags": [
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "25f03b066936",
+    "path": "audio/25f03b066936.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "como",
@@ -6415,7 +6750,12 @@
    "tags": [
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "f163ecb861d6",
+    "path": "audio/f163ecb861d6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o oeste",
@@ -6424,7 +6764,12 @@
    "tags": [
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "943d9bc5a43d",
+    "path": "audio/943d9bc5a43d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "os Estados Unidos",
@@ -6433,7 +6778,12 @@
    "tags": [
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "c7b16bd56614",
+    "path": "audio/c7b16bd56614.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o arquiteto",
@@ -6442,7 +6792,12 @@
    "tags": [
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "0950bcd5d2ef",
+    "path": "audio/0950bcd5d2ef.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Fantástico!",
@@ -6451,7 +6806,12 @@
    "tags": [
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "70d6a2125d05",
+    "path": "audio/70d6a2125d05.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Excelente!",
@@ -6460,7 +6820,12 @@
    "tags": [
     "lição 5"
    ],
-   "chapterId": "ch-licao-5"
+   "chapterId": "ch-licao-5",
+   "audio": {
+    "key": "40292f6025fb",
+    "path": "audio/40292f6025fb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o bar",
