@@ -1,6 +1,6 @@
 {
- "version": 13,
- "note": "Lição 5 com áudio — 73 gravações novas do Fred.",
+ "version": 14,
+ "note": "Lição 6 com áudio — 79 gravações novas do Fred.",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -6835,7 +6835,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "98e21afec2fa",
+    "path": "audio/98e21afec2fa.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o hospital",
@@ -6845,7 +6850,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "d26d60a188bd",
+    "path": "audio/d26d60a188bd.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a delegacia de polícia",
@@ -6855,7 +6865,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "02d7b9d3361c",
+    "path": "audio/02d7b9d3361c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o pronto socorro",
@@ -6865,7 +6880,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "7f4047186e38",
+    "path": "audio/7f4047186e38.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a biblioteca",
@@ -6875,7 +6895,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "98908cc584f7",
+    "path": "audio/98908cc584f7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o shopping center",
@@ -6885,7 +6910,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "a2c19315cfb7",
+    "path": "audio/a2c19315cfb7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o estacionamento",
@@ -6895,7 +6925,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "1a2811097d81",
+    "path": "audio/1a2811097d81.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a padaria",
@@ -6905,7 +6940,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "9b2262dace48",
+    "path": "audio/9b2262dace48.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o correio",
@@ -6915,7 +6955,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "487b62e2389a",
+    "path": "audio/487b62e2389a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o caixa eletrônico",
@@ -6925,7 +6970,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "0ee455005cb9",
+    "path": "audio/0ee455005cb9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a estação rodoviária",
@@ -6935,7 +6985,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "10dc774becf7",
+    "path": "audio/10dc774becf7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o ponto de táxi",
@@ -6945,7 +7000,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "9242e963ee75",
+    "path": "audio/9242e963ee75.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o metrô",
@@ -6955,7 +7015,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "1b067d530400",
+    "path": "audio/1b067d530400.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a bilheteria",
@@ -6965,7 +7030,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "5555d6f9ff53",
+    "path": "audio/5555d6f9ff53.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o museu de arte",
@@ -6975,7 +7045,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "79f512c4dd9a",
+    "path": "audio/79f512c4dd9a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o supermercado",
@@ -6985,7 +7060,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "55504d0f938a",
+    "path": "audio/55504d0f938a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a banca de jornais",
@@ -6995,7 +7075,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "696c6c18df67",
+    "path": "audio/696c6c18df67.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a praça",
@@ -7005,7 +7090,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "d77c0af5c2b2",
+    "path": "audio/d77c0af5c2b2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a loja de sapatos",
@@ -7015,7 +7105,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "98f53bcb459a",
+    "path": "audio/98f53bcb459a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o elevador",
@@ -7025,7 +7120,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "358c4ddb4701",
+    "path": "audio/358c4ddb4701.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o aeroporto",
@@ -7035,7 +7135,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "94b03b19431a",
+    "path": "audio/94b03b19431a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a embaixada",
@@ -7045,7 +7150,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "6c782fa22cb6",
+    "path": "audio/6c782fa22cb6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o posto de gasolina",
@@ -7055,7 +7165,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "dc3c5444eabb",
+    "path": "audio/dc3c5444eabb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o semáforo",
@@ -7065,7 +7180,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "bf182af8b24c",
+    "path": "audio/bf182af8b24c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o chefe",
@@ -7075,7 +7195,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "b9fcffc822eb",
+    "path": "audio/b9fcffc822eb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a farmácia",
@@ -7085,7 +7210,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "737da8321e61",
+    "path": "audio/737da8321e61.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a escada rolante",
@@ -7095,7 +7225,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "5945e076e0de",
+    "path": "audio/5945e076e0de.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o andar",
@@ -7105,7 +7240,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "dbf21256fd7c",
+    "path": "audio/dbf21256fd7c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a quadra",
@@ -7115,7 +7255,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "a8ae887b3e58",
+    "path": "audio/a8ae887b3e58.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o quarteirão",
@@ -7125,7 +7270,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "ad51d4ea688e",
+    "path": "audio/ad51d4ea688e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o ônibus",
@@ -7135,7 +7285,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "56301cbcb8f3",
+    "path": "audio/56301cbcb8f3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a igreja",
@@ -7145,7 +7300,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "68cb563a8969",
+    "path": "audio/68cb563a8969.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a sinagoga",
@@ -7155,7 +7315,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "07e66dbfd6e6",
+    "path": "audio/07e66dbfd6e6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a mesquita",
@@ -7165,7 +7330,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "8c9d394eb716",
+    "path": "audio/8c9d394eb716.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o templo",
@@ -7175,7 +7345,12 @@
     "na cidade",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "9c1e81336ec6",
+    "path": "audio/9c1e81336ec6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "aberto",
@@ -7185,7 +7360,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "2d5b5fa0be60",
+    "path": "audio/2d5b5fa0be60.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "fechado",
@@ -7195,7 +7375,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "cad90690895e",
+    "path": "audio/cad90690895e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "perto",
@@ -7205,7 +7390,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "6ee84b5aadad",
+    "path": "audio/6ee84b5aadad.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "longe",
@@ -7215,7 +7405,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "35156deddc69",
+    "path": "audio/35156deddc69.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "perto daqui",
@@ -7225,7 +7420,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "39b5ac7d696b",
+    "path": "audio/39b5ac7d696b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "na esquina",
@@ -7235,7 +7435,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "f5fdecd9da0e",
+    "path": "audio/f5fdecd9da0e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "no meio da quadra",
@@ -7245,7 +7450,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "bc3121f5d726",
+    "path": "audio/bc3121f5d726.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ao lado de",
@@ -7255,7 +7465,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "56e99a3d98d7",
+    "path": "audio/56e99a3d98d7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "em frente a",
@@ -7265,7 +7480,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "8682f01cd6b1",
+    "path": "audio/8682f01cd6b1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "à direita",
@@ -7275,7 +7495,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "a496ba1f0c5a",
+    "path": "audio/a496ba1f0c5a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "à esquerda",
@@ -7285,7 +7510,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "47bcf7ffb653",
+    "path": "audio/47bcf7ffb653.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "no próximo quarteirão",
@@ -7295,7 +7525,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "5bed1d24d4ef",
+    "path": "audio/5bed1d24d4ef.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vire",
@@ -7305,7 +7540,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "1ef09e6b8ab1",
+    "path": "audio/1ef09e6b8ab1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o caminho",
@@ -7315,7 +7555,12 @@
     "direções",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "0390f31cbe5d",
+    "path": "audio/0390f31cbe5d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "primeiro",
@@ -7325,7 +7570,12 @@
     "ordinais",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "14c5820a2d86",
+    "path": "audio/14c5820a2d86.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "segundo",
@@ -7335,7 +7585,12 @@
     "ordinais",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "7947e3ce9540",
+    "path": "audio/7947e3ce9540.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "terceiro",
@@ -7345,7 +7600,12 @@
     "ordinais",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "d9fe353b9688",
+    "path": "audio/d9fe353b9688.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "quarto",
@@ -7355,7 +7615,12 @@
     "ordinais",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "e6671012d00b",
+    "path": "audio/e6671012d00b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "quinto",
@@ -7365,7 +7630,12 @@
     "ordinais",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "85c895877ddb",
+    "path": "audio/85c895877ddb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "sexto",
@@ -7375,7 +7645,12 @@
     "ordinais",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "22bd216b1e91",
+    "path": "audio/22bd216b1e91.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "sétimo",
@@ -7385,7 +7660,12 @@
     "ordinais",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "62bdbfb5ad8c",
+    "path": "audio/62bdbfb5ad8c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "oitavo",
@@ -7395,7 +7675,12 @@
     "ordinais",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "dfb8d1c94d88",
+    "path": "audio/dfb8d1c94d88.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nono",
@@ -7405,7 +7690,12 @@
     "ordinais",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "e1b9646c9d75",
+    "path": "audio/e1b9646c9d75.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "décimo",
@@ -7415,7 +7705,12 @@
     "ordinais",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "b98be676d45a",
+    "path": "audio/b98be676d45a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "onde",
@@ -7425,7 +7720,12 @@
     "perguntas",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "c2b78a377c66",
+    "path": "audio/c2b78a377c66.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "quem",
@@ -7435,7 +7735,12 @@
     "perguntas",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "9031e32d1b28",
+    "path": "audio/9031e32d1b28.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "qual",
@@ -7445,7 +7750,12 @@
     "perguntas",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "5b6b708dbbc7",
+    "path": "audio/5b6b708dbbc7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "que",
@@ -7455,7 +7765,12 @@
     "perguntas",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "5744b5527c5e",
+    "path": "audio/5744b5527c5e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o que",
@@ -7465,7 +7780,12 @@
     "perguntas",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "59caf4d2df2e",
+    "path": "audio/59caf4d2df2e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "quando",
@@ -7475,7 +7795,12 @@
     "perguntas",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "9cef7c08a184",
+    "path": "audio/9cef7c08a184.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "quantas vezes",
@@ -7485,7 +7810,12 @@
     "perguntas",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "4b5c9f515639",
+    "path": "audio/4b5c9f515639.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "por que",
@@ -7495,7 +7825,12 @@
     "perguntas",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "1c58c9d4498d",
+    "path": "audio/1c58c9d4498d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "porque",
@@ -7505,7 +7840,12 @@
     "perguntas",
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "0b21203e8c00",
+    "path": "audio/0b21203e8c00.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a avenida",
@@ -7514,7 +7854,12 @@
    "tags": [
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "c338d86fb4fc",
+    "path": "audio/c338d86fb4fc.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a alameda",
@@ -7523,7 +7868,12 @@
    "tags": [
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "a71bc8488418",
+    "path": "audio/a71bc8488418.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a estrada",
@@ -7532,7 +7882,12 @@
    "tags": [
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "2c5c7ba9d455",
+    "path": "audio/2c5c7ba9d455.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a rodovia",
@@ -7541,7 +7896,12 @@
    "tags": [
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "60008b261a56",
+    "path": "audio/60008b261a56.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o CEP",
@@ -7550,7 +7910,12 @@
    "tags": [
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "c5bda4b37b76",
+    "path": "audio/c5bda4b37b76.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o feriado",
@@ -7559,7 +7924,12 @@
    "tags": [
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "2a54f8c7e3f2",
+    "path": "audio/2a54f8c7e3f2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o herói",
@@ -7568,7 +7938,12 @@
    "tags": [
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "f712fc7f6c84",
+    "path": "audio/f712fc7f6c84.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "hoje",
@@ -7577,7 +7952,12 @@
    "tags": [
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "16c780cedbc2",
+    "path": "audio/16c780cedbc2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o despertador",
@@ -7586,7 +7966,12 @@
    "tags": [
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "7c7679b1ff28",
+    "path": "audio/7c7679b1ff28.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "acordar",
@@ -7595,7 +7980,12 @@
    "tags": [
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "64b6fe6787ca",
+    "path": "audio/64b6fe6787ca.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "mais uma pergunta",
@@ -7604,7 +7994,12 @@
    "tags": [
     "lição 6"
    ],
-   "chapterId": "ch-licao-6"
+   "chapterId": "ch-licao-6",
+   "audio": {
+    "key": "3b548ac4d46d",
+    "path": "audio/3b548ac4d46d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "falar",
