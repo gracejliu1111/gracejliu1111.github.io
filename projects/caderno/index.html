@@ -400,8 +400,8 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
 .cjtools{display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; margin-top:10px}
 .cjtools .accents{justify-content:flex-start; margin:0}
 .cjtoggle{display:flex; align-items:center; gap:7px; font-size:13px; color:var(--ink-2); cursor:pointer}
-#cjRecent{display:flex; gap:6px; flex-wrap:wrap; align-items:center; margin:12px 0 0}
-#cjRecent:empty{display:none}
+#cjRecent,#trRecent{display:flex; gap:6px; flex-wrap:wrap; align-items:center; margin:12px 0 0}
+#cjRecent:empty,#trRecent:empty{display:none}
 .cjchips{display:flex; flex-wrap:wrap; gap:6px}
 .cjchip{font-family:var(--serif); font-size:15.5px; background:var(--surface-2); border:1px solid var(--line); border-radius:999px; padding:3px 12px; cursor:pointer; color:var(--ink)}
 .cjchip:hover{border-color:var(--accent); background:var(--accent-soft); color:var(--accent-ink)}
@@ -434,6 +434,30 @@ span.cjirr{font-family:var(--serif)}
 .cjhit td{background:var(--amber-soft)}
 .cjhit .cjf{color:var(--amber); font-weight:600}
 
+/* traduzir */
+.trbar{display:flex; align-items:center; gap:10px; margin-bottom:10px; font-size:12px; letter-spacing:.09em; text-transform:uppercase; font-weight:700; color:var(--ink-3)}
+.trbar .swap{border:1px solid var(--line-strong); background:var(--surface); border-radius:999px; width:30px; height:26px; cursor:pointer; color:var(--ink-2); font-size:14px; line-height:1}
+.trbar .swap:hover{border-color:var(--accent); color:var(--accent-ink); background:var(--accent-soft)}
+#trIn{min-height:64px; font-size:18px; resize:vertical}
+#trIn.pt{font-family:var(--serif)}
+.trmain{padding:20px 22px; margin-bottom:6px}
+.trbest{font-size:27px; line-height:1.25; margin-top:6px}
+.trbest.pt,.tralt1 .pt,.trpt{font-family:var(--serif)}
+.trwait{color:var(--ink-3); margin-top:8px}
+.trerr{color:var(--clay); margin-top:8px; font-size:14px}
+.tralt{margin-top:16px; padding-top:12px; border-top:1px solid var(--line); display:flex; flex-direction:column; gap:4px}
+.tralt1{display:flex; align-items:center; gap:8px; font-size:16.5px}
+.trfoot{display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap; align-items:baseline; margin-top:16px; padding-top:12px; border-top:1px solid var(--line); font-size:13px}
+.trfoot a{color:var(--accent-ink); font-weight:600; text-decoration:none}
+.trfoot a:hover{text-decoration:underline}
+.trsec{margin-top:22px}
+.trlist{display:flex; flex-direction:column; gap:6px}
+.trrow{display:grid; grid-template-columns:32px minmax(0,15rem) minmax(0,1fr) minmax(0,14rem) 76px; gap:14px; align-items:center; background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:9px 14px}
+.trpt{font-size:18px}
+.tren{font-size:14px; color:var(--ink-2)}
+.trch{font-size:12px; color:var(--ink-3); overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+@media (max-width:700px){ .trrow{grid-template-columns:32px 1fr auto} .trrow .tren{grid-column:2/4} .trrow .trch{display:none} }
+
 @media (max-width:900px){
   .app{grid-template-columns:1fr}
   .rail{position:static; height:auto; flex-direction:row; flex-wrap:wrap; align-items:center; border-right:none; border-bottom:1px solid var(--line)}
@@ -456,6 +480,7 @@ span.cjirr{font-family:var(--serif)}
     <button class="navbtn" data-go="alfabeto"><span><span class="pt">Alfabeto</span><span class="en">The alphabet</span></span></button>
     <button class="navbtn" data-go="praticar"><span><span class="pt">Praticar</span><span class="en">Practice</span></span><span class="count" id="dueBadge" hidden>0</span></button>
     <button class="navbtn" data-go="vocab"><span><span class="pt">Vocabulário</span><span class="en">All words</span></span></button>
+    <button class="navbtn" data-go="traduzir"><span><span class="pt">Traduzir</span><span class="en">Translate</span></span></button>
     <button class="navbtn" data-go="verbos"><span><span class="pt">Verbos</span><span class="en">Conjugations</span></span></button>
     <button class="navbtn" data-go="progresso"><span><span class="pt">Progresso</span><span class="en">Progress &amp; log</span></span></button>
     <button class="navbtn" data-go="ajustes"><span><span class="pt">Ajustes</span><span class="en">Settings</span></span></button>
@@ -565,6 +590,23 @@ span.cjirr{font-family:var(--serif)}
         <button class="btn tiny ghost" id="copyMissing">Copy audio wishlist</button>
       </div>
       <div class="vlist" id="vList"></div>
+    </section>
+
+    <!-- ========== TRADUZIR ========== -->
+    <section class="view" id="v-traduzir">
+      <div class="viewhead">
+        <div><div class="kicker">English ⇄ Português</div><h2>Traduzir</h2></div>
+      </div>
+      <div class="card" style="margin-bottom:16px">
+        <div class="trbar"><span id="trFrom">English</span><button class="swap" id="trSwap" title="Swap direction" aria-label="Swap direction">⇄</button><span id="trTo">Português</span></div>
+        <textarea id="trIn" rows="2" maxlength="450" autocapitalize="off" spellcheck="true" aria-label="Text to translate"></textarea>
+        <div class="cjtools">
+          <div class="accents"><button data-tracc="á">á</button><button data-tracc="â">â</button><button data-tracc="ã">ã</button><button data-tracc="à">à</button><button data-tracc="é">é</button><button data-tracc="ê">ê</button><button data-tracc="í">í</button><button data-tracc="ó">ó</button><button data-tracc="ô">ô</button><button data-tracc="õ">õ</button><button data-tracc="ú">ú</button><button data-tracc="ç">ç</button></div>
+          <button class="btn primary" id="trGo">Traduzir</button>
+        </div>
+        <div id="trRecent" class="cjrecent"></div>
+      </div>
+      <div id="trOut"></div>
     </section>
 
     <!-- ========== VERBOS ========== -->
@@ -717,7 +759,7 @@ span.cjirr{font-family:var(--serif)}
 (function(){
 "use strict";
 
-var BUILD="20261008-193000";
+var BUILD="20261008-200500";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -908,6 +950,7 @@ function go(name){
   if(name==="progresso") renderProgress();
   if(name==="praticar") renderQuizSetup();
   if(name==="vocab") renderVocab();
+  if(name==="traduzir"){ renderTraduzir(); setTimeout(function(){ var i=$("trIn"); if(i&&!i.value) i.focus(); },0); }
   if(name==="verbos"){ renderVerbos(); setTimeout(function(){ var i=$("cjIn"); if(i&&!cjQuery) i.focus(); },0); }
   window.scrollTo(0,0);
 }
@@ -3160,6 +3203,195 @@ document.addEventListener("click",function(e){
   var b=e.target.closest("[data-conj]"); if(!b) return;
   go("verbos"); $("cjIn").value=b.dataset.conj; cjLookup(b.dataset.conj);
 });
+
+/* ---------- TRADUZIR (translate) ----------
+   Two sources, shown in this order:
+   1. her own vocabulary — instant, offline, with the book's gloss and Fred's audio;
+   2. MyMemory (api.mymemory.translated.net) — free, no key, CORS-enabled, ~5,000 chars/day
+      per browser. Its first answer is often a stray translation-memory hit for single words
+      ("apple" → a paper spec), so matches are grouped by text and voted on; for sentences the
+      machine-translation match wins when there is one.                                       */
+var trDir="en", trLast=null, trBusy=0;
+var TR_STOP={a:1,an:1,the:1,to:1,of:1,"in":1,on:1,at:1,and:1,or:1,is:1,it:1,be:1,o:1,os:1,as:1,e:1,de:1,da:1,"do":1,um:1,uma:1,em:1,que:1,se:1,no:1,na:1};
+/* common little words: only matched when they are the whole query, never inside a sentence */
+var TR_SOFT={};
+("like for as so but with by from about i you he she we they me my your his her our their this that these those would will do does did have has had can could not no yes all some here there "+
+ "what when where who how why very too also just only up out over then than now well good").split(" ").forEach(function(w){ TR_SOFT[w]=1; });
+("com por para mas como eu ele ela nós eles elas meu minha seu sua isso isto aqui ali muito também já só bem bom então mais menos quando onde quem sim não").split(" ").forEach(function(w){ TR_SOFT[w]=1; });
+function trPrefs(){ try{ return JSON.parse(localStorage.getItem("caderno-traduzir")||"{}")||{}; }catch(e){ return {}; } }
+function trSavePrefs(p){ try{ localStorage.setItem("caderno-traduzir",JSON.stringify(p)); }catch(e){} }
+function trClean(s){ return fold(s).replace(/[“”"«»¿¡!?.,;:()\[\]…]/g," ").replace(/\s+/g," ").trim(); }
+function trGlosses(text, side){
+  return String(text||"").split(/[\/;,]| or | ou /).map(function(g){
+    g=trClean(g.replace(/\(.*?\)/g,""));
+    if(side==="en") g=g.replace(/^(to|the|a|an) /,"");
+    else g=g.replace(/^(o|a|os|as|um|uma) /,"");
+    return g;
+  }).filter(function(g){ return g.length>1 && !TR_STOP[g]; });
+}
+
+/* vocabulary words whose gloss (en→pt) or Portuguese (pt→en) appears in what she typed */
+function trFromVocab(q, dir){
+  var hay=" "+trClean(q)+" ", one=trClean(q).replace(/^(to|the|a|an|o|a|os|as) /,"");
+  var hits=[];
+  studyVocab().forEach(function(w){
+    var gs=trGlosses(dir==="en"?w.en:w.pt, dir), best=0;
+    gs.forEach(function(g){
+      if(g===one) best=Math.max(best,1000+g.length);
+      else if(!TR_SOFT[g] && hay.indexOf(" "+g+" ")>=0) best=Math.max(best,g.length);
+    });
+    if(best) hits.push({w:w, s:best});
+  });
+  hits.sort(function(a,b){ return b.s-a.s; });
+  var seen={}; return hits.filter(function(h){ var k=fold(h.w.pt); if(seen[k]) return false; seen[k]=1; return true; }).slice(0,10);
+}
+
+function trDecode(s){ var t=document.createElement("textarea"); t.innerHTML=String(s||""); t.innerHTML=t.value; return t.value.replace(/ /g," ").replace(/^[\s\-–—]+/,"").trim(); }
+function trPick(data, q){
+  var ms=(data.matches||[]).map(function(m){
+    return {t:trDecode(m.translation), q:+m.quality||0, m:+m.match||0, mt:m["created-by"]==="MT!"};
+  }).filter(function(m){ return m.t && fold(m.t)!==fold(q) && (/\d/.test(q) || !/\d/.test(m.t)); });
+  var top=trDecode(data.responseData && data.responseData.translatedText);
+  if(top && !ms.some(function(m){ return m.t===top; }) && fold(top)!==fold(q) && (/\d/.test(q) || !/\d/.test(top))) ms.push({t:top,q:50,m:.5,mt:false});
+  var groups={}, order=[];
+  ms.forEach(function(m){
+    var k=trClean(m.t); if(!k) return;
+    if(!groups[k]){ groups[k]={text:m.t.replace(/[.\s]+$/,"") , score:0, mt:false}; order.push(k); }
+    groups[k].score += m.m*(m.q+1); if(m.mt) groups[k].mt=true;
+      });
+  var list=order.map(function(k){ return groups[k]; });
+  var long = q.trim().split(/\s+/).length>=4;
+  list.sort(function(a,b){ return (long? (b.mt-a.mt) : 0) || (b.score-a.score); });
+  /* keep sentence punctuation if she typed it */
+  if(list[0] && /[.?!]$/.test(q.trim()) && !/[.?!]$/.test(list[0].text)) list[0].text+=q.trim().slice(-1);
+  return list.slice(0,4);
+}
+
+function trRun(){
+  var q=$("trIn").value.trim();
+  if(!q){ $("trOut").innerHTML=""; return; }
+  if(q.length>450){ q=q.slice(0,450); }
+  var dir=trDir, me=++trBusy;
+  trLast={q:q, dir:dir, online:null, err:null};
+  var p=trPrefs(); p.recent=[{q:q,dir:dir}].concat((p.recent||[]).filter(function(r){ return !(r.q===q&&r.dir===dir); })).slice(0,8); trSavePrefs(p);
+  renderTraduzir();
+  var lp = dir==="en" ? "en|pt-BR" : "pt-BR|en";
+  fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(q)+"&langpair="+encodeURIComponent(lp)+"&mt=1")
+    .then(function(r){ return r.json(); })
+    .then(function(j){
+      if(me!==trBusy) return;
+      var t=String(j && j.responseData && j.responseData.translatedText || "");
+      if(+j.responseStatus!==200 || /MYMEMORY WARNING|QUOTA/i.test(t)){
+        trLast.err = /QUOTA|ALL AVAILABLE/i.test(t)||+j.responseStatus===429
+          ? "The free translation service’s daily limit is used up in this browser. It resets tomorrow — Google Translate below still works."
+          : "The translation service didn’t answer properly. Try again, or use Google Translate below.";
+      } else trLast.online=trPick(j,q);
+      renderTraduzir();
+    })
+    .catch(function(){
+      if(me!==trBusy) return;
+      trLast.err = navigator.onLine===false ? "You’re offline — only your vocabulary can help right now."
+                                           : "Couldn’t reach the translation service. Try again, or use Google Translate below.";
+      renderTraduzir();
+    });
+}
+
+function trGoogle(q,dir){
+  return "https://translate.google.com/?sl="+(dir==="en"?"en":"pt")+"&tl="+(dir==="en"?"pt":"en")+"&text="+encodeURIComponent(q)+"&op=translate";
+}
+function trHave(pt){ var f=fold(pt); return state.vocab.some(function(w){ return fold(w.pt)===f; }); }
+
+function renderTraduzir(){
+  var out=$("trOut"); if(!out) return;
+  $("trFrom").textContent = trDir==="en" ? "English" : "Português";
+  $("trTo").textContent   = trDir==="en" ? "Português" : "English";
+  $("trIn").placeholder   = trDir==="en" ? "A word or a sentence in English — “the bill, please”, “to wake up”…"
+                                         : "Uma palavra ou frase em português — “a conta, por favor”…";
+  $("trIn").classList.toggle("pt", trDir==="pt");
+  var p=trPrefs(), rec=(p.recent||[]).filter(function(r){ return !(trLast && r.q===trLast.q && r.dir===trLast.dir); });
+  $("trRecent").innerHTML = rec.length ? '<span class="hint">Recent</span>'+rec.map(function(r,i){
+      return '<button class="btn tiny" data-trrec="'+i+'" title="'+(r.dir==="en"?"English → Português":"Português → English")+'">'+esc(r.q.length>40?r.q.slice(0,38)+"…":r.q)+'</button>'; }).join("") : "";
+  $("trRecent").dataset.list = JSON.stringify(rec);
+
+  if(!trLast){ out.innerHTML=""; return; }
+  var L=trLast, dir=L.dir, html="";
+
+  /* online result */
+  html+='<div class="card trmain"><div class="kicker">Translation</div>';
+  if(L.err) html+='<div class="trerr">'+esc(L.err)+'</div>';
+  else if(!L.online) html+='<div class="trwait">Translating…</div>';
+  else if(!L.online.length) html+='<div class="trerr">No translation came back for that.</div>';
+  else {
+    var best=L.online[0].text, single=L.q.trim().split(/\s+/).length===1;
+    html+='<div class="trbest'+(dir==="en"?" pt":"")+'">'+esc(best)+'</div>';
+    var acts='';
+    if(dir==="en" && best.split(/\s+/).length<=6){
+      acts += trHave(best) ? '<span class="tag">Already in your vocabulary</span>'
+                           : '<button class="btn tiny" data-tradd="0">Add to my vocabulary</button>';
+    }
+    var maybeVerb = dir==="en" ? best.toLowerCase() : "";
+    if(/^[a-zà-ú]+(ar|er|ir|ôr)(-se)?$/.test(maybeVerb) && Conj.conjugate(maybeVerb.replace(/-se$/,"")))
+      acts+='<button class="btn tiny" data-conj="'+esc(maybeVerb)+'">Conjugar</button>';
+    if(acts) html+='<div class="row" style="margin-top:12px; gap:6px">'+acts+'</div>';
+    if(L.online.length>1){
+      html+='<div class="tralt"><span class="hint">Other options</span>'+L.online.slice(1).map(function(o,i){
+        return '<div class="tralt1"><span class="'+(dir==="en"?"pt":"")+'">'+esc(o.text)+'</span>'+
+          (dir==="en" && o.text.split(/\s+/).length<=6 && !trHave(o.text) ? '<button class="btn tiny ghost" data-tradd="'+(i+1)+'">Add</button>' : '')+'</div>';
+      }).join("")+'</div>';
+    }
+    if(single) html+='<div class="hint" style="margin-top:12px">Single words are hit-and-miss without context — a short phrase (“the bill at a restaurant”) gets a better answer.</div>';
+  }
+  html+='<div class="trfoot"><a href="'+esc(trGoogle(L.q,dir))+'" target="_blank" rel="noopener">Open in Google Translate ↗</a>'+
+        '<span class="hint">Machine translation from MyMemory — worth a check with José or Fred.</span></div></div>';
+
+  /* her vocabulary */
+  var hits=trFromVocab(L.q, dir);
+  html+='<div class="trsec"><div class="cjg"><h3>From your vocabulary</h3><span class="hint">'+
+        (hits.length? "the book’s own glosses — tap ▶ to hear Fred" : "")+'</span></div>';
+  html+= hits.length ? '<div class="trlist">'+hits.map(function(h){
+      var w=h.w;
+      return '<div class="trrow"><button class="play'+(w.audio?"":" none")+'" data-trplay="'+w.id+'" aria-label="Play recording" title="'+(w.audio?"Play recording":"No recording yet")+'"><svg viewBox="0 0 16 16"><path d="M4 2.5v11l10-5.5z"/></svg></button>'+
+        '<div class="trpt">'+esc(w.pt)+'</div><div class="tren">'+esc(w.en)+'</div>'+
+        '<div class="trch">'+esc(w.chapterId?chapterName(w.chapterId):"")+'</div>'+
+        (isVerbWord(w)?'<button class="btn tiny ghost" data-conj="'+esc(String(w.pt).trim().toLowerCase())+'">Conjugar</button>':'<span></span>')+'</div>';
+    }).join("")+'</div>'
+    : '<div class="empty" style="padding:18px">None of your words match '+(dir==="en"?"this English":"this")+' yet.</div>';
+  html+='</div>';
+  out.innerHTML=html;
+}
+
+(function(){
+  var inp=$("trIn");
+  $("trGo").addEventListener("click",trRun);
+  inp.addEventListener("keydown",function(e){ if(e.key==="Enter" && !e.shiftKey){ e.preventDefault(); trRun(); } });
+  $("trSwap").addEventListener("click",function(){
+    trDir = trDir==="en" ? "pt" : "en";
+    if(trLast && trLast.online && trLast.online[0]) inp.value=trLast.online[0].text;
+    var p=trPrefs(); p.dir=trDir; trSavePrefs(p);
+    renderTraduzir(); if(inp.value.trim()) trRun(); inp.focus();
+  });
+  $("v-traduzir").addEventListener("click",function(e){
+    var a=e.target.closest("[data-tracc]");
+    if(a){ var s=inp.selectionStart||inp.value.length;
+      inp.value=inp.value.slice(0,s)+a.dataset.tracc+inp.value.slice(inp.selectionEnd||s);
+      inp.focus(); inp.setSelectionRange(s+1,s+1); return; }
+    var r=e.target.closest("[data-trrec]");
+    if(r){ var list=JSON.parse($("trRecent").dataset.list||"[]"), it=list[+r.dataset.trrec];
+      if(it){ trDir=it.dir; inp.value=it.q; trRun(); } return; }
+    var pl=e.target.closest("[data-trplay]");
+    if(pl){ play(pl.dataset.trplay, pl); return; }
+    var ad=e.target.closest("[data-tradd]");
+    if(ad && trLast && trLast.online){
+      var o=trLast.online[+ad.dataset.tradd]; if(!o) return;
+      var pt=o.text.replace(/[.!?]+$/,""), en=trLast.q.replace(/[.!?]+$/,"");
+      if(trHave(pt)) return;
+      state.vocab.push(newWord(pt, en, "", ["translated"], null));
+      queueSave(); renderVocab(); renderTraduzir();
+      banner("Added “"+pt+"” to your vocabulary — it’s tagged translated, and it’s in Praticar from now on.");
+    }
+  });
+  var p=trPrefs(); if(p.dir==="pt"||p.dir==="en") trDir=p.dir;
+})();
 
 /* ---------- boot ---------- */
 $("sDate").value=today();
