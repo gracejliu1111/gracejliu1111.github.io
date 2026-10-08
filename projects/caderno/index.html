@@ -393,6 +393,47 @@ table.log tr:last-child td{border-bottom:none}
 table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(--ink-2)}
 .scrollx{overflow-x:auto}
 
+
+/* verbos */
+.cjsearch{display:flex; gap:10px; align-items:stretch; flex-wrap:wrap}
+.cjsearch input{flex:1 1 260px; font-size:20px !important; padding:10px 14px}
+.cjtools{display:flex; justify-content:space-between; align-items:center; gap:12px; flex-wrap:wrap; margin-top:10px}
+.cjtools .accents{justify-content:flex-start; margin:0}
+.cjtoggle{display:flex; align-items:center; gap:7px; font-size:13px; color:var(--ink-2); cursor:pointer}
+#cjRecent{display:flex; gap:6px; flex-wrap:wrap; align-items:center; margin:12px 0 0}
+#cjRecent:empty{display:none}
+.cjchips{display:flex; flex-wrap:wrap; gap:6px}
+.cjchip{font-family:var(--serif); font-size:15.5px; background:var(--surface-2); border:1px solid var(--line); border-radius:999px; padding:3px 12px; cursor:pointer; color:var(--ink)}
+.cjchip:hover{border-color:var(--accent); background:var(--accent-soft); color:var(--accent-ink)}
+.cjnote{background:var(--accent-soft); color:var(--accent-ink); border-radius:8px; padding:10px 14px; font-size:14px; margin-bottom:14px}
+.linkbtn{background:none; border:none; padding:0; color:inherit; text-decoration:underline; cursor:pointer; font-weight:600}
+.cjhead{display:flex; justify-content:space-between; align-items:flex-end; gap:20px; flex-wrap:wrap; margin-bottom:14px; padding:20px 22px}
+.cjinf{font-family:var(--serif); font-size:38px; font-weight:500; line-height:1.05; letter-spacing:-.01em}
+.cjen{font-size:15px; color:var(--ink-2); margin-top:6px}
+.cjkind{font-size:12.5px; color:var(--ink-3); margin-top:8px}
+.cjkind b{color:var(--ink-2)}
+.cjnon{display:flex; gap:28px; margin:0}
+.cjnon dt{font-size:10.5px; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-3); font-weight:700}
+.cjnon dd{margin:3px 0 0; font-family:var(--serif); font-size:19px}
+.cjlegend{margin:0 0 6px; text-align:right}
+.cjgroup{margin-top:22px}
+.cjg{display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; margin-bottom:10px; padding-bottom:6px; border-bottom:1px solid var(--line)}
+.cjg h3{font-size:13px; letter-spacing:.11em; text-transform:uppercase; color:var(--ink-2); font-weight:700}
+.cjgrid{display:grid; grid-template-columns:repeat(auto-fill,minmax(250px,1fr)); gap:12px}
+.cjcard{background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:14px 16px 10px}
+.cjt{font-weight:650; font-size:14.5px}
+.cjsub{font-size:12px; color:var(--ink-3); margin:2px 0 8px; font-style:italic}
+.cjtab{width:100%; border-collapse:collapse}
+.cjtab td{padding:4px 0; border-top:1px solid var(--line); vertical-align:baseline}
+.cjtab tr:first-child td{border-top:none}
+.cjp{font-size:12px; color:var(--ink-3); width:44%; padding-right:10px !important; line-height:1.3}
+.cjf{font-family:var(--serif); font-size:17px; line-height:1.35}
+.cjirr{color:var(--accent-ink); font-weight:600}
+span.cjirr{font-family:var(--serif)}
+.cjold td{opacity:.62}
+.cjhit td{background:var(--amber-soft)}
+.cjhit .cjf{color:var(--amber); font-weight:600}
+
 @media (max-width:900px){
   .app{grid-template-columns:1fr}
   .rail{position:static; height:auto; flex-direction:row; flex-wrap:wrap; align-items:center; border-right:none; border-bottom:1px solid var(--line)}
@@ -415,6 +456,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
     <button class="navbtn" data-go="alfabeto"><span><span class="pt">Alfabeto</span><span class="en">The alphabet</span></span></button>
     <button class="navbtn" data-go="praticar"><span><span class="pt">Praticar</span><span class="en">Practice</span></span><span class="count" id="dueBadge" hidden>0</span></button>
     <button class="navbtn" data-go="vocab"><span><span class="pt">Vocabulário</span><span class="en">All words</span></span></button>
+    <button class="navbtn" data-go="verbos"><span><span class="pt">Verbos</span><span class="en">Conjugations</span></span></button>
     <button class="navbtn" data-go="progresso"><span><span class="pt">Progresso</span><span class="en">Progress &amp; log</span></span></button>
     <button class="navbtn" data-go="ajustes"><span><span class="pt">Ajustes</span><span class="en">Settings</span></span></button>
     <div class="railfoot"><a href="../../" style="display:block; font-size:11.5px; color:var(--ink-3); text-decoration:none; padding:0 4px 8px">&#8592; gracejliu.com</a><div class="status"><span class="dot" id="sdot"></span><span id="stext">Loading…</span></div></div>
@@ -523,6 +565,26 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
         <button class="btn tiny ghost" id="copyMissing">Copy audio wishlist</button>
       </div>
       <div class="vlist" id="vList"></div>
+    </section>
+
+    <!-- ========== VERBOS ========== -->
+    <section class="view" id="v-verbos">
+      <div class="viewhead">
+        <div><div class="kicker">Look up any verb</div><h2>Verbos</h2></div>
+      </div>
+      <div class="card" style="margin-bottom:16px">
+        <div class="cjsearch">
+          <input type="text" class="pt" id="cjIn" list="cjList" placeholder="falar, fazer, levantar-se… or a form like fiz" autocomplete="off" autocapitalize="off" spellcheck="false" aria-label="Verb">
+          <button class="btn primary" id="cjGo">Conjugar</button>
+        </div>
+        <datalist id="cjList"></datalist>
+        <div class="cjtools">
+          <div class="accents"><button data-cacc="á">á</button><button data-cacc="â">â</button><button data-cacc="ã">ã</button><button data-cacc="à">à</button><button data-cacc="é">é</button><button data-cacc="ê">ê</button><button data-cacc="í">í</button><button data-cacc="ó">ó</button><button data-cacc="ô">ô</button><button data-cacc="õ">õ</button><button data-cacc="ú">ú</button><button data-cacc="ç">ç</button></div>
+          <label class="cjtoggle"><input type="checkbox" id="cjTu"> Show <i>tu</i> and <i>vós</i></label>
+        </div>
+        <div id="cjRecent"></div>
+      </div>
+      <div id="cjOut"></div>
     </section>
 
     <!-- ========== PROGRESSO ========== -->
@@ -655,7 +717,7 @@ table.log .num{font-variant-numeric:tabular-nums; white-space:nowrap; color:var(
 (function(){
 "use strict";
 
-var BUILD="20260924-203800";
+var BUILD="20261008-193000";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -846,6 +908,7 @@ function go(name){
   if(name==="progresso") renderProgress();
   if(name==="praticar") renderQuizSetup();
   if(name==="vocab") renderVocab();
+  if(name==="verbos"){ renderVerbos(); setTimeout(function(){ var i=$("cjIn"); if(i&&!cjQuery) i.focus(); },0); }
   window.scrollTo(0,0);
 }
 document.addEventListener("click",function(e){
@@ -1389,6 +1452,7 @@ function wordHtml(w){
       : '<div class="acts">'+
           '<button class="play'+(w.audio?"":" none")+'" data-play="'+w.id+'" aria-label="Play recording" title="'+(w.audio?"Play recording":"No recording yet")+'">'+
             '<svg viewBox="0 0 16 16"><path d="M4 2.5v11l10-5.5z"/></svg></button>'+
+          (isVerbWord(w)?'<button class="btn tiny" data-conj="'+esc(String(w.pt).trim().toLowerCase())+'" title="See all conjugations">Conjugar</button>':'')+
           '<button class="btn tiny" data-attach="'+w.id+'">'+(w.audio?"Replace":"Upload")+'</button>'+
           '<button class="btn tiny danger" data-del="'+w.id+'">Delete</button>'+
         '</div>')+
@@ -2546,6 +2610,556 @@ function checkForUpdate(){
     })
     .catch(function(){});
 }
+
+/* ---------- CONJUGATION ENGINE ----------------------------------------
+   Rule-based Brazilian Portuguese conjugator. Persons are always the six
+   classical slots [eu, tu, ele, nós, vós, eles]; the UI decides which to show.
+   Regular verbs come from endings + spelling rules; known irregular verbs
+   override only the tenses that differ, and the rest is derived the way a
+   grammar book derives it (subjunctive from "eu" present, imperfect
+   subjunctive / future subjunctive / pluperfect from "eles" preterite).  */
+var Conj = (function(){
+  var END = {
+    ar:{pres:["o","as","a","amos","ais","am"], perf:["ei","aste","ou","amos","astes","aram"],
+        imp:["ava","avas","ava","ávamos","áveis","avam"], sub:["e","es","e","emos","eis","em"], ger:"ando", part:"ado"},
+    er:{pres:["o","es","e","emos","eis","em"], perf:["i","este","eu","emos","estes","eram"],
+        imp:["ia","ias","ia","íamos","íeis","iam"], sub:["a","as","a","amos","ais","am"], ger:"endo", part:"ido"},
+    ir:{pres:["o","es","e","imos","is","em"], perf:["i","iste","iu","imos","istes","iram"],
+        imp:["ia","ias","ia","íamos","íeis","iam"], sub:["a","as","a","amos","ais","am"], ger:"indo", part:"ido"}
+  };
+  var FUT=["ei","ás","á","emos","eis","ão"], COND=["ia","ias","ia","íamos","íeis","iam"];
+
+  /* spelling: keep the consonant sound when the ending's first vowel changes */
+  function join(stem, end, cls){
+    var f=end.charAt(0);
+    if(cls==="ar" && /[eéêií]/.test(f)){
+      if(/c$/.test(stem)) return stem.slice(0,-1)+"qu"+end;
+      if(/g$/.test(stem)) return stem+"u"+end;
+      if(/ç$/.test(stem)) return stem.slice(0,-1)+"c"+end;
+    } else if(cls!=="ar" && /[aáoó]/.test(f)){
+      if(/[^q]c$/.test(stem)) return stem.slice(0,-1)+"ç"+end;
+      if(/gu$/.test(stem)) return stem.slice(0,-1)+end;
+      if(/qu$/.test(stem) && /quir$|quer$/.test(stem+"ir")) return stem.slice(0,-2)+"c"+end;
+      if(/g$/.test(stem)) return stem.slice(0,-1)+"j"+end;
+    }
+    return stem+end;
+  }
+  function stripAcc(s){ return s.normalize("NFD").replace(/[̀-ͯ]/g,"").normalize("NFC"); }
+  function lastVowel(s, fn){  /* apply fn to the last vowel of s */
+    var end=s.length-1; if(/[gq]u$/.test(s)) end-=2;
+    for(var i=end;i>=0;i--) if(/[aeiou]/.test(s[i])) return s.slice(0,i)+fn(s[i])+s.slice(i+1);
+    return s;
+  }
+  var ACUTE={a:"á",e:"é",i:"í",o:"ó",u:"ú"}, CIRC={a:"â",e:"ê",o:"ô"};
+
+  /* stem-vowel classes for -ir (and a few -er) verbs */
+  var E_I = "sentir consentir pressentir ressentir mentir desmentir servir seguir conseguir perseguir prosseguir vestir investir revestir despir ferir preferir referir conferir inferir transferir interferir proferir aderir sugerir digerir ingerir gerir repetir competir divertir advertir converter convergir divergir refletir".split(" ");
+  var E_I_ALL = "agredir progredir regredir transgredir prevenir denegrir cerzir".split(" "); /* eu,tu,ele,eles + subj */
+  var O_U = "dormir cobrir descobrir encobrir recobrir tossir engolir".split(" ");
+  var U_O = "subir fugir sacudir acudir consumir cuspir entupir sumir bulir escapulir".split(" ");
+  var EAR_LIKE = "odiar ansiar mediar remediar incendiar intermediar".split(" ");
+  var O_U_ALL = ["polir"];
+  /* stressed i/u in hiatus takes an accent in the stem-stressed forms */
+  var HIATUS = "saudar reunir proibir coibir amiudar esmiuçar faiscar enraizar desenraizar ajuizar europeizar arcaizar abaular embaular".split(" ");
+  var CONSTRUIR = "construir destruir reconstruir".split(" ");
+
+  /* irregular data: only what differs. `pp` = perfect 3pl stem source.   */
+  var IRR = {
+    ser:{pres:"sou és é somos sois são", imp:"era eras era éramos éreis eram",
+         perf:"fui foste foi fomos fostes foram", sub:"seja sejas seja sejamos sejais sejam",
+         impTu:"sê", impVos:"sede", part:"sido"},
+    estar:{pres:"estou estás está estamos estais estão", perf:"estive estiveste esteve estivemos estivestes estiveram",
+         sub:"esteja estejas esteja estejamos estejais estejam", impTu:"está"},
+    ter:{pres:"tenho tens tem temos tendes têm", imp:"tinha tinhas tinha tínhamos tínheis tinham",
+         perf:"tive tiveste teve tivemos tivestes tiveram", impTu:"tem", impVos:"tende"},
+    vir:{pres:"venho vens vem vimos vindes vêm", imp:"vinha vinhas vinha vínhamos vínheis vinham",
+         perf:"vim vieste veio viemos viestes vieram", part:"vindo", ger:"vindo", impTu:"vem", impVos:"vinde"},
+    ir:{pres:"vou vais vai vamos ides vão", imp:"ia ias ia íamos íeis iam",
+        perf:"fui foste foi fomos fostes foram", sub:"vá vás vá vamos vades vão", impTu:"vai", impVos:"ide"},
+    fazer:{pres:"faço fazes faz fazemos fazeis fazem", perf:"fiz fizeste fez fizemos fizestes fizeram",
+         fut:"far", part:"feito", impTu:"faz"},
+    dizer:{pres:"digo dizes diz dizemos dizeis dizem", perf:"disse disseste disse dissemos dissestes disseram",
+         fut:"dir", part:"dito", impTu:"diz"},
+    trazer:{pres:"trago trazes traz trazemos trazeis trazem", perf:"trouxe trouxeste trouxe trouxemos trouxestes trouxeram",
+         fut:"trar", impTu:"traz"},
+    poder:{pres:"posso podes pode podemos podeis podem", perf:"pude pudeste pôde pudemos pudestes puderam"},
+    querer:{pres:"quero queres quer queremos quereis querem", perf:"quis quiseste quis quisemos quisestes quiseram",
+         sub:"queira queiras queira queiramos queirais queiram", impTu:"quer"},
+    requerer:{pres:"requeiro requeres requer requeremos requereis requerem",
+         sub:"requeira requeiras requeira requeiramos requeirais requeiram", impTu:"requer"},
+    saber:{pres:"sei sabes sabe sabemos sabeis sabem", perf:"soube soubeste soube soubemos soubestes souberam",
+         sub:"saiba saibas saiba saibamos saibais saibam"},
+    caber:{pres:"caibo cabes cabe cabemos cabeis cabem", perf:"coube coubeste coube coubemos coubestes couberam"},
+    haver:{pres:"hei hás há havemos haveis hão", perf:"houve houveste houve houvemos houvestes houveram",
+         sub:"haja hajas haja hajamos hajais hajam"},
+    dar:{pres:"dou dás dá damos dais dão", perf:"dei deste deu demos destes deram",
+         sub:"dê dês dê demos deis deem"},
+    ver:{pres:"vejo vês vê vemos vedes veem", perf:"vi viste viu vimos vistes viram", part:"visto",
+         impTu:"vê", impVos:"vede"},
+    ler:{pres:"leio lês lê lemos ledes leem", impTu:"lê", impVos:"lede"},
+    crer:{pres:"creio crês crê cremos credes creem", impTu:"crê", impVos:"crede"},
+    "pôr":{pres:"ponho pões põe pomos pondes põem", imp:"punha punhas punha púnhamos púnheis punham",
+         perf:"pus puseste pôs pusemos pusestes puseram", fut:"por", part:"posto", ger:"pondo",
+         impTu:"põe", impVos:"ponde"},
+    ouvir:{pres:"ouço ouves ouve ouvimos ouvis ouvem"},
+    pedir:{pres:"peço pedes pede pedimos pedis pedem"},
+    medir:{pres:"meço medes mede medimos medis medem"},
+    perder:{pres:"perco perdes perde perdemos perdeis perdem"},
+    valer:{pres:"valho vales vale valemos valeis valem"},
+    rir:{pres:"rio ris ri rimos rides riem", impVos:"ride"},
+    prover:{pres:"provejo provês provê provemos provedes proveem", impTu:"provê", impVos:"provede"},
+    "mobiliar":{pres:"mobílio mobílias mobília mobiliamos mobiliais mobíliam",
+         sub:"mobílie mobílies mobílie mobiliemos mobilieis mobíliem"}
+  };
+  /* prefixed families share the base verb's irregularity */
+  var FAMILY = [
+    ["ter",["manter","obter","conter","deter","reter","entreter","abster","suster","ater"]],
+    ["vir",["convir","intervir","provir","advir","sobrevir","desavir","revir","reconvir"]],
+    ["fazer",["desfazer","refazer","satisfazer","perfazer","contrafazer","liquefazer","rarefazer"]],
+    ["dizer",["desdizer","predizer","contradizer","bendizer","maldizer"]],
+    ["ver",["prever","rever","antever","entrever"]],
+    ["ler",["reler","tresler"]], ["crer",["descrer"]],
+    ["pedir",["despedir","impedir","expedir","desimpedir"]], ["medir",["comedir"]],
+    ["valer",["desvaler","equivaler"]], ["rir",["sorrir"]],
+    ["pôr",["compor","propor","supor","dispor","expor","impor","opor","repor","depor","pospor","antepor",
+            "decompor","recompor","transpor","contrapor","justapor","sobrepor","predispor","indispor","interpor","pressupor","sotopor"]],
+    ["querer",["bem-querer","malquerer"]]
+  ];
+  var PREFIX = {};
+  FAMILY.forEach(function(f){ f[1].forEach(function(v){ PREFIX[v]=[f[0], v.slice(0, v.length-(f[0]==="pôr"?3:f[0].length))]; }); });
+
+  /* participles that differ (first = the one used with ter in Brazil) */
+  var PART = {
+    abrir:["aberto"], entreabrir:["entreaberto"], reabrir:["reaberto"],
+    cobrir:["coberto"], descobrir:["descoberto"], encobrir:["encoberto"], recobrir:["recoberto"],
+    escrever:["escrito"], descrever:["descrito"], inscrever:["inscrito"], prescrever:["prescrito"],
+    subscrever:["subscrito"], transcrever:["transcrito"], reescrever:["reescrito"], proscrever:["proscrito"],
+    ganhar:["ganho","ganhado"], gastar:["gasto","gastado"], pagar:["pago","pagado"],
+    aceitar:["aceito","aceitado"], entregar:["entregue","entregado"], salvar:["salvo","salvado"],
+    limpar:["limpo","limpado"], soltar:["solto","soltado"], expulsar:["expulsado","expulso"],
+    matar:["matado","morto"], morrer:["morrido","morto"], prender:["prendido","preso"],
+    acender:["acendido","aceso"], eleger:["elegido","eleito"], imprimir:["imprimido","impresso"],
+    suspender:["suspendido","suspenso"], romper:["rompido","roto"], extinguir:["extinguido","extinto"],
+    bendizer:["bendito"], maldizer:["maldito"], benzer:["benzido","bento"],
+    pegar:["pegado","pego"]
+  };
+
+  function words(s){ return s.split(" "); }
+
+  /* expand a prefixed irregular: pôr→compor, ter→manter (with accent shifts) */
+  function prefixed(base, pre){
+    var b=IRR[base], out={};
+    Object.keys(b).forEach(function(k){
+      var v=b[k];
+      if(k==="fut"){ out[k]=pre+v; return; }
+      if(typeof v!=="string") return;
+      out[k]=words(v).map(function(w){
+        if(base==="ter"||base==="vir"){
+          if(w==="tens"||w==="vens") return pre+w.replace("e","é");
+          if(w==="tem"||w==="vem") return pre+w.replace("e","é");
+        }
+        return pre+w;
+      }).join(" ");
+    });
+    if(base==="ter"||base==="vir"){ out.impTu = pre+(base==="ter"?"tém":"vém"); }
+    if(base==="pôr"){ out.impTu = pre+"põe"; }
+    return out;
+  }
+
+  function classOf(inf){
+    if(/(p|^)ôr$|por$/.test(inf) && (inf==="pôr" || PREFIX[inf])) return "por";
+    var m=inf.match(/(ar|er|ir)$/); return m?m[1]:null;
+  }
+
+  function conjugate(input){
+    var inf=String(input||"").trim().toLowerCase();
+    if(inf==="por") inf="pôr";
+    var cls=classOf(inf);
+    if(!cls) return null;
+
+    var irr=null, irrBase=null;
+    if(IRR[inf]){ irr=IRR[inf]; irrBase=inf; }
+    else if(PREFIX[inf]){ irr=prefixed(PREFIX[inf][0], PREFIX[inf][1]); irrBase=PREFIX[inf][0]; }
+
+    var R={inf:inf, irregular:!!irr, base:irrBase};
+    if(cls==="por"){
+      /* everything comes from the irregular table */
+      cls="er";
+    }
+    var E=END[cls], stem=inf.replace(/(ar|er|ir|ôr|or)$/,"");
+    var S=function(arr){ return arr.map(function(e){ return join(stem,e,cls); }); };
+
+    /* ---- regular baseline ---- */
+    var pres=S(E.pres), perf=S(E.perf), imp=S(E.imp), sub=null;
+    var ger=stem+E.ger, part=[stem+E.part];
+    var futStem = inf.replace(/ôr$/,"or");
+
+    /* ---- vowel-stem classes: -air, -uir, -oer, -uzir, -ear, -iar ---- */
+    var vowelEnd = /[aou]$/.test(stem) && !/[gq]u$/.test(stem);
+    if(cls==="ir" && vowelEnd){            /* sair, incluir, construir */
+      var v=stem;
+      if(/a$/.test(stem)) pres=[v+"io",v+"is",v+"i",v+"ímos",v+"ís",v+"em"];
+      else pres=[v+"o",v+"is",v+"i",v+"ímos",v+"ís",v+"em"];
+      if(CONSTRUIR.indexOf(inf)>=0){
+        var cs=stem.replace(/u$/,"");   /* constr */
+        pres=[v+"o",cs.replace(/u$/,"")+"óis",cs+"ói",v+"ímos",v+"ís",cs+"oem"];
+      }
+      perf=[v+"í",v+"íste",v+"iu",v+"ímos",v+"ístes",v+"íram"];
+      imp=[v+"ía",v+"ías",v+"ía",v+"íamos",v+"íeis",v+"íam"];
+      sub = /a$/.test(stem)? [v+"ia",v+"ias",v+"ia",v+"iamos",v+"iais",v+"iam"] : null;
+      part=[v+"ído"];
+    }
+    if(cls==="er" && /o$/.test(stem)){     /* moer, roer, doer */
+      pres=[stem+"o",stem.replace(/o$/,"óis"),stem.replace(/o$/,"ói"),stem+"emos",stem+"eis",stem+"em"];
+      perf=[stem+"í",stem+"este",stem+"eu",stem+"emos",stem+"estes",stem+"eram"];
+      imp=[stem+"ía",stem+"ías",stem+"ía",stem+"íamos",stem+"íeis",stem+"íam"];
+      part=[stem+"ído"];
+    }
+    if(/(uz|az)$/.test(stem) && cls!=="ar") pres[2]=stem;   /* produz, jaz */
+    if(O_U_ALL.indexOf(inf)>=0){                            /* polir: pulo, pules */
+      var s4=lastVowel(stem,function(){return "u";});
+      [0,1,2,5].forEach(function(i){ pres[i]=join(s4,E.pres[i],cls); });
+    }
+    if(cls==="ar" && (/e$/.test(stem) || EAR_LIKE.indexOf(inf)>=0)){
+      var st=stem.replace(/(e|i)$/,"ei");               /* passe→passei, odi→odei */
+      [0,1,2,5].forEach(function(i){ pres[i]=st+E.pres[i]; });
+      sub=S(E.sub); [0,1,2,5].forEach(function(i){ sub[i]=st+E.sub[i]; });
+    }
+    if(cls==="ar" && /oo$/.test(pres[0])) {}  /* voo, abençoo: already right */
+
+    /* ---- stem-vowel changes (-ir) ---- */
+    if(E_I.indexOf(inf)>=0){
+      pres[0]=join(lastVowel(stem,function(){return "i";}), "o", cls);
+    }
+    if(E_I_ALL.indexOf(inf)>=0){
+      var s2=lastVowel(stem,function(){return "i";});
+      [0,1,2,5].forEach(function(i){ pres[i]=join(s2,E.pres[i],cls); });
+    }
+    if(O_U.indexOf(inf)>=0){
+      pres[0]=join(lastVowel(stem,function(){return "u";}), "o", cls);
+    }
+    if(U_O.indexOf(inf)>=0){
+      var s3=lastVowel(stem,function(){return "o";});
+      [1,2,5].forEach(function(i){ pres[i]=join(s3,E.pres[i],cls); });
+    }
+
+    /* ---- irregular overrides ---- */
+    if(irr){
+      if(irr.pres) pres=words(irr.pres);
+      if(irr.perf) perf=words(irr.perf);
+      if(irr.imp) imp=words(irr.imp);
+      if(irr.ger) ger=irr.ger;
+      if(irr.fut) futStem=irr.fut;
+      if(irr.part) part=[irr.part];
+      if(irrBase==="pôr"){ ger=(PREFIX[inf]?PREFIX[inf][1]:"")+"pondo"; part=[(PREFIX[inf]?PREFIX[inf][1]:"")+"posto"]; }
+      if(irrBase==="vir"){ ger=(PREFIX[inf]?PREFIX[inf][1]:"")+"vindo"; part=[ger]; }
+    }
+    if(PART[inf]) part=PART[inf].slice();
+    if(PREFIX[inf] && PART[PREFIX[inf][0]] && !PART[inf]) part=PART[PREFIX[inf][0]].map(function(p){ return PREFIX[inf][1]+p; });
+    if(irrBase==="dizer" && !PART[inf]) part=[(PREFIX[inf]?PREFIX[inf][1]:"")+"dito"];
+    if(irrBase==="fazer") part=[(PREFIX[inf]?PREFIX[inf][1]:"")+"feito"];
+    if(irrBase==="ver") part=[(PREFIX[inf]?PREFIX[inf][1]:"")+"visto"];
+
+    /* present subjunctive: from "eu" present, unless given */
+    if(irr && irr.sub) sub=words(irr.sub);
+    if(!sub){
+      var eu=pres[0];
+      var sst=eu.replace(/o$/,"");
+      var se = cls==="ar"? END.ar.sub : END.er.sub;
+      /* spelling: sst ends as written in "eu" (conheç, elej, sig) — attach directly,
+         but -ar stems need c/g/ç protection before e */
+      sub = se.map(function(e){ return cls==="ar"? join(sst,e,cls) : sst+e; });
+    }
+
+    if(HIATUS.indexOf(inf)>=0){
+      var hs=stem.replace(/([aeo])([iu])([^aeiou]+)$/,function(m,x,y,z){ return x+ACUTE[y]+z; });
+      var fix=function(w){ return w.indexOf(stem)===0 ? hs+w.slice(stem.length) : w; };
+      [0,1,2,5].forEach(function(i){ pres[i]=fix(pres[i]); sub[i]=fix(sub[i]); });
+    }
+
+    /* future & conditional */
+    var fut=FUT.map(function(e){ return futStem+e; });
+    var cond=COND.map(function(e){ return futStem+e; });
+
+    /* derived from "eles" preterite */
+    var p3=perf[5].replace(/ram$/,"");
+    var strong = !!(irr && irr.perf) || inf==="dar";
+    var accented = lastVowel(p3,function(v){
+      if(v==="e") return strong?"é":"ê";
+      if(v==="o") return "ô";
+      return ACUTE[v]||v;
+    });
+    if(/[áéíóúâêô]/.test(p3)) accented=p3;           /* saí, incluí: already marked */
+    var plain = /[aeiou]í$/.test(p3) ? p3.replace(/í$/,"i") : p3;
+    var mqp=[p3+"ra",p3+"ras",p3+"ra",accented+"ramos",accented+"reis",p3+"ram"];
+    var simp=[p3+"sse",p3+"sses",p3+"sse",accented+"ssemos",accented+"sseis",p3+"ssem"];
+    var sfut=[plain+"r",p3+"res",plain+"r",plain+"rmos",plain+"rdes",p3+"rem"];
+
+    /* personal infinitive */
+    var ib=inf.replace(/ôr$/,"or"), hiat=/[aeiou]ir$/.test(inf) && !/[gq]uir$/.test(inf);
+    var ibAcc = hiat ? inf.replace(/ir$/,"ír") : ib;
+    var ipess=[inf, ibAcc+"es", inf, ib+"mos", ib+"des", ibAcc+"em"];
+
+    /* imperative */
+    var tu = irr && irr.impTu ? irr.impTu : (/(uz|az)$/.test(stem) && cls!=="ar" ? pres[2] : pres[1].replace(/s$/,""));
+    var vos = irr && irr.impVos ? irr.impVos : pres[4].replace(/s$/,"");
+    if(irrBase==="ser") vos="sede";
+    var impAf=[null, tu, sub[2], sub[3], vos, sub[5]];
+    var impNeg=[null].concat(sub.slice(1).map(function(x){ return "não "+x; }));
+
+    R.t = {pres:pres, perf:perf, imp:imp, mqp:mqp, fut:fut, cond:cond,
+           sub:sub, simp:simp, sfut:sfut, ipess:ipess, impAf:impAf, impNeg:impNeg};
+    R.ger=ger; R.part=part;
+    return R;
+  }
+  var COMMON = "abaixar abandonar abraçar abrir acabar aceitar achar acompanhar aconselhar acontecer acordar acreditar acrescentar adiar admirar adorar agradecer ajudar alcançar almoçar alugar amar andar anunciar apagar aparecer aplaudir apoiar aprender apresentar aproveitar arrumar assinar assistir atender atrasar atravessar aumentar avisar baixar bater beber beijar brigar brincar buscar caber cair calar caminhar cancelar cansar cantar casar celebrar chamar chegar chorar chover cobrar cobrir colocar combinar comemorar comer começar comparar compartilhar comprar compreender comunicar concordar conhecer conseguir consertar construir contar continuar conversar convidar copiar correr cortar costurar cozinhar crescer criar cuidar cumprimentar custar dançar decidir deixar demorar depender descansar descer descobrir desculpar desejar desenhar desistir desligar despedir detestar dever devolver dirigir discutir divertir dividir doer dormir duvidar emprestar encontrar ensinar entender entrar entregar enviar errar escolher esconder escovar escrever escutar esperar esquecer estacionar estudar evitar existir explicar falar faltar fechar ficar fingir funcionar ganhar gastar gostar gritar guardar imaginar importar incluir indicar insistir interessar ir jantar jogar juntar lavar lembrar levantar levar ligar limpar lutar machucar mandar marcar matar melhorar mentir merecer mexer molhar morar morrer mostrar mudar nadar nascer negar notar obedecer obrigar ocupar odiar oferecer olhar organizar ouvir pagar parar parecer partir passar passear pegar pensar perceber perder perguntar permitir pesquisar pintar planejar poder praticar precisar preencher preferir preocupar preparar procurar prometer proteger provar puxar quebrar queimar querer receber reclamar recomendar reconhecer repetir reservar resolver respirar responder resumir reunir rir saber sair saltar secar seguir sentar sentir separar servir sofrer sonhar sorrir subir sugerir sujar surgir tentar terminar tirar tocar tomar torcer tossir trabalhar traduzir transformar tratar trazer trocar usar valer vencer vender verificar vestir viajar visitar viver voar voltar votar".split(" ");
+  var QUIRK = [].concat(E_I,E_I_ALL,O_U,U_O,O_U_ALL,EAR_LIKE,HIATUS,CONSTRUIR);
+  return {
+    conjugate:conjugate,
+    irregulars:function(){ return Object.keys(IRR).concat(Object.keys(PREFIX)); },
+    common:function(){ return COMMON.slice(); },
+    isKnown:function(v){ return !!(IRR[v]||PREFIX[v]||PART[v]||QUIRK.indexOf(v)>=0||COMMON.indexOf(v)>=0); },
+    hasQuirk:function(v){ return QUIRK.indexOf(v)>=0 || /ear$/.test(v); }
+  };
+})();
+
+/* ---------- VERBOS (conjugation lookup) ---------- */
+var CJ_TENSES = [
+  {g:"Indicativo", items:[
+    ["pres","Presente","now, habits, near future"],
+    ["perf","Pretérito perfeito","a finished action in the past"],
+    ["imp","Pretérito imperfeito","used to … / was …ing"],
+    ["fut","Futuro do presente","will … — speech prefers ir + infinitivo"],
+    ["cond","Futuro do pretérito","would …"],
+    ["mqp","Mais-que-perfeito","had … — mostly in writing"]]},
+  {g:"Subjuntivo", items:[
+    ["sub","Presente","que eu …"],
+    ["simp","Pretérito imperfeito","se eu …"],
+    ["sfut","Futuro","quando eu …"]]},
+  {g:"Imperativo", items:[
+    ["impAf","Afirmativo","commands"],
+    ["impNeg","Negativo","não …"]]},
+  {g:"No dia a dia", note:"How Brazilians actually build a lot of these in speech", items:[
+    ["_prog","Estar + gerúndio","am …ing right now"],
+    ["_irfut","Ir + infinitivo","going to … — the everyday future"],
+    ["_ppc","Pretérito perfeito composto","have been …ing lately (repeated)"],
+    ["_mqpc","Mais-que-perfeito composto","had … — the spoken form"],
+    ["ipess","Infinitivo pessoal","para eu …"]]}
+];
+var CJ_PRON = ["eu","tu","você · ele · ela","nós","vós","vocês · eles · elas"];
+var CJ_REFL = ["me","te","se","nos","vos","se"];
+var cjQuery="", cjHit=null, cjResolved=null;
+function cjPrefs(){ try{ return JSON.parse(localStorage.getItem("caderno-verbos")||"{}")||{}; }catch(e){ return {}; } }
+function cjSavePrefs(p){ try{ localStorage.setItem("caderno-verbos",JSON.stringify(p)); }catch(e){} }
+
+/* verbs she has in her vocabulary: single-word Portuguese with an English "to …" gloss */
+function myVerbs(){
+  var out={};
+  state.vocab.forEach(function(w){
+    var pt=String(w.pt||"").trim().toLowerCase();
+    if(!/^to /i.test(String(w.en||"").trim())) return;
+    if(!/^[a-zà-ú-]+(ar|er|ir|or|ôr)(-se)?$/.test(pt)) return;
+    if(!out[pt]) out[pt]=w.en;
+  });
+  return out;
+}
+function isVerbWord(w){
+  return /^to /i.test(String(w.en||"").trim()) &&
+         /^[a-zà-ú-]+(ar|er|ir|or|ôr)(-se)?$/.test(String(w.pt||"").trim().toLowerCase());
+}
+
+/* everything the engine gives, plus the spoken compound forms, with clitics for -se verbs */
+function cjBuild(inf){
+  var refl=/-se$/.test(inf), base=inf.replace(/-se$/,"");
+  var r=Conj.conjugate(base); if(!r) return null;
+  var estar=Conj.conjugate("estar").t, ir=Conj.conjugate("ir").t, ter=Conj.conjugate("ter").t;
+  var t={}; Object.keys(r.t).forEach(function(k){ t[k]=r.t[k].slice(); });
+  var ger=r.ger, part=r.part[0];
+  t._prog = estar.pres.map(function(a,i){ return a+" "+(refl?CJ_REFL[i]+" ":"")+ger; });
+  t._irfut = ir.pres.map(function(a,i){ return a+" "+(refl?CJ_REFL[i]+" ":"")+base; });
+  t._ppc = ter.pres.map(function(a,i){ return (refl?CJ_REFL[i]+" ":"")+a+" "+part; });
+  t._mqpc = ter.imp.map(function(a,i){ return (refl?CJ_REFL[i]+" ":"")+a+" "+part; });
+  if(refl){
+    ["pres","perf","imp","fut","cond","mqp","sub","simp","sfut","ipess"].forEach(function(k){
+      t[k]=t[k].map(function(f,i){ return CJ_REFL[i]+" "+f; });
+    });
+    t.impAf=t.impAf.map(function(f,i){
+      if(!f) return f;
+      if(i===3) return f.replace(/s$/,"")+"-nos";
+      return f+"-"+CJ_REFL[i];
+    });
+    t.impNeg=t.impNeg.map(function(f,i){ return f? f.replace(/^não /,"não "+CJ_REFL[i]+" ") : f; });
+  }
+  return {inf:inf, base:base, refl:refl, irregular:r.irregular, irrBase:r.base, t:t,
+          ger:ger+(refl?"-se":""), part:r.part, raw:r};
+}
+
+/* which forms differ from the plain textbook pattern (to highlight them) */
+function cjRegularShadow(base){
+  var m=base.match(/(ar|er|ir)$/); if(!m) return null;
+  var probe = {ar:"falar", er:"comer", ir:"partir"}[m[1]];
+  var p=Conj.conjugate(probe).t, pstem=probe.slice(0,-2), stem=base.slice(0,-2), out={};
+  Object.keys(p).forEach(function(k){
+    out[k]=p[k].map(function(f){ return f? f.split(pstem).join(stem) : f; });
+  });
+  return out;
+}
+
+/* reverse lookup: a conjugated form → which verb(s) and where */
+function cjFind(form){
+  var f=form.toLowerCase(), hits=[], seen={};
+  var pool=Object.keys(myVerbs()).map(function(v){ return v.replace(/-se$/,""); })
+    .concat(Conj.irregulars(), Conj.common());
+  pool.forEach(function(v){
+    if(seen[v]) return; seen[v]=1;
+    var r=Conj.conjugate(v); if(!r) return;
+    var where=[];
+    Object.keys(r.t).forEach(function(k){
+      r.t[k].forEach(function(x,i){ if(x && (x===f || x==="não "+f)) where.push([k,i]); });
+    });
+    if(r.ger===f) where.push(["ger",0]);
+    if(r.part.indexOf(f)>=0) where.push(["part",0]);
+    if(where.length) hits.push({inf:v, where:where});
+  });
+  return hits;
+}
+function cjTenseName(k){
+  if(k==="ger") return "gerúndio"; if(k==="part") return "particípio";
+  for(var g=0;g<CJ_TENSES.length;g++) for(var j=0;j<CJ_TENSES[g].items.length;j++)
+    if(CJ_TENSES[g].items[j][0]===k) return CJ_TENSES[g].items[j][1]+(g===1?" do subjuntivo":g===2?" (imperativo)":"");
+  return k;
+}
+
+function cjLookup(q){
+  q=String(q||"").trim().toLowerCase().replace(/\s+/g," ");
+  cjQuery=q; cjHit=null; cjResolved=null;
+  renderVerbos();
+  if(cjResolved){ var p=cjPrefs(); var rec=(p.recent||[]).filter(function(x){ return x!==cjResolved; }); rec.unshift(cjResolved); p.recent=rec.slice(0,10); cjSavePrefs(p); }
+}
+
+function renderVerbos(){
+  var out=$("cjOut"); if(!out) return;
+  var p=cjPrefs(), mine=myVerbs();
+  var dl=$("cjList");
+  if(dl && !dl.dataset.n){
+    var opts=Object.keys(mine).concat(Conj.irregulars(), Conj.common());
+    var u={}; dl.innerHTML=opts.filter(function(v){ if(u[v]) return false; u[v]=1; return true; }).sort(function(a,b){ return a.localeCompare(b,"pt"); })
+      .map(function(v){ return '<option value="'+esc(v)+'">'; }).join("");
+    dl.dataset.n="1";
+  }
+  $("cjTu").checked=!!p.tu;
+  var rec=(p.recent||[]).filter(function(x){ return x!==cjQuery && x!==cjResolved; });
+  $("cjRecent").innerHTML = rec.length
+    ? '<span class="hint">Recent</span>'+rec.map(function(v){ return '<button class="btn tiny" data-cj="'+esc(v)+'">'+esc(v)+'</button>'; }).join("")
+    : "";
+
+  var q=cjQuery;
+  if(!q){
+    var mv=Object.keys(mine).sort(function(a,b){ return a.localeCompare(b,"pt"); });
+    out.innerHTML = mv.length
+      ? '<div class="card"><div class="kicker" style="margin-bottom:10px">Verbs from your vocabulary ('+mv.length+')</div><div class="cjchips">'+
+          mv.map(function(v){ return '<button class="cjchip" data-cj="'+esc(v)+'">'+esc(v)+'</button>'; }).join("")+'</div></div>'
+      : '<div class="empty">Type a verb above — <i>falar</i>, <i>fazer</i>, <i>levantar-se</i> — or a form you came across, like <i>fiz</i>.</div>';
+    return;
+  }
+
+  /* resolve what was typed: infinitive, a conjugated form, or English */
+  var inf=null, note="";
+  var qq = q==="por" ? "pôr" : q==="por-se" ? "pôr-se" : q;
+  if(/^[a-zà-ú-]+(ar|er|ir|or|ôr)(-se)?$/.test(qq) && Conj.conjugate(qq.replace(/-se$/,""))) inf=qq;
+  if(!inf || !(mine[inf]||Conj.isKnown(inf.replace(/-se$/,"")))){
+    var hits=cjFind(q.replace(/^(eu|tu|você|ele|ela|nós|vós|vocês|eles|elas|a gente) /,""));
+    if(hits.length && !(inf && hits.every(function(h){ return h.inf===inf; }))){
+      var h=hits[0]; cjHit=h; inf=h.inf;
+      note='<b>'+esc(q)+'</b> is '+h.where.slice(0,3).map(function(w){
+          return (w[0]==="ger"||w[0]==="part")? 'the '+cjTenseName(w[0]) : cjTenseName(w[0])+', '+CJ_PRON[w[1]].split(" · ")[0];
+        }).join("; ")+' of <b>'+esc(inf)+'</b>.'+
+        (hits.length>1?' Also a form of '+hits.slice(1,4).map(function(x){ return '<button class="linkbtn" data-cj="'+esc(x.inf)+'">'+esc(x.inf)+'</button>'; }).join(", ")+'.':"");
+    }
+  }
+  if(!inf){
+    var en=q.replace(/^to /,""), cands=Object.keys(mine).filter(function(v){
+      return fold(mine[v]).replace(/^to /,"").split(/[,;/]| or /).some(function(s){ return s.trim()===fold(en) || s.trim().indexOf(fold(en)+" ")===0; });
+    });
+    if(cands.length===1){ inf=cands[0]; note='“'+esc(q)+'” — from your vocabulary: <b>'+esc(inf)+'</b>.'; }
+    else if(cands.length){
+      out.innerHTML='<div class="card">More than one verb in your vocabulary means “'+esc(q)+'”: '+
+        cands.map(function(v){ return '<button class="btn tiny" data-cj="'+esc(v)+'">'+esc(v)+'</button>'; }).join(" ")+'</div>';
+      return;
+    }
+  }
+  if(!inf){
+    out.innerHTML='<div class="empty">Couldn’t find a verb for “'+esc(q)+'”. Type the infinitive — it ends in <b>-ar</b>, <b>-er</b>, <b>-ir</b> or is <b>pôr</b>.</div>';
+    return;
+  }
+
+  var C=cjBuild(inf);
+  if(!C){ out.innerHTML='<div class="empty">“'+esc(inf)+'” doesn’t look like an infinitive.</div>'; return; }
+  cjResolved=inf;
+  var shadow=cjRegularShadow(C.base), showTu=!!p.tu;
+  var rows = showTu ? [0,1,2,3,4,5] : [0,2,3,5];
+  var gloss = mine[inf] || mine[C.base] || "";
+  var known = Conj.isKnown(C.base) || mine[inf] || mine[C.base];
+  var odd=0;
+  if(shadow) Object.keys(shadow).forEach(function(k){ (C.raw.t[k]||[]).forEach(function(f,i){ if(f && f!==shadow[k][i]) odd++; }); });
+  var kind = C.irregular ? (C.irrBase && C.irrBase!==C.base ? 'Irregular — conjugates like <b>'+esc(C.irrBase)+'</b>' : 'Irregular')
+           : odd ? 'Regular <b>-'+C.base.slice(-2)+'</b> verb with some spelling or stem changes — they’re in blue'
+                 : 'Regular <b>-'+C.base.slice(-2)+'</b> verb — follows the pattern exactly';
+
+  var html = (note?'<div class="cjnote">'+note+'</div>':"")+
+    '<div class="cjhead card">'+
+      '<div><div class="cjinf">'+esc(C.inf)+'</div>'+(gloss?'<div class="cjen">'+esc(gloss)+'</div>':"")+
+        '<div class="cjkind">'+kind+'</div></div>'+
+      '<dl class="cjnon">'+
+        '<div><dt>Gerúndio</dt><dd>'+esc(C.ger)+'</dd></div>'+
+        '<div><dt>Particípio</dt><dd>'+esc(C.part.join(" / "))+'</dd></div>'+
+      '</dl>'+
+    '</div>'+
+    (!known ? '<div class="hint" style="margin:-4px 0 14px">Not in the app’s verb list, so this follows the regular pattern. Double-check anything unusual.</div>' : "")+
+    '<div class="hint cjlegend"><span class="cjirr">bold blue</span> = differs from the regular pattern</div>';
+
+  CJ_TENSES.forEach(function(G){
+    html+='<div class="cjgroup"><div class="cjg"><h3>'+G.g+'</h3>'+(G.note?'<span class="hint">'+G.note+'</span>':"")+'</div><div class="cjgrid">';
+    G.items.forEach(function(it){
+      var k=it[0], forms=C.t[k];
+      html+='<div class="cjcard"><div class="cjt">'+it[1]+'</div><div class="cjsub">'+it[2]+'</div><table class="cjtab">';
+      rows.forEach(function(i){
+        var f=forms[i]; if(f==null){ return; }
+        var reg = shadow && shadow[k] && !C.refl ? shadow[k][i] : null;
+        var irr = reg && k.charAt(0)!=="_" && f!==reg;
+        var hit = cjHit && cjHit.where.some(function(w){ return w[0]===k && w[1]===i; });
+        var pron = (k==="impNeg"||k==="impAf") ? CJ_PRON[i].split(" · ")[0] : CJ_PRON[i];
+        if(k==="sub") pron="que "+pron.split(" · ")[0]; else if(k==="simp") pron="se "+pron.split(" · ")[0];
+        else if(k==="sfut") pron="quando "+pron.split(" · ")[0]; else if(k==="ipess") pron="para "+pron.split(" · ")[0];
+        html+='<tr class="'+(i===1||i===4?"cjold":"")+(hit?" cjhit":"")+'"><td class="cjp">'+esc(pron)+'</td><td class="cjf'+(irr?" cjirr":"")+'">'+esc(f)+'</td></tr>';
+      });
+      html+='</table></div>';
+    });
+    html+='</div></div>';
+  });
+  out.innerHTML=html;
+}
+
+(function(){
+  var inp=$("cjIn");
+  $("cjGo").addEventListener("click",function(){ cjLookup(inp.value); });
+  inp.addEventListener("keydown",function(e){ if(e.key==="Enter"){ e.preventDefault(); cjLookup(inp.value); } });
+  inp.addEventListener("change",function(){ if(inp.value && inp.value!==cjQuery && /(ar|er|ir|ôr)(-se)?$/.test(inp.value)) cjLookup(inp.value); });
+  $("cjTu").addEventListener("change",function(){ var p=cjPrefs(); p.tu=this.checked; cjSavePrefs(p); renderVerbos(); });
+  $("v-verbos").addEventListener("click",function(e){
+    var a=e.target.closest("[data-cacc]");
+    if(a){ var s=inp.selectionStart||inp.value.length;
+      inp.value=inp.value.slice(0,s)+a.dataset.cacc+inp.value.slice(inp.selectionEnd||s);
+      inp.focus(); inp.setSelectionRange(s+1,s+1); return; }
+    var c=e.target.closest("[data-cj]");
+    if(c){ inp.value=c.dataset.cj; cjLookup(c.dataset.cj); window.scrollTo(0,0); }
+  });
+})();
+/* from a word card anywhere in the app */
+document.addEventListener("click",function(e){
+  var b=e.target.closest("[data-conj]"); if(!b) return;
+  go("verbos"); $("cjIn").value=b.dataset.conj; cjLookup(b.dataset.conj);
+});
 
 /* ---------- boot ---------- */
 $("sDate").value=today();

@@ -5,13 +5,14 @@ through: each chapter holds its own transcribed pages, its own vocabulary, and i
 
 One file. No build step, no dependencies, no server. `index.html` is the whole app.
 
-## The five pages
+## The pages
 
 | Page | What's on it |
 |---|---|
 | **Livro** | Every chapter as a card, with a bar showing how much of its vocabulary is solid. Open one and you get its notes, its words, and a button to quiz just that chapter. |
 | **Praticar** | Four quiz modes over any slice of your words — flashcards, multiple choice, type-the-answer (accent-aware, with an accent keypad), and listen-and-identify using the native-speaker clips. |
 | **Vocabulário** | Every word across every chapter, in book order by default (also newest-first or A–Z). Search, filter by chapter, by what's due, by what keeps tripping you up, or by what still needs audio. |
+| **Verbos** | Type any verb (or a form you ran into, like *fiz*, or an English gloss from your vocabulary) and get every conjugation: indicative, subjunctive, imperative, plus the spoken compounds (*estou fazendo*, *vou fazer*, *tenho feito*). Forms that break the regular pattern are in blue. `-se` verbs get their pronouns. Rule-based and offline, with a built-in table of irregular verbs. Every verb card in Vocabulário has a **Conjugar** button. |
 | **Progresso** | Streak, minutes studied, how far through the book you are, a class log recording the date, chapter, pages and topic of every session, and the words that keep slipping. |
 | **Ajustes** | Name your book, back up to JSON, load starter phrases. |
 
