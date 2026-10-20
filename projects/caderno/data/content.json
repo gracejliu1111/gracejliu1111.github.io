@@ -1,6 +1,6 @@
 {
- "version": 15,
- "note": "Lição 7 com áudio — 101 gravações novas do Fred.",
+ "version": 16,
+ "note": "Lições 8–10 com áudio — 319 gravações novas do Fred. O livro inteiro agora tem áudio.",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -9524,7 +9524,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "785286537fe8",
+    "path": "audio/785286537fe8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o vinho",
@@ -9534,7 +9539,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "753053fa6782",
+    "path": "audio/753053fa6782.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o vinho branco",
@@ -9544,7 +9554,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "5350c99b1237",
+    "path": "audio/5350c99b1237.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o vinho tinto",
@@ -9554,7 +9569,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "f6635d25212a",
+    "path": "audio/f6635d25212a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a carne",
@@ -9564,7 +9584,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "9c8ab26aee0b",
+    "path": "audio/9c8ab26aee0b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a carne de vaca",
@@ -9574,7 +9599,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "3841aa2a68c3",
+    "path": "audio/3841aa2a68c3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a carne de porco",
@@ -9584,7 +9614,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "ba10e42cf7e4",
+    "path": "audio/ba10e42cf7e4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o peixe",
@@ -9594,7 +9629,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "c940bbd96e4f",
+    "path": "audio/c940bbd96e4f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o sanduíche",
@@ -9604,7 +9644,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "11986eaa6b5b",
+    "path": "audio/11986eaa6b5b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a salada",
@@ -9614,7 +9659,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "89ff60d2b2b2",
+    "path": "audio/89ff60d2b2b2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a alface",
@@ -9624,7 +9674,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "d42dad475444",
+    "path": "audio/d42dad475444.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o suco de laranja",
@@ -9634,7 +9689,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "94e7a861d697",
+    "path": "audio/94e7a861d697.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cardápio",
@@ -9644,7 +9704,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "328036a35cde",
+    "path": "audio/328036a35cde.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o garçom",
@@ -9654,7 +9719,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "d81a5fe33196",
+    "path": "audio/d81a5fe33196.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o prato",
@@ -9664,7 +9734,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "f13741c7ee23",
+    "path": "audio/f13741c7ee23.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a sobremesa",
@@ -9674,7 +9749,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "384c080676f2",
+    "path": "audio/384c080676f2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o sal",
@@ -9684,7 +9764,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "4c2e06c18a0c",
+    "path": "audio/4c2e06c18a0c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a pimenta",
@@ -9694,7 +9779,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "60b18235981b",
+    "path": "audio/60b18235981b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o pão",
@@ -9704,7 +9794,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "e5790c0f711b",
+    "path": "audio/e5790c0f711b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a manteiga",
@@ -9714,7 +9809,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "0f71303cfd12",
+    "path": "audio/0f71303cfd12.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a sopa",
@@ -9724,7 +9824,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "bdbe5f71c98f",
+    "path": "audio/bdbe5f71c98f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "os legumes",
@@ -9734,7 +9839,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "ff6345d391ee",
+    "path": "audio/ff6345d391ee.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "as verduras",
@@ -9744,7 +9854,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "4734009db65b",
+    "path": "audio/4734009db65b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a cebola",
@@ -9754,7 +9869,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "1dc3ea9ef607",
+    "path": "audio/1dc3ea9ef607.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o alho",
@@ -9764,7 +9884,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "4e50ef0930ac",
+    "path": "audio/4e50ef0930ac.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a vagem",
@@ -9774,7 +9899,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "8f1a49ddeb75",
+    "path": "audio/8f1a49ddeb75.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a ervilha",
@@ -9784,7 +9914,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "570e48ae112b",
+    "path": "audio/570e48ae112b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o feijão",
@@ -9794,7 +9929,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "44eaa52b62b6",
+    "path": "audio/44eaa52b62b6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o arroz",
@@ -9804,7 +9944,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "4402d0425687",
+    "path": "audio/4402d0425687.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o limão",
@@ -9814,7 +9959,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "d8a86f7cbc0b",
+    "path": "audio/d8a86f7cbc0b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a cereja",
@@ -9824,7 +9974,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "7336377e0178",
+    "path": "audio/7336377e0178.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o aperitivo",
@@ -9834,7 +9989,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "afbfcf36b7c1",
+    "path": "audio/afbfcf36b7c1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o coquetel",
@@ -9844,7 +10004,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "3eb3ca47a323",
+    "path": "audio/3eb3ca47a323.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o frango",
@@ -9854,7 +10019,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "6ca21153cb52",
+    "path": "audio/6ca21153cb52.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "as batatas fritas",
@@ -9864,7 +10034,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "133e3386028d",
+    "path": "audio/133e3386028d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o morango",
@@ -9874,7 +10049,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "d02df705e48a",
+    "path": "audio/d02df705e48a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o chocolate",
@@ -9884,7 +10064,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "0f86d2a71e74",
+    "path": "audio/0f86d2a71e74.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o bolo",
@@ -9894,7 +10079,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "bf4e3fa846cc",
+    "path": "audio/bf4e3fa846cc.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a torta de maçã",
@@ -9904,7 +10094,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "e70c17f49469",
+    "path": "audio/e70c17f49469.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o bolo de coco",
@@ -9914,7 +10109,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "c0c8384a30d8",
+    "path": "audio/c0c8384a30d8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o purê de batatas",
@@ -9924,7 +10124,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "4f8354f026b0",
+    "path": "audio/4f8354f026b0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o café com leite",
@@ -9934,7 +10139,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "21365698f5a8",
+    "path": "audio/21365698f5a8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a taça",
@@ -9944,7 +10154,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "354bafcb69c9",
+    "path": "audio/354bafcb69c9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "os talheres",
@@ -9954,7 +10169,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "cecf1a23e3c2",
+    "path": "audio/cecf1a23e3c2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o garfo",
@@ -9964,7 +10184,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "fc5a486e7f56",
+    "path": "audio/fc5a486e7f56.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a faca",
@@ -9974,7 +10199,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "0f7b0806d418",
+    "path": "audio/0f7b0806d418.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a colher",
@@ -9984,7 +10214,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "4a26c6939aed",
+    "path": "audio/4a26c6939aed.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a tigela",
@@ -9994,7 +10229,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "931c1485fcde",
+    "path": "audio/931c1485fcde.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o guardanapo",
@@ -10004,7 +10244,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "73e68d173b08",
+    "path": "audio/73e68d173b08.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a toalha de mesa",
@@ -10014,7 +10259,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "bb7c6758ecad",
+    "path": "audio/bb7c6758ecad.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a conta",
@@ -10024,7 +10274,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "0e4403f19f0e",
+    "path": "audio/0e4403f19f0e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a entrada",
@@ -10035,7 +10290,12 @@
     "lazer",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "40e3606c1fac",
+    "path": "audio/40e3606c1fac.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o prato principal",
@@ -10045,7 +10305,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "c407b9640e74",
+    "path": "audio/c407b9640e74.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a taxa de serviço",
@@ -10055,7 +10320,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "d5b83adf1d86",
+    "path": "audio/d5b83adf1d86.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a lista de espera",
@@ -10065,7 +10335,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "31df8dded016",
+    "path": "audio/31df8dded016.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a porção individual",
@@ -10075,7 +10350,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "9e52acaae6de",
+    "path": "audio/9e52acaae6de.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cheque",
@@ -10085,7 +10365,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "adde49861d1e",
+    "path": "audio/adde49861d1e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "torrado",
@@ -10095,7 +10380,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "08c07edee4ae",
+    "path": "audio/08c07edee4ae.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "assado",
@@ -10105,7 +10395,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "a6eb889f21ed",
+    "path": "audio/a6eb889f21ed.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "cozido",
@@ -10115,7 +10410,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "041ca1837ef8",
+    "path": "audio/041ca1837ef8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "grelhado",
@@ -10125,7 +10425,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "1bafdfc8ab18",
+    "path": "audio/1bafdfc8ab18.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "cru",
@@ -10135,7 +10440,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "6e1ecf9077d0",
+    "path": "audio/6e1ecf9077d0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "bem passado",
@@ -10145,7 +10455,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "eaaacd9d2562",
+    "path": "audio/eaaacd9d2562.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ao ponto",
@@ -10155,7 +10470,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "bb2667af1c3e",
+    "path": "audio/bb2667af1c3e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "mal passado",
@@ -10165,7 +10485,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "0aa6508e2b75",
+    "path": "audio/0aa6508e2b75.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "delicioso",
@@ -10175,7 +10500,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "c4dcf32529e2",
+    "path": "audio/c4dcf32529e2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "gelado",
@@ -10185,7 +10515,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "e3b2fc28ba31",
+    "path": "audio/e3b2fc28ba31.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "típico",
@@ -10195,7 +10530,12 @@
     "comida",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "a72590b243c4",
+    "path": "audio/a72590b243c4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "escrever",
@@ -10205,7 +10545,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "bf6514824ae3",
+    "path": "audio/bf6514824ae3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "entender",
@@ -10215,7 +10560,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "fe8494965758",
+    "path": "audio/fe8494965758.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "correr",
@@ -10225,7 +10575,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "560012c9e9f4",
+    "path": "audio/560012c9e9f4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "perceber",
@@ -10235,7 +10590,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "e46c0851fef2",
+    "path": "audio/e46c0851fef2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "esconder",
@@ -10245,7 +10605,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "f9c874ce9256",
+    "path": "audio/f9c874ce9256.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "receber",
@@ -10255,7 +10620,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "a1d9cfd150b6",
+    "path": "audio/a1d9cfd150b6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "morrer",
@@ -10265,7 +10635,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "b0f0a6404405",
+    "path": "audio/b0f0a6404405.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "devolver",
@@ -10275,7 +10650,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "4637ce3b06a2",
+    "path": "audio/4637ce3b06a2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "viver",
@@ -10285,7 +10665,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "7b4de78fb143",
+    "path": "audio/7b4de78fb143.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "parecer",
@@ -10295,7 +10680,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "b12a4a2f99d3",
+    "path": "audio/b12a4a2f99d3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "beber",
@@ -10305,7 +10695,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "ca5a5d3d48f8",
+    "path": "audio/ca5a5d3d48f8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "comer",
@@ -10315,7 +10710,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "3190ee7f3dd1",
+    "path": "audio/3190ee7f3dd1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "escolher",
@@ -10325,7 +10725,12 @@
     "verbos -er",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "bc0db2de91bf",
+    "path": "audio/bc0db2de91bf.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "abrir",
@@ -10335,7 +10740,12 @@
     "verbos -ir",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "65ba61bfc6c8",
+    "path": "audio/65ba61bfc6c8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "assistir",
@@ -10345,7 +10755,12 @@
     "verbos -ir",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "552580b142c6",
+    "path": "audio/552580b142c6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "discutir",
@@ -10355,7 +10770,12 @@
     "verbos -ir",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "16594dd4fc6c",
+    "path": "audio/16594dd4fc6c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dividir",
@@ -10365,7 +10785,12 @@
     "verbos -ir",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "1b9d5bd15372",
+    "path": "audio/1b9d5bd15372.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "partir",
@@ -10375,7 +10800,12 @@
     "verbos -ir",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "5c846e504030",
+    "path": "audio/5c846e504030.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "decidir",
@@ -10385,7 +10815,12 @@
     "verbos -ir",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "94a052b07ef4",
+    "path": "audio/94a052b07ef4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "insistir",
@@ -10395,7 +10830,12 @@
     "verbos -ir",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "7f9e3fa754ea",
+    "path": "audio/7f9e3fa754ea.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "pedir",
@@ -10405,7 +10845,12 @@
     "verbos -ir",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "6ac6d0c07699",
+    "path": "audio/6ac6d0c07699.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu escrevo",
@@ -10415,7 +10860,12 @@
     "verbos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "6ea579cb4cf4",
+    "path": "audio/6ea579cb4cf4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós escrevemos",
@@ -10425,7 +10875,12 @@
     "verbos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "6bf57d8605ef",
+    "path": "audio/6bf57d8605ef.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu abro",
@@ -10435,7 +10890,12 @@
     "verbos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "00e28fc2b25f",
+    "path": "audio/00e28fc2b25f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós abrimos",
@@ -10445,7 +10905,12 @@
     "verbos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "48536146fbdb",
+    "path": "audio/48536146fbdb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu prefiro",
@@ -10455,7 +10920,12 @@
     "verbos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "9e1dcd51cd89",
+    "path": "audio/9e1dcd51cd89.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "preferir",
@@ -10465,7 +10935,12 @@
     "verbos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "5023373a3b42",
+    "path": "audio/5023373a3b42.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "recomendar",
@@ -10475,7 +10950,12 @@
     "verbos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "b8c27f497499",
+    "path": "audio/b8c27f497499.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "reservar",
@@ -10485,7 +10965,12 @@
     "verbos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "32b66eb23121",
+    "path": "audio/32b66eb23121.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "acompanhar",
@@ -10495,7 +10980,12 @@
     "verbos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "3e445745bbac",
+    "path": "audio/3e445745bbac.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "aceitar",
@@ -10505,7 +10995,12 @@
     "verbos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "ada7bdfa3652",
+    "path": "audio/ada7bdfa3652.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "desejar",
@@ -10515,7 +11010,12 @@
     "verbos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "e311035cd03c",
+    "path": "audio/e311035cd03c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "este / esta",
@@ -10525,7 +11025,12 @@
     "demonstrativos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "f75e558742fa",
+    "path": "audio/f75e558742fa.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "estes / estas",
@@ -10535,7 +11040,12 @@
     "demonstrativos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "f874bf4c1cb5",
+    "path": "audio/f874bf4c1cb5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "esse / essa",
@@ -10545,7 +11055,12 @@
     "demonstrativos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "0ec0d15ef6a7",
+    "path": "audio/0ec0d15ef6a7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "esses / essas",
@@ -10555,7 +11070,12 @@
     "demonstrativos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "3734a81135ee",
+    "path": "audio/3734a81135ee.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "aquele / aquela",
@@ -10565,7 +11085,12 @@
     "demonstrativos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "41240c94c6af",
+    "path": "audio/41240c94c6af.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "aqueles / aquelas",
@@ -10575,7 +11100,12 @@
     "demonstrativos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "459dddc0bcac",
+    "path": "audio/459dddc0bcac.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "isto",
@@ -10585,7 +11115,12 @@
     "demonstrativos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "f47f5f4dea30",
+    "path": "audio/f47f5f4dea30.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "isso",
@@ -10595,7 +11130,12 @@
     "demonstrativos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "dd28a7b9429e",
+    "path": "audio/dd28a7b9429e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "aquilo",
@@ -10605,7 +11145,12 @@
     "demonstrativos",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "639d562f28d7",
+    "path": "audio/639d562f28d7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu gostaria",
@@ -10615,7 +11160,12 @@
     "expressões",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "3967cdaa39e5",
+    "path": "audio/3967cdaa39e5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu quero",
@@ -10625,7 +11175,12 @@
     "expressões",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "4817e9a2e542",
+    "path": "audio/4817e9a2e542.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o que você deseja",
@@ -10635,7 +11190,12 @@
     "expressões",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "b66d107c0dbe",
+    "path": "audio/b66d107c0dbe.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Com licença",
@@ -10645,7 +11205,12 @@
     "expressões",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "cda8e844c4c4",
+    "path": "audio/cda8e844c4c4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Pois não.",
@@ -10655,7 +11220,12 @@
     "expressões",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "590773e5ec53",
+    "path": "audio/590773e5ec53.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Está bem.",
@@ -10665,7 +11235,12 @@
     "expressões",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "7adcfb72d857",
+    "path": "audio/7adcfb72d857.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Venha por aqui.",
@@ -10675,7 +11250,12 @@
     "expressões",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "408ab67fa355",
+    "path": "audio/408ab67fa355.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Bom apetite!",
@@ -10685,7 +11265,12 @@
     "expressões",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "e2266e5182d8",
+    "path": "audio/e2266e5182d8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Excelente escolha!",
@@ -10695,7 +11280,12 @@
     "expressões",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "4d2673407785",
+    "path": "audio/4d2673407785.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "com gás",
@@ -10705,7 +11295,12 @@
     "expressões",
     "lição 8"
    ],
-   "chapterId": "ch-licao-8"
+   "chapterId": "ch-licao-8",
+   "audio": {
+    "key": "cb102107c4e5",
+    "path": "audio/cb102107c4e5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o programador",
@@ -10715,7 +11310,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "1e43659d9cfe",
+    "path": "audio/1e43659d9cfe.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o veterinário",
@@ -10725,7 +11325,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "6fa84e93fba3",
+    "path": "audio/6fa84e93fba3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o piloto",
@@ -10735,7 +11340,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "c7bb2343d3c0",
+    "path": "audio/c7bb2343d3c0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o advogado",
@@ -10745,7 +11355,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "777a0d7682cd",
+    "path": "audio/777a0d7682cd.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o ator",
@@ -10755,7 +11370,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "ec50ba2e3439",
+    "path": "audio/ec50ba2e3439.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o jornalista",
@@ -10765,7 +11385,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "05126bbf0c59",
+    "path": "audio/05126bbf0c59.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o diretor",
@@ -10775,7 +11400,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "7d782f049932",
+    "path": "audio/7d782f049932.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o escritor",
@@ -10785,7 +11415,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "0ef7e6472d20",
+    "path": "audio/0ef7e6472d20.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cozinheiro",
@@ -10795,7 +11430,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "ef69f24b217a",
+    "path": "audio/ef69f24b217a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o vendedor",
@@ -10805,7 +11445,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "1c06ad910ccb",
+    "path": "audio/1c06ad910ccb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o faxineiro",
@@ -10815,7 +11460,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "562ac4ae4825",
+    "path": "audio/562ac4ae4825.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o assistente",
@@ -10825,7 +11475,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "c0ab0ca7aa20",
+    "path": "audio/c0ab0ca7aa20.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o trabalhador",
@@ -10835,7 +11490,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "3107a225ae6b",
+    "path": "audio/3107a225ae6b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a diretora de produção",
@@ -10845,7 +11505,12 @@
     "profissões",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "7021e92d05d0",
+    "path": "audio/7021e92d05d0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "programar",
@@ -10855,7 +11520,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "282539eab8c9",
+    "path": "audio/282539eab8c9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "cuidar de",
@@ -10865,7 +11535,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "e18b842e37f3",
+    "path": "audio/e18b842e37f3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "voar",
@@ -10875,7 +11550,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "e17a31490f2e",
+    "path": "audio/e17a31490f2e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "defender",
@@ -10885,7 +11565,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "422c4648102f",
+    "path": "audio/422c4648102f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ensaiar",
@@ -10895,7 +11580,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "dd73a9ffd561",
+    "path": "audio/dd73a9ffd561.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "entrevistar",
@@ -10905,7 +11595,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "ac2b09b19df4",
+    "path": "audio/ac2b09b19df4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dirigir",
@@ -10915,7 +11610,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "ad071311b686",
+    "path": "audio/ad071311b686.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "limpar",
@@ -10925,7 +11625,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "8a4161564e91",
+    "path": "audio/8a4161564e91.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "tratar",
@@ -10935,7 +11640,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "0c002507decf",
+    "path": "audio/0c002507decf.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "fazer faxina",
@@ -10945,7 +11655,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "0b23a9324843",
+    "path": "audio/0b23a9324843.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vender",
@@ -10955,7 +11670,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "e11a4c88e0a1",
+    "path": "audio/e11a4c88e0a1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "investir",
@@ -10965,7 +11685,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "3cfd45852167",
+    "path": "audio/3cfd45852167.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "entregar",
@@ -10975,7 +11700,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "f41534b81062",
+    "path": "audio/f41534b81062.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "marcar",
@@ -10985,7 +11715,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "a2e53107457a",
+    "path": "audio/a2e53107457a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "adiar",
@@ -10995,7 +11730,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "3d3922d3921f",
+    "path": "audio/3d3922d3921f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ficar",
@@ -11005,7 +11745,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "7588bd6c1cb4",
+    "path": "audio/7588bd6c1cb4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "virar",
@@ -11015,7 +11760,12 @@
     "verbos",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "e889dbdacb80",
+    "path": "audio/e889dbdacb80.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ir",
@@ -11025,7 +11775,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "8845889eb681",
+    "path": "audio/8845889eb681.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu vou",
@@ -11035,7 +11790,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "3e402c0084ae",
+    "path": "audio/3e402c0084ae.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você vai",
@@ -11045,7 +11805,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "f0f3f3960ffc",
+    "path": "audio/f0f3f3960ffc.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós vamos",
@@ -11055,7 +11820,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "f5ea2d86c975",
+    "path": "audio/f5ea2d86c975.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês vão",
@@ -11065,7 +11835,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "47363dfde2e2",
+    "path": "audio/47363dfde2e2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles vão",
@@ -11075,7 +11850,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "9f00c7331342",
+    "path": "audio/9f00c7331342.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "fazer",
@@ -11085,7 +11865,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "d8b7e2edd19f",
+    "path": "audio/d8b7e2edd19f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu faço",
@@ -11095,7 +11880,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "6cf097f79067",
+    "path": "audio/6cf097f79067.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você faz",
@@ -11105,7 +11895,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "810fdb567e34",
+    "path": "audio/810fdb567e34.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós fazemos",
@@ -11115,7 +11910,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "6eec8b7ffeb7",
+    "path": "audio/6eec8b7ffeb7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês fazem",
@@ -11125,7 +11925,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "8f6c5c1c90ca",
+    "path": "audio/8f6c5c1c90ca.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles fazem",
@@ -11135,7 +11940,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "38c1c4fda2e5",
+    "path": "audio/38c1c4fda2e5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ao",
@@ -11145,7 +11955,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "fc870cc23a4a",
+    "path": "audio/fc870cc23a4a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "à",
@@ -11155,7 +11970,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "1399b3909c96",
+    "path": "audio/1399b3909c96.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "aos",
@@ -11165,7 +11985,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "1f7746dbc14e",
+    "path": "audio/1f7746dbc14e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "às",
@@ -11175,7 +12000,12 @@
     "verbos irregulares",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "4628b721c233",
+    "path": "audio/4628b721c233.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "os dias da semana",
@@ -11185,7 +12015,12 @@
     "dias",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "4df20da783f5",
+    "path": "audio/4df20da783f5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "segunda-feira",
@@ -11195,7 +12030,12 @@
     "dias",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "577cf95cf0a1",
+    "path": "audio/577cf95cf0a1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "terça-feira",
@@ -11205,7 +12045,12 @@
     "dias",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "4ee23deebea9",
+    "path": "audio/4ee23deebea9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "quarta-feira",
@@ -11215,7 +12060,12 @@
     "dias",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "73099c009770",
+    "path": "audio/73099c009770.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "quinta-feira",
@@ -11225,7 +12075,12 @@
     "dias",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "5450fb9fd1d2",
+    "path": "audio/5450fb9fd1d2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "sexta-feira",
@@ -11235,7 +12090,12 @@
     "dias",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "a6358a39bf86",
+    "path": "audio/a6358a39bf86.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "sábado",
@@ -11245,7 +12105,12 @@
     "dias",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "e3ba0a04c452",
+    "path": "audio/e3ba0a04c452.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "domingo",
@@ -11255,7 +12120,12 @@
     "dias",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "885fd2f03230",
+    "path": "audio/885fd2f03230.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "os meses do ano",
@@ -11265,7 +12135,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "18444b3f70dc",
+    "path": "audio/18444b3f70dc.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "janeiro",
@@ -11275,7 +12150,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "1dffe48c25a0",
+    "path": "audio/1dffe48c25a0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "fevereiro",
@@ -11285,7 +12165,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "9ddfa2167cb9",
+    "path": "audio/9ddfa2167cb9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "março",
@@ -11295,7 +12180,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "cec0bb43a514",
+    "path": "audio/cec0bb43a514.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "abril",
@@ -11305,7 +12195,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "c307334514b9",
+    "path": "audio/c307334514b9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "maio",
@@ -11315,7 +12210,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "21dbd40ea5bb",
+    "path": "audio/21dbd40ea5bb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "junho",
@@ -11325,7 +12225,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "ce54fb8fc14e",
+    "path": "audio/ce54fb8fc14e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "julho",
@@ -11335,7 +12240,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "c7c3bdf99d5e",
+    "path": "audio/c7c3bdf99d5e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "agosto",
@@ -11345,7 +12255,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "f572d696f85b",
+    "path": "audio/f572d696f85b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "setembro",
@@ -11355,7 +12270,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "98f1cd880122",
+    "path": "audio/98f1cd880122.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "outubro",
@@ -11365,7 +12285,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "4d231cd1e36b",
+    "path": "audio/4d231cd1e36b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "novembro",
@@ -11375,7 +12300,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "04728ec93dfc",
+    "path": "audio/04728ec93dfc.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dezembro",
@@ -11385,7 +12315,12 @@
     "meses",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "59a3a2ea18bb",
+    "path": "audio/59a3a2ea18bb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a primavera",
@@ -11395,7 +12330,12 @@
     "estações",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "cb633fef7a0c",
+    "path": "audio/cb633fef7a0c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o verão",
@@ -11405,7 +12345,12 @@
     "estações",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "ed1199b15363",
+    "path": "audio/ed1199b15363.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o outono",
@@ -11415,7 +12360,12 @@
     "estações",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "ee3e50d17939",
+    "path": "audio/ee3e50d17939.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o inverno",
@@ -11425,7 +12375,12 @@
     "estações",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "031d75d5bd7b",
+    "path": "audio/031d75d5bd7b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "fazer negócios",
@@ -11435,7 +12390,12 @@
     "expressões com fazer",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "bc9a74bafeb4",
+    "path": "audio/bc9a74bafeb4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Não faz mal.",
@@ -11445,7 +12405,12 @@
     "expressões com fazer",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "d831441efb03",
+    "path": "audio/d831441efb03.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "fazer amigos",
@@ -11455,7 +12420,12 @@
     "expressões com fazer",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "ab11888092c6",
+    "path": "audio/ab11888092c6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "fazer xx anos",
@@ -11465,7 +12435,12 @@
     "expressões com fazer",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "d1315c91707c",
+    "path": "audio/d1315c91707c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "fazer tempo bom",
@@ -11475,7 +12450,12 @@
     "expressões com fazer",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "05fcd13eb6ca",
+    "path": "audio/05fcd13eb6ca.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "fazer compras",
@@ -11485,7 +12465,12 @@
     "expressões com fazer",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "1609250cf12a",
+    "path": "audio/1609250cf12a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "fazer ginástica",
@@ -11495,7 +12480,12 @@
     "expressões com fazer",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "add8456d6eeb",
+    "path": "audio/add8456d6eeb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "fazer uma viagem de negócios",
@@ -11505,7 +12495,12 @@
     "expressões com fazer",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "2371091eeafb",
+    "path": "audio/2371091eeafb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a empresa",
@@ -11515,7 +12510,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "8b2eac2cc276",
+    "path": "audio/8b2eac2cc276.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a firma",
@@ -11525,7 +12525,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "96033b498a15",
+    "path": "audio/96033b498a15.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a companhia",
@@ -11535,7 +12540,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "6ef9e32962fb",
+    "path": "audio/6ef9e32962fb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o aumento",
@@ -11545,7 +12555,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "734237cf3d1b",
+    "path": "audio/734237cf3d1b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o bônus",
@@ -11555,7 +12570,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "383db4522682",
+    "path": "audio/383db4522682.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a reunião",
@@ -11565,7 +12585,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "c873c404ca34",
+    "path": "audio/c873c404ca34.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o projeto",
@@ -11575,7 +12600,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "d08c93db52dc",
+    "path": "audio/d08c93db52dc.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a greve",
@@ -11585,7 +12615,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "926e109cdb51",
+    "path": "audio/926e109cdb51.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "entrar em greve",
@@ -11595,7 +12630,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "350f2d4d90ea",
+    "path": "audio/350f2d4d90ea.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "tirar férias",
@@ -11605,7 +12645,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "36f57f185164",
+    "path": "audio/36f57f185164.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "tirar o dia de folga",
@@ -11615,7 +12660,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "0ee0988d8b3e",
+    "path": "audio/0ee0988d8b3e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "tirar licença médica",
@@ -11625,7 +12675,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "c12701562014",
+    "path": "audio/c12701562014.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a agenda",
@@ -11635,7 +12690,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "dd63df5a5267",
+    "path": "audio/dd63df5a5267.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "lotado",
@@ -11645,7 +12705,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "76e023c97cda",
+    "path": "audio/76e023c97cda.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a apresentação de vendas",
@@ -11655,7 +12720,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "8297726fe624",
+    "path": "audio/8297726fe624.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "pronto",
@@ -11665,7 +12735,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "92cbe3a79c3a",
+    "path": "audio/92cbe3a79c3a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o circo",
@@ -11675,7 +12750,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "e193d8d697aa",
+    "path": "audio/e193d8d697aa.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o jogo de futebol",
@@ -11685,7 +12765,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "5a83be75b2b4",
+    "path": "audio/5a83be75b2b4.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "as festas de fim de ano",
@@ -11695,7 +12780,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "32ad36b2369d",
+    "path": "audio/32ad36b2369d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "amanhã",
@@ -11705,7 +12795,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "f237dd138d8b",
+    "path": "audio/f237dd138d8b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "cheio",
@@ -11715,7 +12810,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "c7a204e80a43",
+    "path": "audio/c7a204e80a43.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Que sorte!",
@@ -11725,7 +12825,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "d05ecd6622dd",
+    "path": "audio/d05ecd6622dd.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a peça de teatro",
@@ -11735,7 +12840,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "debeca7afbc5",
+    "path": "audio/debeca7afbc5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o romance",
@@ -11745,7 +12855,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "34fe22d471e9",
+    "path": "audio/34fe22d471e9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a comida",
@@ -11755,7 +12870,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "d872e50aec1b",
+    "path": "audio/d872e50aec1b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o produto",
@@ -11765,7 +12885,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "76b8bf9cf78e",
+    "path": "audio/76b8bf9cf78e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o político",
@@ -11775,7 +12900,12 @@
     "trabalho",
     "lição 9"
    ],
-   "chapterId": "ch-licao-9"
+   "chapterId": "ch-licao-9",
+   "audio": {
+    "key": "21d028ac6d54",
+    "path": "audio/21d028ac6d54.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "gostar de",
@@ -11785,7 +12915,12 @@
     "gostar",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "04a5b2cf64b2",
+    "path": "audio/04a5b2cf64b2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu gosto",
@@ -11795,7 +12930,12 @@
     "gostar",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "f071a04f6b64",
+    "path": "audio/f071a04f6b64.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você gosta",
@@ -11805,7 +12945,12 @@
     "gostar",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "803def939c98",
+    "path": "audio/803def939c98.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós gostamos",
@@ -11815,7 +12960,12 @@
     "gostar",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "56345f498939",
+    "path": "audio/56345f498939.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês gostam",
@@ -11825,7 +12975,12 @@
     "gostar",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "1de67585019f",
+    "path": "audio/1de67585019f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles gostam",
@@ -11835,7 +12990,12 @@
     "gostar",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "1221932dcc83",
+    "path": "audio/1221932dcc83.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "adorar",
@@ -11845,7 +13005,12 @@
     "gostar",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "f7cb42a0dc98",
+    "path": "audio/f7cb42a0dc98.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "detestar",
@@ -11855,7 +13020,12 @@
     "gostar",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "9a0e3fbacafc",
+    "path": "audio/9a0e3fbacafc.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "odiar",
@@ -11865,7 +13035,12 @@
     "gostar",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "981e7c0c188c",
+    "path": "audio/981e7c0c188c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "concordar",
@@ -11875,7 +13050,12 @@
     "gostar",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "5fa96f43a45c",
+    "path": "audio/5fa96f43a45c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ler",
@@ -11885,7 +13065,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "18b8c58fbfad",
+    "path": "audio/18b8c58fbfad.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu leio",
@@ -11895,7 +13080,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "8be56db58bfb",
+    "path": "audio/8be56db58bfb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você lê",
@@ -11905,7 +13095,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "3a669fc8b292",
+    "path": "audio/3a669fc8b292.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós lemos",
@@ -11915,7 +13110,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "9a7448aeed4e",
+    "path": "audio/9a7448aeed4e.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês leem",
@@ -11925,7 +13125,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "663a244d4652",
+    "path": "audio/663a244d4652.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles leem",
@@ -11935,7 +13140,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "d855868a8a23",
+    "path": "audio/d855868a8a23.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vir",
@@ -11945,7 +13155,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "8e564f28d79a",
+    "path": "audio/8e564f28d79a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu venho",
@@ -11955,7 +13170,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "92681f50d99c",
+    "path": "audio/92681f50d99c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você vem",
@@ -11965,7 +13185,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "00922b3dcf35",
+    "path": "audio/00922b3dcf35.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós vimos",
@@ -11975,7 +13200,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "758de7b10926",
+    "path": "audio/758de7b10926.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês vêm",
@@ -11985,7 +13215,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "47bedcc33501",
+    "path": "audio/47bedcc33501.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles vêm",
@@ -11995,7 +13230,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "5674da55df57",
+    "path": "audio/5674da55df57.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "dar",
@@ -12005,7 +13245,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "97115c27559c",
+    "path": "audio/97115c27559c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu dou",
@@ -12015,7 +13260,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "760c157c5681",
+    "path": "audio/760c157c5681.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você dá",
@@ -12025,7 +13275,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "da5a70687c74",
+    "path": "audio/da5a70687c74.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós damos",
@@ -12035,7 +13290,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "1c50a1444dd8",
+    "path": "audio/1c50a1444dd8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês dão",
@@ -12045,7 +13305,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "11de5ea649b8",
+    "path": "audio/11de5ea649b8.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles dão",
@@ -12055,7 +13320,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "f7e17dc6bff2",
+    "path": "audio/f7e17dc6bff2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "sair",
@@ -12065,7 +13335,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "847ffcd03a06",
+    "path": "audio/847ffcd03a06.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu saio",
@@ -12075,7 +13350,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "ed805b18570d",
+    "path": "audio/ed805b18570d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você sai",
@@ -12085,7 +13365,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "9b6a36e998d0",
+    "path": "audio/9b6a36e998d0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós saímos",
@@ -12095,7 +13380,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "8438432fa638",
+    "path": "audio/8438432fa638.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês saem",
@@ -12105,7 +13395,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "80e957afde4f",
+    "path": "audio/80e957afde4f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles saem",
@@ -12115,7 +13410,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "df178a549897",
+    "path": "audio/df178a549897.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "querer",
@@ -12125,7 +13425,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "fd961d81baac",
+    "path": "audio/fd961d81baac.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você quer",
@@ -12135,7 +13440,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "8813c543d89d",
+    "path": "audio/8813c543d89d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós queremos",
@@ -12145,7 +13455,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "4fea935446c2",
+    "path": "audio/4fea935446c2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês querem",
@@ -12155,7 +13470,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "817d3c4a6226",
+    "path": "audio/817d3c4a6226.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles querem",
@@ -12165,7 +13485,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "a653836174b6",
+    "path": "audio/a653836174b6.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "poder",
@@ -12175,7 +13500,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "0200f507a5f0",
+    "path": "audio/0200f507a5f0.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eu posso",
@@ -12185,7 +13515,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "8ddaa25435b7",
+    "path": "audio/8ddaa25435b7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "você pode",
@@ -12195,7 +13530,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "d4ee71555221",
+    "path": "audio/d4ee71555221.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nós podemos",
@@ -12205,7 +13545,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "95fe14051070",
+    "path": "audio/95fe14051070.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "vocês podem",
@@ -12215,7 +13560,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "9abacbafaa57",
+    "path": "audio/9abacbafaa57.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "eles podem",
@@ -12225,7 +13575,12 @@
     "verbos irregulares",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "405471fafb62",
+    "path": "audio/405471fafb62.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "descansar",
@@ -12235,7 +13590,12 @@
     "verbos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "b3faab57793c",
+    "path": "audio/b3faab57793c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "nadar",
@@ -12245,7 +13605,12 @@
     "verbos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "a9ea0be9cecb",
+    "path": "audio/a9ea0be9cecb.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "esquiar",
@@ -12255,7 +13620,12 @@
     "verbos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "f93fd2a6f19f",
+    "path": "audio/f93fd2a6f19f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "tocar piano",
@@ -12265,7 +13635,12 @@
     "verbos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "d9370d084c7f",
+    "path": "audio/d9370d084c7f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "assistir a",
@@ -12275,7 +13650,12 @@
     "verbos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "690b4a8080a2",
+    "path": "audio/690b4a8080a2.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "telefonar",
@@ -12285,7 +13665,12 @@
     "verbos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "fd3d581c7989",
+    "path": "audio/fd3d581c7989.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "caridade",
@@ -12295,7 +13680,12 @@
     "verbos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "3f5b50faca8b",
+    "path": "audio/3f5b50faca8b.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "ir a pé",
@@ -12305,7 +13695,12 @@
     "verbos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "6e1edc5b5f54",
+    "path": "audio/6e1edc5b5f54.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "viajar de navio",
@@ -12315,7 +13710,12 @@
     "verbos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "fc2ff59b32ec",
+    "path": "audio/fc2ff59b32ec.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o ingresso",
@@ -12325,7 +13725,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "c9ac86cac45a",
+    "path": "audio/c9ac86cac45a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a passagem",
@@ -12335,7 +13740,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "5499a9a20028",
+    "path": "audio/5499a9a20028.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o show",
@@ -12345,7 +13755,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "d336f7680e91",
+    "path": "audio/d336f7680e91.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a inauguração",
@@ -12355,7 +13770,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "0e0c5b2815ab",
+    "path": "audio/0e0c5b2815ab.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a sessão",
@@ -12365,7 +13785,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "4a7590305b35",
+    "path": "audio/4a7590305b35.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o lugar",
@@ -12375,7 +13800,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "f6f3551bb68f",
+    "path": "audio/f6f3551bb68f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o trem",
@@ -12385,7 +13815,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "ac9f78c8299f",
+    "path": "audio/ac9f78c8299f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o navio",
@@ -12395,7 +13830,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "17d390751d76",
+    "path": "audio/17d390751d76.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o carnaval",
@@ -12405,7 +13845,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "b8df9d5541e1",
+    "path": "audio/b8df9d5541e1.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o trânsito",
@@ -12415,7 +13860,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "2d37d9650f54",
+    "path": "audio/2d37d9650f54.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cinema",
@@ -12425,7 +13875,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "4c7356f6f007",
+    "path": "audio/4c7356f6f007.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o teatro",
@@ -12435,7 +13890,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "9597da9d6120",
+    "path": "audio/9597da9d6120.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o cantor",
@@ -12445,7 +13905,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "a0c9fc3590d3",
+    "path": "audio/a0c9fc3590d3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o ator favorito",
@@ -12455,7 +13920,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "e5ce8a31d0c5",
+    "path": "audio/e5ce8a31d0c5.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "predileto",
@@ -12465,7 +13935,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "ac6ea0a3eccf",
+    "path": "audio/ac6ea0a3eccf.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "favorito",
@@ -12475,7 +13950,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "947f7ed2159d",
+    "path": "audio/947f7ed2159d.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o filme de ação",
@@ -12485,7 +13965,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "bf1fd0c26b63",
+    "path": "audio/bf1fd0c26b63.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o filme antigo",
@@ -12495,7 +13980,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "9562d5c1a198",
+    "path": "audio/9562d5c1a198.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a maratona",
@@ -12505,7 +13995,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "0dc850697c1a",
+    "path": "audio/0dc850697c1a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "a biografia",
@@ -12515,7 +14010,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "394c39e411b9",
+    "path": "audio/394c39e411b9.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "o jogo de tênis",
@@ -12525,7 +14025,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "95c2c9f14133",
+    "path": "audio/95c2c9f14133.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "os planos",
@@ -12535,7 +14040,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "e2e0d2244615",
+    "path": "audio/e2e0d2244615.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "caro",
@@ -12545,7 +14055,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "ba0180e76b9c",
+    "path": "audio/ba0180e76b9c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "violento",
@@ -12555,7 +14070,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "522b88c9e6bd",
+    "path": "audio/522b88c9e6bd.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "divertido",
@@ -12565,7 +14085,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "dd0326a77013",
+    "path": "audio/dd0326a77013.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Que divertido!",
@@ -12575,7 +14100,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "4e14f3ed4f52",
+    "path": "audio/4e14f3ed4f52.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "Claro, vamos!",
@@ -12585,7 +14115,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "6cf85e112b47",
+    "path": "audio/6cf85e112b47.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "principalmente",
@@ -12595,7 +14130,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "4e42ecbc34bc",
+    "path": "audio/4e42ecbc34bc.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "mais tarde",
@@ -12605,7 +14145,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "0b7b551f490c",
+    "path": "audio/0b7b551f490c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "juntos",
@@ -12615,7 +14160,12 @@
     "lazer",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "b14040cb7fec",
+    "path": "audio/b14040cb7fec.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "deste / desta",
@@ -12625,7 +14175,12 @@
     "demonstrativos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "9f4aa8896653",
+    "path": "audio/9f4aa8896653.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "desse / dessa",
@@ -12635,7 +14190,12 @@
     "demonstrativos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "5144ed050ae3",
+    "path": "audio/5144ed050ae3.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "daquele / daquela",
@@ -12645,7 +14205,12 @@
     "demonstrativos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "1480cd5aab6c",
+    "path": "audio/1480cd5aab6c.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "destes / destas",
@@ -12655,7 +14220,12 @@
     "demonstrativos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "90d0ace2795f",
+    "path": "audio/90d0ace2795f.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "desses / dessas",
@@ -12665,7 +14235,12 @@
     "demonstrativos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "170c3b1f3e9a",
+    "path": "audio/170c3b1f3e9a.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "daqueles / daquelas",
@@ -12675,7 +14250,12 @@
     "demonstrativos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "da8885895408",
+    "path": "audio/da8885895408.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "disto",
@@ -12685,7 +14265,12 @@
     "demonstrativos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "5277ab5f6dd7",
+    "path": "audio/5277ab5f6dd7.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "disso",
@@ -12695,7 +14280,12 @@
     "demonstrativos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "42676cea4e30",
+    "path": "audio/42676cea4e30.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   },
   {
    "pt": "daquilo",
@@ -12705,7 +14295,12 @@
     "demonstrativos",
     "lição 10"
    ],
-   "chapterId": "ch-licao-10"
+   "chapterId": "ch-licao-10",
+   "audio": {
+    "key": "c8c9d02f8985",
+    "path": "audio/c8c9d02f8985.webm",
+    "type": "audio/webm;codecs=opus"
+   }
   }
  ],
  "notes": [
