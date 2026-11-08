@@ -1,6 +1,6 @@
 {
- "version": 16,
- "note": "Lições 8–10 com áudio — 319 gravações novas do Fred. O livro inteiro agora tem áudio.",
+ "version": 17,
+ "note": "Livro 2 — Intermediate: Unidade 1 (lições 1–4 e revisão).",
  "chapters": [
   {
    "id": "ch-alfabeto",
@@ -61,6 +61,46 @@
    "num": "10",
    "title": "Among Friends",
    "pages": "159–178"
+  },
+  {
+   "id": "b2-u1-l1",
+   "num": "1.1",
+   "title": "Words",
+   "pages": "14–25",
+   "book": 2,
+   "label": "Unit 1 · Lesson 1"
+  },
+  {
+   "id": "b2-u1-l2",
+   "num": "1.2",
+   "title": "Phrases",
+   "pages": "27–38",
+   "book": 2,
+   "label": "Unit 1 · Lesson 2"
+  },
+  {
+   "id": "b2-u1-l3",
+   "num": "1.3",
+   "title": "Sentences",
+   "pages": "38–52",
+   "book": 2,
+   "label": "Unit 1 · Lesson 3"
+  },
+  {
+   "id": "b2-u1-l4",
+   "num": "1.4",
+   "title": "Conversations",
+   "pages": "52–63",
+   "book": 2,
+   "label": "Unit 1 · Lesson 4"
+  },
+  {
+   "id": "b2-u1-ess",
+   "num": "1.5",
+   "title": "Unit 1 Essentials",
+   "pages": "64–70",
+   "book": 2,
+   "label": "Unit 1 · Review"
   }
  ],
  "vocab": [
@@ -14301,6 +14341,3066 @@
     "path": "audio/c8c9d02f8985.webm",
     "type": "audio/webm;codecs=opus"
    }
+  },
+  {
+   "pt": "oi",
+   "en": "hi",
+   "ex": "",
+   "tags": [
+    "saudações",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "bom dia",
+   "en": "good morning",
+   "ex": "",
+   "tags": [
+    "saudações",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "boa tarde",
+   "en": "good afternoon",
+   "ex": "",
+   "tags": [
+    "saudações",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "boa noite",
+   "en": "good evening / good night",
+   "ex": "",
+   "tags": [
+    "saudações",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o professor",
+   "en": "teacher (m./f.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a professora",
+   "en": "teacher (m./f.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o médico",
+   "en": "doctor / physician (m./f.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a médica",
+   "en": "doctor / physician (m./f.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o estudante",
+   "en": "student (m./f.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a casa",
+   "en": "house / home",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "bom",
+   "en": "good (m./f.)",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o pai",
+   "en": "father",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a mãe",
+   "en": "mother",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o marido",
+   "en": "husband",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a mulher",
+   "en": "woman / wife",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o homem",
+   "en": "man",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "tchau",
+   "en": "bye! (infml.)",
+   "ex": "",
+   "tags": [
+    "saudações",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o brasileiro",
+   "en": "Brazilian man / woman",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a brasileira",
+   "en": "Brazilian man / woman",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o italiano",
+   "en": "the Italian man",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a italiana",
+   "en": "the Italian woman",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "japonês",
+   "en": "Japanese man / woman",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o secretário",
+   "en": "the male secretary",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a secretária",
+   "en": "the female secretary",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o carro",
+   "en": "car",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o hotel",
+   "en": "hotel",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a praia",
+   "en": "beach",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o apartamento",
+   "en": "apartment",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a caneta",
+   "en": "pen",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o cão",
+   "en": "dog",
+   "ex": "",
+   "tags": [
+    "animais",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a mesa",
+   "en": "table",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o açúcar",
+   "en": "sugar",
+   "ex": "",
+   "tags": [
+    "comida",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a cama",
+   "en": "bed",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o relógio",
+   "en": "watch / clock",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a mala",
+   "en": "suitcase",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o dia",
+   "en": "day",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o motor",
+   "en": "engine",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o lápis",
+   "en": "pencil",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o jornal",
+   "en": "newspaper",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o restaurante",
+   "en": "restaurant",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o escritório",
+   "en": "office",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a igreja",
+   "en": "church",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o americano",
+   "en": "American man",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a francesa",
+   "en": "French woman",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a enfermeira",
+   "en": "female nurse",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a água",
+   "en": "water",
+   "ex": "",
+   "tags": [
+    "comida",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o café",
+   "en": "coffee",
+   "ex": "",
+   "tags": [
+    "comida",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a criança",
+   "en": "child (m./f.)",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a gente",
+   "en": "people; we (conversational)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a pessoa",
+   "en": "person",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "as pessoas",
+   "en": "people",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o irmão",
+   "en": "brother",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a irmã",
+   "en": "sister",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o avô",
+   "en": "grandfather",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a avó",
+   "en": "grandmother",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o tio",
+   "en": "uncle",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a tia",
+   "en": "aunt",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o sobrinho",
+   "en": "nephew",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a sobrinha",
+   "en": "niece",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o sogro",
+   "en": "father-in-law",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a sogra",
+   "en": "mother-in-law",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "pouco",
+   "en": "little",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "pequeno",
+   "en": "small",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "muito",
+   "en": "very",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "bem",
+   "en": "well, fine",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "e",
+   "en": "and",
+   "ex": "",
+   "tags": [
+    "palavras",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o povo",
+   "en": "the people (of a country)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "feliz",
+   "en": "happy",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o livro",
+   "en": "book",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a camisa",
+   "en": "shirt",
+   "ex": "",
+   "tags": [
+    "roupa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o avião",
+   "en": "airplane",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a ação",
+   "en": "action",
+   "ex": "",
+   "tags": [
+    "palavras",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o pão",
+   "en": "bread",
+   "ex": "",
+   "tags": [
+    "comida",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "alemão",
+   "en": "German man",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o som",
+   "en": "sound",
+   "ex": "",
+   "tags": [
+    "palavras",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o doutor",
+   "en": "doctor",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a luz",
+   "en": "light",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o mês",
+   "en": "month",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "a capital",
+   "en": "capital (city)",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o espanhol",
+   "en": "Spaniard",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "o papel",
+   "en": "paper",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l1"
+  },
+  {
+   "pt": "uma casa grande",
+   "en": "a big house",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "um apartamento pequeno",
+   "en": "a small apartment",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "umas janelas",
+   "en": "some windows",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "uns sofás",
+   "en": "some sofas",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "uns computadores novos",
+   "en": "some new computers",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "uma janela grande",
+   "en": "a large window",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "uma cozinha ótima",
+   "en": "a great kitchen",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "um banheiro limpo",
+   "en": "a clean bathroom",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Com licença",
+   "en": "excuse me",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Desculpe.",
+   "en": "sorry",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "de nada",
+   "en": "you're welcome",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Muito obrigado.",
+   "en": "thank you very much (m./f.)",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Muito obrigada.",
+   "en": "thank you very much (m./f.)",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "um",
+   "en": "one (m./f.)",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "uma",
+   "en": "one (m./f.)",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "dois",
+   "en": "two (m./f.)",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "duas",
+   "en": "two (m./f.)",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "três",
+   "en": "three",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "quatro",
+   "en": "four",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "cinco",
+   "en": "five",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "seis",
+   "en": "six",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "sete",
+   "en": "seven",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "oito",
+   "en": "eight",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "nove",
+   "en": "nine",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "dez",
+   "en": "ten",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "onze",
+   "en": "eleven",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "doze",
+   "en": "twelve",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "treze",
+   "en": "thirteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "quatorze",
+   "en": "fourteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "quinze",
+   "en": "fifteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "dezesseis",
+   "en": "sixteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "dezessete",
+   "en": "seventeen",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "dezoito",
+   "en": "eighteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "dezenove",
+   "en": "nineteen",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "vinte",
+   "en": "twenty",
+   "ex": "",
+   "tags": [
+    "números",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "o quarto",
+   "en": "bedroom",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "o banheiro",
+   "en": "bathroom",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "o armário",
+   "en": "cupboard",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "a estante",
+   "en": "bookcase",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "a chave",
+   "en": "key",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "a arquiteta",
+   "en": "architect (f.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "casado",
+   "en": "married",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Tudo bem?",
+   "en": "How's it going? / How are you doing?",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Como vai?",
+   "en": "How are you? (infml.)",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "O prazer é meu.",
+   "en": "The pleasure is mine.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Quero apresentar…",
+   "en": "I want to introduce…",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Muito prazer.",
+   "en": "It's a pleasure.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "até logo",
+   "en": "Bye. (fml.)",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Até mais.",
+   "en": "See you later.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Tudo bem.",
+   "en": "Everything's fine.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Está certo.",
+   "en": "OK. It's all right.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Como está?",
+   "en": "How are you doing?",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Está tudo bem?",
+   "en": "Is everything all right?",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Você está bem?",
+   "en": "Are you well?",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Está quente.",
+   "en": "It's hot.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Está frio.",
+   "en": "It's cold.",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "o aperto de mãos",
+   "en": "handshake",
+   "ex": "",
+   "tags": [
+    "cultura",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "beijar",
+   "en": "to kiss",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "um abraço",
+   "en": "a hug",
+   "ex": "",
+   "tags": [
+    "cultura",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "estar",
+   "en": "to be (temporary: location, state, quality)",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "em ordem",
+   "en": "tidy, in order",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "hoje",
+   "en": "today",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "pronto",
+   "en": "ready",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "o gato",
+   "en": "cat",
+   "ex": "",
+   "tags": [
+    "animais",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "o cachorro",
+   "en": "dog",
+   "ex": "",
+   "tags": [
+    "animais",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "a sala",
+   "en": "living room",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "a garagem",
+   "en": "garage",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "aqui",
+   "en": "here",
+   "ex": "",
+   "tags": [
+    "palavras",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "o colega",
+   "en": "colleague",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "tarde",
+   "en": "late",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l2"
+  },
+  {
+   "pt": "Este é meu amigo Roberto.",
+   "en": "This is my friend Roberto.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Eu sou americana.",
+   "en": "I'm American. (f.)",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Eu sou de Nova Iorque.",
+   "en": "I'm from New York.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Você é do Rio?",
+   "en": "Are you from Rio?",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Nós não somos do Rio.",
+   "en": "We're not from Rio.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Eu sou casado.",
+   "en": "I am married. (m.)",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Ele é solteiro.",
+   "en": "He's single.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Eles são daqui.",
+   "en": "They're from here.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Nós somos de São Paulo.",
+   "en": "We're from São Paulo.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "A minha mulher é advogada.",
+   "en": "My wife is a lawyer.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Gostaria de apresentá-lo ao Sr. Luís.",
+   "en": "I'd like to introduce you to Mr. Luís.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Muito prazer em conhecê-lo também.",
+   "en": "It's a pleasure to meet you, too.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Ele é nosso gerente de vendas.",
+   "en": "He's our sales manager.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Como você se chama?",
+   "en": "What's your name?",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o amigo",
+   "en": "friend (m./f.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a amiga",
+   "en": "friend (m./f.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "solteiro",
+   "en": "single (unmarried)",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "daqui",
+   "en": "from here",
+   "ex": "",
+   "tags": [
+    "palavras",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o advogado",
+   "en": "lawyer (m./f.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o gerente de vendas",
+   "en": "sales manager",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o turista",
+   "en": "tourist (m./f.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "ser",
+   "en": "to be (permanent: origin, profession, characteristic)",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "eu",
+   "en": "I",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "você",
+   "en": "you (sg.)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "ele",
+   "en": "he, it",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "ela",
+   "en": "she, it",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "nós",
+   "en": "we",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "vocês",
+   "en": "you (pl.)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "eles",
+   "en": "they (m. or mixed)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "elas",
+   "en": "they (f.)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "A minha família é grande.",
+   "en": "My family is big.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "As camas são estreitas.",
+   "en": "The beds are narrow.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "O quarto é pequeno, mas é confortável.",
+   "en": "The room is small, but it is comfortable.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "As flores são caras, mas são lindas.",
+   "en": "The flowers are expensive, but they are beautiful.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "A casa é em uma rua calma.",
+   "en": "The house is on a quiet street.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "As crianças não estão no jardim.",
+   "en": "The children aren't in the garden.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Nossa mãe é advogada.",
+   "en": "Our mother is a lawyer.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Meus pais são divorciados.",
+   "en": "My parents are divorced.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Nossos amigos são americanos.",
+   "en": "Our friends are American.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Os olhos de Maria são castanhos.",
+   "en": "Maria's eyes are brown.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Os filhos de Carlos são loiros.",
+   "en": "Carlos's children are blond.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Pedro é alto, mas Maria é baixa.",
+   "en": "Pedro is tall but Maria is short.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "grande",
+   "en": "big",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "estreito",
+   "en": "narrow",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "confortável",
+   "en": "comfortable",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "caro",
+   "en": "expensive",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "lindo",
+   "en": "beautiful",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "calmo",
+   "en": "quiet, calm",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "divorciado",
+   "en": "divorced",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "castanho",
+   "en": "brown (eyes, hair)",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "loiro",
+   "en": "blond",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "alto",
+   "en": "tall",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "baixo",
+   "en": "short",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a flor",
+   "en": "flower",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "os olhos",
+   "en": "eyes",
+   "ex": "",
+   "tags": [
+    "corpo",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "os pais",
+   "en": "parents",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "os filhos",
+   "en": "children (sons and daughters)",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o jardim",
+   "en": "garden",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a rua",
+   "en": "street",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "mas",
+   "en": "but",
+   "ex": "",
+   "tags": [
+    "palavras",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "velho",
+   "en": "old",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "bonito",
+   "en": "pretty",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "rápido",
+   "en": "fast",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "novo",
+   "en": "new",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "mau",
+   "en": "bad (m./f.)",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "ruim",
+   "en": "bad",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a filha",
+   "en": "daughter",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o barco",
+   "en": "boat",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a revista",
+   "en": "magazine",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o filme",
+   "en": "film",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a festa",
+   "en": "party",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o menino",
+   "en": "boy",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a menina",
+   "en": "girl",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a banheira",
+   "en": "bathtub",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a cadeira",
+   "en": "chair",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o sofá",
+   "en": "sofa",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a maçã",
+   "en": "apple",
+   "ex": "",
+   "tags": [
+    "comida",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "cheio",
+   "en": "full",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "fechado",
+   "en": "closed",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "redondo",
+   "en": "round",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "vazio",
+   "en": "empty",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "os cabelos",
+   "en": "hair",
+   "ex": "",
+   "tags": [
+    "corpo",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o banco",
+   "en": "bank",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a loja",
+   "en": "store",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a xícara",
+   "en": "cup",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a porta",
+   "en": "door",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "aberto",
+   "en": "open",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "doente",
+   "en": "sick",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "É uma hora.",
+   "en": "It's one o'clock.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a Europa",
+   "en": "Europe",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a piscina",
+   "en": "swimming pool",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o engenheiro",
+   "en": "engineer",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o arquiteto",
+   "en": "architect",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "o copo",
+   "en": "glass",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "internacional",
+   "en": "international",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "nacional",
+   "en": "national",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a prima",
+   "en": "female cousin",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "a escola",
+   "en": "school",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l3"
+  },
+  {
+   "pt": "Gostaria de apresentá-la ao Senhor Paul Jones.",
+   "en": "I'd like to introduce you to Mr. Paul Jones.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "o arquiteto",
+   "en": "architect",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Muito prazer em conhecê-lo.",
+   "en": "It's a pleasure to meet you.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "O prazer é todo meu.",
+   "en": "The pleasure is all mine.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "a diretora de vendas",
+   "en": "sales director (f.)",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "trabalhar",
+   "en": "to work",
+   "ex": "",
+   "tags": [
+    "verbos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "a filial",
+   "en": "branch (of a company)",
+   "ex": "",
+   "tags": [
+    "trabalho",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Não conheço São Paulo.",
+   "en": "I've never been to São Paulo.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "ouvi falar que…",
+   "en": "I've heard that…",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "a cidade",
+   "en": "city",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "É verdade.",
+   "en": "That's true.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Com licença, mas preciso ir agora.",
+   "en": "Excuse me, but I have to go now.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "agora",
+   "en": "now",
+   "ex": "",
+   "tags": [
+    "tempo",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "o senhor",
+   "en": "sir / ma'am; you (formal)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "a senhora",
+   "en": "sir / ma'am; you (formal)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Seu",
+   "en": "Mr., Sir (spoken, before a first name)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Dona",
+   "en": "Mrs., Ms., Ma'am (spoken, before a first name)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Sr.",
+   "en": "Mr. (written)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Sra.",
+   "en": "Mrs. (written)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "meu / minha",
+   "en": "my",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "seu / sua",
+   "en": "your; his, her, their",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "nosso / nossa",
+   "en": "our",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "dele",
+   "en": "his / her (of him, of her)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "dela",
+   "en": "his / her (of him, of her)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "deles",
+   "en": "their (of them, m. / f.)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "delas",
+   "en": "their (of them, m. / f.)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "importado",
+   "en": "imported",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "a poltrona",
+   "en": "armchair",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "moderno",
+   "en": "modern",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Legal!",
+   "en": "nice, cool",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "jovem",
+   "en": "young",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Olhe a foto.",
+   "en": "Look at the picture.",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "a casa de praia",
+   "en": "beach house",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Você está ótima na foto!",
+   "en": "You look great in the photograph!",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Quem são?",
+   "en": "Who are they?",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "loiro",
+   "en": "blond",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "loira",
+   "en": "blonde",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Puxa!",
+   "en": "Wow!",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "o cabelo grisalho",
+   "en": "gray hair",
+   "ex": "",
+   "tags": [
+    "corpo",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "tão",
+   "en": "so",
+   "ex": "",
+   "tags": [
+    "palavras",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "elegante",
+   "en": "elegant",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "o sobrinho",
+   "en": "nephew",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "atraente",
+   "en": "attractive",
+   "ex": "",
+   "tags": [
+    "adjetivos",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "Que pena!",
+   "en": "Too bad! / What a pity!",
+   "ex": "",
+   "tags": [
+    "expressões",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "a morena",
+   "en": "brunette",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "o cabelo comprido",
+   "en": "long hair",
+   "ex": "",
+   "tags": [
+    "corpo",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "a foto",
+   "en": "photo, picture",
+   "ex": "",
+   "tags": [
+    "coisas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "o fotógrafo",
+   "en": "photographer",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "o engenheiro",
+   "en": "engineer (m.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "a engenheira",
+   "en": "engineer (f.)",
+   "ex": "",
+   "tags": [
+    "pessoas",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "o quadro",
+   "en": "painting, picture",
+   "ex": "",
+   "tags": [
+    "casa",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "o primo",
+   "en": "male cousin",
+   "ex": "",
+   "tags": [
+    "família",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "De onde você é?",
+   "en": "Where are you from?",
+   "ex": "",
+   "tags": [
+    "frases",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "a Inglaterra",
+   "en": "England",
+   "ex": "",
+   "tags": [
+    "lugares",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "inglês",
+   "en": "English",
+   "ex": "",
+   "tags": [
+    "nacionalidades",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-l4"
+  },
+  {
+   "pt": "teu",
+   "en": "your (infml., m.)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-ess"
+  },
+  {
+   "pt": "tua",
+   "en": "your (infml., f.)",
+   "ex": "",
+   "tags": [
+    "pronomes",
+    "livro 2"
+   ],
+   "chapterId": "b2-u1-ess"
   }
  ],
  "notes": [
@@ -23389,6 +26489,3311 @@
       "use querer and poder (unsure? p. 168)",
       "talk about socializing and entertaining (unsure? p. 172)"
      ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l1",
+   "title": "Unit 1 — Talking about Yourself and Your Family",
+   "source": "p. 14",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "This unit reviews the core of Book 1 — gender and plural of nouns, definite and indefinite articles, and the verbs estar and ser — and adds vocabulary for talking about yourself, your family and your home, plus adjective agreement and possessives."
+    },
+    {
+     "t": "callout",
+     "text": "Livro novo, unidade nova! — New book, new unit!"
+    },
+    {
+     "t": "p",
+     "text": "By the end of this lesson you'll know:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "how to greet people",
+      "gender of nouns and definite articles",
+      "how to talk about people and family",
+      "plural of nouns and definite articles"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l1",
+   "title": "Word Builder 1 — greetings and people",
+   "source": "p. 15 · CD 4, track 2",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "oi",
+       "hi"
+      ],
+      [
+       "bom dia",
+       "good morning"
+      ],
+      [
+       "boa tarde",
+       "good afternoon"
+      ],
+      [
+       "boa noite",
+       "good evening / good night"
+      ],
+      [
+       "professor(a)",
+       "teacher"
+      ],
+      [
+       "médico(a)",
+       "doctor"
+      ],
+      [
+       "estudante",
+       "student"
+      ],
+      [
+       "casa",
+       "house / home"
+      ],
+      [
+       "bom / boa",
+       "good"
+      ],
+      [
+       "pai",
+       "father"
+      ],
+      [
+       "mãe",
+       "mother"
+      ],
+      [
+       "marido",
+       "husband"
+      ],
+      [
+       "mulher",
+       "woman / wife"
+      ],
+      [
+       "homem",
+       "man"
+      ],
+      [
+       "tchau!",
+       "bye! (infml.)"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Tip: try several ways to memorize vocabulary — write new words in a notebook, say them aloud, record yourself, label things at home, make flashcards. Go Portuguese → English first, then English → Portuguese, which is harder."
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l1",
+   "title": "Gender of nouns and definite articles",
+   "source": "pp. 17–18 · CD 4, track 3",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Every Portuguese noun is masculine or feminine, and the definite article (the) shows which: o for masculine, a for feminine."
+    },
+    {
+     "t": "table",
+     "head": [
+      "Masculine",
+      "Feminine"
+     ],
+     "rows": [
+      [
+       "o brasileiro — the Brazilian man",
+       "a brasileira — the Brazilian woman"
+      ],
+      [
+       "o italiano — the Italian man",
+       "a italiana — the Italian woman"
+      ],
+      [
+       "o japonês — the Japanese man",
+       "a japonesa — the Japanese woman"
+      ],
+      [
+       "o professor — the male teacher",
+       "a professora — the female teacher"
+      ],
+      [
+       "o médico — the male physician",
+       "a médica — the female physician"
+      ],
+      [
+       "o secretário — the male secretary",
+       "a secretária — the female secretary"
+      ],
+      [
+       "o homem — the man",
+       "a mulher — the woman"
+      ],
+      [
+       "o carro — the car",
+       "a casa — the house"
+      ],
+      [
+       "o hotel — the hotel",
+       "a praia — the beach"
+      ],
+      [
+       "o apartamento — the apartment",
+       "a caneta — the pen"
+      ],
+      [
+       "o cão — the dog",
+       "a mesa — the table"
+      ],
+      [
+       "o açúcar — the sugar",
+       "a cama — the bed"
+      ],
+      [
+       "o relógio — the watch / clock",
+       "a mala — the suitcase"
+      ]
+     ]
+    },
+    {
+     "t": "list",
+     "items": [
+      "Nouns in –o are typically masculine, nouns in –a typically feminine — but o dia (the day) is an exception.",
+      "Nouns in –e can be either: o estudante / a estudante.",
+      "Nouns ending in a consonant are usually masculine: o motor, o lápis, o jornal — but a mulher is a common exception.",
+      "Nouns for people usually match the person's biological gender."
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "O and a are used far more than the in English, and they always tell you the gender — so learn every new noun with its article."
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l1",
+   "title": "Word Builder 2 — family and people",
+   "source": "pp. 20–21 · CD 4, track 4",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "a criança",
+       "child (m./f.)"
+      ],
+      [
+       "a gente",
+       "people, we (conversational)"
+      ],
+      [
+       "a pessoa",
+       "person"
+      ],
+      [
+       "as pessoas",
+       "people"
+      ],
+      [
+       "o irmão",
+       "brother"
+      ],
+      [
+       "a irmã",
+       "sister"
+      ],
+      [
+       "o avô",
+       "grandfather"
+      ],
+      [
+       "a avó",
+       "grandmother"
+      ],
+      [
+       "o tio",
+       "uncle"
+      ],
+      [
+       "a tia",
+       "aunt"
+      ],
+      [
+       "o sobrinho",
+       "nephew"
+      ],
+      [
+       "a sobrinha",
+       "niece"
+      ],
+      [
+       "o sogro",
+       "father-in-law"
+      ],
+      [
+       "a sogra",
+       "mother-in-law"
+      ],
+      [
+       "pouco",
+       "little"
+      ],
+      [
+       "pequeno",
+       "small"
+      ],
+      [
+       "muito",
+       "very"
+      ],
+      [
+       "bem",
+       "well, fine"
+      ],
+      [
+       "e",
+       "and"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Take It Further: a gente"
+    },
+    {
+     "t": "p",
+     "text": "A gente literally means the people, but in conversation it often means we — and takes a third-person singular verb."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "A gente é da Argentina.",
+       "We are from Argentina."
+      ],
+      [
+       "A gente é estudante.",
+       "We are students."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Compare a pessoa (person) and as pessoas (people, more than one individual). For the people of a country as a group, use o povo:"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "O povo brasileiro é feliz.",
+       "Brazilians are happy people."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l1",
+   "title": "Plural of nouns and definite articles",
+   "source": "pp. 22–24 · CD 4, track 5",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Most nouns ending in a vowel just add –s. The plural articles are os and as."
+    },
+    {
+     "t": "table",
+     "head": [
+      "Rule",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "vowel → add –s",
+       "o livro, a camisa, a criança, o escritório",
+       "os livros, as camisas, as crianças, os escritórios"
+      ],
+      [
+       "–ão → –ões",
+       "o avião, a ação",
+       "os aviões, as ações"
+      ],
+      [
+       "exceptions (learn case by case)",
+       "o pão, o alemão",
+       "os pães, os alemães"
+      ],
+      [
+       "–m → –ns",
+       "o homem, o som",
+       "os homens, os sons"
+      ],
+      [
+       "–r, –z, –s → add –es",
+       "o doutor, o professor, a luz, o mês",
+       "os doutores, os professores, as luzes, os meses"
+      ],
+      [
+       "–l → drop –l, add –is (accent often added)",
+       "a capital, o hotel, o espanhol, o papel",
+       "as capitais, os hotéis, os espanhóis, os papéis"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Watch the accent: o mês loses it in the plural (os meses), while hotel, espanhol and papel gain one (hotéis, espanhóis, papéis) to mark the stressed syllable."
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l1",
+   "title": "Word Practice 1",
+   "source": "pp. 16–17",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. Translate into Portuguese.",
+     "items": [
+      {
+       "q": "man",
+       "a": "homem"
+      },
+      {
+       "q": "woman",
+       "a": "mulher"
+      },
+      {
+       "q": "wife",
+       "a": "mulher"
+      },
+      {
+       "q": "good morning",
+       "a": "bom dia"
+      },
+      {
+       "q": "good evening",
+       "a": "boa noite"
+      },
+      {
+       "q": "husband",
+       "a": "marido"
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Translate into English.",
+     "items": [
+      {
+       "q": "professora",
+       "a": "teacher (f.)"
+      },
+      {
+       "q": "boa",
+       "a": "good"
+      },
+      {
+       "q": "médico",
+       "a": "doctor"
+      },
+      {
+       "q": "mãe",
+       "a": "mother"
+      },
+      {
+       "q": "casa",
+       "a": "house / home"
+      },
+      {
+       "q": "oi",
+       "a": "hi"
+      },
+      {
+       "q": "tchau",
+       "a": "bye"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l1",
+   "title": "Work Out 1",
+   "source": "pp. 18–19",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Give the correct definite article, o or a.",
+     "items": [
+      {
+       "q": "___ restaurante (the restaurant)",
+       "a": "o"
+      },
+      {
+       "q": "___ escritório (the office)",
+       "a": "o"
+      },
+      {
+       "q": "___ igreja (the church)",
+       "a": "a"
+      },
+      {
+       "q": "___ americano (the American man)",
+       "a": "o"
+      },
+      {
+       "q": "___ francesa (the French woman)",
+       "a": "a"
+      },
+      {
+       "q": "___ enfermeira (the female nurse)",
+       "a": "a"
+      },
+      {
+       "q": "___ água (the water)",
+       "a": "a"
+      },
+      {
+       "q": "___ café (the coffee)",
+       "a": "o"
+      },
+      {
+       "q": "___ açúcar (the sugar)",
+       "a": "o"
+      },
+      {
+       "q": "___ praia (the beach)",
+       "a": "a"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l1",
+   "title": "Word Practice 2",
+   "source": "pp. 21–22",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Translate into Portuguese, with a definite article.",
+     "items": [
+      {
+       "q": "child",
+       "a": "a criança"
+      },
+      {
+       "q": "people",
+       "a": "a gente / as pessoas / o povo"
+      },
+      {
+       "q": "grandmother",
+       "a": "a avó"
+      },
+      {
+       "q": "nephew",
+       "a": "o sobrinho"
+      },
+      {
+       "q": "aunt",
+       "a": "a tia"
+      },
+      {
+       "q": "mother-in-law",
+       "a": "a sogra"
+      },
+      {
+       "q": "uncle",
+       "a": "o tio"
+      },
+      {
+       "q": "grandfather",
+       "a": "o avô"
+      },
+      {
+       "q": "niece",
+       "a": "a sobrinha"
+      },
+      {
+       "q": "person",
+       "a": "a pessoa"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l1",
+   "title": "Work Out 2",
+   "source": "p. 24",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. Translate into English.",
+     "items": [
+      {
+       "q": "os hotéis",
+       "a": "the hotels"
+      },
+      {
+       "q": "os carros",
+       "a": "the cars"
+      },
+      {
+       "q": "as praias",
+       "a": "the beaches"
+      },
+      {
+       "q": "os livros",
+       "a": "the books"
+      },
+      {
+       "q": "os escritórios",
+       "a": "the offices"
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Give the plural.",
+     "items": [
+      {
+       "q": "a ação",
+       "a": "as ações"
+      },
+      {
+       "q": "o homem",
+       "a": "os homens"
+      },
+      {
+       "q": "o jornal",
+       "a": "os jornais"
+      },
+      {
+       "q": "o mês",
+       "a": "os meses"
+      },
+      {
+       "q": "o professor",
+       "a": "os professores"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l1",
+   "title": "Drive It Home",
+   "source": "p. 25",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Add the definite article, then translate.",
+     "items": [
+      {
+       "q": "___ sobrinhas",
+       "a": "as — nieces"
+      },
+      {
+       "q": "___ tio",
+       "a": "o — uncle"
+      },
+      {
+       "q": "___ sogra",
+       "a": "a — mother-in-law"
+      },
+      {
+       "q": "___ gente",
+       "a": "a — people"
+      },
+      {
+       "q": "___ pães",
+       "a": "os — breads"
+      },
+      {
+       "q": "___ homem",
+       "a": "o — man"
+      },
+      {
+       "q": "___ avô",
+       "a": "o — grandfather"
+      },
+      {
+       "q": "___ cães",
+       "a": "os — dogs"
+      },
+      {
+       "q": "___ crianças",
+       "a": "as — children"
+      },
+      {
+       "q": "___ professor",
+       "a": "o — teacher"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l1",
+   "title": "How did you do?",
+   "source": "p. 25",
+   "blocks": [
+    {
+     "t": "list",
+     "items": [
+      "how to greet people (unsure? p. 15)",
+      "gender of nouns and definite articles (unsure? p. 17)",
+      "how to talk about people and family (unsure? p. 20)",
+      "plural of nouns and definite articles (unsure? p. 22)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Lesson goals",
+   "source": "p. 27",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "By the end of this lesson you'll be familiar with:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "indefinite articles",
+      "the verb estar (to be)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Phrase Builder 1 — around the house, and polite words",
+   "source": "p. 27 · CD 4, track 6",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "uma casa grande",
+       "a big house"
+      ],
+      [
+       "um apartamento pequeno",
+       "a small apartment"
+      ],
+      [
+       "umas janelas",
+       "some windows"
+      ],
+      [
+       "uns sofás",
+       "some sofas"
+      ],
+      [
+       "uns computadores novos",
+       "some new computers"
+      ],
+      [
+       "uma janela grande",
+       "a large window"
+      ],
+      [
+       "uma cozinha ótima",
+       "a great kitchen"
+      ],
+      [
+       "um banheiro limpo",
+       "a clean bathroom"
+      ],
+      [
+       "com licença",
+       "excuse me"
+      ],
+      [
+       "desculpe",
+       "sorry"
+      ],
+      [
+       "de nada",
+       "you're welcome"
+      ],
+      [
+       "muito obrigado / muito obrigada",
+       "thank you very much (m./f.)"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Numbers 1–20",
+   "source": "pp. 27–28",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Portuguese",
+      "English"
+     ],
+     "rows": [
+      [
+       "um / uma (m./f.)",
+       "one"
+      ],
+      [
+       "dois / duas (m./f.)",
+       "two"
+      ],
+      [
+       "três",
+       "three"
+      ],
+      [
+       "quatro",
+       "four"
+      ],
+      [
+       "cinco",
+       "five"
+      ],
+      [
+       "seis",
+       "six"
+      ],
+      [
+       "sete",
+       "seven"
+      ],
+      [
+       "oito",
+       "eight"
+      ],
+      [
+       "nove",
+       "nine"
+      ],
+      [
+       "dez",
+       "ten"
+      ],
+      [
+       "onze",
+       "eleven"
+      ],
+      [
+       "doze",
+       "twelve"
+      ],
+      [
+       "treze",
+       "thirteen"
+      ],
+      [
+       "quatorze",
+       "fourteen"
+      ],
+      [
+       "quinze",
+       "fifteen"
+      ],
+      [
+       "dezesseis",
+       "sixteen"
+      ],
+      [
+       "dezessete",
+       "seventeen"
+      ],
+      [
+       "dezoito",
+       "eighteen"
+      ],
+      [
+       "dezenove",
+       "nineteen"
+      ],
+      [
+       "vinte",
+       "twenty"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Only one and two change for gender: uma mulher e um homem (one woman and one man), duas casas e dois carros (two houses and two cars)."
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Indefinite articles",
+   "source": "pp. 29–30 · CD 4, track 7",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Singular (a / an)",
+      "Plural (some)"
+     ],
+     "rows": [
+      [
+       "masculine",
+       "um",
+       "uns"
+      ],
+      [
+       "feminine",
+       "uma",
+       "umas"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "um quarto",
+       "a bedroom"
+      ],
+      [
+       "um banheiro",
+       "a bathroom"
+      ],
+      [
+       "um armário",
+       "a cupboard"
+      ],
+      [
+       "uma estante",
+       "a bookcase"
+      ],
+      [
+       "uma cama",
+       "a bed"
+      ],
+      [
+       "uma chave",
+       "a key"
+      ],
+      [
+       "uns quartos",
+       "some bedrooms"
+      ],
+      [
+       "uns banheiros",
+       "some bathrooms"
+      ],
+      [
+       "uns armários",
+       "some cupboards"
+      ],
+      [
+       "umas estantes",
+       "some bookcases"
+      ],
+      [
+       "umas camas",
+       "some beds"
+      ],
+      [
+       "umas chaves",
+       "some keys"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Negation",
+   "source": "p. 31",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "To make a sentence negative, put não (not) before the verb."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu não sou brasileiro.",
+       "I'm not Brazilian."
+      ],
+      [
+       "Ela não é arquiteta.",
+       "She's not an architect."
+      ],
+      [
+       "Nós não somos casados.",
+       "We're not married."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Answering a question in the negative, you use não twice — the first means no, the second not:"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Você é brasileiro? Não, não sou brasileiro. Eu sou americano.",
+       "Are you Brazilian? No, I'm not Brazilian. I'm American."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Phrase Builder 2 — how are you?",
+   "source": "pp. 31–32 · CD 4, track 8",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Tudo bem?",
+       "How's it going? / How are you doing?"
+      ],
+      [
+       "Como vai?",
+       "How are you? (infml.)"
+      ],
+      [
+       "O prazer é meu.",
+       "The pleasure is mine."
+      ],
+      [
+       "Quero apresentar…",
+       "I want to introduce…"
+      ],
+      [
+       "Muito prazer.",
+       "It's a pleasure."
+      ],
+      [
+       "Até logo.",
+       "Bye. (fml.)"
+      ],
+      [
+       "Até mais.",
+       "See you later."
+      ],
+      [
+       "Tudo bem.",
+       "Everything's fine."
+      ],
+      [
+       "Está certo.",
+       "OK. It's all right."
+      ],
+      [
+       "Como está?",
+       "How are you doing?"
+      ],
+      [
+       "Está tudo bem?",
+       "Is everything all right?"
+      ],
+      [
+       "Você está bem?",
+       "Are you well?"
+      ],
+      [
+       "Está quente.",
+       "It's hot."
+      ],
+      [
+       "Está frio.",
+       "It's cold."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Culture note — greetings and touch",
+   "source": "p. 33",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "The aperto de mãos (handshake) is common in Brazil but usually kept for formal occasions. Among friends — and even colleagues — women usually beijar (kiss) each other on both cheeks, and people may give um abraço (a hug) when saying good-bye. Friends and colleagues also tend to stand close and touch each other lightly while talking."
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "The verb estar (to be)",
+   "source": "pp. 33–34 · CD 4, track 9",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "eu estou",
+       "nós estamos"
+      ],
+      [
+       "você está",
+       "vocês estão"
+      ],
+      [
+       "ele/ela está",
+       "eles/elas estão"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Portuguese has two verbs for to be. Estar is used for:"
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu estou aqui.",
+       "I'm here. — location"
+      ],
+      [
+       "A casa está em ordem.",
+       "The house is tidy. — temporary quality"
+      ],
+      [
+       "Está quente hoje.",
+       "It's hot today. — temporary state"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Negative: não before the verb. Question: no inversion — just let your pitch rise at the end."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eles não estão em casa.",
+       "They aren't home."
+      ],
+      [
+       "Vocês estão prontos?",
+       "Are you ready?"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Phrase Practice 1",
+   "source": "pp. 28–29",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Translate into Portuguese.",
+     "items": [
+      {
+       "q": "sorry",
+       "a": "desculpe"
+      },
+      {
+       "q": "thank you",
+       "a": "obrigado / obrigada"
+      },
+      {
+       "q": "excuse me",
+       "a": "com licença"
+      },
+      {
+       "q": "you're welcome",
+       "a": "de nada"
+      },
+      {
+       "q": "some new computers",
+       "a": "uns computadores novos"
+      },
+      {
+       "q": "a small apartment",
+       "a": "um apartamento pequeno"
+      },
+      {
+       "q": "a big house",
+       "a": "uma casa grande"
+      },
+      {
+       "q": "some sofas",
+       "a": "uns sofás"
+      },
+      {
+       "q": "some beds",
+       "a": "umas camas"
+      },
+      {
+       "q": "a clean bathroom",
+       "a": "um banheiro limpo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Work Out 1",
+   "source": "p. 30",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Write the indefinite article, then translate.",
+     "items": [
+      {
+       "q": "___ professora",
+       "a": "uma — a teacher"
+      },
+      {
+       "q": "___ escritórios",
+       "a": "uns — some offices"
+      },
+      {
+       "q": "___ hotel",
+       "a": "um — a hotel"
+      },
+      {
+       "q": "___ canetas",
+       "a": "umas — some pens"
+      },
+      {
+       "q": "___ mesa",
+       "a": "uma — a table"
+      },
+      {
+       "q": "___ jornais",
+       "a": "uns — some newspapers"
+      },
+      {
+       "q": "___ camisas",
+       "a": "umas — some shirts"
+      },
+      {
+       "q": "___ dias",
+       "a": "uns — some days"
+      },
+      {
+       "q": "___ pessoas",
+       "a": "umas — some people"
+      },
+      {
+       "q": "___ turista",
+       "a": "um / uma — a male / female tourist"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Phrase Practice 2",
+   "source": "pp. 32–33",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. Translate into English.",
+     "items": [
+      {
+       "q": "Como vai?",
+       "a": "How are you?"
+      },
+      {
+       "q": "Está tudo bem?",
+       "a": "Is everything all right?"
+      },
+      {
+       "q": "Está frio.",
+       "a": "It's cold."
+      },
+      {
+       "q": "Está calor.",
+       "a": "It's hot."
+      },
+      {
+       "q": "Até mais.",
+       "a": "See you later."
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Translate into Portuguese.",
+     "items": [
+      {
+       "q": "How's it going? / How are you doing?",
+       "a": "Tudo bem?"
+      },
+      {
+       "q": "It's a pleasure.",
+       "a": "Muito prazer."
+      },
+      {
+       "q": "Are you well?",
+       "a": "Você está bem?"
+      },
+      {
+       "q": "Everything's fine.",
+       "a": "Tudo bem."
+      },
+      {
+       "q": "I want to introduce…",
+       "a": "Quero apresentar…"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Work Out 2",
+   "source": "pp. 34–35",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with the correct form of estar.",
+     "items": [
+      {
+       "q": "Você ___ pronto? — Are you ready?",
+       "a": "está"
+      },
+      {
+       "q": "Não, não ___ pronto. — No, I'm not ready.",
+       "a": "estou"
+      },
+      {
+       "q": "O gato e o cachorro ___ na sala? — Are the cat and the dog in the living room?",
+       "a": "estão"
+      },
+      {
+       "q": "Não, eles não ___ na sala, eles ___ no quarto.",
+       "a": "estão, estão"
+      },
+      {
+       "q": "Você e a Carolina ___ na França?",
+       "a": "estão"
+      },
+      {
+       "q": "Não, nós não ___ na França, nós ___ na Espanha.",
+       "a": "estamos, estamos"
+      },
+      {
+       "q": "O quarto ___ quente? — Is the bedroom hot?",
+       "a": "está"
+      },
+      {
+       "q": "Não, o quarto não ___ quente, o quarto ___ frio.",
+       "a": "está, está"
+      },
+      {
+       "q": "Os carros ___ aqui? — Are the cars here?",
+       "a": "estão"
+      },
+      {
+       "q": "Não, os carros não ___ aqui, os carros ___ na garagem.",
+       "a": "estão, estão"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Drive It Home",
+   "source": "pp. 36–37",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Paulo introduces his colleague Gustavo to Mariana. Fill each gap from: apresentar, como, até, prazer, está, com, desculpe, tchau, estou, bem."
+    },
+    {
+     "t": "ex",
+     "intro": "Complete the conversation.",
+     "items": [
+      {
+       "q": "Paulo: ___ licença. Mariana? — Excuse me. Mariana?",
+       "a": "Com"
+      },
+      {
+       "q": "Mariana: Sim. Paulo! ___ vai? — How are you doing?",
+       "a": "Como"
+      },
+      {
+       "q": "Paulo: Tudo ___. E você, como ___? — Fine. And you, how are you?",
+       "a": "bem · está"
+      },
+      {
+       "q": "Mariana: ___ bem. — I'm fine.",
+       "a": "Estou"
+      },
+      {
+       "q": "Paulo: Mariana, eu quero ___ meu colega, Gustavo.",
+       "a": "apresentar"
+      },
+      {
+       "q": "Mariana: Muito ___. — It's a pleasure.",
+       "a": "prazer"
+      },
+      {
+       "q": "Mariana: ___, mas está tarde. Até logo, Paulo e Gustavo. — Sorry, but it's late.",
+       "a": "Desculpe"
+      },
+      {
+       "q": "Gustavo: ___ logo. — Good-bye.",
+       "a": "Até"
+      },
+      {
+       "q": "Paulo: ___, Mariana. — Bye, Mariana.",
+       "a": "Tchau"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "Word Recall",
+   "source": "pp. 37–38",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. What do you say in Portuguese…",
+     "items": [
+      {
+       "q": "…if you want to apologize?",
+       "a": "desculpe"
+      },
+      {
+       "q": "…if you want a person to excuse you?",
+       "a": "com licença"
+      },
+      {
+       "q": "…when it's cold?",
+       "a": "está frio"
+      },
+      {
+       "q": "…when it's hot?",
+       "a": "está quente"
+      },
+      {
+       "q": "…when you're introduced to someone?",
+       "a": "muito prazer"
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Say the numbers 1–20 (both forms for 1 and 2).",
+     "items": [
+      {
+       "q": "1–5",
+       "a": "um/uma, dois/duas, três, quatro, cinco"
+      },
+      {
+       "q": "6–10",
+       "a": "seis, sete, oito, nove, dez"
+      },
+      {
+       "q": "11–15",
+       "a": "onze, doze, treze, quatorze, quinze"
+      },
+      {
+       "q": "16–20",
+       "a": "dezesseis, dezessete, dezoito, dezenove, vinte"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l2",
+   "title": "How did you do?",
+   "source": "p. 37",
+   "blocks": [
+    {
+     "t": "list",
+     "items": [
+      "indefinite articles (unsure? p. 29)",
+      "the verb estar (unsure? p. 33)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Lesson goals",
+   "source": "p. 38",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "By the end of this lesson you'll be familiar with:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "the verb ser (to be)",
+      "adjective agreement"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Sentence Builder 1 — introductions",
+   "source": "pp. 38–39 · CD 4, track 10",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Este é meu amigo Roberto.",
+       "This is my friend Roberto."
+      ],
+      [
+       "Eu sou americana / americano.",
+       "I'm American."
+      ],
+      [
+       "Eu sou de Nova Iorque.",
+       "I'm from New York."
+      ],
+      [
+       "Você é do Rio?",
+       "Are you from Rio?"
+      ],
+      [
+       "Nós não somos do Rio.",
+       "We're not from Rio."
+      ],
+      [
+       "Eu sou casado / casada.",
+       "I am married."
+      ],
+      [
+       "Ele é solteiro.",
+       "He's single."
+      ],
+      [
+       "Elas / Eles são daqui.",
+       "They're from here."
+      ],
+      [
+       "Nós somos de São Paulo.",
+       "We're from São Paulo."
+      ],
+      [
+       "A minha mulher é advogada.",
+       "My wife is a lawyer."
+      ],
+      [
+       "Gostaria de apresentá-lo / apresentá-la ao Sr. Luís.",
+       "I'd like to introduce you to Mr. Luís."
+      ],
+      [
+       "Muito prazer em conhecê-lo / conhecê-la também.",
+       "It's a pleasure to meet you, too."
+      ],
+      [
+       "Ele é nosso gerente de vendas.",
+       "He's our sales manager."
+      ],
+      [
+       "Como você se chama?",
+       "What's your name?"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Apresentá-lo / conhecê-lo when you're addressing a man, apresentá-la / conhecê-la for a woman."
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Subject pronouns",
+   "source": "p. 41",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Portuguese",
+      "English"
+     ],
+     "rows": [
+      [
+       "eu",
+       "I"
+      ],
+      [
+       "você",
+       "you (sg.)"
+      ],
+      [
+       "ele",
+       "he, it"
+      ],
+      [
+       "ela",
+       "she, it"
+      ],
+      [
+       "nós",
+       "we"
+      ],
+      [
+       "vocês",
+       "you (pl.)"
+      ],
+      [
+       "eles",
+       "they (m. or mixed)"
+      ],
+      [
+       "elas",
+       "they (f.)"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "You has a singular and a plural form, and they has a masculine and a feminine form — use eles for a mixed group. Because every noun has gender, ele and ela also mean it, and eles / elas they for things."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Elas são japonesas.",
+       "They are Japanese. (two or more Japanese women)"
+      ],
+      [
+       "Eles são franceses.",
+       "They are French. (French men, or a mixed group)"
+      ],
+      [
+       "O jornal? Ele está aqui.",
+       "The newspaper? It's here."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "The verb ser (to be)",
+   "source": "pp. 42–43 · CD 4, track 11",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Portuguese",
+      "English"
+     ],
+     "rows": [
+      [
+       "eu sou",
+       "I am"
+      ],
+      [
+       "você é",
+       "you are"
+      ],
+      [
+       "ele é",
+       "he is"
+      ],
+      [
+       "ela é",
+       "she is"
+      ],
+      [
+       "nós somos",
+       "we are"
+      ],
+      [
+       "vocês são",
+       "you are (pl.)"
+      ],
+      [
+       "eles são",
+       "they are (m. or mixed)"
+      ],
+      [
+       "elas são",
+       "they are (f.)"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ser expresses nationality and origin (with de, of / from), professions and occupations, and the inherent characteristics of people, places and things."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Eu sou italiano.",
+       "I'm Italian."
+      ],
+      [
+       "Ele é de Nova Iorque.",
+       "He's from New York."
+      ],
+      [
+       "Eu sou turista.",
+       "I'm a tourist."
+      ],
+      [
+       "Pedro é professor.",
+       "Pedro's a teacher."
+      ],
+      [
+       "O Brasil é grande.",
+       "Brazil is big."
+      ],
+      [
+       "Ana é casada.",
+       "Ana is married."
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "No article before a profession: Pedro é professor, Eu sou turista — not um professor."
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Sentence Builder 2 — describing people and things",
+   "source": "p. 44 · CD 4, track 12",
+   "blocks": [
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "A minha família é grande.",
+       "My family is big."
+      ],
+      [
+       "As camas são estreitas.",
+       "The beds are narrow."
+      ],
+      [
+       "O quarto é pequeno, mas é confortável.",
+       "The room is small, but it is comfortable."
+      ],
+      [
+       "As flores são caras, mas são lindas.",
+       "The flowers are expensive, but they are beautiful."
+      ],
+      [
+       "A casa é em uma rua calma.",
+       "The house is on a quiet street."
+      ],
+      [
+       "As crianças não estão no jardim.",
+       "The children aren't in the garden."
+      ],
+      [
+       "Nossa mãe é advogada.",
+       "Our mother is a lawyer."
+      ],
+      [
+       "Meus pais são divorciados.",
+       "My parents are divorced."
+      ],
+      [
+       "Nossos amigos são americanos.",
+       "Our friends are American."
+      ],
+      [
+       "Os olhos de Maria são castanhos.",
+       "Maria's eyes are brown."
+      ],
+      [
+       "Os filhos de Carlos são loiros.",
+       "Carlos's children are blond."
+      ],
+      [
+       "Pedro é alto, mas Maria é baixa.",
+       "Pedro is tall but Maria is short."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Adjective agreement",
+   "source": "pp. 46–47 · CD 4, track 13",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "An adjective agrees with its noun in gender and number, and usually comes after it. Adjectives in –o take the familiar endings –o, –a, –os, –as; the masculine singular is the dictionary form."
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "masculine",
+       "o carro pequeno — the small car",
+       "os carros pequenos — the small cars"
+      ],
+      [
+       "feminine",
+       "a casa pequena — the small house",
+       "as casas pequenas — the small houses"
+      ]
+     ]
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "o livro velho / os livros velhos",
+       "the old book / the old books"
+      ],
+      [
+       "a filha bonita / as filhas bonitas",
+       "the pretty daughter / the pretty daughters"
+      ],
+      [
+       "o barco rápido / os barcos rápidos",
+       "the fast boat / the fast boats"
+      ],
+      [
+       "a revista nova / as revistas novas",
+       "the new magazine / the new magazines"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Irregular: bom and mau"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "o filme bom — the good film",
+       "os filmes bons — the good films"
+      ],
+      [
+       "a festa boa — the good party",
+       "as festas boas — the good parties"
+      ],
+      [
+       "o menino mau — the bad boy",
+       "os meninos maus — the bad boys"
+      ],
+      [
+       "a menina má — the bad girl",
+       "as meninas más — the bad girls"
+      ]
+     ]
+    },
+    {
+     "t": "h",
+     "text": "Adjectives in –e or a consonant"
+    },
+    {
+     "t": "p",
+     "text": "These have one form for the singular and one for the plural. As with nouns, –l becomes –is and –m becomes –ns."
+    },
+    {
+     "t": "table",
+     "head": [
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "o banheiro grande — the big bathroom",
+       "os banheiros grandes — the big bathrooms"
+      ],
+      [
+       "a banheira grande — the big bathtub",
+       "as banheiras grandes — the big bathtubs"
+      ],
+      [
+       "a cadeira confortável — the comfortable chair",
+       "as cadeiras confortáveis — the comfortable chairs"
+      ],
+      [
+       "o sofá confortável — the comfortable sofa",
+       "os sofás confortáveis — the comfortable sofas"
+      ],
+      [
+       "o café ruim — the bad coffee",
+       "os cafés ruins — the bad coffees"
+      ],
+      [
+       "a maçã ruim — the bad apple",
+       "as maçãs ruins — the bad apples"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Ser vs. estar",
+   "source": "pp. 48–50",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ser: inherent or more or less permanent qualities — nationality, occupation, fixed or geographical location — plus possession and telling the time."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "O Sr. Pedro é professor, e a Dona Mariana é doutora.",
+       "Mr. Pedro is a teacher, and Ms. Mariana is a doctor."
+      ],
+      [
+       "A porta é grande.",
+       "The door is big."
+      ],
+      [
+       "Maria é alta.",
+       "Maria is tall."
+      ],
+      [
+       "Eu sou americana.",
+       "I am American. (f.)"
+      ],
+      [
+       "A Itália é na Europa.",
+       "Italy is in Europe."
+      ],
+      [
+       "O escritório é na Rua Dutra.",
+       "The office is on Dutra Street."
+      ],
+      [
+       "O livro é meu.",
+       "The book is mine."
+      ],
+      [
+       "É uma hora.",
+       "It's one o'clock."
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Estar: temporary or changeable characteristics — passing conditions or states, temporary locations, the weather."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "A porta está aberta.",
+       "The door is open."
+      ],
+      [
+       "Maria está doente.",
+       "Maria is sick."
+      ],
+      [
+       "O lápis está na mesa.",
+       "The pencil is on the table."
+      ],
+      [
+       "O carro está na Rua Dutra.",
+       "The car is on Dutra Street."
+      ],
+      [
+       "Está quente.",
+       "It's hot."
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Same street, different verb: the office é na Rua Dutra (it's always there), the car está na Rua Dutra (it's parked there for now)."
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Sentence Practice 1",
+   "source": "pp. 39–40",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "A. Unscramble to match the translation.",
+     "items": [
+      {
+       "q": "apresentá-lo / gostaria / de / Sr. Luís / ao — I'd like to introduce you to Mr. Luís.",
+       "a": "Gostaria de apresentá-lo ao Sr. Luís."
+      },
+      {
+       "q": "meu / este / amigo / Roberto / é — This is my friend Roberto.",
+       "a": "Este é meu amigo Roberto."
+      },
+      {
+       "q": "também / em / conhecê-lo / prazer / muito — It's a pleasure to meet you, too.",
+       "a": "Muito prazer em conhecê-lo também."
+      },
+      {
+       "q": "se chama / como / você — What's your name?",
+       "a": "Como você se chama?"
+      },
+      {
+       "q": "eu / Nova Iorque / sou / de — I'm from New York.",
+       "a": "Eu sou de Nova Iorque."
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "B. Translate into English.",
+     "items": [
+      {
+       "q": "Eu sou americana.",
+       "a": "I'm American."
+      },
+      {
+       "q": "Nós não somos do Rio.",
+       "a": "We're not from Rio."
+      },
+      {
+       "q": "Ele é solteiro.",
+       "a": "He's single."
+      },
+      {
+       "q": "Eu sou casado.",
+       "a": "I'm married."
+      },
+      {
+       "q": "Você é do Rio?",
+       "a": "Are you from Rio?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Work Out 1",
+   "source": "pp. 43–44",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with the correct form of ser.",
+     "items": [
+      {
+       "q": "Ele ___ brasileiro.",
+       "a": "é"
+      },
+      {
+       "q": "Você ___ de Los Angeles.",
+       "a": "é"
+      },
+      {
+       "q": "Helena ___ professora.",
+       "a": "é"
+      },
+      {
+       "q": "Eu ___ casado.",
+       "a": "sou"
+      },
+      {
+       "q": "A casa ___ grande.",
+       "a": "é"
+      },
+      {
+       "q": "Você ___ o novo médico.",
+       "a": "é"
+      },
+      {
+       "q": "Tom ___ meu amigo.",
+       "a": "é"
+      },
+      {
+       "q": "Ela ___ americana.",
+       "a": "é"
+      },
+      {
+       "q": "Nós ___ daqui.",
+       "a": "somos"
+      },
+      {
+       "q": "Elas ___ de Nova Iorque.",
+       "a": "são"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Sentence Practice 2",
+   "source": "pp. 45–46",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Complete with: calma, divorciados, confortável, alto, estreitas, americanos, caras, lindas, baixa, grande, pequeno, castanhos.",
+     "items": [
+      {
+       "q": "A minha família é ___. — My family is big.",
+       "a": "grande"
+      },
+      {
+       "q": "A casa é em uma rua ___. — on a quiet street",
+       "a": "calma"
+      },
+      {
+       "q": "Meus pais são ___. — My parents are divorced.",
+       "a": "divorciados"
+      },
+      {
+       "q": "Os olhos de Maria são ___. — Maria's eyes are brown.",
+       "a": "castanhos"
+      },
+      {
+       "q": "Pedro é ___, mas Maria é ___. — tall / short",
+       "a": "alto · baixa"
+      },
+      {
+       "q": "Nossos amigos são ___. — Our friends are American.",
+       "a": "americanos"
+      },
+      {
+       "q": "As flores são ___, mas são ___. — expensive / beautiful",
+       "a": "caras · lindas"
+      },
+      {
+       "q": "O quarto é ___, mas é ___. — small / comfortable",
+       "a": "pequeno · confortável"
+      },
+      {
+       "q": "As camas são ___. — The beds are narrow.",
+       "a": "estreitas"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Work Out 2",
+   "source": "pp. 47–48",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Fill in with: cheias (full), bom (good), fechados (closed), altas (tall), caro (expensive), frio (cold), confortável, redondas (round), americana, castanhos (brown).",
+     "items": [
+      {
+       "q": "As mesas são ___.",
+       "a": "redondas"
+      },
+      {
+       "q": "Os cabelos são ___.",
+       "a": "castanhos"
+      },
+      {
+       "q": "O café não está ___, o café está quente.",
+       "a": "frio"
+      },
+      {
+       "q": "Os bancos estão ___.",
+       "a": "fechados"
+      },
+      {
+       "q": "Há umas mulheres ___ na loja.",
+       "a": "altas"
+      },
+      {
+       "q": "O BMW é um carro ___.",
+       "a": "caro"
+      },
+      {
+       "q": "A revista \"Time\" é inglesa? Não, a revista \"Time\" é ___.",
+       "a": "americana"
+      },
+      {
+       "q": "Há uma cama ___?",
+       "a": "confortável"
+      },
+      {
+       "q": "As xícaras estão ___? Não, as xícaras estão vazias.",
+       "a": "cheias"
+      },
+      {
+       "q": "A praia é ___? Não, a praia é ruim.",
+       "a": "boa"
+      }
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "The answer to the last one is boa — the word list offers bom, but praia is feminine, so it has to agree."
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Drive It Home",
+   "source": "p. 50",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Choose ser or estar.",
+     "items": [
+      {
+       "q": "A piscina (está / é) cheia.",
+       "a": "está"
+      },
+      {
+       "q": "Peter e John (são / estão) americanos.",
+       "a": "são"
+      },
+      {
+       "q": "Como você (está / é)? Eu (estou / sou) bem.",
+       "a": "está · estou"
+      },
+      {
+       "q": "As minhas irmãs (são / estão) altas.",
+       "a": "são"
+      },
+      {
+       "q": "O seu pai (está / é) engenheiro ou arquiteto?",
+       "a": "é"
+      },
+      {
+       "q": "O copo (está / é) meu ou seu?",
+       "a": "é"
+      },
+      {
+       "q": "Eu (estou / sou) na praia.",
+       "a": "estou"
+      },
+      {
+       "q": "A praia de Copacabana (está / é) no Rio de Janeiro.",
+       "a": "é"
+      },
+      {
+       "q": "Eu e meu marido (estamos / somos) no hotel.",
+       "a": "estamos"
+      },
+      {
+       "q": "O seu café (está / é) quente? Não, meu café (está / é) frio.",
+       "a": "está · está"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "Word Recall",
+   "source": "pp. 51–52",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Answer in the negative using the cue. Model: Pedro é casado? (solteiro) → Não, Pedro não é casado. Ele é solteiro."
+    },
+    {
+     "t": "ex",
+     "intro": "Answer in the negative.",
+     "items": [
+      {
+       "q": "O dia está quente? (frio)",
+       "a": "Não, o dia não está quente. O dia está frio."
+      },
+      {
+       "q": "Os jornais são internacionais? (nacionais)",
+       "a": "Não, os jornais não são internacionais. Eles são nacionais."
+      },
+      {
+       "q": "Você é de São Paulo? (Nova Iorque)",
+       "a": "Não, eu não sou de São Paulo. Eu sou de Nova Iorque."
+      },
+      {
+       "q": "Vocês são irmãs? (primas)",
+       "a": "Não, nós não somos irmãs. Nós somos primas."
+      },
+      {
+       "q": "Carolina está em casa? (escritório)",
+       "a": "Não, Carolina não está em casa. Ela está no escritório."
+      },
+      {
+       "q": "As crianças estão no jardim? (escola)",
+       "a": "Não, as crianças não estão no jardim. Elas estão na escola."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l3",
+   "title": "How did you do?",
+   "source": "p. 51",
+   "blocks": [
+    {
+     "t": "list",
+     "items": [
+      "the verb ser (unsure? p. 42)",
+      "adjective agreement (unsure? p. 46)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Lesson goals",
+   "source": "p. 52",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "At the end of this lesson you should know how to:"
+    },
+    {
+     "t": "list",
+     "items": [
+      "use possessives like my, your and our",
+      "use possessives like his, her and their"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Conversation 1 — meeting the new architect",
+   "source": "pp. 52–53 · CD 4, tracks 14–15",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Eduardo introduces Paul, the firm's new architect from Los Angeles, to Dona Cláudia, the sales director. These are the lines carrying the lesson."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Bom dia, Dona Cláudia. Gostaria de apresentá-la ao Senhor Paul Jones.",
+       "Good morning, Ms. Cláudia. I'd like to introduce you to Mr. Paul Jones."
+      ],
+      [
+       "O Seu Paul é o nosso novo arquiteto. Ele é de Los Angeles.",
+       "He's our new architect. He's from Los Angeles."
+      ],
+      [
+       "Como vai, Seu Paul. Muito prazer em conhecê-lo.",
+       "How are you, Mr. Jones? It's a pleasure to meet you."
+      ],
+      [
+       "O prazer é todo meu.",
+       "The pleasure is all mine."
+      ],
+      [
+       "A Dona Cláudia é nossa diretora de vendas.",
+       "Ms. Cláudia is our sales director."
+      ],
+      [
+       "A senhora é do Rio?",
+       "Are you from Rio?"
+      ],
+      [
+       "Não, não sou. Eu sou italiana, sou de Milão.",
+       "No, I'm not. I'm Italian. I'm from Milan."
+      ],
+      [
+       "A Dona Cláudia trabalha na nossa filial de São Paulo.",
+       "Ms. Cláudia works in our São Paulo branch."
+      ],
+      [
+       "Não conheço São Paulo, mas ouvi falar que é uma cidade muito grande.",
+       "I've never been to São Paulo, but I've heard it's a very big city."
+      ],
+      [
+       "É verdade. Com licença, mas preciso ir agora. Até logo.",
+       "That's true. Excuse me, but I have to go now. See you soon."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Titles — Seu, Dona, o senhor",
+   "source": "p. 53",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Brazilians are generally informal, but some formality is expected with older people or someone of higher professional standing."
+    },
+    {
+     "t": "table",
+     "head": [
+      "Title",
+      "Meaning",
+      "Use"
+     ],
+     "rows": [
+      [
+       "Senhor / Senhores",
+       "Mr. (sg./pl.)",
+       "formal"
+      ],
+      [
+       "Senhora / Senhoras",
+       "Mrs. (sg./pl.)",
+       "formal"
+      ],
+      [
+       "Seu",
+       "Mr., Sir",
+       "spoken, before a first name"
+      ],
+      [
+       "Dona",
+       "Mrs., Ms., Ma'am",
+       "spoken, before a first name"
+      ],
+      [
+       "Sr. / Sra.",
+       "Mr. / Mrs.",
+       "written abbreviations"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "In formal conversation o senhor / a senhora replace você, and os senhores / as senhoras replace vocês: A senhora é do Rio?"
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Possessive adjectives (1) — my, your, our",
+   "source": "pp. 55–56 · CD 4, track 19",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "In Portuguese possessive adjectives (my, your) and possessive pronouns (mine, yours) have the same forms. They agree in gender and number with the thing possessed, not with the owner."
+    },
+    {
+     "t": "table",
+     "head": [
+      "Possessive adjective",
+      "Possessive pronoun"
+     ],
+     "rows": [
+      [
+       "o meu livro — my book",
+       "O livro é meu. — The book is mine."
+      ],
+      [
+       "os meus livros — my books",
+       "Os livros são meus. — The books are mine."
+      ],
+      [
+       "o seu livro — your book",
+       "O livro é seu. — The book is yours."
+      ],
+      [
+       "os seus livros — your books",
+       "Os livros são seus. — The books are yours."
+      ],
+      [
+       "os nossos livros — our books",
+       "Os livros são nossos. — The books are ours."
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "o meu carro — my car",
+       "os meus carros — my cars"
+      ],
+      [
+       "a minha casa — my house",
+       "as minhas casas — my houses"
+      ],
+      [
+       "o seu carro — your car",
+       "os seus carros — your cars"
+      ],
+      [
+       "a sua casa — your house",
+       "as suas casas — your houses"
+      ],
+      [
+       "o nosso carro — our car",
+       "os nossos carros — our cars"
+      ],
+      [
+       "a nossa casa — our house",
+       "as nossas casas — our houses"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "The article before a possessive adjective is optional, but most native speakers use it. With possessive pronouns it is usually dropped: O meu carro é importado. O carro importado é meu."
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Conversation 2 — the family photo",
+   "source": "pp. 57–58 · CD 4, tracks 17–18",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Luísa shows Carolina a picture taken at her family reunion a week earlier. These are the lines carrying the lesson."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "Olhe a foto. Nós estamos na nossa casa de praia.",
+       "Look at the picture. We're at our beach house."
+      ],
+      [
+       "Você está ótima na foto! E as outras pessoas, quem são?",
+       "You look great in the photograph! And the other people, who are they?"
+      ],
+      [
+       "A mulher loira é a minha mãe.",
+       "The blonde woman is my mother."
+      ],
+      [
+       "Puxa, ela é jovem! E o homem alto de cabelos grisalhos?",
+       "Wow! She looks young! And the tall man with gray hair?"
+      ],
+      [
+       "Ele é o meu pai. Ele está tão feliz!",
+       "He's my father. He looks so happy!"
+      ],
+      [
+       "Os seus pais são muito elegantes. Quem são as crianças?",
+       "Your parents are very elegant. Who are the children?"
+      ],
+      [
+       "Eles são os meus sobrinhos. Eles são os filhos do meu irmão Rafael.",
+       "They're my nephews. They're my brother Rafael's sons."
+      ],
+      [
+       "O seu irmão é muito atraente. Que pena que ele é casado!",
+       "Your brother is very attractive. Too bad he's married!"
+      ],
+      [
+       "A mulher dele é muito bonita também. Olhe, ela está aqui. Ela é a morena de cabelos compridos.",
+       "His wife is very pretty, too. Look, she's here. She's the brunette with long hair."
+      ],
+      [
+       "E o seu marido? Ele não está na foto.",
+       "And your husband? He's not in the picture."
+      ],
+      [
+       "Não, ele não está na foto. Ele é o fotógrafo!",
+       "He isn't in the picture. He's the photographer!"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Possessive adjectives (2) — his, her, their",
+   "source": "pp. 59–61 · CD 4, track 19",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Seu, seus, sua and suas can mean your, but also his, her or their — so o seu carro é bom could be your, his, her or their car. To avoid confusion, put the noun with its article first and follow it with dele (his), dela (her), deles (their, m.) or delas (their, f.)."
+    },
+    {
+     "t": "table",
+     "head": [
+      "Ambiguous",
+      "Clear",
+      "English"
+     ],
+     "rows": [
+      [
+       "o seu carro",
+       "o carro dele",
+       "his car"
+      ],
+      [
+       "o seu carro",
+       "o carro dela",
+       "her car"
+      ],
+      [
+       "o seu carro",
+       "o carro deles",
+       "their (m. or mixed) car"
+      ],
+      [
+       "o seu carro",
+       "o carro delas",
+       "their (f.) car"
+      ],
+      [
+       "as suas casas",
+       "as casas dele",
+       "his houses"
+      ],
+      [
+       "as suas casas",
+       "as casas dela",
+       "her houses"
+      ],
+      [
+       "as suas casas",
+       "as casas deles",
+       "their (m. or mixed) houses"
+      ],
+      [
+       "as suas casas",
+       "as casas delas",
+       "their (f.) houses"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Dele, dela, deles and delas also work as pronouns: o carro é dela (the car is hers)."
+    },
+    {
+     "t": "pairs",
+     "rows": [
+      [
+       "A advogada está no seu escritório.",
+       "The lawyer is in your / his / her / their office."
+      ],
+      [
+       "A advogada está no escritório dela.",
+       "The lawyer is in her office."
+      ],
+      [
+       "Os engenheiros estão nos seus escritórios.",
+       "The engineers are in your / his / her / their offices."
+      ],
+      [
+       "Os engenheiros estão nos escritórios deles.",
+       "The engineers are in their (own) offices."
+      ],
+      [
+       "Os engenheiros estão no escritório dela.",
+       "The engineers are in her office."
+      ],
+      [
+       "Os engenheiros estão no escritório dele.",
+       "The engineers are in his office."
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Dele / dela agree with the owner (he or she), not with the thing owned — the opposite of meu, seu and nosso."
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Conversation Practice 1",
+   "source": "p. 54",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Translate into English.",
+     "items": [
+      {
+       "q": "O Seu Paul é o nosso novo arquiteto.",
+       "a": "Mr. Paul is our new architect."
+      },
+      {
+       "q": "Muito prazer em conhecê-lo.",
+       "a": "It's a pleasure to meet you."
+      },
+      {
+       "q": "O prazer é todo meu.",
+       "a": "The pleasure is all mine."
+      },
+      {
+       "q": "Dona Cláudia é nossa diretora de vendas.",
+       "a": "Ms. Cláudia is our sales director."
+      },
+      {
+       "q": "A senhora é do Rio?",
+       "a": "Are you from Rio?"
+      },
+      {
+       "q": "A Dona Cláudia trabalha na nossa filial de São Paulo.",
+       "a": "Ms. Cláudia works in our São Paulo branch."
+      },
+      {
+       "q": "Não conheço São Paulo.",
+       "a": "I've never been to São Paulo."
+      },
+      {
+       "q": "Com licença, mas preciso ir agora.",
+       "a": "Excuse me, but I have to go now."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Work Out 1",
+   "source": "pp. 56–57",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Fill in the correct possessive.",
+     "items": [
+      {
+       "q": "A ___ tia é americana. — My aunt is American.",
+       "a": "minha"
+      },
+      {
+       "q": "O ___ tio é brasileiro. — My uncle is Brazilian.",
+       "a": "meu"
+      },
+      {
+       "q": "Os ___ irmãos são altos. — My brothers are tall.",
+       "a": "meus"
+      },
+      {
+       "q": "As ___ irmãs são jovens. — My sisters are young.",
+       "a": "minhas"
+      },
+      {
+       "q": "Os ___ pais são brasileiros? — Are your parents Brazilian?",
+       "a": "seus"
+      },
+      {
+       "q": "O ___ carro é importado? — Is your car imported?",
+       "a": "seu"
+      },
+      {
+       "q": "A ___ poltrona é confortável? — Is your armchair comfortable?",
+       "a": "sua"
+      },
+      {
+       "q": "As ___ praias são lindas. — Our beaches are beautiful.",
+       "a": "nossas"
+      },
+      {
+       "q": "Os ___ escritórios são modernos. — Our offices are modern.",
+       "a": "nossos"
+      },
+      {
+       "q": "A ___ professora é legal. — Our teacher is nice.",
+       "a": "nossa"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Conversation Practice 2",
+   "source": "pp. 58–59",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Translate into English, following the conversation.",
+     "items": [
+      {
+       "q": "Nós estamos na nossa casa de praia.",
+       "a": "We're at our beach house."
+      },
+      {
+       "q": "A mulher loira é a minha mãe.",
+       "a": "The blonde woman is my mother."
+      },
+      {
+       "q": "Ele é o meu pai.",
+       "a": "He's my father."
+      },
+      {
+       "q": "Os seus pais são muito elegantes.",
+       "a": "Your parents are very elegant."
+      },
+      {
+       "q": "Eles são os filhos do meu irmão Rafael.",
+       "a": "They're my brother Rafael's sons."
+      },
+      {
+       "q": "O seu irmão é muito atraente.",
+       "a": "Your brother is very attractive."
+      },
+      {
+       "q": "A mulher dele é muito bonita.",
+       "a": "His wife is very pretty."
+      },
+      {
+       "q": "E o seu marido?",
+       "a": "And your husband?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Work Out 2",
+   "source": "p. 61",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Follow the cues. Example: livros, meu e meu marido → Os nossos livros.",
+     "items": [
+      {
+       "q": "casas, Marina e Pedro",
+       "a": "as casas deles"
+      },
+      {
+       "q": "estantes, Ricardo",
+       "a": "as estantes dele"
+      },
+      {
+       "q": "estantes, Carolina",
+       "a": "as estantes dela"
+      },
+      {
+       "q": "filhos, Carolina e Ricardo",
+       "a": "os filhos deles"
+      },
+      {
+       "q": "primas, Ricardo",
+       "a": "as primas dele"
+      },
+      {
+       "q": "mãe, minha e sua",
+       "a": "nossa mãe"
+      },
+      {
+       "q": "pai, meu e seu",
+       "a": "nosso pai"
+      },
+      {
+       "q": "quartos, Marina",
+       "a": "os quartos dela"
+      },
+      {
+       "q": "quadros, Pedro",
+       "a": "os quadros dele"
+      },
+      {
+       "q": "amigas, Mariana, Pedro e Carolina",
+       "a": "as amigas deles"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Drive It Home",
+   "source": "p. 62",
+   "blocks": [
+    {
+     "t": "ex",
+     "intro": "Make each sentence plural.",
+     "items": [
+      {
+       "q": "O avião é grande.",
+       "a": "Os aviões são grandes."
+      },
+      {
+       "q": "A médica é brasileira.",
+       "a": "As médicas são brasileiras."
+      },
+      {
+       "q": "O homem alto é meu amigo.",
+       "a": "Os homens altos são meus amigos."
+      },
+      {
+       "q": "O seu primo é estudante.",
+       "a": "Os seus primos são estudantes."
+      },
+      {
+       "q": "O carro dele é alemão.",
+       "a": "Os carros deles são alemães."
+      },
+      {
+       "q": "A casa da minha amiga é linda.",
+       "a": "As casas das minhas amigas são lindas."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "Word Recall",
+   "source": "p. 63",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Complete the informal dialogue with: Bem, e você?; De onde você é?; Oi, prazer.; Você é americano?; Até mais."
+    },
+    {
+     "t": "ex",
+     "intro": "Felipe introduces his friend Bill to Mariana.",
+     "items": [
+      {
+       "q": "Felipe: Oi, Mariana. Tudo bem? — Mariana: ___",
+       "a": "Bem, e você?"
+      },
+      {
+       "q": "Felipe: Também. Este é meu amigo Bill. — Mariana: ___",
+       "a": "Oi, prazer."
+      },
+      {
+       "q": "Bill: O prazer é meu. — Mariana: ___",
+       "a": "Você é americano?"
+      },
+      {
+       "q": "Bill: Não, não sou americano. — Mariana: ___",
+       "a": "De onde você é?"
+      },
+      {
+       "q": "Bill: Sou da Inglaterra, sou inglês. — Mariana: Preciso ir. ___",
+       "a": "Até mais."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-l4",
+   "title": "How did you do?",
+   "source": "p. 63",
+   "blocks": [
+    {
+     "t": "list",
+     "items": [
+      "possessives like my, your and our (unsure? p. 55)",
+      "possessives like his, her and their (unsure? p. 59)"
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-ess",
+   "title": "Vocabulary Essentials — test yourself",
+   "source": "pp. 64–66",
+   "blocks": [
+    {
+     "t": "p",
+     "text": "The book's fill-in charts: say each one in Portuguese, then reveal."
+    },
+    {
+     "t": "ex",
+     "intro": "Essential greetings",
+     "items": [
+      {
+       "q": "hi",
+       "a": "oi"
+      },
+      {
+       "q": "excuse me",
+       "a": "com licença"
+      },
+      {
+       "q": "sorry",
+       "a": "desculpe"
+      },
+      {
+       "q": "you're welcome",
+       "a": "de nada"
+      },
+      {
+       "q": "thank you very much",
+       "a": "muito obrigado / muito obrigada"
+      },
+      {
+       "q": "How's it going? / How are you doing?",
+       "a": "Tudo bem?"
+      },
+      {
+       "q": "How are you? (infml.)",
+       "a": "Como vai?"
+      },
+      {
+       "q": "The pleasure is mine.",
+       "a": "O prazer é meu."
+      },
+      {
+       "q": "I want to introduce…",
+       "a": "Quero apresentar…"
+      },
+      {
+       "q": "See you later.",
+       "a": "Até mais."
+      },
+      {
+       "q": "Everything's fine.",
+       "a": "Tudo bem."
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "People and family",
+     "items": [
+      {
+       "q": "father",
+       "a": "o pai"
+      },
+      {
+       "q": "mother",
+       "a": "a mãe"
+      },
+      {
+       "q": "husband",
+       "a": "o marido"
+      },
+      {
+       "q": "woman / wife",
+       "a": "a mulher"
+      },
+      {
+       "q": "man",
+       "a": "o homem"
+      },
+      {
+       "q": "child",
+       "a": "a criança"
+      },
+      {
+       "q": "person",
+       "a": "a pessoa"
+      },
+      {
+       "q": "people",
+       "a": "as pessoas / a gente"
+      },
+      {
+       "q": "brother",
+       "a": "o irmão"
+      },
+      {
+       "q": "sister",
+       "a": "a irmã"
+      },
+      {
+       "q": "grandfather",
+       "a": "o avô"
+      },
+      {
+       "q": "grandmother",
+       "a": "a avó"
+      },
+      {
+       "q": "uncle",
+       "a": "o tio"
+      },
+      {
+       "q": "aunt",
+       "a": "a tia"
+      },
+      {
+       "q": "nephew",
+       "a": "o sobrinho"
+      },
+      {
+       "q": "niece",
+       "a": "a sobrinha"
+      },
+      {
+       "q": "father-in-law",
+       "a": "o sogro"
+      },
+      {
+       "q": "mother-in-law",
+       "a": "a sogra"
+      },
+      {
+       "q": "teacher",
+       "a": "o professor / a professora"
+      },
+      {
+       "q": "doctor",
+       "a": "o médico / a médica"
+      },
+      {
+       "q": "student",
+       "a": "o / a estudante"
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "At home",
+     "items": [
+      {
+       "q": "house",
+       "a": "a casa"
+      },
+      {
+       "q": "apartment",
+       "a": "o apartamento"
+      },
+      {
+       "q": "bathroom",
+       "a": "o banheiro"
+      },
+      {
+       "q": "kitchen",
+       "a": "a cozinha"
+      },
+      {
+       "q": "window",
+       "a": "a janela"
+      },
+      {
+       "q": "sofa",
+       "a": "o sofá"
+      },
+      {
+       "q": "computer",
+       "a": "o computador"
+      }
+     ]
+    },
+    {
+     "t": "ex",
+     "intro": "Numbers and weather",
+     "items": [
+      {
+       "q": "one, two (m./f.)",
+       "a": "um / uma, dois / duas"
+      },
+      {
+       "q": "three to ten",
+       "a": "três, quatro, cinco, seis, sete, oito, nove, dez"
+      },
+      {
+       "q": "eleven to twenty",
+       "a": "onze, doze, treze, quatorze, quinze, dezesseis, dezessete, dezoito, dezenove, vinte"
+      },
+      {
+       "q": "It's hot.",
+       "a": "Está quente."
+      },
+      {
+       "q": "It's cold.",
+       "a": "Está frio."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "chapterId": "b2-u1-ess",
+   "title": "Grammar Essentials — the unit on one page",
+   "source": "pp. 67–70",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Articles",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "definite, masculine",
+       "o",
+       "os"
+      ],
+      [
+       "definite, feminine",
+       "a",
+       "as"
+      ],
+      [
+       "indefinite, masculine",
+       "um",
+       "uns"
+      ],
+      [
+       "indefinite, feminine",
+       "uma",
+       "umas"
+      ]
+     ]
+    },
+    {
+     "t": "table",
+     "head": [
+      "Plural rule",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "vowel or diphthong → add –s",
+       "o livro",
+       "os livros"
+      ],
+      [
+       "–ão → –ões",
+       "o avião",
+       "os aviões"
+      ],
+      [
+       "–m → –ns",
+       "o homem",
+       "os homens"
+      ],
+      [
+       "–r, –z, –s → add –es",
+       "o doutor",
+       "os doutores"
+      ],
+      [
+       "–l → drop –l, add –is (accent often added)",
+       "o hotel",
+       "os hotéis"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Some plurals are exceptions and have to be learned case by case (o pão → os pães)."
+    },
+    {
+     "t": "table",
+     "head": [
+      "Pronoun",
+      "ser",
+      "estar"
+     ],
+     "rows": [
+      [
+       "eu",
+       "sou",
+       "estou"
+      ],
+      [
+       "você",
+       "é",
+       "está"
+      ],
+      [
+       "ele / ela",
+       "é",
+       "está"
+      ],
+      [
+       "nós",
+       "somos",
+       "estamos"
+      ],
+      [
+       "vocês",
+       "são",
+       "estão"
+      ],
+      [
+       "eles / elas",
+       "são",
+       "estão"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "Ser: an inherent characteristic or permanent state. Estar: a temporary condition or state."
+    },
+    {
+     "t": "p",
+     "text": "Adjectives agree with their noun in gender and number (–o, –a, –os, –as): o carro pequeno, as casas pequenas. Adjectives in –e or a consonant have one singular and one plural form; –l → –is, –m → –ns."
+    },
+    {
+     "t": "table",
+     "head": [
+      "",
+      "Singular",
+      "Plural"
+     ],
+     "rows": [
+      [
+       "my",
+       "meu, minha",
+       "meus, minhas"
+      ],
+      [
+       "your (infml.)",
+       "teu, tua",
+       "teus, tuas"
+      ],
+      [
+       "his, her, their, your",
+       "seu, sua",
+       "seus, suas"
+      ],
+      [
+       "his, her · their",
+       "dele, dela",
+       "deles, delas"
+      ],
+      [
+       "our",
+       "nosso, nossa",
+       "nossos, nossas"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "text": "New here: teu / tua, the informal your. It wasn't taught in the lessons — you'll hear it in parts of Brazil (and it's standard in Portugal), usually with tu."
     }
    ]
   }

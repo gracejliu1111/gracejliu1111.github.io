@@ -133,6 +133,10 @@ input:focus,textarea:focus,select:focus{border-color:var(--accent); outline:none
 .chgrid{display:grid; grid-template-columns:repeat(auto-fill,minmax(268px,1fr)); gap:12px}
 .chcard{background:var(--surface); border:1px solid var(--line); border-radius:var(--radius); padding:16px; text-align:left; cursor:pointer; display:flex; flex-direction:column; gap:9px; transition:border-color .12s, transform .12s}
 .chcard:hover{border-color:var(--accent); transform:translateY(-1px)}
+.bookswitch{display:flex; gap:6px; margin-top:10px; flex-wrap:wrap}
+.bookswitch .btn{padding:6px 12px; font-size:13px}
+.bookswitch .bsub{opacity:.7; font-weight:400; margin-left:2px}
+.wshared{font-size:11px; color:var(--ink-3); margin-left:6px; white-space:nowrap}
 .chcard .num{font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--ink-3); font-weight:700}
 .chcard h3{font-size:17px; line-height:1.25}
 .chcard .sub{font-size:12.5px; color:var(--ink-3)}
@@ -498,7 +502,8 @@ span.cjirr{font-family:var(--serif)}
     <section class="view on" id="v-livro">
       <div id="chapterIndex">
         <div class="viewhead">
-          <div><div class="kicker" id="bookKicker">Your book</div><h2 id="bookTitle">Livro</h2></div>
+          <div><div class="kicker" id="bookKicker">Your book</div><h2 id="bookTitle">Livro</h2>
+            <div class="bookswitch" id="bookSwitch" role="group" aria-label="Which book" hidden></div></div>
           <button class="btn primary" id="newChapter">Add a chapter</button>
         </div>
         <div class="card" id="chapterForm" style="display:none; margin-bottom:16px">
@@ -759,7 +764,7 @@ span.cjirr{font-family:var(--serif)}
 (function(){
 "use strict";
 
-var BUILD="20261008-200500";
+var BUILD="20261108-115244";
 var LS2="caderno-pt-v2", LS1="caderno-pt-v1";
 var state=null, artifactApi=null, mode="checking";
 var BOXES=[0,1,3,7,16,40];
@@ -882,15 +887,45 @@ function loadState(){
 
 /* ---------- helpers over state ---------- */
 function chapter(id){ for(var i=0;i<state.chapters.length;i++) if(state.chapters[i].id===id) return state.chapters[i]; return null; }
-function chapterName(id){ var c=chapter(id); if(!c) return "Unfiled"; return (c.num?"Ch. "+c.num+" — ":"")+c.title; }
+/* ---------- books ----------
+   Book 1 is the one named in Ajustes (state.book).  Later books are fixed
+   titles shipped with the content; a chapter with no book field is Book 1. */
+var BOOKS={2:{title:"Intermediate Brazilian Portuguese", author:"Living Language — Livro 2", short:"Intermediate"}};
+function bookOf(c){ return (c && +c.book>1) ? +c.book : 1; }
+function bookInfo(n){
+  if(n>1 && BOOKS[n]) return BOOKS[n];
+  return {title:state.book.title||"Livro", author:state.book.author||"", short:"Essential"};
+}
+function booksPresent(){
+  var s={1:1}; state.chapters.forEach(function(c){ s[bookOf(c)]=1; });
+  return Object.keys(s).map(Number).sort(function(a,b){ return a-b; });
+}
+var curBook=(function(){ try{ var v=+localStorage.getItem("caderno-book"); return v>0?v:0; }catch(e){ return 0; } })();
+/* Opens on the newest book unless she has picked one with the switcher. */
+function currentBook(){
+  var ps=booksPresent();
+  return (curBook && ps.indexOf(curBook)>=0) ? curBook : ps[ps.length-1];
+}
+function setBook(n){ curBook=n; try{ localStorage.setItem("caderno-book",String(n)); }catch(e){} }
+function chapterLabel(c){ return c.label ? c.label : (c.num?"Chapter "+c.num:"Unit"); }
+function chapterName(id){
+  var c=chapter(id); if(!c) return "Unfiled";
+  if(bookOf(c)>1) return "Livro "+bookOf(c)+" · "+(c.label||c.num)+" — "+c.title;
+  return (c.num?"Ch. "+c.num+" — ":"")+c.title;
+}
 function sortedChapters(){
   return state.chapters.slice().sort(function(a,b){
+    var ba=bookOf(a), bb=bookOf(b); if(ba!==bb) return ba-bb;
     var x=parseFloat(a.num), y=parseFloat(b.num);
     if(isNaN(x)&&isNaN(y)) return a.title.localeCompare(b.title);
     if(isNaN(x)) return 1; if(isNaN(y)) return -1; return x-y;
   });
 }
-function wordsIn(id){ return state.vocab.filter(function(w){ return w.chapterId===id; }); }
+/* A word lives in one chapter (chapterId) but a later lesson can review it:
+   w.also lists those other chapters.  It stays ONE card — one schedule, one
+   recording — and simply shows up in every chapter that teaches it.        */
+function inChapter(w,id){ return w.chapterId===id || (Array.isArray(w.also) && w.also.indexOf(id)>=0); }
+function wordsIn(id){ return state.vocab.filter(function(w){ return inChapter(w,id); }); }
 function notesIn(id){ return state.notes.filter(function(n){ return n.chapterId===id; }); }
 function isDue(w){ return !w.due || w.due<=today(); }
 /* The alphabet is reference, not vocabulary.  It stays in state.vocab so the
@@ -916,7 +951,8 @@ function chapterDone(c){
   return solid/ws.length;
 }
 function bookPct(){
-  var cs=state.chapters.filter(function(c){ return !isAlphabet(c); });
+  var bk=currentBook();
+  var cs=state.chapters.filter(function(c){ return !isAlphabet(c) && bookOf(c)===bk; });
   if(!cs.length) return 0;
   var t=0; cs.forEach(function(c){ t+=chapterDone(c); });
   return Math.round(t/cs.length*100);
@@ -988,13 +1024,22 @@ function renderAlfabeto(){
 }
 
 function renderChapters(){
-  $("bookTitle").textContent = state.book.title || "Livro";
-  $("bookKicker").textContent = state.book.author || (state.book.title ? "Your book" : "Name your book in Ajustes");
-  $("brandSub").textContent = state.book.title || "Português brasileiro";
+  var bk=currentBook(), bi=bookInfo(bk), ps=booksPresent();
+  $("bookTitle").textContent = bi.title;
+  $("bookKicker").textContent = bk>1 ? bi.author : (state.book.author || (state.book.title ? "Your book" : "Name your book in Ajustes"));
+  $("brandSub").textContent = bi.title || "Português brasileiro";
+  var sw=$("bookSwitch");
+  if(sw){
+    sw.hidden = ps.length<2;
+    sw.innerHTML = ps.map(function(n){
+      return '<button class="btn'+(n===bk?" on":"")+'" data-book="'+n+'" aria-pressed="'+(n===bk)+'">Livro '+n+
+             ' <span class="bsub">'+esc(bookInfo(n).short)+'</span></button>';
+    }).join("");
+  }
   if(openChapter){ renderChapterDetail(); return; }
   $("chapterIndex").style.display=""; $("chapterDetail").style.display="none";
 
-  var cs=sortedChapters().filter(function(c){ return !isAlphabet(c); });
+  var cs=sortedChapters().filter(function(c){ return !isAlphabet(c) && bookOf(c)===bk; });
   $("chGrid").innerHTML = cs.length ? cs.map(function(c){
     var ws=wordsIn(c.id), ns=notesIn(c.id).length;
     var solid=ws.filter(function(w){return tier(w)===2;}).length;
@@ -1002,7 +1047,7 @@ function renderChapters(){
     var fresh=ws.length-solid-learn;
     var tot=Math.max(ws.length,1);
     return '<button class="chcard" data-ch="'+c.id+'">'+
-      '<span class="num">'+(c.num?"Chapter "+esc(c.num):"Unit")+(c.pages?' · pp. '+esc(c.pages):"")+'</span>'+
+      '<span class="num">'+esc(chapterLabel(c))+(c.pages?' · pp. '+esc(c.pages):"")+'</span>'+
       '<h3>'+esc(c.title)+'</h3>'+
       '<div class="meter">'+
         (solid?'<i style="width:'+(solid/tot*100)+'%; background:var(--m3)"></i>':"")+
@@ -1015,6 +1060,10 @@ function renderChapters(){
   }).join("") : '<div class="empty" style="grid-column:1/-1">No chapters yet. Add one for the chapter you\'re working through now — everything else hangs off it.</div>';
 }
 
+$("bookSwitch").addEventListener("click",function(e){
+  var b=e.target.closest("[data-book]"); if(!b) return;
+  setBook(+b.dataset.book); openChapter=null; renderChapters();
+});
 $("chGrid").addEventListener("click",function(e){
   var b=e.target.closest("[data-ch]");
   if(b){ openChapter=b.dataset.ch; renderChapters(); }
@@ -1027,7 +1076,9 @@ $("cancelChapter").addEventListener("click",function(){ $("chapterForm").style.d
 $("saveChapter").addEventListener("click",function(){
   var t=$("cTitle").value.trim();
   if(!t){ $("cTitle").focus(); return; }
-  state.chapters.push({id:uid(), num:$("cNum").value.trim(), title:t, pages:$("cPages").value.trim(), created:today()});
+  var nc={id:uid(), num:$("cNum").value.trim(), title:t, pages:$("cPages").value.trim(), created:today()};
+  if(currentBook()>1) nc.book=currentBook();
+  state.chapters.push(nc);
   $("cNum").value=""; $("cTitle").value=""; $("cPages").value="";
   $("chapterForm").style.display="none";
   queueSave(); renderChapters(); refreshSelects();
@@ -1114,7 +1165,7 @@ function renderChapterDetail(){
   var head =
     '<button class="crumb" id="backCh">← All chapters</button>'+
     '<div class="viewhead"><div>'+
-      '<div class="kicker">'+(c.num?"Chapter "+esc(c.num):"Unit")+(c.pages?' · pp. '+esc(c.pages):"")+'</div>'+
+      '<div class="kicker">'+(bookOf(c)>1?"Livro "+bookOf(c)+" · ":"")+esc(chapterLabel(c))+(c.pages?' · pp. '+esc(c.pages):"")+'</div>'+
       '<h2>'+esc(c.title)+'</h2></div>'+
       '<button class="btn" id="editCh">Edit chapter</button>'+
     '</div>'+
@@ -1458,7 +1509,8 @@ function editChapter(c){
       setTimeout(function(){ if(btn && btn.dataset.armed==="1"){ btn.dataset.armed=""; btn.textContent="Delete chapter"; } }, 6000);
       return;
     }
-    state.vocab.forEach(function(w){ if(w.chapterId===c.id) w.chapterId=null; });
+    state.vocab.forEach(function(w){ if(w.chapterId===c.id) w.chapterId=null;
+      if(Array.isArray(w.also)){ w.also=w.also.filter(function(x){ return x!==c.id; }); if(!w.also.length) delete w.also; } });
     state.notes.forEach(function(n){ if(n.chapterId===c.id) n.chapterId=null; });
     state.sessions.forEach(function(s){ if(s.chapterId===c.id) s.chapterId=null; });
     state.chapters=state.chapters.filter(function(x){ return x.id!==c.id; });
@@ -1487,6 +1539,8 @@ function wordHtml(w){
     '<div><div class="pt">'+esc(w.pt)+'</div>'+(w.ex?'<div class="ex">'+esc(w.ex)+'</div>':"")+'</div>'+
     '<div><div class="en">'+esc(w.en)+'</div><div class="meta">'+tierPill(w)+
       (w.lapses>1?'<span class="tag">missed '+w.lapses+'×</span>':"")+
+      (openChapter && w.chapterId && w.chapterId!==openChapter && inChapter(w,openChapter)
+        ? '<span class="tag" title="Same card as in '+esc(chapterName(w.chapterId))+'">review · '+esc(chapterName(w.chapterId).split(" — ")[0])+'</span>':"")+
       (w.tags||[]).map(function(t){return '<span class="tag">'+esc(t)+'</span>';}).join("")+'</div></div>'+
     (pendingDel===w.id
       ? '<div class="acts confirm"><span class="q">Delete <b>'+esc(w.pt)+'</b>'+(w.audio?' and its recording':'')+'?</span>'+
@@ -1740,7 +1794,7 @@ function renderVocab(){
   var q=fold($("vSearch").value), ch=$("vChapter").value, f=$("vFilter").value;
   var rows=mine.filter(function(w){
     if(q && fold(w.pt+" "+w.en+" "+(w.ex||"")).indexOf(q)<0) return false;
-    if(ch && w.chapterId!==ch) return false;
+    if(ch && !inChapter(w,ch)) return false;
     if(f==="due" && !isDue(w)) return false;
     if(f==="new" && w.reviews) return false;
     if(f==="weak" && !(w.lapses>1)) return false;
@@ -2173,6 +2227,7 @@ function loadShippedContent(){
       if(n.vocab)    bits.push(n.vocab+" word"+(n.vocab===1?"":"s"));
       if(n.notes)    bits.push(n.notes+" section"+(n.notes===1?"":"s"));
       if(n.upgraded) bits.push(n.upgraded+" updated");
+      if(n.shared) bits.push(n.shared+" you already know, filed under the new lessons too");
       if(cleared)    bits.push(cleared+" now available");
       if(added||n.upgraded||cleared) banner((pack.note||"Added new material")+
         (bits.length ? " — "+bits.join(", ")+"." : "."));
@@ -2438,8 +2493,16 @@ function merge(inc){
   if(Array.isArray(inc.chapters)) inc.chapters.forEach(function(c){
     if(!c||!c.title) return;
     var key=fold((c.num||"")+"|"+c.title);
-    if(byName[key]){ idmap[c.id]=byName[key]; return; }
+    if(byName[key]){
+      idmap[c.id]=byName[key];
+      var have=chapter(byName[key]);
+      if(have && c.book && !have.book) have.book=+c.book;
+      if(have && c.label && !have.label) have.label=String(c.label);
+      return;
+    }
     var nc={id:uid(), num:String(c.num||""), title:String(c.title), pages:String(c.pages||""), created:c.created||today()};
+    if(+c.book>1) nc.book=+c.book;
+    if(c.label) nc.label=String(c.label);
     state.chapters.push(nc); byName[key]=nc.id; idmap[c.id]=nc.id; n.chapters++;
   });
   function resolve(cid, chName){
@@ -2495,6 +2558,12 @@ function merge(inc){
       if(at0>=0){
         // already have the word; take a shipped recording if it has none of its own
         var live=state.vocab[at0];
+        // a later lesson that repeats it: file it there too, as the same card
+        var rc=resolve(r.chapterId, r.chapter);
+        if(!isL && rc && rc!==live.chapterId){
+          if(!Array.isArray(live.also)) live.also=[];
+          if(live.also.indexOf(rc)<0){ live.also.push(rc); n.shared=(n.shared||0)+1; }
+        }
         if(r.audio && r.audio.path && !(live.audio && live.audio.key && live.audio.key!==r.audio.key)){
           if(!live.audio || live.audio.path!==r.audio.path){
             live.audio={key:String(r.audio.key||""), path:String(r.audio.path),
@@ -2508,6 +2577,10 @@ function merge(inc){
       var w=newWord(String(r.pt),String(r.en),r.ex?String(r.ex):"",
         Array.isArray(r.tags)?r.tags.map(String):[], resolve(r.chapterId, r.chapter));
       if(r.box!=null) w.box=+r.box||0;
+      if(Array.isArray(r.also)){
+        var al=r.also.map(function(x){ return idmap[x]||null; }).filter(Boolean);
+        if(al.length) w.also=al;
+      }
       /* A word you have never seen has no scheduled date: it is simply waiting.
          Only a file that carries a real date sets one, so importing a lesson
          never stamps three hundred words with today. isDue() already counts a
